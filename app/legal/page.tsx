@@ -2,7 +2,7 @@
 
 import { useEffect } from "react"
 import Link from "next/link"
-import { Github, Instagram, X } from "lucide-react"
+import { Github, Instagram, X, BookOpen } from "lucide-react"
 
 export default function Legal() {
   useEffect(() => {
@@ -23,7 +23,7 @@ export default function Legal() {
       >
         <div className="container flex h-16 items-center justify-between">
           <Link href="/" className="font-bold text-xl text-foreground">
-            Portfolio
+            H2works
           </Link>
         </div>
       </header>
@@ -48,7 +48,7 @@ export default function Legal() {
               <tbody>
                 <tr>
                   <td className="py-2 px-4 border-b">販売業社の名称</td>
-                  <td className="py-2 px-4 border-b">えまはるあき</td>
+                  <td className="py-2 px-4 border-b">H2works</td>
                 </tr>
                 <tr>
                   <td className="py-2 px-4 border-b">販売業者の氏名（名称）、住所、電話番号</td>
@@ -57,7 +57,8 @@ export default function Legal() {
                 <tr>
                   <td className="py-2 px-4 border-b">メールアドレス</td>
                   <td className="py-2 px-4 border-b">
-                  <img src="/email.png" alt="Email" className="inline-block min-w-[200px] max-w-full h-[35px]" />
+                    info@h2works.xyz
+                    {/*<img src="/email.png" alt="Email" className="inline-block min-w-[200px] max-w-full h-[35px]" />*/}
                   </td>
                 </tr>
                 <tr>
@@ -82,7 +83,7 @@ export default function Legal() {
                 </tr>
                 <tr>
                   <td className="py-2 px-4 border-b">販売価格</td>
-                  <td className="py-2 px-4 border-b">【初期費用】<br />20,000円<br />【ドメイン取得・更新費用】<br />5,000円/年<br />【保守費用】<br />1,000円/月<br />【オプション費用】<br />お客様とのご相談により決定します。</td>
+                  <td className="py-2 px-4 border-b">お客様とのご相談により決定します。</td>
                 </tr>
               </tbody>
             </table>
@@ -93,21 +94,25 @@ export default function Legal() {
         <div className="container flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-center md:text-left">
             <p className="text-sm text-muted-foreground">
-              &copy; {new Date().getFullYear()} えまはるあき. All rights reserved.
+              &copy; {new Date().getFullYear()} H2works. All rights reserved.
             </p>
           </div>
           <div className="flex gap-4">
-            <Link href="https://github.com/EmaHaruaki/" className="text-muted-foreground hover:text-foreground transition-colors">
+            <Link href="https://github.com/H2works/" className="text-muted-foreground hover:text-foreground transition-colors">
               <Github className="h-5 w-5" />
               <span className="sr-only">GitHub</span>
             </Link>
-            <Link href="https://www.instagram.com/emma__web_design/" className="text-muted-foreground hover:text-foreground transition-colors">
+            <Link href="https://www.instagram.com/h2works_xyz/" className="text-muted-foreground hover:text-foreground transition-colors">
               <Instagram className="h-5 w-5" />
               <span className="sr-only">Instagram</span>
             </Link>
-            <Link href="https://x.com/ky2rz4" className="text-muted-foreground hover:text-foreground transition-colors">
+            <Link href="https://x.com/h2works_xyz" className="text-muted-foreground hover:text-foreground transition-colors">
               <X className="h-5 w-5" />
               <span className="sr-only">X</span>
+            </Link>
+            <Link href="https://zenn.dev/ky2rz4" className="text-muted-foreground hover:text-foreground transition-colors">
+              <BookOpen className="h-5 w-5" />
+              <span className="sr-only">Zenn</span>
             </Link>
             <Link href="/legal" className="text-muted-foreground hover:text-foreground transition-colors">
               特定商取引法に基づく表記

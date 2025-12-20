@@ -2,7 +2,7 @@
 
 import { useEffect, useState, useRef } from "react"
 import Link from "next/link"
-import { ChevronLeft, ChevronRight, Github, Linkedin, Instagram, X, Mail } from "lucide-react"
+import { ChevronLeft, ChevronRight, Github, Linkedin, Instagram, X, BookOpen } from "lucide-react"
 
 import { ProjectCard } from "@/components/project-card"
 import { Button } from "@/components/ui/button"
@@ -18,54 +18,53 @@ export default function Home() {
   // サンプルプロジェクトデータ（美しいプレースホルダー画像を使用）
   const projects = [
     {
-      "title": "ヘアサロン Sakura Hair",
-      "description": "洗練されたデザインで、ヘアサロンの魅力を引き立てるホームページ。お店の雰囲気やサービスを効果的に伝えます。",
-      "imageUrl": "/sakura-hair.pages.dev_.png",
-      "link": "https://sakura-hair.pages.dev/"
+      title: "ヘアサロン Sakura Hair",
+      description: "ポートフォリオ用のサンプルサイト。ヘアサロンの雰囲気をイメージしてUIをデザインしました。",
+      imageUrl: "/sakura-hair.pages.dev_.png",
+      link: "https://sakura-hair.pages.dev/"
     },
     {
-      "title": "何でも屋サービス",
-      "description": "便利屋・ハンドマン向けのホームページ。サービス内容や料金を分かりやすく紹介。",
-      "imageUrl": "/handyman-service.pages.dev_.png",
-      "link": "https://handyman-service.pages.dev/"
+      title: "何でも屋サービス",
+      description: "架空の便利屋向けサンプルサイト。サービス内容や料金を想定して、わかりやすい画面構成をデザインしました。",
+      imageUrl: "/handyman-service.pages.dev_.png",
+      link: "https://handyman-service.pages.dev/"
     },
     {
-      "title": "タイ古式マッサージ アユタヤ",
-      "description": "リラクゼーションと癒しを提供するタイ古式マッサージ店のホームページ。",
-      "imageUrl": "/thai-massage.pages.dev_.png",
-      "link": "https://thai-massage.pages.dev/"
+      title: "タイ古式マッサージ アユタヤ",
+      description: "ポートフォリオ用に制作したリラクゼーション系サンプルサイト。落ち着いた雰囲気を意識したデザインです。",
+      imageUrl: "/thai-massage.pages.dev_.png",
+      link: "https://thai-massage.pages.dev/"
     },
     {
-      "title": "ヘアサロン ABC Hair",
-      "description": "モダンなデザインで店舗の魅力を伝えるヘアサロンの公式サイト。",
-      "imageUrl": "/abc-hair.pages.dev_.png",
-      "link": "https://abc-hair.pages.dev/"
+      title: "ヘアサロン ABC Hair",
+      description: "架空のヘアサロンサイトのサンプル。モダンで洗練されたデザインを意識して制作しました。",
+      imageUrl: "/abc-hair.pages.dev_.png",
+      link: "https://abc-hair.pages.dev/"
     },
     {
-      "title": "田中電気工事",
-      "description": "電気工事のプロフェッショナルによる、信頼と実績のホームページ。",
-      "imageUrl": "/tanaka-electric.pages.dev_.png",
-      "link": "https://tanaka-electric.pages.dev/"
+      title: "田中電気工事",
+      description: "架空の電気工事会社向けサンプルサイト。信頼感をイメージしてデザインしたUIです。",
+      imageUrl: "/tanaka-electric.pages.dev_.png",
+      link: "https://tanaka-electric.pages.dev/"
     },
     {
-      "title": "Boulangerie Soleil",
-      "description": "大きなヒーロー画像と美しいフォントで、パン屋さんの魅力を伝えるホームページ。",
-      "imageUrl": "/boulangerie-soleil.pages.dev_.png",
-      "link": "https://boulangerie-soleil.pages.dev/"
+      title: "Boulangerie Soleil",
+      description: "ポートフォリオ用のパン屋サンプルサイト。大きなヒーロー画像とフォントで店舗の雰囲気を表現しました。",
+      imageUrl: "/boulangerie-soleil.pages.dev_.png",
+      link: "https://boulangerie-soleil.pages.dev/"
     },
     {
-      "title": "VBeauty Zen",
-      "description": "落ち着いた雰囲気のプライベートエステサロン。",
-      "imageUrl": "/beauty-zen.pages.dev_.png",
-      "link": "https://beauty-zen.pages.dev/"
+      title: "VBeauty Zen",
+      description: "架空のプライベートエステ向けサンプルサイト。落ち着いた雰囲気を意識してデザインしています。",
+      imageUrl: "/beauty-zen.pages.dev_.png",
+      link: "https://beauty-zen.pages.dev/"
     },
     {
-      "title": "Harmony Yoga",
-      "description": "心と体のバランスを整えるヨガスタジオ。リラクゼーションや柔軟性向上をサポートします。",
-      "imageUrl": "/harmony-yoga.pages.dev_.png",
-      "link": "https://harmony-yoga.pages.dev/"
+      title: "Harmony Yoga",
+      description: "ポートフォリオ用に制作したヨガスタジオのサンプルサイト。心と体のバランスをイメージしたデザインです。",
+      imageUrl: "/harmony-yoga.pages.dev_.png",
+      link: "https://harmony-yoga.pages.dev/"
     }
-
   ]
 
   // 画面サイズに応じたプロジェクト数の設定
@@ -188,7 +187,7 @@ export default function Home() {
       >
         <div className="container flex h-16 items-center justify-between">
           <Link href="/" className={`font-bold text-xl ${isScrolled ? "text-foreground" : "text-white drop-shadow-lg"}`}>
-            Portfolio
+            H2works
           </Link>
         </div>
       </header>
@@ -205,12 +204,14 @@ export default function Home() {
           </div>
           <div className="relative h-full flex flex-col items-center justify-center text-center px-4 text-white">
             <h1 className="font-roboto text-4xl md:text-6xl font-bold tracking-tighter text-black drop-shadow-lg">
-              えまはる<span className="text-primary">あ</span>き
+              H<span className="text-primary">2</span>works
             </h1>
 
             <p className="text-xl mt-4 md:w-2/3 text-black">
-              AIを活用したWebサイト制作。最新技術の駆使しそのメリットだけを提供します。
+              AIを活用したWebサイト制作で、デザインと機能を最適化。<br />
+              ビジネスやサービスの魅力を直感的に伝えるWeb体験を提供します。
             </p>
+
           </div>
         </section>
 
@@ -219,7 +220,10 @@ export default function Home() {
           <div className="container space-y-8">
             <div className="text-center space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter">事例紹介</h2>
-              <p className="text-muted-foreground md:w-2/3 mx-auto">最近取り組んだプロジェクトの一部をご紹介します。</p>
+              <p className="text-muted-foreground md:w-2/3 mx-auto">
+                クライアントのビジネスやサービスの価値を最大化するために手がけた、
+                Webサイト制作事例をご覧ください。
+              </p>
             </div>
 
             <div className="relative" ref={carouselRef}>
@@ -295,21 +299,25 @@ export default function Home() {
         <div className="container flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-center md:text-left">
             <p className="text-sm text-muted-foreground">
-              &copy; {new Date().getFullYear()} えまはるあき. All rights reserved.
+              &copy; {new Date().getFullYear()} H2works. All rights reserved.
             </p>
           </div>
           <div className="flex gap-4">
-            <Link href="https://github.com/EmaHaruaki/" className="text-muted-foreground hover:text-foreground transition-colors">
+            <Link href="https://github.com/H2works/" className="text-muted-foreground hover:text-foreground transition-colors">
               <Github className="h-5 w-5" />
               <span className="sr-only">GitHub</span>
             </Link>
-            <Link href="https://www.instagram.com/emma__web_design/" className="text-muted-foreground hover:text-foreground transition-colors">
+            <Link href="https://www.instagram.com/h2works_xyz/" className="text-muted-foreground hover:text-foreground transition-colors">
               <Instagram className="h-5 w-5" />
               <span className="sr-only">Instagram</span>
             </Link>
-            <Link href="https://x.com/ky2rz4" className="text-muted-foreground hover:text-foreground transition-colors">
+            <Link href="https://x.com/h2works_xyz" className="text-muted-foreground hover:text-foreground transition-colors">
               <X className="h-5 w-5" />
               <span className="sr-only">X</span>
+            </Link>
+            <Link href="https://zenn.dev/ky2rz4" className="text-muted-foreground hover:text-foreground transition-colors">
+              <BookOpen className="h-5 w-5" />
+              <span className="sr-only">Zenn</span>
             </Link>
             <Link href="/legal" className="text-muted-foreground hover:text-foreground transition-colors">
               特定商取引法に基づく表記
