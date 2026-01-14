@@ -10,15 +10,15 @@ export const metadata: Metadata = {
   description: "AIを活用したWebサイト制作のポートフォリオ。サンプルサイトやUIデザインの事例を紹介しています。",
   generator: 'v0.dev',
   keywords: ['ポートフォリオ', 'Web制作', 'UIデザイン', 'H2works', 'AI'],
-  authors: [{ name: '尚志 長谷部', url: 'https://h2works.xyz' }],
+  authors: [{ name: '尚志 長谷部', url: 'https://www.h2works.xyz' }],
   openGraph: {
     title: "H2works | ポートフォリオ",
     description: "AIを活用したWebサイト制作のポートフォリオ。サンプルサイトやUIデザインの事例を紹介しています。",
-    url: "https://h2works.xyz",
+    url: "https://www.h2works.xyz",
     siteName: "H2works",
     images: [
       {
-        url: "https://h2works.xyz/og-image.png",
+        url: "https://www.h2works.xyz/og-image.png",
         width: 1200,
         height: 630,
         alt: "H2works ポートフォリオ",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "H2works | ポートフォリオ",
     description: "AIを活用したWebサイト制作のポートフォリオ。サンプルサイトやUIデザインの事例を紹介しています。",
-    images: ["https://h2works.xyz/og-image.png"],
+    images: ["https://www.h2works.xyz/og-image.png"],
     site: "@h2works_xyz",
     creator: "@h2works_xyz",
   }
