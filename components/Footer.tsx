@@ -26,6 +26,9 @@ export default function Footer({ darkMode }: FooterProps) {
             <Link href="/imprint" className={`nav-link ${darkMode ? 'link-light' : 'link-dark'}`}>利用規約</Link>
           </li>
           <li className="nav-item">
+            <Link href="/legal" className={`nav-link ${darkMode ? 'link-light' : 'link-dark'}`}>特定商取引法</Link>
+          </li>
+          <li className="nav-item">
             <Link href="/contact" className={`nav-link ${darkMode ? 'link-light' : 'link-dark'}`}>お問い合わせ</Link>
           </li>
         </ul>

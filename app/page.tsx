@@ -26,7 +26,6 @@ export default function Home() {
           />
         </div>
         <h1 className={`fw-lighter ${darkMode ? 'text-white' : 'text-black'}`}>
-          <strong>H2works Portfolio</strong>
           Next.js / TypeScript / microCMS を中心に、SEO とパフォーマンスにも強い Web 開発を行っています。
         </h1>
         <p className="lead py-4">
@@ -51,7 +50,7 @@ export default function Home() {
             data-aos="fade-left"
             data-aos-delay="300"
           >
-            H2works について
+            More about me
           </Link>
         </div>
       </div>
