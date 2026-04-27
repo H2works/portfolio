@@ -1,54 +1,55 @@
 # H2works Portfolio
 
-H2works のポートフォリオサイト（静的サイト）です。Eleventy(11ty) + Bootstrap + Gulp でビルドし、**Cloudflare Pages** でホスティングします。
+H2works のポートフォリオサイトです。**Next.js (App Router)** + **TypeScript** + **Bootstrap 5** で構築され、**Cloudflare Pages** でホスティングします。
 
 ## 技術スタック
 
-- Next.js / TypeScript（制作・開発で使用可能）
-- React
-- Tailwind CSS
-- microCMS（Headless CMS）
-- Cloudflare Pages
+- **Next.js** (App Router)
+- **TypeScript**
+- **Sass (SCSS)** + **Bootstrap 5**
+- **React**
+- **AOS** (Animate on Scroll)
+- **Cloudflare Pages**
 - SEO / パフォーマンス最適化
 
 ## Side Projects
 
-- `https://template-library.h2works.xyz/`
-- `https://domain-tools.h2works.xyz/`
-- `https://news-archive.h2works.xyz/`
+- [Template Library](https://template-library.h2works.xyz/)
+- [Domain Tools](https://domain-tools.h2works.xyz/)
+- [News Archive](https://news-archive.h2works.xyz/)
 
 ## 必要要件
 
-- Node.js 18+（推奨: 20）
+- Node.js 18.17.0 以上
 
 ## 開発
 
-ローカルで確認:
+ローカルで開発サーバーを起動:
 
 ```bash
 npm install
-npm run watch
+npm run dev
 ```
 
-簡易ビルド:
+## ビルド
 
-```bash
-npm run build-dev
-```
-
-## 本番ビルド（Cloudflare Pages）
-
-Cloudflare Pages の設定は以下にします。
-
-- **Build command**: `npm run build`
-- **Build output directory**: `public`
+本番用ビルドの生成:
 
 ```bash
 npm run build
 ```
 
-## ディレクトリ
+## デプロイ（Cloudflare Pages）
 
-- `src/`: ソース（Nunjucks テンプレート等）
-- `dev/`: 開発用ビルド出力
-- `public/`: 本番ビルド出力（Cloudflare Pages にデプロイ）
+Cloudflare Pages の設定:
+
+- **Framework preset**: `Next.js`
+- **Build command**: `npm run build`
+- **Build output directory**: `.next` (または自動設定)
+
+## ディレクトリ構造
+
+- `app/`: Next.js App Router (各ページ)
+- `components/`: React コンポーネント
+- `styles/`: SCSS スタイルシート
+- `public/`: 画像、フォントなどの静的アセット
