@@ -1,50 +1,44 @@
-import type React from "react"
-import type { Metadata } from "next"
-import { Inter } from "next/font/google"
-import "./globals.css"
-
-const inter = Inter({ subsets: ["latin"] })
+import type { Metadata, Viewport } from 'next';
+import '@/styles/globals.scss';
+import AOSInit from '@/components/AOSInit';
 
 export const metadata: Metadata = {
-  title: "H2works | ポートフォリオ",
-  description: "AIを活用したWebサイト制作のポートフォリオ。サンプルサイトやUIデザインの事例を紹介しています。",
-  generator: 'v0.dev',
-  keywords: ['ポートフォリオ', 'Web制作', 'UIデザイン', 'H2works', 'AI'],
-  authors: [{ name: '尚志 長谷部', url: 'https://www.h2works.xyz' }],
-  openGraph: {
-    title: "H2works | ポートフォリオ",
-    description: "AIを活用したWebサイト制作のポートフォリオ。サンプルサイトやUIデザインの事例を紹介しています。",
-    url: "https://www.h2works.xyz",
-    siteName: "H2works",
-    images: [
-      {
-        url: "https://www.h2works.xyz/og-image.png",
-        width: 1200,
-        height: 630,
-        alt: "H2works ポートフォリオ",
-      },
+  title: 'H2works | Portfolio',
+  description: 'H2works のポートフォリオサイト。Next.js / TypeScript / microCMS / Cloudflare Pages / Tailwind CSS / React / SEO・パフォーマンス最適化を中心に、Web制作・開発を行っています。',
+  authors: [{ name: 'H2works' }],
+  icons: {
+    icon: [
+      { url: '/img/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/img/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
     ],
-    locale: "ja_JP",
-    type: "website",
+    apple: [
+      { url: '/img/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
+    ],
   },
-  twitter: {
-    card: "summary_large_image",
-    title: "H2works | ポートフォリオ",
-    description: "AIを活用したWebサイト制作のポートフォリオ。サンプルサイトやUIデザインの事例を紹介しています。",
-    images: ["https://www.h2works.xyz/og-image.png"],
-    site: "@h2works_xyz",
-    creator: "@h2works_xyz",
-  }
-}
+  openGraph: {
+    title: 'H2works | Portfolio',
+    description: 'H2works のポートフォリオサイト。Next.js / TypeScript / microCMS / Cloudflare Pages / Tailwind CSS / React / SEO・パフォーマンス最適化を中心に、Web制作・開発を行っています。',
+    type: 'website',
+    locale: 'ja_JP',
+  },
+};
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+};
 
 export default function RootLayout({
   children,
-}: Readonly<{
-  children: React.ReactNode
-}>) {
+}: {
+  children: React.ReactNode;
+}) {
   return (
-    <html lang="ja">
-      <body className={inter.className}>{children}</body>
+    <html lang="ja" className="h-100">
+      <body className="position-relative h-100 w-100" data-bs-spy="scroll" data-bs-target="#navScroll">
+        <AOSInit />
+        {children}
+      </body>
     </html>
-  )
+  );
 }
