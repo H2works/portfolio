@@ -11,18 +11,11 @@ export default function Home() {
       <div className={`${darkMode ? 'bg-black' : 'bg-light'} rounded p-5 overflow-x-hidden`} data-aos="fade-left">
         <div className="on-hover d-inline">
           <Image
-            src="/img/webp/person_3_sm.webp"
+            src="/img/profile9.png"
             width={80}
             height={80}
             className="rounded-circle mb-4 shadow-sm mt-2 mt-xxl-4 hoh img-fluid"
             alt="A image of Jane Doe"
-          />
-          <Image
-            src="/img/webp/person_4_md.webp"
-            width={80}
-            height={80}
-            className="rounded-circle mb-4 shadow-sm mt-2 mt-xxl-4 soh"
-            alt="Another image of Jane Doe"
           />
         </div>
         <h1 className={`fw-lighter ${darkMode ? 'text-white' : 'text-black'}`}>
@@ -66,7 +59,7 @@ export default function Home() {
                 Template Library
               </a>
             </h3>
-            <p>テンプレートを整理・閲覧できるライブラリ。制作のスピードと再現性を上げるための実験場です。</p>
+            <p>モダンフレームワークを使用したテンプレートを中心に、無料で利用できるテンプレートを収集・紹介しています。制作のスピードと再現性を上げるためのライブラリとして活用できます。</p>
           </div>
         </div>
         <div className="d-flex align-items-center my-2 p-4" data-aos="fade-left" data-aos-delay="200">
@@ -92,7 +85,7 @@ export default function Home() {
                 News Archive
               </a>
             </h3>
-            <p>ニュースや話題をアーカイブして後から参照しやすくするための個人プロジェクトです。</p>
+            <p>AIとAPIを活用し、ニュースの収集とまとめを自動で実行・アーカイブする個人プロジェクトです。完全自動で毎日更新されています。</p>
           </div>
         </div>
       </div>

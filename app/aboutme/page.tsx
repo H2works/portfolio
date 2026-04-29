@@ -7,7 +7,7 @@ export default function AboutMe() {
       <div className="row d-flex justify-content-center align-items-end pt-0 py-vh-3">
         <div className="col-6" data-aos="fade-left" data-aos-delay="0">
           <Image
-            src="/img/webp/person_4_md.webp"
+            src="/img/profile4.png"
             width={400}
             height={400}
             className="rounded shadow-sm img-fluid"
@@ -17,7 +17,7 @@ export default function AboutMe() {
 
         <div className="col-4" data-aos="fade-left" data-aos-delay="100">
           <Image
-            src="/img/webp/person_3_md.webp"
+            src="/img/profile5.png"
             width={300}
             height={300}
             className="rounded shadow-sm img-fluid"
@@ -37,9 +37,9 @@ export default function AboutMe() {
       </div>
       <div className="row d-flex justify-content-center">
         <div className="col-12 col-xl-10 col-xxl-8 mt-3" data-aos="fade-left" data-aos-delay="400">
-          <h1>H2works について</h1>
+          <h1>私について</h1>
           <p className="lead">
-            Next.js / TypeScript を中心に、ヘッドレスCMS（microCMS）や Cloudflare Pages を使ったサイト・Webアプリの設計/実装/運用を行っています。SEO とパフォーマンス最適化も含めて、目的から逆算した改善が得意です。
+            Next.js / TypeScript を中心に、ヘッドレスCMSや Cloudflare Pages を使ったサイト・Webアプリの設計/実装/運用を行っています。SEO とパフォーマンス最適化も含めて、目的から逆算した改善が得意です。
           </p>
 
           <h2>できること（技術スタック）</h2>
@@ -47,7 +47,7 @@ export default function AboutMe() {
             <li>Next.js / TypeScript</li>
             <li>React</li>
             <li>Tailwind CSS</li>
-            <li>microCMS（Headless CMS）</li>
+            <li>microCMS・Kuroco（Headless CMS）</li>
             <li>Cloudflare Pages</li>
             <li>SEO / Performance Optimization</li>
           </ul>
