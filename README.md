@@ -28,7 +28,10 @@ H2works のポートフォリオサイトです。**Next.js (App Router)** + **T
 
 ```bash
 npm install
-npm run dev
+```
+
+```bash
+wrangler pages dev --proxy 3000 -- npm run dev
 ```
 
 ## ビルド
