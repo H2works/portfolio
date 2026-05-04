@@ -26,14 +26,12 @@ export default function Footer({ darkMode }: FooterProps) {
             <Link href="/imprint" className={`nav-link ${darkMode ? 'link-light' : 'link-dark'}`}>利用規約</Link>
           </li>
           <li className="nav-item">
-            <Link href="/legal" className={`nav-link ${darkMode ? 'link-light' : 'link-dark'}`}>特定商取引法</Link>
-          </li>
-          <li className="nav-item">
             <Link href="/contact" className={`nav-link ${darkMode ? 'link-light' : 'link-dark'}`}>お問い合わせ</Link>
           </li>
         </ul>
       </div>
       <div className="col-12 col-md text-center text-md-end py-2">
+        <Link href="/legal" className={`me-3 ${darkMode ? 'link-light' : 'link-dark'} text-decoration-none`}>特定商取引法</Link>
         © H2works
       </div>
     </div>
