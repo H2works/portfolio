@@ -1,0 +1,160 @@
+{
+  "id": "sayfol-international-school",
+  "slug": "sayfol-international-school",
+  "name": "Sayfol International School",
+  "officialName": "Sayfol International School (Kuala Lumpur)",
+  "shortDescription": "KL中心部アンパンの大使館街に位置する1985年創立の老舗英国式校。60カ国以上の多国籍生徒が集い、都心屈指のリーズナブルな学費体系が魅力。",
+  "overview": "Sayfol International Schoolは、1985年にクアラルンプール中心部（Jalan Ampang / 大使館街）に設立された、マレーシアで最も歴史ある英国式インターナショナルスクールのひとつです。世界60カ国以上から集まる多様な生徒たちが学んでおり、国際感覚豊かな環境が整っています。英国ナショナルカリキュラムを基盤に、Cambridge IGCSEおよびA-Levelsを提供。クアラルンプール都心部の便利な立地にありながら、年間学費が約RM 17,000〜RM 39,000という極めて高いコストパフォーマンスを誇り、幅広い層の家庭に長年選ばれ続けています。",
+  "establishedYear": 1985,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Jalan Ampang",
+    "address": "2611, Jalan Ampang, 50450 Kuala Lumpur",
+    "googleMapsUrl": "https://maps.google.com/?q=Sayfol+International+School"
+  },
+  "ageRange": {
+    "minAge": 2.5,
+    "maxAge": 18,
+    "display": "2.5–18"
+  },
+  "curricula": ["British", "Cambridge"],
+  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": ["Mandarin", "French", "Malay"],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、英語集中サポート（Intensive English Course）により英語初心者から着実に実力を養えます。",
+    "ellSupport": true,
+    "ellSupportDetail": "非英語ネイティブの生徒向けに段階的な集中英語コース（EAL）を実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Ampang、KLCC、Cheras、Mont Kiara、Petaling Jaya各方面への通学バス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて温かいアジアン・インターナショナルランチを提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "サッカー、バスケ、バドミントン、チェス、美術、音楽などの課外活動。"
+  },
+  "admissions": {
+    "intakeMonths": ["September", "January", "April"],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、学力診断テスト（英語・算数）、面談審査。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "スイミングプール",
+    "多目的スポーツホール（バスケットボール・バドミントン）",
+    "屋外スポーツグラウンド",
+    "サイエンスラボ & コンピュータールーム",
+    "音楽室 & アートスタジオ",
+    "図書室"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 17400,
+    "tuitionMaxAnnual": 38900,
+    "tuitionDisplay": "RM 17,400 – RM 38,900 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2500,
+    "deposit": 3000,
+    "busFeeEstimate": "約 RM 2,400 – RM 4,800 / 年",
+    "lunchFeeEstimate": "約 RM 1,800 – RM 2,800 / 年",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Kindergarten (KG1 - KG3)",
+        "amount": 17400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten",
+        "notes": "年間授業料（3学期分割納入）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary (Year 1 - Year 6)",
+        "amount": 26800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & A-Levels (Year 7 - Year 13 / IGCSE & A-Levels)",
+        "amount": 38900,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年間授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 16500,
+      "tuitionMaxAnnual": 37000,
+      "tuitionDisplay": "RM 16,500 – RM 37,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://sayfol.edu.my",
+  "contact": {
+    "email": "inquiry@sayfol.edu.my",
+    "phone": "+60 3-4256 8791"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://sayfol.edu.my",
+      "title": "Sayfol International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://sayfol.edu.my/admissions/fees",
+      "title": "Sayfol Schedule of Fees 2025/2026",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}

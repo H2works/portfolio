@@ -16,7 +16,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "school:extract": "node scripts/extract-school.js"
   },
   "dependencies": {
     "@types/aos": "^3.0.7",

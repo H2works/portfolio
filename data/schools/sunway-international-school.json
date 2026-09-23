@@ -1,0 +1,161 @@
+{
+  "id": "sunway-international-school",
+  "slug": "sunway-international-school",
+  "name": "Sunway International School",
+  "officialName": "Sunway International School (SIS)",
+  "shortDescription": "Bandar Sunwayにあるマレーシア唯一のカナダ（オンタリオ州）式およびIB認定校。8割以上の教員がオンタリオ州公認教員資格を保有。",
+  "overview": "Sunway International School (SIS) は、サンウェイシティ（Bandar Sunway）に位置し、マレーシアで唯一、世界的に高く評価されるカナダ・オンタリオ州教育省公認のカリキュラムを提供するインターナショナルスクールです。80%以上の教員がカナダ・オンタリオ州の教員資格（OCT）を保持しており、生徒の主体的思考力やプロジェクト学習を重視します。中高部ではIB MYP、IB DP、IB Career-related Programmeも提供。留学生向けの安心・近代的な学生寮（Boarding House）も完備しており、隣接するサンウェイ大学やサンウェイメディカルセンターをはじめとする充実した学園都市インフラの恩恵を受けられます。",
+  "establishedYear": 2008,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Subang Jaya",
+    "area": "Bandar Sunway",
+    "address": "Jalan Subang 1, Sunway South Quay, Bandar Sunway, 47500 Subang Jaya, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Sunway+International+School+Sunway+City"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 18,
+    "display": "4–18"
+  },
+  "curricula": ["Canadian", "IB"],
+  "gradeLevels": ["Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": ["Mandarin", "French", "Malay"],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "日本語対応スタッフや日本人学生サポートの経験が豊富で、入学相談や保護者面談でのサポートが充実しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "カナダ式ESL（English as a Second Language）プログラムが体系化されており、英語初心者のスムーズな通常クラス移行をサポート。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Subang Jaya、Petaling Jaya、Kuala Lumpur、Puchong、Shah Alam各方面へ運行。",
+    "lunchProvided": true,
+    "lunchDetail": "モダンなカフェテリアでインターナショナル、アジアン、ベジタリアンの温かい食事を提供。",
+    "boardingAvailable": true,
+    "boardingDetail": "Grade 7以上の生徒を対象とした24時間セキュリティ完備の男女別学生寮（SIS House）を運営。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "多彩なスポーツ、文化活動、リーダーシップ養成、コミュニティ奉仕プログラム。"
+  },
+  "admissions": {
+    "intakeMonths": ["January", "July"],
+    "academicYearSchedule": "2セメスター制（Semester 1: 1月〜6月 / Semester 2: 7月〜11月）",
+    "applicationProcess": "願書オンライン提出、英語・数学診断テスト、インタビューおよび成績証明書の審査。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "FIFA規格サッカーグラウンド",
+    "半オリンピックサイズ競泳プール",
+    "広大な室内体育館（バスケ・バドミントン）",
+    "最新デザイン・サイエンスラボ & STEAMセンター",
+    "2階建て大型ライブラリー & メディアハブ",
+    "最先端パフォーミングアーツ劇場",
+    "学生寮（Boarding Residence）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 38000,
+    "tuitionMaxAnnual": 79000,
+    "tuitionDisplay": "RM 38,000 – RM 79,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 5000,
+    "deposit": 8000,
+    "busFeeEstimate": "約 RM 3,500 – RM 6,500 / 年",
+    "lunchFeeEstimate": "約 RM 2,400 – RM 3,600 / 年",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Enrolment / Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 8000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知により返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Kindergarten (Early Years)",
+        "amount": 38000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten",
+        "notes": "年額（2セメスター分割）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Grade 1 - 5)",
+        "amount": 52000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - 5)",
+        "notes": "年額"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "High School (Grade 9 - 12 / OSSD / IB DP)",
+        "amount": 79000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年額"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 36000,
+      "tuitionMaxAnnual": 75000,
+      "tuitionDisplay": "RM 36,000 – RM 75,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://sis.sunway.edu.my",
+  "contact": {
+    "email": "infosis@sunway.edu.my",
+    "phone": "+60 3-5639 8800"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://sis.sunway.edu.my",
+      "title": "Sunway International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://sis.sunway.edu.my/admissions/fees",
+      "title": "SIS Official Schedule of Fees 2025/2026",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}

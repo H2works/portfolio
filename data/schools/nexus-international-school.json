@@ -1,0 +1,161 @@
+{
+  "id": "nexus-international-school",
+  "slug": "nexus-international-school",
+  "name": "Nexus International School Malaysia",
+  "officialName": "Nexus International School Malaysia (Putrajaya)",
+  "shortDescription": "Putrajayaの緑豊かな環境に佇むApple Distinguished School認定校。英国式（IPC・IGCSE）からIB Diplomaへ繋ぐ先進的なデジタル教育と充実したボーディング施設。",
+  "overview": "Nexus International School Malaysiaは、マレーシアの行政都市Putrajayaに広大な敷地を構える全人教育校です。Taylor's Education Group傘下のトップ校であり、幼児教育から初等部ではIPC（International Primary Curriculum）と英国カリキュラム、中等部でCambridge IGCSE、高等部（Sixth Form）で国際バカロレア（IB Diploma）を提供します。Apple Distinguished Schoolに選定されており、1人1台のデバイスを活用した先進的なICT・探究型教育に定評があります。10歳以上の生徒を受け入れる近代的なボーディングスクール（学生寮）を備えており、世界30カ国以上から留学生が集まります。",
+  "establishedYear": 2008,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Putrajaya",
+    "area": "Putrajaya",
+    "address": "1, Jalan Diplomatik 3/4, Presint 15, 62050 Putrajaya",
+    "googleMapsUrl": "https://maps.google.com/?q=Nexus+International+School+Malaysia"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": ["British", "Cambridge", "IB", "IPC"],
+  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": ["Mandarin", "French", "Spanish", "Malay"],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "日本語対応スタッフによる出願相談窓口があり、ボーディング寮でも手厚いケアを実施。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任のEAL（English as an Additional Language）指導体制。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "クアラルンプール市内、Bangsar、Mont Kiara、Cyberjaya、Puchongなど多方面から安全運行。",
+    "lunchProvided": true,
+    "lunchDetail": "インターナショナル、ウエスタン、アジアン、ベジタリアンの豊富なハラールランチを提供。",
+    "boardingAvailable": true,
+    "boardingDetail": "Year 6（10歳）以上を対象としたプレミアムボーディングハウス（専任寮父母常駐、学習支援完備）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "学術、芸術、スポーツ、ITなど80種類以上の課外アクティビティ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": ["August", "January", "April"],
+    "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン願書、CAT4診断テスト、英語力テスト、および面談。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "50mオリンピックサイズ競泳プール",
+    "FIFA基準の人工芝サッカーフィールド",
+    "650席規模のプロ仕様オーディトリアム",
+    "2つのフルサイズ室内体育館",
+    "STEAMラボ & テックスタジオ",
+    "ボーディングレジデンス（学生寮）",
+    "充実した蔵書のデジタルメディアライブラリ"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 45000,
+    "tuitionMaxAnnual": 96500,
+    "tuitionDisplay": "RM 45,000 – RM 96,500 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 5000,
+    "deposit": 10000,
+    "busFeeEstimate": "約 RM 4,500 – RM 8,500 / 年",
+    "lunchFeeEstimate": "約 RM 2,800 – RM 4,200 / 年",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願手数料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "返金可能保証金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Childhood (Nursery / Reception)",
+        "amount": 45000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery / Reception",
+        "notes": "年額"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary (Year 1 - Year 6)",
+        "amount": 71000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年額"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & Sixth Form (Year 7 - 13 / IGCSE / IB DP)",
+        "amount": 96500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年額"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 43000,
+      "tuitionMaxAnnual": 92000,
+      "tuitionDisplay": "RM 43,000 – RM 92,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.nexus.edu.my",
+  "contact": {
+    "email": "enquiry@nexus.edu.my",
+    "phone": "+60 3-8889 3868"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.nexus.edu.my",
+      "title": "Nexus International School Malaysia Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.nexus.edu.my/admissions/fees",
+      "title": "Nexus Fee Schedule 2025/2026",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}

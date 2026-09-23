@@ -1,0 +1,160 @@
+{
+  "id": "the-alice-smith-school",
+  "slug": "the-alice-smith-school",
+  "name": "The Alice Smith School",
+  "officialName": "The Alice Smith School (Kuala Lumpur)",
+  "shortDescription": "1946年創立のマレーシア最古の英国式非営利校。緑豊かなプライマリー校舎（KL市内）と広大なセカンダリー校舎（Seri Kembangan）を誇る伝統校。",
+  "overview": "The Alice Smith Schoolは、1946年に創設されたマレーシア最初の英国式インターナショナルスクールです。非営利教育財団（The Alice Smith School Association）により運営されており、得られた利益はすべて生徒の教育環境や教員の向上に再投資されます。Early YearsからYear 6までのPrimary Campusはクアラルンプール中心部（Jalan Bellamy）にあり、緑豊かで温かみのあるキャンパスです。Year 7からYear 13までのSecondary CampusはSeri Kembanganにあり、大学並みの最新スポーツ・教育設備を備えています。英国ナショナルカリキュラム、IGCSE、A-Levelsを提供し、長い歴史に裏打ちされた品格ある教育を行っています。",
+  "establishedYear": 1946,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur / Seri Kembangan",
+    "area": "Jalan Bellamy & Equine Park",
+    "address": "Primary: 2 Jalan Bellamy, 50460 KL / Secondary: 3 Jalan Equine, Taman Equine, 43300 Seri Kembangan, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=The+Alice+Smith+School+Primary+Campus"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": ["British", "Cambridge"],
+  "gradeLevels": ["Nursery", "Kindergarten", "Reception", "Primary", "Secondary", "Sixth Form"],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": ["Mandarin", "French", "Spanish", "Malay"],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "入学説明会での通訳相談や、在校日本人ファミリーによるコミュニティサポートが活発です。",
+    "ellSupport": true,
+    "ellSupportDetail": "専門的なEALサポートを提供。入学時の基準英語力レベルが学年ごとに定められています。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Primary/Secondary両キャンパス間でKL市内・モントキアラ・バンサー・セランゴール広域を結ぶ安心のスクールバスネットワーク。",
+    "lunchProvided": true,
+    "lunchDetail": "ヘルシーで高品質な温かいランチがカフェテリアにて提供されます。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "多彩なクラブ活動、音楽アンサンブル、スポーツチーム活動などを放課後に実施。"
+  },
+  "admissions": {
+    "intakeMonths": ["September", "January", "April"],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン登録、学校訪問・アセスメント、書類審査、合格通知および承諾手続き。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "50mオリンピックサイズ競泳プール（Secondary） & プライマリー専用プール",
+    "FIFA認定人工芝サッカー場 & IAAF認定陸上トラック",
+    "本格的なパフォーミングアーツ劇場 & 演劇スタジオ",
+    "専門的なSTEAMラボ & デザインテクノロジー工房",
+    "屋内クライミングウォール & 多目的スポーツアリーナ",
+    "充実した蔵書を誇る各キャンパス専用ライブラリ"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 48500,
+    "tuitionMaxAnnual": 104700,
+    "tuitionDisplay": "RM 48,500 – RM 104,700 / 年",
+    "applicationFee": 1200,
+    "registrationFee": 5000,
+    "deposit": 10000,
+    "busFeeEstimate": "約 RM 4,800 – RM 8,500 / 年",
+    "lunchFeeEstimate": "約 RM 2,600 – RM 3,800 / 年",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Parent Association / Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学決定時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "学則に従った所定通知による返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery / Reception)",
+        "amount": 48500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery / Reception",
+        "notes": "年額（3学期分割）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary (Year 1 - Year 6)",
+        "amount": 78900,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年額"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & Sixth Form (Year 7 - Year 13)",
+        "amount": 104700,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年額（A-Level試験料等除く）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 46500,
+      "tuitionMaxAnnual": 99800,
+      "tuitionDisplay": "RM 46,500 – RM 99,800 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.alice-smith.edu.my",
+  "contact": {
+    "email": "admissions@alice-smith.edu.my",
+    "phone": "+60 3-2148 3674"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.alice-smith.edu.my",
+      "title": "The Alice Smith School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.alice-smith.edu.my/admissions/fees",
+      "title": "Official Schedule of School Fees 2025/2026",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}

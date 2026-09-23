@@ -79,7 +79,7 @@ export default function BlogIndex() {
 
                   <h2 className="h4 fw-bold mb-2">
                     <Link
-                      href={`/blog/${post.slug}`}
+                      href={`/web/blog/${post.slug}`}
                       className="link-dark text-decoration-none link-opacity-75-hover"
                     >
                       {post.title}
@@ -102,7 +102,7 @@ export default function BlogIndex() {
                         ))}
                     </div>
                     <Link
-                      href={`/blog/${post.slug}`}
+                      href={`/web/blog/${post.slug}`}
                       className="btn btn-sm btn-outline-dark rounded-pill px-3 py-1"
                     >
                       続きを読む

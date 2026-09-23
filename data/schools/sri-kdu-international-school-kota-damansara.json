@@ -1,0 +1,161 @@
+{
+  "id": "sri-kdu-international-school-kota-damansara",
+  "slug": "sri-kdu-international-school-kota-damansara",
+  "name": "Sri KDU International School Kota Damansara",
+  "officialName": "Sri KDU International School Kota Damansara",
+  "shortDescription": "Petaling Jayaの中心に位置する名門校。英国ナショナルカリキュラム、Cambridge IGCSE、IB Diplomaを提供し、驚異的な学術実績と充実した設備を誇る。",
+  "overview": "Sri KDU International School Kota Damansaraは、セランゴール州ペタリンジャヤ（Kota Damansara）の閑静な住宅街に位置する、マレーシア有数の高い学術レベルを誇るインターナショナルスクールです。英国ナショナルカリキュラムに準拠し、初等部からYear 11（Cambridge IGCSE）、そして高等部での国際バカロレア（IB Diploma Programme）およびA-Levelsまでを提供。国内外の難関大学への進学実績が豊富で、学業成績の高さに定評があります。スポーツや音楽、ITなど多面的な才能を伸ばすための設備も充実しています。",
+  "establishedYear": 2003,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "Kota Damansara",
+    "address": "No. 5, Jalan Teknologi 2/1, Kota Damansara, 47810 Petaling Jaya, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Sri+KDU+International+School+Kota+Damansara"
+  },
+  "ageRange": {
+    "minAge": 5,
+    "maxAge": 18,
+    "display": "5–18"
+  },
+  "curricula": ["British", "Cambridge", "IB"],
+  "gradeLevels": ["Primary", "Secondary", "Sixth Form"],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": ["Mandarin", "Malay", "French"],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、英語集中コース（IEP）により基礎英語力を手厚く底上げします。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学時の英語力に応じた段階的集中英語サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Petaling Jaya、Damansara、Mont Kiara、Subang Jaya、Shah Alamを結ぶバス網。",
+    "lunchProvided": true,
+    "lunchDetail": "安全基準に配慮した温かい給食セットメニューが利用可能。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "バドミントン、水泳、ロボティクス、ディベートなど多彩な放課後CCA。"
+  },
+  "admissions": {
+    "intakeMonths": ["September", "January"],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、CAT4テストおよび英語・算数の学力アセスメント、校長・教頭面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "屋内オリンピックサイズ競泳プール",
+    "多目的全天候型スポーツホール（バスケットボールコート4面分）",
+    "人工芝サッカーグラウンド",
+    "600名収容パフォーミングアーツホール",
+    "最新サイエンスラボ & コンピュータラボ",
+    "デザイン＆テクノロジースタジオ",
+    "総合メディアライブラリー"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 32000,
+    "tuitionMaxAnnual": 68000,
+    "tuitionDisplay": "RM 32,000 – RM 68,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 4000,
+    "deposit": 8000,
+    "busFeeEstimate": "約 RM 3,000 – RM 5,800 / 年",
+    "lunchFeeEstimate": "約 RM 2,200 – RM 3,400 / 年",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "願書出願時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 8000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Year 1 - Year 6)",
+        "amount": 32000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年額（3学期分割納入）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Year 7 - Year 11 / Cambridge IGCSE)",
+        "amount": 54000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年額"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form (Year 12 - 13 / IB Diploma or A-Levels)",
+        "amount": 68000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form",
+        "notes": "年額"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 30500,
+      "tuitionMaxAnnual": 64800,
+      "tuitionDisplay": "RM 30,500 – RM 64,800 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://srikdu.edu.my/schools/kd-international",
+  "contact": {
+    "email": "info@srikdu.edu.my",
+    "phone": "+60 3-6145 3888"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://srikdu.edu.my/schools/kd-international",
+      "title": "Sri KDU International School KD Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://srikdu.edu.my/admissions/fees",
+      "title": "Sri KDU KD Schedule of Fees 2025/2026",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}

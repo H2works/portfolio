@@ -1,0 +1,161 @@
+{
+  "id": "garden-international-school",
+  "slug": "garden-international-school",
+  "name": "Garden International School",
+  "officialName": "Garden International School (GIS)",
+  "shortDescription": "Mont Kiaraの中心に位置する名門ブリティッシュスクール。優秀な学業成績とA-Level進学実績、日本人家庭の多い住環境が人気。",
+  "overview": "1951年創立のGarden International School (GIS) は、マレーシアで最も権威のある英国式インターナショナルスクールのひとつです。日本人駐在員が多く暮らすクアラルンプールのMont Kiara地区にメインキャンパスを構え、Early Years（幼児期）からSixth Form（A-Levels）までの一貫教育を提供しています。伝統的に学業レベルが非常に高く、世界各国の名門大学への合格者を多数輩出しています。きめ細やかな生徒ケアと充実した課外活動（CCAs）、そして日本人コミュニティのサポート体制が整っています。",
+  "establishedYear": 1951,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Mont Kiara",
+    "address": "16, Jalan Kiara 3, Mont Kiara, 50480 Kuala Lumpur",
+    "googleMapsUrl": "https://maps.google.com/?q=Garden+International+School+Mont+Kiara"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": ["British", "Cambridge"],
+  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": ["Mandarin", "Malay", "French", "Spanish"],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "日本語対応可能なアドミッションスタッフ・リエゾンが常駐しており、見学や各種手続き時の日本語相談が可能です。Japanese Parents Groupもあります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を母国語としない生徒向けに専任のEAL教員による強力な言語サポートプログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Mont Kiara、Sri Hartamas、Bangsar、KLCC、Damansara等の主要エリアをカバーする充実したスクールバス網。",
+    "lunchProvided": true,
+    "lunchDetail": "インターナショナルおよびアジアンメニューを取り揃えた衛生管理徹底の給食・カフェテリアシステム。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "放課後に100種類以上のアカデミック・スポーツ・文化系CCA（課外活動）プログラムを実施。"
+  },
+  "admissions": {
+    "intakeMonths": ["August", "January", "April"],
+    "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン願書提出、アセスメントテスト（CAT4等）、英語評価、および面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "25mスイミングプール",
+    "人工芝サッカーグラウンド",
+    "多目的インドアスポーツホール",
+    "最新デザイン・サイエンスラボ",
+    "ドラマスタジオ & ブラックボックステアター",
+    "音楽レコーディングスタジオ & 練習室",
+    "プライマリー & セカンダリー専用図書室"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 52600,
+    "tuitionMaxAnnual": 112500,
+    "tuitionDisplay": "RM 52,600 – RM 112,500 / 年",
+    "applicationFee": 1300,
+    "registrationFee": 10000,
+    "deposit": 15000,
+    "busFeeEstimate": "約 RM 4,500 – RM 8,000 / 年",
+    "lunchFeeEstimate": "約 RM 2,800 – RM 4,200 / 年",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1300,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時に支払い"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Deposit",
+        "amount": 15000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "学期末退学規定に基づく返金可能デポジット"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery / Reception)",
+        "amount": 52600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery / Reception",
+        "notes": "年間授業料（3学期分割納入可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary (Year 1 - Year 6)",
+        "amount": 84300,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & Sixth Form (Year 7 - Year 13 / A-Levels)",
+        "amount": 112500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年間授業料（外部試験料別途）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 50400,
+      "tuitionMaxAnnual": 108000,
+      "tuitionDisplay": "RM 50,400 – RM 108,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.gardenschool.edu.my",
+  "contact": {
+    "email": "admissions@gardenschool.edu.my",
+    "phone": "+60 3-6209 6888"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.gardenschool.edu.my",
+      "title": "Garden International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.gardenschool.edu.my/admissions/fees/",
+      "title": "GIS Official Schedule of Fees 2025/2026",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}

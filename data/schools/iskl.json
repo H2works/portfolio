@@ -1,0 +1,161 @@
+{
+  "id": "iskl",
+  "slug": "iskl",
+  "name": "The International School of Kuala Lumpur",
+  "officialName": "The International School of Kuala Lumpur (ISKL)",
+  "shortDescription": "Ampang Hilirに位置するマレーシア最古のフルIB・アメリカンカリキュラム校。広大な最先端エコキャンパスと充実したサポート体制が特徴。",
+  "overview": "1965年に創立されたThe International School of Kuala Lumpur (ISKL) は、マレーシアで最も歴史と実績のある非営利のインターナショナルスクールです。Ampang Hilirにある26エーカーの広大な専用キャンパスは、持続可能性と最先端の教育環境を追求して設計されています。幼児教育から高校（Grade 12）まで、米国式カリキュラムおよび国際バカロレア（IB Diploma / Career-related Programme）を提供し、世界中のトップ大学への進学実績を誇ります。多国籍なコミュニティと、手厚い英語学習サポート（EAL）および多様な課外活動が魅力です。",
+  "establishedYear": 1965,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Ampang Hilir",
+    "address": "2, Lorong Kelab Polo Di Raja, Ampang Hilir, 55000 Kuala Lumpur",
+    "googleMapsUrl": "https://maps.google.com/?q=The+International+School+of+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": ["American", "IB"],
+  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": ["Mandarin", "Spanish", "French", "Malay"],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "日本人ペアレントコミュニティ（JPA）が活発に活動しており、学校イベントや新入生オリエンテーションでの日本語サポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "専門教員による集中的な英語学習サポート（EAL: English as an Additional Language）プログラムが整備されています。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "クアラルンプール市内、Ampang、Mont Kiara、Bangsar、Damansaraなど広域にスクールバス運行あり（GPSトラッキング対応）。",
+    "lunchProvided": true,
+    "lunchDetail": "キャンパス内の複数のカフェテリアにて栄養士監修のハラール対応ビュッフェ・温かいランチを提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "多彩なアフタースクールアクティビティ（スポーツ、アート、ロボティクス、音楽など）を実施。"
+  },
+  "admissions": {
+    "intakeMonths": ["August", "January"],
+    "academicYearSchedule": "2学期制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
+    "applicationProcess": "オンライン出願、過去の成績証明書提出、推薦状、および学力・英語アセスメント（学年による）。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "50mオリンピックサイズ競泳プール & 25m練習用プール",
+    "全天候型陸上トラック & サッカーグラウンド",
+    "700名収容パフォーミングアーツ劇場",
+    "サイエンス・テクノロジーラボ & メイカースペース",
+    "ダブルサイズ室内体育館 & クライミングウォール",
+    "専門図書室（Early Childhood, Elementary, Middle/High School別）",
+    "テニスコート & 屋外プレイグラウンド"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 64200,
+    "tuitionMaxAnnual": 128600,
+    "tuitionDisplay": "RM 64,200 – RM 128,600 / 年",
+    "applicationFee": 1500,
+    "registrationFee": 9000,
+    "deposit": 10000,
+    "busFeeEstimate": "約 RM 5,000 – RM 9,000 / 年（ルート・距離による）",
+    "lunchFeeEstimate": "約 RM 3,000 – RM 4,500 / 年",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (Early Childhood 3 to Grade 12)",
+        "amount": 9000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Family Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学規定に従って所定の通知を行った場合に返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Prep Reception (Age 3-4)",
+        "amount": 64200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery / Prep Reception",
+        "notes": "全日制の年間基本授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Elementary School (Grade 1 - Grade 5)",
+        "amount": 102800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - 5)",
+        "notes": "年間基本授業料（教材・標準アクティビティ込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "High School (Grade 9 - Grade 12 / IB DP)",
+        "amount": 128600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form (Grade 9 - 12)",
+        "notes": "年間基本授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 61800,
+      "tuitionMaxAnnual": 123800,
+      "tuitionDisplay": "RM 61,800 – RM 123,800 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.iskl.edu.my",
+  "contact": {
+    "email": "admissions@iskl.edu.my",
+    "phone": "+60 3-4813 5000"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.iskl.edu.my",
+      "title": "ISKL Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.iskl.edu.my/admissions/fees/",
+      "title": "ISKL Official Tuition & Fee Schedule 2025/2026",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}

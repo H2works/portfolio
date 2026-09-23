@@ -1,0 +1,2 @@
+/blog /web/blog 301
+/blog/:slug /web/blog/:slug 301

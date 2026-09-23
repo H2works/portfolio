@@ -1,0 +1,358 @@
+// International School Finder Dedicated Styles
+
+.school-portal-body {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+// School Header
+.school-header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+
+  .school-brand {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: #111827;
+    text-decoration: none;
+
+    .brand-sub {
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: #4b5563;
+      margin-left: 0.5rem;
+      padding-left: 0.5rem;
+      border-left: 2px solid #d1d5db;
+    }
+  }
+
+  .nav-link {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: #4b5563;
+    padding: 0.5rem 0.85rem;
+    border-radius: 6px;
+    transition: all 0.15s ease-in-out;
+
+    &:hover, &.active {
+      color: #111827;
+      background-color: #f3f4f6;
+    }
+  }
+}
+
+// School Footer
+.school-footer {
+  background-color: #ffffff;
+  border-top: 1px solid #e5e7eb;
+  padding: 3.5rem 0 2rem;
+  margin-top: auto;
+  font-size: 0.9rem;
+
+  .footer-heading {
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #111827;
+    margin-bottom: 1rem;
+  }
+
+  .footer-link {
+    color: #6b7280;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 0.5rem;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: #111827;
+    }
+  }
+
+  .disclaimer-box {
+    background-color: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 1rem;
+    font-size: 0.8rem;
+    color: #6b7280;
+    line-height: 1.5;
+  }
+}
+
+// Hero Search Launcher (School Top)
+.school-hero-section {
+  background: linear-gradient(180deg, #ffffff 0%, #f9fafb 100%);
+  border-bottom: 1px solid #e5e7eb;
+  padding: 3.5rem 0 2.5rem;
+
+  .hero-title {
+    font-size: 2.25rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    color: #111827;
+    line-height: 1.2;
+  }
+
+  .hero-lead {
+    font-size: 1.15rem;
+    color: #4b5563;
+    line-height: 1.6;
+  }
+}
+
+// Badges & Tags
+.badge-curriculum {
+  background-color: #e0f2fe;
+  color: #0369a1;
+  font-weight: 600;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.badge-feature {
+  background-color: #f3f4f6;
+  color: #374151;
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+
+  &.badge-highlight {
+    background-color: #ecfdf5;
+    color: #065f46;
+    border: 1px solid #a7f3d0;
+  }
+}
+
+// Filter Sidebar
+.filter-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1.25rem;
+  position: sticky;
+  top: 5rem;
+
+  .filter-section-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #6b7280;
+    margin-bottom: 0.5rem;
+  }
+
+  .form-check-label {
+    font-size: 0.88rem;
+    color: #374151;
+    cursor: pointer;
+  }
+
+  .form-check-input:checked {
+    background-color: #111827;
+    border-color: #111827;
+  }
+}
+
+// School Card
+.school-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.25rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+
+  &:hover {
+    border-color: #cbd5e1;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.02);
+  }
+
+  .school-card-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #111827;
+    margin-bottom: 0.25rem;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+      &:hover {
+        color: #2563eb;
+      }
+    }
+  }
+
+  .school-location {
+    font-size: 0.88rem;
+    color: #6b7280;
+  }
+
+  .tuition-box {
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    text-align: right;
+
+    .tuition-label {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      font-weight: 600;
+      color: #64748b;
+    }
+
+    .tuition-amount {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: #0f172a;
+    }
+  }
+}
+
+// Compare Floating Bar
+.compare-floating-bar {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #111827;
+  color: #ffffff;
+  padding: 0.85rem 1.5rem;
+  border-radius: 9999px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.2);
+  z-index: 1040;
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  animation: slideUp 0.25s ease-out;
+
+  .compare-count-badge {
+    background-color: #3b82f6;
+    color: white;
+    font-weight: 700;
+    border-radius: 9999px;
+    padding: 0.2rem 0.6rem;
+    font-size: 0.8rem;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translate(-50%, 100%);
+    opacity: 0;
+  }
+  to {
+    transform: translate(-50%, 0);
+    opacity: 1;
+  }
+}
+
+// Comparison Table
+.compare-table-wrapper {
+  overflow-x: auto;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  background-color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+
+  .table {
+    margin-bottom: 0;
+    min-width: 680px;
+
+    th, td {
+      padding: 1.1rem 1.25rem;
+      vertical-align: middle;
+      border-color: #f1f5f9;
+    }
+
+    .compare-label-col {
+      width: 220px;
+      font-weight: 600;
+      color: #475569;
+      background-color: #f8fafc;
+      border-right: 1px solid #e2e8f0;
+      position: sticky;
+      left: 0;
+      z-index: 2;
+    }
+
+    .compare-school-header {
+      text-align: center;
+      background-color: #ffffff;
+      border-bottom: 2px solid #0f172a;
+    }
+  }
+}
+
+// Detail Page
+.school-detail-header {
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 2.5rem 0 2rem;
+
+  .verified-badge {
+    background-color: #ecfdf5;
+    color: #065f46;
+    border: 1px solid #a7f3d0;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.35rem 0.75rem;
+    border-radius: 9999px;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+}
+
+.detail-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1.75rem;
+  margin-bottom: 1.75rem;
+
+  .card-title-lg {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #111827;
+    margin-bottom: 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 0.75rem;
+  }
+}
+
+.fee-table {
+  width: 100%;
+  font-size: 0.9rem;
+
+  th {
+    background-color: #f8fafc;
+    color: #475569;
+    font-weight: 600;
+    border-bottom: 1px solid #cbd5e1;
+    padding: 0.75rem 1rem;
+  }
+
+  td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #f1f5f9;
+    vertical-align: middle;
+  }
+}

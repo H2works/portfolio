@@ -1,0 +1,161 @@
+{
+  "id": "aism",
+  "slug": "aism",
+  "name": "Australian International School Malaysia",
+  "officialName": "Australian International School Malaysia (AISM)",
+  "shortDescription": "マレーシア唯一のオーストラリア（NSW州）カリキュラム認定校。緑豊かなMines湖畔に位置し、探究型「Visible Learning」教育を実践。",
+  "overview": "Australian International School Malaysia (AISM) は、セランゴール州Seri KembanganのMines Resort City湖畔にキャンパスを構える、マレーシアで唯一のオーストラリア式インターナショナルスクールです。オーストラリア・ニューサウスウェールズ州（NSW）教育省のカリキュラムを導入し、最終学年では世界各国の大学進学に通用するNSW Higher School Certificate (HSC) を取得できます。教員の大多数がオーストラリアや西洋圏の有資格者で構成され、教育研究者ジョン・ハッティ教授が提唱する「Visible Learning（可視化された学習）」の認定校として、生徒の自発的成長とクリティカルシンキングを伸ばす先進的な指導を行っています。",
+  "establishedYear": 2000,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Seri Kembangan",
+    "area": "Mines Resort City",
+    "address": "No 22 Jalan Anggerik, The Mines Resort City, 43300 Seri Kembangan, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Australian+International+School+Malaysia"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": ["Australian"],
+  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": ["Mandarin", "French", "Malay"],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "日本語対応スタッフによる相談が可能で、日本人コミュニティや学校行事での丁寧なフォロー体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "オーストラリア教育基準に基づいた手厚いEAL（English as an Additional Language）指導を用意。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内、Ampang、Mont Kiara、Bangsar、Petaling Jaya、Subang、Putrajaya各方面へ運行。",
+    "lunchProvided": true,
+    "lunchDetail": "ハラール対応・栄養バランスに優れた温かい給食プログラムを提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、サッカー、バスケ、ロボティクス、演劇、ディベートなど多彩な放課後CCA。"
+  },
+  "admissions": {
+    "intakeMonths": ["January", "April", "July", "October"],
+    "academicYearSchedule": "4学期制（Term 1: 1月〜4月 / Term 2: 4月〜6月 / Term 3: 7月〜9月 / Term 4: 10月〜12月）※豪州スケジュール準拠",
+    "applicationProcess": "願書出願、過去の成績提出、アセスメントテスト（英語・数学）、面談審査。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "25m屋根付きスイミングプール & 幼児用プール",
+    "人工芝サッカーグラウンド",
+    "大型室内体育館（バスケ・ネットボール・バレーコート）",
+    "パフォーミングアーツシアター & ドラマスタジオ",
+    "デザイン＆テクノロジーラボ & 3Dプリンタースタジオ",
+    "サイエンスラボラトリー",
+    "湖を一望できる総合メディアライブラリー"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 42000,
+    "tuitionMaxAnnual": 93000,
+    "tuitionDisplay": "RM 42,000 – RM 93,000 / 年",
+    "applicationFee": 1300,
+    "registrationFee": 10000,
+    "deposit": 10000,
+    "busFeeEstimate": "約 RM 4,200 – RM 7,500 / 年",
+    "lunchFeeEstimate": "約 RM 2,600 – RM 3,800 / 年",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1300,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Admissions / Registration Fee",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Security Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Learning Centre (Age 3-5)",
+        "amount": 42000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery / Kindergarten",
+        "notes": "年間授業料（4学期分割納入）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Junior School (Year 1 - Year 5)",
+        "amount": 65000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 5)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Middle & Senior School (Year 6 - Year 12 / HSC)",
+        "amount": 93000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年間授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 40000,
+      "tuitionMaxAnnual": 89000,
+      "tuitionDisplay": "RM 40,000 – RM 89,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.aism.edu.my",
+  "contact": {
+    "email": "enquiry@aism.edu.my",
+    "phone": "+60 3-8949 5000"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.aism.edu.my",
+      "title": "AISM Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.aism.edu.my/admissions/fees",
+      "title": "AISM Fee Schedule 2025/2026",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}

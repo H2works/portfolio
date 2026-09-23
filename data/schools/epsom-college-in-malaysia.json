@@ -1,0 +1,161 @@
+{
+  "id": "epsom-college-in-malaysia",
+  "slug": "epsom-college-in-malaysia",
+  "name": "Epsom College in Malaysia",
+  "officialName": "Epsom College in Malaysia (ECiM)",
+  "shortDescription": "英国名門エプソムカレッジ（1855年創立）唯一の海外校。80エーカーの壮大なキャンパス、最高峰のボーディング環境、ムラトグルー・テニスアカデミーを併設。",
+  "overview": "Epsom College in Malaysia (ECiM) は、英国で1855年に設立された歴史ある名門パブリックスクール「Epsom College」の唯一の正規海外分校です。クアラルンプール国際空港（KLIA）から約15分、80エーカー（東京ドーム約7個分）の広大な緑豊かな敷地に、世界基準の教育・スポーツ設備を有しています。英国ナショナルカリキュラム、Cambridge IGCSE、A-Levelsを提供し、卒業生の多くがオックスフォード、ケンブリッジ、アイビーリーグをはじめとする世界の頂点大学へ進学。世界最高峰のテニス指導者パトリック・ムラトグルー氏と提携したテニスアカデミーやゴルフ、サッカーの専門アカデミーを有し、文武両道の最高峰全寮制（ボーディング）教育を提供しています。",
+  "establishedYear": 2014,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Bandar Enstek",
+    "area": "Bandar Enstek (KLIA Region)",
+    "address": "Persiaran Kolej, 71760 Bandar Enstek, Negeri Sembilan / Selangor Border",
+    "googleMapsUrl": "https://maps.google.com/?q=Epsom+College+in+Malaysia"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": ["British", "Cambridge"],
+  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": ["Mandarin", "French", "Spanish", "Malay"],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "日本人専任アドミッションスタッフおよびボーディング専任スタッフが在籍。出願から日々の寮生活、保護者との連絡まで手厚い日本語フォローがあります。",
+    "ellSupport": true,
+    "ellSupportDetail": "集中的なEAL（English as an Additional Language）プログラムにより、英語初心者でも安心して学べる指導体制を完備。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "クアラルンプール市内、Mont Kiara、Bangsar、Subang Jaya、Putrajayaを結ぶ通学バスおよび週末帰省バスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "アスリートや成長期の生徒に配慮した高品質なビュッフェスタイルの温かい食事を提供（1日3食＋スナック）。",
+    "boardingAvailable": true,
+    "boardingDetail": "Year 7（11歳）以上を対象としたプレミアム全寮制（Full Boarding）および週5日寮生活（Weekly Boarding）。英国伝統のハウスマスター制による24時間ケア。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "テニスアカデミー、ゴルフアカデミー、オーケストラ、音楽、スポーツなど100以上の充実した課外活動。"
+  },
+  "admissions": {
+    "intakeMonths": ["September", "January", "April"],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜3月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、CAT4テスト、英語・数学診断、校長・ハウスマスター面談。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "ムラトグルー・テニスアカデミー（ハードコート & クレーコート完備）",
+    "ECMゴルフアカデミー（ドライビングレンジ & インドアスタジオ）",
+    "FIFA基準天然芝サッカー場 & 人工芝ピッチ",
+    "オリンピックサイズ50m競泳プール",
+    "プロ仕様の本格的オーディトリアム（600席）",
+    "デザイン＆テクノロジー工房 & 最新サイエンスラボ",
+    "男子寮・女子寮（ボーディングハウス群）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 62000,
+    "tuitionMaxAnnual": 115000,
+    "tuitionDisplay": "RM 62,000 – RM 115,000 / 年 (通学) / 寮費別途",
+    "applicationFee": 1500,
+    "registrationFee": 10000,
+    "deposit": 15000,
+    "busFeeEstimate": "約 RM 5,000 – RM 9,000 / 年（通学時）",
+    "lunchFeeEstimate": "通学費に含む（寮生は全食事込み）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Enrolment / Registration Fee",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Security Deposit",
+        "amount": 15000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Prep School (Early Years / Nursery / Reception)",
+        "amount": 62000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery / Reception",
+        "notes": "年間授業料（3学期分割納入）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Prep (Year 1 - Year 6)",
+        "amount": 83000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Senior School & A-Levels (Year 7 - Year 13 / 通学)",
+        "amount": 115000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年間授業料（※Full Boarding寮費込みは約RM 160,000〜）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 59000,
+      "tuitionMaxAnnual": 109000,
+      "tuitionDisplay": "RM 59,000 – RM 109,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.epsomschool.com",
+  "contact": {
+    "email": "admissions@epsomschool.com",
+    "phone": "+60 6-240 4188"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.epsomschool.com",
+      "title": "Epsom College in Malaysia Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.epsomschool.com/admissions/fees",
+      "title": "ECiM Schedule of Fees 2025/2026",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}

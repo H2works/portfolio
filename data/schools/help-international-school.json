@@ -1,0 +1,161 @@
+{
+  "id": "help-international-school",
+  "slug": "help-international-school",
+  "name": "HELP International School",
+  "officialName": "HELP International School (HIS)",
+  "shortDescription": "Subang Bestariに位置する屈指の人気英国式校。Apple Distinguished School認定。高い学術水準とバランスの取れた全人教育を良心的な学費で提供。",
+  "overview": "HELP International School (HIS) は、セランゴール州Subang Bestariにある大手教育グループHELP傘下の英国式インターナショナルスクールです。2014年開校以来急速に評価を高め、British International School of the Yearなどの国際的評価やApple Distinguished School認定を獲得しています。Early YearsからYear 11（Cambridge IGCSE）、Year 12-13（A-Levels）までの一貫教育を提供。学力向上のみならず、人間性・思考力・社会性を培うホリスティック教育を重視しており、手頃な学費体系と高水準な教育のバランスが保護者から高く評価されています。",
+  "establishedYear": 2014,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "area": "Subang Bestari",
+    "address": "No 2 Persiaran Cakerawala, Seksyen U4, Subang Bestari, 40150 Shah Alam, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=HELP+International+School+Subang+Bestari"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": ["British", "Cambridge", "IPC"],
+  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": ["Mandarin", "Malay", "Spanish", "French"],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任窓口はありませんが、英語が第2言語の生徒へのEALサポート体制が充実しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学時の英語力アセスメントに基づき、集中英語サポート（EAL）を実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Subang Jaya、Petaling Jaya、Kota Damansara、Mont Kiara、Shah Alam各方面へのバスルート。",
+    "lunchProvided": true,
+    "lunchDetail": "栄養士管理のハラール対応健康ランチを提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、パフォーミングアーツ、ロボット、コーディングなど80以上のクラブ活動。"
+  },
+  "admissions": {
+    "intakeMonths": ["September", "January"],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン願書、CAT4診断テスト、英語・算数学力診断、面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "屋内オリンピックサイズ競泳プール",
+    "FIFA公認人工芝サッカー場",
+    "広大な多目的インドアスポーツホール",
+    "本格的なブラックボックステアター & オーディトリアム",
+    "Apple Macラボ & サイエンスラボ",
+    "デザイン＆テクノロジー工房",
+    "充実した蔵書の近代図書館"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 27900,
+    "tuitionMaxAnnual": 57600,
+    "tuitionDisplay": "RM 27,900 – RM 57,600 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 5000,
+    "deposit": 6000,
+    "busFeeEstimate": "約 RM 3,200 – RM 5,800 / 年",
+    "lunchFeeEstimate": "約 RM 2,200 – RM 3,400 / 年",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 6000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Preschool / Reception)",
+        "amount": 27900,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Preschool / Reception",
+        "notes": "年額"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Year 1 - Year 6)",
+        "amount": 41200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年額"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & A-Levels (Year 7 - Year 13)",
+        "amount": 57600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年額"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 26800,
+      "tuitionMaxAnnual": 55200,
+      "tuitionDisplay": "RM 26,800 – RM 55,200 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://his.edu.my",
+  "contact": {
+    "email": "enquiry@his.edu.my",
+    "phone": "+60 3-7809 7000"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://his.edu.my",
+      "title": "HELP International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://his.edu.my/admissions/fees",
+      "title": "HIS Schedule of Fees 2025/2026",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}
