@@ -1,6 +1,6 @@
 ---
 title: "コーポレートサイト自作の最適解は？Jimdo・Wix・STUDIOと「microCMS/Kuroco×AI駆動開発」を徹底比較"
-date: "2026-09-24"
+date: "2026-09-25"
 description: "コーポレートサイトを自作・管理したい方へ。Jimdo、Wix、STUDIOなどのノーコードツールの特徴と、MCP連携できる国産ヘッドレスCMS（microCMS/Kuroco）を活用した新時代の「全AI任せ開発」のメリットを比較解説します。"
 tags: ["コーポレートサイト", "Jimdo", "Wix", "STUDIO", "microCMS", "Kuroco", "AI開発", "MCP"]
 ---
