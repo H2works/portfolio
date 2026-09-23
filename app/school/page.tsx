@@ -118,7 +118,13 @@ export default function SchoolPortalTop() {
           <div className="row g-4">
             <div className="col-12 col-md-6 col-lg-3">
               <div className="p-3 border rounded-3 h-100 bg-light-subtle">
-                <div className="fs-3 mb-2">📊</div>
+                <div className="d-inline-flex align-items-center justify-content-center bg-white border rounded-2 p-2 mb-3 text-primary shadow-xs" style={{ width: '40px', height: '40px' }}>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                    <path d="M4 11a1 1 0 1 1 2 0v1a1 1 0 1 1-2 0zm6-4a1 1 0 1 1 2 0v5a1 1 0 1 1-2 0zM7 9a1 1 0 0 1 2 0v3a1 1 0 1 1-2 0z"/>
+                    <path d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1z"/>
+                    <path d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0z"/>
+                  </svg>
+                </div>
                 <h3 className="h6 fw-bold text-dark mb-2">公式確認済みの学費</h3>
                 <p className="text-secondary small mb-0">
                   公式サイト・公開PDFに基づき、年度別の学年別授業料や一時費用（出願料・登録料・デポジット）を精緻に記録。
@@ -127,7 +133,11 @@ export default function SchoolPortalTop() {
             </div>
             <div className="col-12 col-md-6 col-lg-3">
               <div className="p-3 border rounded-3 h-100 bg-light-subtle">
-                <div className="fs-3 mb-2">🎯</div>
+                <div className="d-inline-flex align-items-center justify-content-center bg-white border rounded-2 p-2 mb-3 text-primary shadow-xs" style={{ width: '40px', height: '40px' }}>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                    <path d="M6 10.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1-.5-.5m-2-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5m-2-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5"/>
+                  </svg>
+                </div>
                 <h3 className="h6 fw-bold text-dark mb-2">公平な条件一致検索</h3>
                 <p className="text-secondary small mb-0">
                   「おすすめ順」などの広告ランキングは排除。保護者が設定した年齢・地域・予算・カリキュラムに純粋に一致する学校だけを表示。
@@ -136,7 +146,11 @@ export default function SchoolPortalTop() {
             </div>
             <div className="col-12 col-md-6 col-lg-3">
               <div className="p-3 border rounded-3 h-100 bg-light-subtle">
-                <div className="fs-3 mb-2">⚖️</div>
+                <div className="d-inline-flex align-items-center justify-content-center bg-white border rounded-2 p-2 mb-3 text-primary shadow-xs" style={{ width: '40px', height: '40px' }}>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                    <path d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm8.5 0v12H14a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zm-1 0H2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h5.5z"/>
+                  </svg>
+                </div>
                 <h3 className="h6 fw-bold text-dark mb-2">最大4校の横並び比較</h3>
                 <p className="text-secondary small mb-0">
                   気になる学校をワンクリックでピックアップ。学費、バス送迎、日本語対応、設備などの違いをひと目で比較可能。
@@ -145,7 +159,11 @@ export default function SchoolPortalTop() {
             </div>
             <div className="col-12 col-md-6 col-lg-3">
               <div className="p-3 border rounded-3 h-100 bg-light-subtle">
-                <div className="fs-3 mb-2">🔍</div>
+                <div className="d-inline-flex align-items-center justify-content-center bg-white border rounded-2 p-2 mb-3 text-primary shadow-xs" style={{ width: '40px', height: '40px' }}>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                    <path d="M10.067.87a2.89 2.89 0 0 0-4.134 0l-.622.638-.89-.011a2.89 2.89 0 0 0-2.924 2.924l.01.89-.636.622a2.89 2.89 0 0 0 0 4.134l.637.622-.011.89a2.89 2.89 0 0 0 2.924 2.924l.89-.01.622.636a2.89 2.89 0 0 0 4.134 0l.622-.637.89.011a2.89 2.89 0 0 0 2.924-2.924l-.01-.89.636-.622a2.89 2.89 0 0 0 0-4.134l-.637-.622.011-.89a2.89 2.89 0 0 0-2.924-2.924l-.89.01zm.54 4.88-3.75 3.75a.75.75 0 0 1-1.06 0L4.22 8.02a.75.75 0 0 1 1.06-1.06l1.04 1.04 3.22-3.22a.75.75 0 0 1 1.06 1.06z"/>
+                  </svg>
+                </div>
                 <h3 className="h6 fw-bold text-dark mb-2">情報源と確認日の明記</h3>
                 <p className="text-secondary small mb-0">
                   各学校ページに公式一次ソースURLと最終確認年月（Last verified）を明記し、透明性を徹底しています。

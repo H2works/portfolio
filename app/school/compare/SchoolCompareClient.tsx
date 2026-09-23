@@ -69,7 +69,11 @@ export default function SchoolCompareClient({ allSchools }: Props) {
   if (selectedSchools.length === 0) {
     return (
       <div className="bg-white border rounded-3 p-5 text-center my-4 shadow-sm">
-        <div className="fs-1 text-muted mb-3">⚖️</div>
+        <div className="text-secondary mb-3">
+          <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="currentColor" className="text-muted" viewBox="0 0 16 16">
+            <path d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm8.5 0v12H14a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zm-1 0H2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h5.5z"/>
+          </svg>
+        </div>
         <h2 className="h4 fw-bold text-dark mb-2">比較する学校が選択されていません</h2>
         <p className="text-secondary small mb-4">
           学校一覧の「＋ 比較」ボタンを押すか、下のセレクトメニューから学校を選択して比較を開始してください。

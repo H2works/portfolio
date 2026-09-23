@@ -141,7 +141,11 @@ export default function SchoolSearchClient({ allSchools }: SchoolSearchClientPro
           {/* Cards List */}
           {filteredSchools.length === 0 ? (
             <div className="bg-white border rounded-3 p-5 text-center my-4 shadow-sm">
-              <div className="fs-1 text-muted mb-2">🔍</div>
+              <div className="text-secondary mb-3">
+                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" className="text-muted" viewBox="0 0 16 16">
+                  <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
+                </svg>
+              </div>
               <h3 className="h5 fw-bold text-dark mb-2">条件に一致する学校が見つかりませんでした</h3>
               <p className="text-secondary small mb-4">
                 カリキュラムや学費上限、地域などの条件を緩和して再度お試しください。

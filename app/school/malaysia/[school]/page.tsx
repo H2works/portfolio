@@ -93,7 +93,10 @@ export default async function SchoolDetailPage({ params }: PageProps) {
                     {school.location.state} • {school.location.area}
                   </span>
                   <span className="verified-badge">
-                    ✓ 公式情報確認済み
+                    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" className="me-1" viewBox="0 0 16 16">
+                      <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
+                    </svg>
+                    公式情報確認済み
                   </span>
                   <span className="text-muted small">
                     最終確認: {school.lastVerified}
@@ -126,9 +129,7 @@ export default async function SchoolDetailPage({ params }: PageProps) {
           <div className="col-12 col-lg-8">
             {/* Overview Card */}
             <div className="detail-card shadow-sm">
-              <h2 className="card-title-lg">
-                <span>🏫</span> 学校概要
-              </h2>
+              <h2 className="card-title-lg">学校概要</h2>
               <p className="lh-lg text-secondary mb-4">
                 {school.overview}
               </p>
@@ -177,10 +178,8 @@ export default async function SchoolDetailPage({ params }: PageProps) {
 
             {/* Fees Schedule Card */}
             <div className="detail-card shadow-sm">
-              <div className="d-flex flex-wrap align-items-center justify-content-between mb-3 border-bottom pb-2">
-                <h2 className="card-title-lg mb-0 border-0 p-0">
-                  <span>💰</span> 学費・納入金一覧
-                </h2>
+              <div className="d-flex flex-wrap align-items-center justify-content-between mb-3 gap-2">
+                <h2 className="card-title-lg mb-0">学費・納入金一覧</h2>
                 <span className="badge bg-primary-subtle text-primary fw-semibold px-2 py-1">
                   対象年度: {school.currentFees.academicYear}
                 </span>
@@ -264,11 +263,11 @@ export default async function SchoolDetailPage({ params }: PageProps) {
               </div>
               <ul className="list-group list-group-flush border rounded-2 small mb-2">
                 <li className="list-group-item d-flex flex-column flex-sm-row justify-content-between align-items-sm-center gap-1 py-3">
-                  <span className="fw-medium text-secondary">🚌 スクールバス運賃</span>
+                  <span className="fw-medium text-secondary">スクールバス運賃</span>
                   <span className="fw-semibold text-dark text-sm-end">{school.currentFees.busFeeEstimate || 'ルート・距離に応じて別見積'}</span>
                 </li>
                 <li className="list-group-item d-flex flex-column flex-sm-row justify-content-between align-items-sm-center gap-1 py-3">
-                  <span className="fw-medium text-secondary">🍱 給食・ランチ代</span>
+                  <span className="fw-medium text-secondary">給食・ランチ代</span>
                   <span className="fw-semibold text-dark text-sm-end">{school.currentFees.lunchFeeEstimate || '利用時別途実費'}</span>
                 </li>
               </ul>
@@ -291,9 +290,7 @@ export default async function SchoolDetailPage({ params }: PageProps) {
 
             {/* Language & Support Card */}
             <div className="detail-card shadow-sm">
-              <h2 className="card-title-lg">
-                <span>🗣️</span> 言語サポート・日本語対応
-              </h2>
+              <h2 className="card-title-lg">言語サポート・日本語対応</h2>
               <div className="mb-3">
                 <h3 className="h6 fw-bold text-dark mb-1">第二外国語 / 語学選択</h3>
                 <p className="text-secondary small mb-3">
@@ -303,7 +300,7 @@ export default async function SchoolDetailPage({ params }: PageProps) {
 
               <div className="p-3 border rounded-3 mb-3 bg-light-subtle">
                 <h3 className="h6 fw-bold text-dark mb-1 d-flex align-items-center gap-2">
-                  <span>🇯🇵</span> 日本語サポート
+                  日本語サポート
                   {school.languages.japaneseSupport ? (
                     <span className="badge bg-success text-white small">対応あり</span>
                   ) : (
@@ -317,7 +314,7 @@ export default async function SchoolDetailPage({ params }: PageProps) {
 
               <div className="p-3 border rounded-3 bg-light-subtle">
                 <h3 className="h6 fw-bold text-dark mb-1 d-flex align-items-center gap-2">
-                  <span>📘</span> 英語集中サポート (ELL / ESL)
+                  英語集中サポート (ELL / ESL)
                   {school.languages.ellSupport ? (
                     <span className="badge bg-primary text-white small">プログラム有</span>
                   ) : (
@@ -332,9 +329,7 @@ export default async function SchoolDetailPage({ params }: PageProps) {
 
             {/* Facilities Card */}
             <div className="detail-card shadow-sm">
-              <h2 className="card-title-lg">
-                <span>🏊‍♂️</span> キャンパス設備
-              </h2>
+              <h2 className="card-title-lg">キャンパス主要設備</h2>
               <div className="row g-2">
                 {school.facilities.map((facility, idx) => (
                   <div key={idx} className="col-12 col-sm-6">
@@ -352,9 +347,7 @@ export default async function SchoolDetailPage({ params }: PageProps) {
           <div className="col-12 col-lg-4">
             {/* Admissions Card */}
             <div className="detail-card shadow-sm">
-              <h2 className="card-title-lg">
-                <span>📝</span> 入学・学期情報
-              </h2>
+              <h2 className="card-title-lg">入学・学期スケジュール</h2>
               <div className="mb-3">
                 <div className="text-muted small">学期スケジュール</div>
                 <div className="fw-bold text-dark small">{school.admissions.academicYearSchedule}</div>
@@ -385,9 +378,7 @@ export default async function SchoolDetailPage({ params }: PageProps) {
 
             {/* Transport & Bus Card */}
             <div className="detail-card shadow-sm">
-              <h2 className="card-title-lg">
-                <span>🚌</span> 通学・スクールバス
-              </h2>
+              <h2 className="card-title-lg">通学・スクールバス運行</h2>
               <p className="text-secondary small mb-3">
                 {school.features.busDetail || 'スクールバスの運行状況については学校へお問い合わせください。'}
               </p>
@@ -400,9 +391,7 @@ export default async function SchoolDetailPage({ params }: PageProps) {
 
             {/* Contact & Location Card */}
             <div className="detail-card shadow-sm">
-              <h2 className="card-title-lg">
-                <span>📍</span> 所在地・連絡先
-              </h2>
+              <h2 className="card-title-lg">所在地・連絡先</h2>
               <p className="text-secondary small mb-2">
                 <strong>住所:</strong><br />
                 {school.location.address}
@@ -442,9 +431,7 @@ export default async function SchoolDetailPage({ params }: PageProps) {
 
             {/* Information Sources & Verification */}
             <div className="detail-card shadow-sm bg-light-subtle">
-              <h2 className="card-title-lg fs-6">
-                <span>🔍</span> 情報源と確認日
-              </h2>
+              <h2 className="card-title-lg fs-6">一次情報源と確認日</h2>
               <p className="text-secondary" style={{ fontSize: '0.8rem' }}>
                 当データは以下の一次情報をもとに調査・検証しています（最終確認: {school.lastVerified}）。
               </p>

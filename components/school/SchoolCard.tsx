@@ -92,22 +92,22 @@ export default function SchoolCard({ school }: SchoolCardProps) {
           <div className="d-flex flex-wrap gap-1 align-items-center">
             {school.features.schoolBus && (
               <span className="badge-feature">
-                🚌 スクールバス
+                スクールバス
               </span>
             )}
             {school.languages.japaneseSupport && (
               <span className="badge-feature badge-highlight">
-                🇯🇵 日本語サポート
+                日本語サポート
               </span>
             )}
             {school.features.boardingAvailable && (
               <span className="badge-feature">
-                🏠 学生寮（Boarding）
+                学生寮（Boarding）
               </span>
             )}
             {school.features.afterSchoolCare && (
               <span className="badge-feature">
-                ⏰ 学童・課外活動
+                学童・課外活動
               </span>
             )}
           </div>

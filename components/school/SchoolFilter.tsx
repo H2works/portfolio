@@ -48,7 +48,7 @@ export default function SchoolFilter({ filters, onChange, onReset }: SchoolFilte
 
   return (
     <div className="filter-card shadow-sm">
-      <div className="d-flex align-items-center justify-content-between mb-3 border-bottom pb-2">
+      <div className="filter-card-header d-flex align-items-center justify-content-between mb-3 border-bottom pb-2">
         <h4 className="h6 fw-bold mb-0 text-dark">絞り込み検索</h4>
         <button
           type="button"
@@ -59,8 +59,9 @@ export default function SchoolFilter({ filters, onChange, onReset }: SchoolFilte
         </button>
       </div>
 
-      {/* State / Location */}
-      <div className="mb-3">
+      <div className="filter-card-body">
+        {/* State / Location */}
+      <div className="mb-2">
         <label className="filter-section-title d-block" htmlFor="filter-state">地域（State）</label>
         <select
           id="filter-state"
@@ -75,7 +76,7 @@ export default function SchoolFilter({ filters, onChange, onReset }: SchoolFilte
       </div>
 
       {/* Child Age */}
-      <div className="mb-3">
+      <div className="mb-2">
         <label className="filter-section-title d-block" htmlFor="filter-age">子どもの年齢</label>
         <select
           id="filter-age"
@@ -96,7 +97,7 @@ export default function SchoolFilter({ filters, onChange, onReset }: SchoolFilte
       </div>
 
       {/* Grade Level */}
-      <div className="mb-3">
+      <div className="mb-2">
         <label className="filter-section-title d-block" htmlFor="filter-grade">学年区分</label>
         <select
           id="filter-grade"
@@ -119,7 +120,7 @@ export default function SchoolFilter({ filters, onChange, onReset }: SchoolFilte
       </div>
 
       {/* Budget Limit */}
-      <div className="mb-3">
+      <div className="mb-2">
         <label className="filter-section-title d-block" htmlFor="filter-budget">年間学費（上限目安）</label>
         <select
           id="filter-budget"
@@ -139,26 +140,30 @@ export default function SchoolFilter({ filters, onChange, onReset }: SchoolFilte
       </div>
 
       {/* Curricula checkboxes */}
-      <div className="mb-3">
+      <div className="mb-2">
         <label className="filter-section-title d-block">カリキュラム</label>
-        <div className="d-flex flex-column gap-1">
+        <div className="row g-1">
           {ALL_CURRICULA.map((curriculum) => {
             const checked = (filters.curricula || []).includes(curriculum);
             return (
-              <div key={curriculum} className="form-check">
-                <input
-                  type="checkbox"
-                  className="form-check-input"
-                  id={`curriculum-${curriculum}`}
-                  checked={checked}
-                  onChange={() => handleCurriculumToggle(curriculum)}
-                />
-                <label
-                  className="form-check-label"
-                  htmlFor={`curriculum-${curriculum}`}
-                >
-                  {curriculum}
-                </label>
+              <div key={curriculum} className="col-6">
+                <div className="form-check">
+                  <input
+                    type="checkbox"
+                    className="form-check-input"
+                    id={`curriculum-${curriculum}`}
+                    checked={checked}
+                    onChange={() => handleCurriculumToggle(curriculum)}
+                  />
+                  <label
+                    className="form-check-label text-truncate"
+                    htmlFor={`curriculum-${curriculum}`}
+                    style={{ fontSize: '0.82rem' }}
+                    title={curriculum}
+                  >
+                    {curriculum}
+                  </label>
+                </div>
               </div>
             );
           })}
@@ -180,7 +185,7 @@ export default function SchoolFilter({ filters, onChange, onReset }: SchoolFilte
               }
             />
             <label className="form-check-label" htmlFor="feature-japanese">
-              🇯🇵 日本語サポート対応
+              日本語サポート対応
             </label>
           </div>
 
@@ -195,7 +200,7 @@ export default function SchoolFilter({ filters, onChange, onReset }: SchoolFilte
               }
             />
             <label className="form-check-label" htmlFor="feature-bus">
-              🚌 スクールバスあり
+              スクールバス運行あり
             </label>
           </div>
 
@@ -210,7 +215,7 @@ export default function SchoolFilter({ filters, onChange, onReset }: SchoolFilte
               }
             />
             <label className="form-check-label" htmlFor="feature-afterschool">
-              ⏰ 学童・課外活動あり
+              学童・課外活動あり
             </label>
           </div>
 
@@ -225,10 +230,11 @@ export default function SchoolFilter({ filters, onChange, onReset }: SchoolFilte
               }
             />
             <label className="form-check-label" htmlFor="feature-boarding">
-              🏠 学生寮（Boarding）あり
+              学生寮（Boarding）あり
             </label>
           </div>
         </div>
+      </div>
       </div>
     </div>
   );
