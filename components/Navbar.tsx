@@ -15,7 +15,7 @@ export default function Navbar({ darkMode }: NavbarProps) {
       <div className="col-auto ps-2 ms-2" id="navbarSupportedContent">
         <ul className="nav ms-auto mb-2 mb-lg-0 ms-2 list-inline list-unstyled d-flex align-items-center">
           <li className="nav-item">
-            <Link href="/blog" className={`nav-link pe-3 ${darkMode ? 'link-light' : 'link-dark'} link-opacity-50-hover fw-medium`}>
+            <Link href="/web/blog" className={`nav-link pe-3 ${darkMode ? 'link-light' : 'link-dark'} link-opacity-50-hover fw-medium`}>
               Blog
             </Link>
           </li>

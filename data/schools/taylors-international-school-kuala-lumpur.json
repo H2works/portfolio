@@ -1,0 +1,183 @@
+{
+  "id": "taylors-international-school-kuala-lumpur",
+  "slug": "taylors-international-school-kuala-lumpur",
+  "name": "Taylor's International School Kuala Lumpur",
+  "officialName": "Taylor's International School Kuala Lumpur (TIS KL)",
+  "shortDescription": "KL市街地近くのCherasに位置する定評ある英国式校。良質なCambridgeカリキュラムをリーズナブルな学費で提供し、人格教育（RECIPE）に注力。",
+  "overview": "Taylor's International School Kuala Lumpur (TIS KL) は、マレーシア屈指の名門教育グループ「Taylor's Education Group」が手掛けるインターナショナルスクールです。クアラルンプール市内（Cheras）に位置し、Early YearsからYear 11（Cambridge IGCSE）までの一貫教育を提供しています。伝統的な英国ナショナルカリキュラムを基盤に、生徒一人ひとりの情操や人間性を育む「RECIPE（Respect, Excellence, Care, Integrity, Passion, Enjoyment）」と呼ばれる人格教育プログラムを徹底しています。質の高い英国式教育を、クアラルンプール都心部において非常にコストパフォーマンスの高い学費で受けることができるため、現地および外国人家庭から高い支持を得ています。",
+  "establishedYear": 1991,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Cheras",
+    "address": "No 9, Jalan 1/77B, Off Jalan Imbi, 55100 Kuala Lumpur",
+    "googleMapsUrl": "https://maps.google.com/?q=Taylor's+International+School+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 16,
+    "display": "4–16"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任スタッフはいませんが、英語の基礎から学べる充実したIntensive English / EALサポートがあります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を第二言語とする生徒への手厚いEAL（English as an Additional Language）指導を実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内中心部、Cheras、Ampang、Petaling Jaya各方面を結ぶバスルート。",
+    "lunchProvided": true,
+    "lunchDetail": "バランスの取れたセットメニューランチが学内カフェテリアで提供されます。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、アート、サイエンスなど多種多様な放課後CCAアクティビティを用意。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "April",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（1月新学期スタート）",
+    "applicationProcess": "願書提出、学力診断テスト（英語・算数）および面接審査。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "屋内スイミングプール",
+    "屋根付き人工芝サッカー場",
+    "バスケットボール＆バドミントンコート",
+    "パフォーミングアーツホール",
+    "最新サイエンスラボ & コンピュータールーム",
+    "総合図書室"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 21300,
+    "tuitionMaxAnnual": 47800,
+    "tuitionDisplay": "RM 21,300 – RM 47,800 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 4000,
+    "deposit": 5000,
+    "busFeeEstimate": "個別見積もり（Cheras・KL市内等 / 相場目安: 約RM 2,800〜/年）",
+    "lunchFeeEstimate": "学期制ランチセット または カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "願書提出時手数料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学通知規定に準拠"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery / Reception)",
+        "amount": 21300,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten / Early Years",
+        "notes": "年間授業料（3学期分割）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary (Year 1 - Year 6)",
+        "amount": 33600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "amount": 47800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年間授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 20400,
+      "tuitionMaxAnnual": 45800,
+      "tuitionDisplay": "RM 20,400 – RM 45,800 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.tis.edu.my",
+  "contact": {
+    "email": "admissions@kl.tis.edu.my",
+    "phone": "+60 3-9200 9898"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.tis.edu.my",
+      "title": "Taylor's International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.tis.edu.my/admissions/school-fees/",
+      "title": "Taylor's International School Official Fee Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.tis.edu.my/wp-content/uploads/2026/07/TIS-School-Fees-2027.pdf",
+      "title": "Taylor's Official Fee Schedule 2027 (PDF)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/taylors-international-school-kuala-lumpur.png"
+}

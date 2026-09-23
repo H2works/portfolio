@@ -1,0 +1,178 @@
+{
+  "id": "mont-kiara-international-school",
+  "slug": "mont-kiara-international-school",
+  "name": "Mont'Kiara International School",
+  "officialName": "Mont'Kiara International School (M'KIS)",
+  "shortDescription": "日本人駐在員に人気のMont Kiara中心部に位置する全学年IB認定校。手厚い英語サポートとアットホームで国際色豊かなコミュニティ。",
+  "overview": "Mont'Kiara International School (M'KIS) は、1994年に設立されたフルIBワールドスクール（PYP, MYP, DP認定校）です。高級コンドミニアムが立ち並び治安と利便性に優れるMont Kiaraの心臓部に位置し、徒歩で通学できる家庭も多いのが最大の特徴です。アメリカ式教育哲学に基づいた全人教育を行い、50カ国以上から集まる生徒たちが多様性を尊重しながら学んでいます。英語が母国語でない生徒へのEALサポートが非常に親切で、日本人保護者会（Japan Club）との連携も密接です。",
+  "establishedYear": 1994,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Mont Kiara",
+    "address": "22, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur",
+    "googleMapsUrl": "https://maps.google.com/?q=Mont+Kiara+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "American",
+    "IB"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Spanish",
+      "French",
+      "Malay"
+    ],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "学内に活発なJapan Club（日本人保護者会）があり、入学オリエンテーションや生活全般のフォロー体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学時の英語力に応じた段階別EALクラスがあり、手厚い語学指導を受けられます。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Mont Kiara近隣はもちろん、KLCC、Bangsar、Petaling Jaya各方面へのルートを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "インターナショナルフード、ベジタリアン、ハラール対応のランチプログラムを用意。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、アート、チェス、ロボット工学など多彩な放課後アクティビティ。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "2セメスター制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
+    "applicationProcess": "願書オンライン申請、英語評価テスト（WIDAなど）、前在籍校の成績証明書提出。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "25m屋根付きスイミングプール",
+    "全天候型インドアアリーナ & バスケットボールコート",
+    "本格的な舞台音響照明を備えたオーディトリアム",
+    "デザイン＆テクノロジーラボ",
+    "クライミングウォール",
+    "初等部・中高部それぞれの専門図書館"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 58000,
+    "tuitionMaxAnnual": 118000,
+    "tuitionDisplay": "RM 58,000 – RM 118,000 / 年",
+    "applicationFee": 1500,
+    "registrationFee": 8000,
+    "deposit": 10000,
+    "busFeeEstimate": "個別見積もり（Mont Kiara近郊〜KL市内 / 相場目安: 約RM 4,200〜/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 16〜22目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願手数料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 8000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学登録料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知により返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Childhood (Pre-K / Kindergarten)",
+        "amount": 58000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten / Pre-K",
+        "notes": "年間授業料（セメスター分割納入可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Elementary School (Grade 1 - 5)",
+        "amount": 92000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - 5)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "High School (Grade 9 - 12 / IB DP)",
+        "amount": 118000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年間授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 55000,
+      "tuitionMaxAnnual": 112000,
+      "tuitionDisplay": "RM 55,000 – RM 112,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.mkis.edu.my",
+  "contact": {
+    "email": "admissions@mkis.edu.my",
+    "phone": "+60 3-7800 0099"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.mkis.edu.my",
+      "title": "M'KIS Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.mkis.edu.my/school-fees-2026---2027",
+      "title": "M'KIS Official School Fees Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/mont-kiara-international-school.png"
+}

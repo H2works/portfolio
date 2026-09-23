@@ -1,0 +1,188 @@
+{
+  "id": "bskl",
+  "slug": "bskl",
+  "name": "The British International School of Kuala Lumpur",
+  "officialName": "The British International School of Kuala Lumpur (BSKL)",
+  "shortDescription": "Bandar Utamaに位置するNord Anglia系列の最高峰ブリティッシュスクール。優れた英国ナショナルカリキュラム教育と世界水準の設備、手厚い日本人サポート。",
+  "overview": "The British International School of Kuala Lumpur (BSKL) は、世界有数のプレミアム教育機関グループ「Nord Anglia Education」の一員であり、セランゴール州ペタリンジャヤ（Bandar Utama）に位置するトップクラスの英国式インターナショナルスクールです。Early Years（2歳）からSixth Form（Year 13 / A-Levels）までの一貫教育を提供しています。ジュリアード音楽院やMIT、ユニセフとのグローバルコラボレーションプログラムを取り入れ、学業成績（IGCSE / A-Level）においてもマレーシア国内トップクラスの実績を誇ります。日本語対応可能なアドミッションスタッフや日本人コミュニティの支援体制も整っており、保護者からの人気が非常に高い名門校です。",
+  "establishedYear": 2009,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "Bandar Utama",
+    "address": "No. 1, Changkat Bukit Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=The+British+International+School+of+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 2,
+    "maxAge": 18,
+    "display": "2–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Reception",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Spanish",
+      "French",
+      "Malay"
+    ],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "日本語対応アドミッションスタッフが在籍。学校見学や各種手続き、保護者面談でのサポートがあり、Japanese Parents Networkも活発です。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による集中的なEAL（English as an Additional Language）語学支援を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Bandar Utama、Mont Kiara、Damansara、Bangsar、KL市内各所を結ぶ安全なスクールバス網。",
+    "lunchProvided": true,
+    "lunchDetail": "栄養士監修の温かいインターナショナル・アジアンランチをカフェテリアにて提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、音楽、アート、STEM、語学など多彩な放課後アクティビティ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜3月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン願書提出、アセスメント（CAT4テスト・英語面談等）、および書類審査。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "25m競泳用インドアプール & 幼児専用プール",
+    "全天候型FIFA基準人工芝サッカーフィールド",
+    "ダブルサイズ大型インドアスポーツホール",
+    "650席規模の本格的オーディトリアム（音響・照明設備完備）",
+    "ジュリアード提携音楽・演劇スタジオ",
+    "STEM・サイエンスラボ & デザインテクノロジー工房",
+    "初等部・中等部それぞれの専門ライブラリー"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 51200,
+    "tuitionMaxAnnual": 118500,
+    "tuitionDisplay": "RM 51,200 – RM 118,500 / 年",
+    "applicationFee": 1500,
+    "registrationFee": 17050,
+    "deposit": 10000,
+    "busFeeEstimate": "Zone別: 約RM 4,800 – RM 8,500 / 年（公式提携バス会社）",
+    "lunchFeeEstimate": "学期制ホットランチ（年約RM 3,000〜4,200目安） または カフェテリア都度払い",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Enrolment / Registration Fee",
+        "amount": 17050,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学決定時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "学則に従った退学通知により返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery / Reception)",
+        "amount": 51200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery / Reception",
+        "notes": "年間授業料（学期分割納入）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Year 1 - Year 6)",
+        "amount": 82600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & Sixth Form (Year 7 - Year 13 / A-Levels)",
+        "amount": 118500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年間授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 49100,
+      "tuitionMaxAnnual": 113800,
+      "tuitionDisplay": "RM 49,100 – RM 113,800 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.nordangliaeducation.com/bskl-kuala-lumpur",
+  "contact": {
+    "email": "admissions@britishschool.edu.my",
+    "phone": "+60 3-7727 7775"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.nordangliaeducation.com/bskl-kuala-lumpur",
+      "title": "BSKL Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.nordangliaeducation.com/bskl-kuala-lumpur/admissions/tuition-fees",
+      "title": "BSKL Official Tuition & Fees Page",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.nordangliaeducation.com/bskl-kuala-lumpur/-/media/bskl-kuala-lumpur/admissions/bskl-school-fees---2026-27.pdf",
+      "title": "BSKL Official School Fees 2026-27 (PDF)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/bskl.png"
+}

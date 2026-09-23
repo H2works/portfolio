@@ -1,0 +1,176 @@
+{
+  "id": "fairview-international-school-kuala-lumpur",
+  "slug": "fairview-international-school-kuala-lumpur",
+  "name": "Fairview International School Kuala Lumpur",
+  "officialName": "Fairview International School Kuala Lumpur (FIS KL)",
+  "shortDescription": "Wangsa Majuに位置するマレーシア最大級のIBネットワーク校。PYP・MYP・IB DPの一貫バカロレア教育を最も手の届きやすい学費設定で提供。",
+  "overview": "Fairview International School Kuala Lumpur (FIS KL) は、マレーシア全国に5つのキャンパスを展開する国内最大の国際バカロレア（IB）教育グループの旗艦校です。クアラルンプール市内（Wangsa Maju）に位置し、初等教育PYP、中等教育MYP、そして大学進学準備のIB Diploma Programmeまでをフルで提供しています。通常高額になりがちなIBカリキュラムを、年間約RM 26,000〜RM 62,000という非常にリーズナブルな学費で提供しているのが最大の特徴です。探究型学習（Inquiry-based Learning）を徹底し、世界トップ大学への合格実績も豊富です。",
+  "establishedYear": 1978,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Wangsa Maju",
+    "address": "4, Jalan 1/27D, Section 6, Wangsa Maju, 53300 Kuala Lumpur",
+    "googleMapsUrl": "https://maps.google.com/?q=Fairview+International+School+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "IB"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、IB探究学習に慣れるための段階的な語学サポート（EAL）を提供しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を第二言語とする生徒への手厚いEAL（English as an Additional Language）指導を用意。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "クアラルンプール市内、Ampang、Setapak、Gombak、Petaling Jaya方面へのスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "ハラール対応の温かい食事セットが学内カフェテリアにて提供されます。",
+    "boardingAvailable": true,
+    "boardingDetail": "中学生・高校生を対象とした学生寮施設（Boarding）を完備。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "テニス、水泳、バイオリン、ロボット、オーケストラなど多彩な課外活動。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "2セメスター制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
+    "applicationProcess": "願書出願、英語・数学学力診断、面接審査。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "半オリンピックサイズ競泳プール",
+    "大型インドアスポーツホール",
+    "サッカー＆陸上フィールド",
+    "オーディトリアム & パフォーミングアーツホール",
+    "サイエンスラボ & デザインスタジオ",
+    "音楽練習室 & アートルーム",
+    "総合図書室"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 26400,
+    "tuitionMaxAnnual": 61800,
+    "tuitionDisplay": "RM 26,400 – RM 61,800 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 5000,
+    "deposit": 5000,
+    "busFeeEstimate": "個別見積もり（Wangsa Maju・KL市内 / 相場目安: 約RM 2,800〜/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / 寮生は全食事込み）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Pre-K / Kindergarten)",
+        "amount": 26400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten",
+        "notes": "年間授業料（セメスター分割納入可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Grade 1 - Grade 6 / IB PYP)",
+        "amount": 42500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - 6)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & High School (Grade 7 - Grade 12 / IB MYP & DP)",
+        "amount": 61800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年間授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 25000,
+      "tuitionMaxAnnual": 59000,
+      "tuitionDisplay": "RM 25,000 – RM 59,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://fairview.edu.my",
+  "contact": {
+    "email": "enquiry@fairview.edu.my",
+    "phone": "+60 3-4142 0888"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://fairview.edu.my",
+      "title": "Fairview International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://fairview.edu.my/school-admission/school-fees/",
+      "title": "Fairview Official School Fees Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/fairview-international-school-kuala-lumpur.png"
+}

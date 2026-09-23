@@ -1,0 +1,178 @@
+{
+  "id": "igbis",
+  "slug": "igbis",
+  "name": "IGB International School",
+  "officialName": "IGB International School (IGBIS)",
+  "shortDescription": "Sierramasの自然豊かな広大キャンパスに位置するフルIB認定校。東南アジアでも数少ないIB4プログラム（PYP, MYP, DP, CP）すべてを提供する最高峰国際校。",
+  "overview": "IGB International School (IGBIS) は、セランゴール州スンガイ・ブロ（Sierramas）の安全で緑豊かな高級住宅街に広がる10エーカーのキャンパスを構えるフルIBワールドスクールです。国際バカロレア（IB）の全4プログラム（初等教育PYP、中等教育MYP、大学進学DP、キャリア関連CP）のすべてを提供するマレーシア唯一クラスの学校です。世界最高峰のIB教育理念に基づき、批判的思考力、探究心、国際的視野を養います。世界中から集まる優秀なIB専任外国人教員が指導し、オリンピック規格の屋内プールや最先端シアターなど、圧倒的なスケールとクオリティを誇る学習環境を提供しています。",
+  "establishedYear": 2014,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Sungai Buloh",
+    "area": "Sierramas",
+    "address": "Jalan Sierramas Barat, Sierramas, 47000 Sungai Buloh, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=IGB+International+School"
+  },
+  "ageRange": {
+    "minAge": 2,
+    "maxAge": 18,
+    "display": "2–18"
+  },
+  "curricula": [
+    "IB"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Spanish",
+      "French",
+      "Malay"
+    ],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "日本語対応スタッフによる出願相談窓口があり、母国語保持プログラム（Mother Tongue Support）や日本人ファミリー向けサポート体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "IBカリキュラムに完全に統合された高品質なEAL（English as an Additional Language）プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Mont Kiara、Sri Hartamas、Bangsar、Petaling Jaya、Kota Damansara各方面を結ぶ安全なスクールバス網。",
+    "lunchProvided": true,
+    "lunchDetail": "インターナショナル、ウエスタン、アジアン、ベジタリアンの豊富なハラールランチを提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、アート、ロボティクス、演劇、モデル国連など100種以上の放課後アクティビティ。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "2セメスター制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
+    "applicationProcess": "オンライン願書、CAT4テスト、英語・数学診断テスト、学年主任および校長面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "50mオリンピックサイズ競泳インドアプール & 幼児プール",
+    "全天候型FIFA認定人工芝サッカーピッチ & 陸上トラック",
+    "ダブルサイズ大型インドアスポーツアリーナ",
+    "500席収容の本格的パフォーミングアーツシアター",
+    "最新デザイン＆テクノロジー工房 & ロボティクスラボ",
+    "プロ仕様の音楽レコーディングスタジオ & アートスイート",
+    "専門デジタルライブラリー & メディアリサーチセンター"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 56000,
+    "tuitionMaxAnnual": 116000,
+    "tuitionDisplay": "RM 56,000 – RM 116,000 / 年",
+    "applicationFee": 1200,
+    "registrationFee": 10000,
+    "deposit": 10000,
+    "busFeeEstimate": "ルート別: 約RM 4,500 – RM 8,000 / 年（公式提携バス）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 15〜22目安 / プリペイドカード利用 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Enrolment / Registration Fee",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Fireflies / Kindergarten)",
+        "amount": 56000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery / Kindergarten",
+        "notes": "年間授業料（セメスター分割納入可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Elementary School (Grade 1 - Grade 5 / IB PYP)",
+        "amount": 84000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - 5)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & High School (Grade 6 - 12 / IB MYP, DP, CP)",
+        "amount": 116000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年間授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 53500,
+      "tuitionMaxAnnual": 111000,
+      "tuitionDisplay": "RM 53,500 – RM 111,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://igbis.edu.my",
+  "contact": {
+    "email": "enquiries@igbis.edu.my",
+    "phone": "+60 3-6145 4688"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://igbis.edu.my",
+      "title": "IGBIS Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://igbis.edu.my/admissions/fee/",
+      "title": "IGBIS Official Tuition & Fees Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/igbis.png"
+}

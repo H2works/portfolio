@@ -55,7 +55,7 @@ export default async function BlogPostPage({ params }: Props) {
                 </Link>
               </li>
               <li className="breadcrumb-item">
-                <Link href="/blog" className="text-secondary text-decoration-none">
+                <Link href="/web/blog" className="text-secondary text-decoration-none">
                   Blog
                 </Link>
               </li>
@@ -130,7 +130,7 @@ export default async function BlogPostPage({ params }: Props) {
                 <div className="col-12 col-md-6">
                   {post.prevPost ? (
                     <Link
-                      href={`/blog/${post.prevPost.slug}`}
+                      href={`/web/blog/${post.prevPost.slug}`}
                       className="p-3 border rounded text-decoration-none d-block h-100 link-dark bg-white hover-shadow"
                     >
                       <small className="text-muted d-block mb-1">← 前の記事</small>
@@ -143,7 +143,7 @@ export default async function BlogPostPage({ params }: Props) {
                 <div className="col-12 col-md-6 text-md-end">
                   {post.nextPost ? (
                     <Link
-                      href={`/blog/${post.nextPost.slug}`}
+                      href={`/web/blog/${post.nextPost.slug}`}
                       className="p-3 border rounded text-decoration-none d-block h-100 link-dark bg-white hover-shadow"
                     >
                       <small className="text-muted d-block mb-1">次の記事 →</small>
@@ -157,7 +157,7 @@ export default async function BlogPostPage({ params }: Props) {
 
               <div className="text-center my-4">
                 <Link
-                  href="/blog"
+                  href="/web/blog"
                   className="btn btn-outline-dark px-4 py-2 rounded-pill"
                 >
                   <svg

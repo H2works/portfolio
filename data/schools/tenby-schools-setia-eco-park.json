@@ -1,0 +1,180 @@
+{
+  "id": "tenby-schools-setia-eco-park",
+  "slug": "tenby-schools-setia-eco-park",
+  "name": "Tenby Schools Setia Eco Park",
+  "officialName": "Tenby Schools Setia Eco Park (Shah Alam)",
+  "shortDescription": "Setia Alamの緑豊かなエコタウンに位置する英国式校。広大な敷地と20エーカーの充実設備、リーズナブルな学費体系で家族層に大人気。",
+  "overview": "Tenby Schools Setia Eco Parkは、セランゴール州Setia Alamの環境調和型住宅地「Setia Eco Park」内に20エーカーの広大な専用キャンパスを構えるインターナショナルスクールです。世界的な教育グループInternational Schools Partnership（ISP）のメンバー校であり、国際水準の教育プログラムと安全な学習環境を提供しています。Early YearsからPrimary、Secondary（Cambridge IGCSE）、Sixth Form（A-Levels）までを網羅。クランバレー屈指のリーズナブルな学費設定でありながら、フルサイズの競泳プールや広大なスポーツグラウンドなど、プレミアム校に引けを取らない施設を備えています。",
+  "establishedYear": 2008,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "area": "Setia Alam",
+    "address": "1, Jalan Setia Tropika U13/18T, Seksyen U13, Setia Alam, 40170 Shah Alam, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Tenby+Schools+Setia+Eco+Park"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、英語集中プログラム（Intensive English Programme）により初学者を丁寧にフォローします。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任のEAL教員による英語力強化サポートを用意。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Setia Alam、Klang、Subang Jaya、Petaling Jaya、Shah Alam各方面へのスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "ハラール認定のカフェテリアにて栄養バランスに配慮したランチを提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、アート、音楽、チェス、サイエンスなど70種以上の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、CAT4テスト、英語・算数の学力アセスメント、面接審査。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "オリンピックサイズ25m競泳プール & 幼児用プール",
+    "フルサイズ人工芝サッカーピッチ",
+    "広大な多目的インドアスポーツホール",
+    "テニスコート & 屋外バスケットボールコート",
+    "デザイン＆テクノロジー工房 & 科学実験室",
+    "専門音楽室 & アートスタジオ",
+    "初等部・中等部専用図書館"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 16800,
+    "tuitionMaxAnnual": 43500,
+    "tuitionDisplay": "RM 16,800 – RM 43,500 / 年",
+    "applicationFee": 800,
+    "registrationFee": 3500,
+    "deposit": 5000,
+    "busFeeEstimate": "個別見積もり（Setia Alam・Klang等 / 相場目安: 約RM 2,600〜/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 800,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学規定に基づく返金可能保証金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery / Reception)",
+        "amount": 16800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery / Reception",
+        "notes": "年間授業料（3学期分割納入）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Year 1 - Year 6)",
+        "amount": 28500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & A-Levels (Year 7 - Year 13)",
+        "amount": 43500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年間授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 16000,
+      "tuitionMaxAnnual": 41800,
+      "tuitionDisplay": "RM 16,000 – RM 41,800 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://tenby.edu.my/setia-eco-park",
+  "contact": {
+    "email": "sep-admissions@tenby.edu.my",
+    "phone": "+60 3-3342 1535"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://tenby.edu.my/setia-eco-park",
+      "title": "Tenby Schools Setia Eco Park Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://tenby.edu.my/setia-eco-park/admissions/tuition-fees",
+      "title": "Tenby Setia Eco Park Official Tuition Fees",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/tenby-schools-setia-eco-park.png"
+}

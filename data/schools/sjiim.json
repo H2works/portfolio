@@ -1,0 +1,180 @@
+{
+  "id": "sjiim",
+  "slug": "sjiim",
+  "name": "St. Joseph's Institution International School Malaysia",
+  "officialName": "St. Joseph's Institution International School Malaysia (SJIIM)",
+  "shortDescription": "Tropicana PJに位置するシンガポール名門SJIの姉妹校。ラ・サール教育の伝統に基づく高潔な人格形成、Cambridge IGCSEとIB Diplomaを提供。",
+  "overview": "St. Joseph's Institution International School Malaysia (SJIIM) は、シンガポール屈指のトップ進学校SJIの海外校として2016年にセランゴール州ペタリンジャヤ（Tropicana）に開校したインターナショナルスクールです。300年以上の歴史を持つカトリック・ラ・サール教育の伝統を継承し、宗教・国籍を問わずすべての生徒を受け入れています。幼児教育・初等部ではIPCおよびシンガポール式算数・英国カリキュラムを採用し、中等部でCambridge IGCSE、高等部で国際バカロレア（IB Diploma）を提供。高い学問的厳格さと他者への奉仕の心を育む人格教育の両立で、アジア系駐在員家庭を中心に熱烈な支持を集めています。",
+  "establishedYear": 2016,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "Tropicana",
+    "address": "No. 1, PJU 3/13, Tropicana Indah Resort Homes, 47410 Petaling Jaya, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=St.+Joseph's+Institution+International+School+Malaysia"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IB",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任スタッフはいませんが、英語集中コース（EAL）による親身な言語サポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員による充実したEALサポートクラスを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Petaling Jaya、Bandar Utama、Mont Kiara、Bangsar、Subang Jaya各方面を結ぶ安心のスクールバス路線。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "多彩なスポーツ、文化、合唱、奉仕活動、リーダーシッププログラム（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書オンライン出願、CAT4診断テスト、英語・算数の学力評価、校長・教頭面談。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "25m競泳用プール",
+    "大型インドアスポーツアリーナ & バスケットボールコート",
+    "人工芝サッカーグラウンド",
+    "プロ仕様の音響設備を備えたパフォーミングアーツ劇場",
+    "STEAMラボ & 最新サイエンス実験室",
+    "音楽練習室 & アートスタジオ",
+    "初等部・中高等部それぞれの専用図書室"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 43500,
+    "tuitionMaxAnnual": 95000,
+    "tuitionDisplay": "RM 43,500 – RM 95,000 / 年",
+    "applicationFee": 1500,
+    "registrationFee": 6000,
+    "deposit": 10000,
+    "busFeeEstimate": "個別見積もり（Tropicana・PJ等 / 相場目安: 約RM 3,800〜/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 15〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 6000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Security Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery / Reception)",
+        "amount": 43500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery / Reception",
+        "notes": "年間授業料（3学期分割納入）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Elementary School (Year 1 - Year 6)",
+        "amount": 68000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "High School & IB DP (Year 7 - Year 13)",
+        "amount": 95000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary / Sixth Form",
+        "notes": "年間授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 41500,
+      "tuitionMaxAnnual": 91000,
+      "tuitionDisplay": "RM 41,500 – RM 91,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.sji-international.edu.my",
+  "contact": {
+    "email": "enquiries@sji-international.edu.my",
+    "phone": "+60 3-8605 3605"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.sji-international.edu.my",
+      "title": "SJIIM Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.sji-international.edu.my/admissions-information/",
+      "title": "SJIIM Official Admissions & Enrolment Information",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/sjiim.png"
+}
