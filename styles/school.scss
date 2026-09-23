@@ -15,6 +15,16 @@
   top: 0;
   z-index: 1020;
 
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #0284c7 0%, #f97316 40%, #ec4899 75%, #06b6d4 100%);
+  }
+
   .school-brand {
     font-size: 1.25rem;
     font-weight: 700;
@@ -89,23 +99,113 @@
 
 // Hero Search Launcher (School Top)
 .school-hero-section {
-  background: linear-gradient(180deg, #ffffff 0%, #f9fafb 100%);
-  border-bottom: 1px solid #e5e7eb;
-  padding: 3.5rem 0 2.5rem;
+  position: relative;
+  background-color: #0b0f19;
+  background-image:
+    radial-gradient(ellipse at 85% 45%, rgba(15, 23, 42, 0.15) 0%, rgba(11, 15, 25, 0.94) 75%),
+    linear-gradient(180deg, rgba(11, 15, 25, 0.82) 0%, rgba(11, 15, 25, 0.97) 100%),
+    url('/img/webp/bck8_xl.webp');
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: cover;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 4.5rem 0 3.5rem;
+  color: #ffffff;
+  overflow: hidden;
+
+  @media (max-width: 991px) {
+    background-image:
+      linear-gradient(180deg, rgba(11, 15, 25, 0.88) 0%, rgba(11, 15, 25, 0.96) 100%),
+      url('/img/webp/bck8_md.webp');
+    background-position: center;
+    padding: 3.5rem 0 2.5rem;
+  }
+
+  .hero-badge {
+    background-color: rgba(37, 99, 235, 0.2);
+    border: 1px solid rgba(96, 165, 250, 0.35);
+    color: #93c5fd;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0.4rem 1rem;
+    border-radius: 9999px;
+    display: inline-block;
+  }
 
   .hero-title {
-    font-size: 2.25rem;
+    font-size: 2.5rem;
     font-weight: 800;
     letter-spacing: -0.03em;
-    color: #111827;
-    line-height: 1.2;
+    color: #ffffff;
+    line-height: 1.25;
+
+    @media (max-width: 768px) {
+      font-size: 1.85rem;
+    }
   }
 
   .hero-lead {
-    font-size: 1.15rem;
-    color: #4b5563;
-    line-height: 1.6;
+    font-size: 1.1rem;
+    color: #cbd5e1;
+    line-height: 1.65;
   }
+
+  .hero-tag {
+    background-color: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: #e2e8f0;
+    text-decoration: none;
+    padding: 0.35rem 0.85rem;
+    border-radius: 9999px;
+    font-size: 0.82rem;
+    transition: all 0.15s ease;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+      border-color: rgba(255, 255, 255, 0.35);
+      color: #ffffff;
+    }
+  }
+
+  .hero-visual-card {
+    background-color: #111827;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+  }
+}
+
+// Page Banner (Malaysia & Compare pages)
+.school-page-banner {
+  position: relative;
+  background-color: #0b0f19;
+  background-image:
+    linear-gradient(90deg, rgba(11, 15, 25, 0.95) 0%, rgba(11, 15, 25, 0.82) 55%, rgba(11, 15, 25, 0.45) 100%),
+    url('/img/webp/bck8_md.webp');
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: cover;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+
+  @media (max-width: 768px) {
+    background-image:
+      linear-gradient(180deg, rgba(11, 15, 25, 0.92) 0%, rgba(11, 15, 25, 0.96) 100%),
+      url('/img/webp/bck8_xs.webp');
+  }
+}
+
+// Brand Continuity Banner (School Portal Bottom CTA)
+.school-brand-banner {
+  position: relative;
+  background-color: #0b0f19;
+  background-image:
+    linear-gradient(90deg, rgba(11, 15, 25, 0.94) 0%, rgba(11, 15, 25, 0.8) 60%, rgba(11, 15, 25, 0.5) 100%),
+    url('/img/webp/bck8_md.webp');
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: cover;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #ffffff;
 }
 
 // Badges & Tags

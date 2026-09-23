@@ -24,9 +24,9 @@ export default function SchoolPortalTop() {
       {/* Hero Launcher */}
       <section className="school-hero-section">
         <div className="container-xl px-3">
-          <div className="row justify-content-center text-center">
-            <div className="col-12 col-lg-9 col-xl-8">
-              <span className="badge bg-primary-subtle text-primary fw-bold mb-3 px-3 py-2 rounded-pill">
+          <div className="row align-items-center g-4 g-xl-5">
+            <div className="col-12 col-lg-7">
+              <span className="hero-badge mb-3">
                 Malaysia / Klang Valley Edition
               </span>
               <h1 className="hero-title mb-3">
@@ -38,10 +38,10 @@ export default function SchoolPortalTop() {
               </p>
 
               {/* Quick Search CTAs */}
-              <div className="d-flex flex-wrap justify-content-center gap-2 mb-4">
+              <div className="d-flex flex-wrap gap-2 mb-4">
                 <Link
                   href="/school/malaysia"
-                  className="btn btn-dark btn-lg rounded-pill px-4 fw-bold shadow-sm"
+                  className="btn btn-light btn-lg rounded-pill px-4 fw-bold shadow-sm text-dark"
                 >
                   マレーシアの学校を探す（全{allSchools.length}校）
                   <svg
@@ -60,45 +60,103 @@ export default function SchoolPortalTop() {
                 </Link>
                 <Link
                   href="/school/compare"
-                  className="btn btn-outline-secondary btn-lg rounded-pill px-4 fw-medium"
+                  className="btn btn-outline-light btn-lg rounded-pill px-4 fw-medium"
                 >
                   学校を比較する
                 </Link>
               </div>
 
               {/* Fast Tags */}
-              <div className="d-flex flex-wrap justify-content-center align-items-center gap-2 small text-secondary">
-                <span className="fw-semibold text-dark">人気の条件:</span>
+              <div className="d-flex flex-wrap align-items-center gap-2 small">
+                <span className="fw-semibold text-white-50">人気の条件:</span>
                 <Link
                   href="/school/malaysia?curriculum=Cambridge"
-                  className="badge bg-light text-secondary border text-decoration-none py-2 px-3 rounded-pill"
+                  className="hero-tag"
                 >
                   Cambridge (ケンブリッジ)
                 </Link>
                 <Link
                   href="/school/malaysia?curriculum=IB"
-                  className="badge bg-light text-secondary border text-decoration-none py-2 px-3 rounded-pill"
+                  className="hero-tag"
                 >
                   IB (国際バカロレア)
                 </Link>
                 <Link
                   href="/school/malaysia?state=Kuala+Lumpur"
-                  className="badge bg-light text-secondary border text-decoration-none py-2 px-3 rounded-pill"
+                  className="hero-tag"
                 >
                   クアラルンプール市内
                 </Link>
                 <Link
                   href="/school/malaysia?state=Selangor"
-                  className="badge bg-light text-secondary border text-decoration-none py-2 px-3 rounded-pill"
+                  className="hero-tag"
                 >
                   セランゴール州
                 </Link>
                 <Link
                   href="/school/malaysia?maxBudget=40000"
-                  className="badge bg-light text-secondary border text-decoration-none py-2 px-3 rounded-pill"
+                  className="hero-tag"
                 >
                   年間RM40,000以下
                 </Link>
+              </div>
+            </div>
+
+            {/* Desktop Hero Visual Showcase */}
+            <div className="col-12 col-lg-5 d-none d-lg-block">
+              <div className="hero-visual-card position-relative rounded-4 overflow-hidden shadow-lg border border-white border-opacity-15">
+                <div
+                  className="hero-visual-img position-relative"
+                  style={{
+                    backgroundImage: "url('/img/webp/bck8_md.webp')",
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    minHeight: '340px',
+                  }}
+                >
+                  <div
+                    className="position-absolute bottom-0 start-0 end-0 p-4"
+                    style={{
+                      background: 'linear-gradient(180deg, rgba(11, 15, 25, 0.25) 0%, rgba(11, 15, 25, 0.95) 90%)',
+                      backdropFilter: 'blur(3px)',
+                      WebkitBackdropFilter: 'blur(3px)',
+                    }}
+                  >
+                    <div className="d-flex align-items-center gap-2 mb-2">
+                      <span className="badge bg-primary px-2 py-1 small fw-semibold">
+                        H2works Data Standard
+                      </span>
+                      <span className="text-white-50 small">クランバレー全18校</span>
+                    </div>
+                    <h3 className="h6 text-white fw-bold mb-2">公式エビデンスに基づく教育データベース</h3>
+                    <div className="row g-2 text-white-50 small">
+                      <div className="col-6 d-flex align-items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="#38bdf8" viewBox="0 0 16 16">
+                          <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425z"/>
+                        </svg>
+                        学費表PDF原本アーカイブ
+                      </div>
+                      <div className="col-6 d-flex align-items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="#38bdf8" viewBox="0 0 16 16">
+                          <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425z"/>
+                        </svg>
+                        ゾーン別バス代・給食表記
+                      </div>
+                      <div className="col-6 d-flex align-items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="#38bdf8" viewBox="0 0 16 16">
+                          <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425z"/>
+                        </svg>
+                        全校URL死活監視済み
+                      </div>
+                      <div className="col-6 d-flex align-items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="#38bdf8" viewBox="0 0 16 16">
+                          <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425z"/>
+                        </svg>
+                        広告順位・推測情報ゼロ
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -207,6 +265,38 @@ export default function SchoolPortalTop() {
             >
               条件を指定して学校を検索する
             </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Brand Continuity Banner */}
+      <section className="py-5 bg-white border-top">
+        <div className="container-xl px-3">
+          <div className="school-brand-banner rounded-4 p-4 p-md-5 text-white position-relative overflow-hidden shadow-sm">
+            <div className="row align-items-center position-relative z-1">
+              <div className="col-12 col-lg-8 mb-3 mb-lg-0">
+                <span className="badge bg-white bg-opacity-15 border border-white border-opacity-25 text-white mb-2 px-3 py-1 rounded-pill small">
+                  Developed by H2works
+                </span>
+                <h3 className="h4 fw-bold text-white mb-2">
+                  信頼性の高いデータ設計と、高速なWeb体験を。
+                </h3>
+                <p className="text-light opacity-90 mb-0 small">
+                  当サイトは、Next.js (SSG) と構造化データ設計により、0msの快適な検索体験と公式エビデンス（原本PDF・死活監視）の両立を追求したWebプロジェクトです。
+                </p>
+              </div>
+              <div className="col-12 col-lg-4 text-lg-end">
+                <Link
+                  href="/"
+                  className="btn btn-light btn-md rounded-pill px-4 fw-bold shadow-sm"
+                >
+                  H2works トップへ戻る
+                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" className="bi bi-arrow-right ms-2" viewBox="0 0 16 16">
+                    <path fillRule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
+                  </svg>
+                </Link>
+              </div>
+            </div>
           </div>
         </div>
       </section>
