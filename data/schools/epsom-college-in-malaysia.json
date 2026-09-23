@@ -80,8 +80,8 @@
     "applicationFee": 1500,
     "registrationFee": 10000,
     "deposit": 15000,
-    "busFeeEstimate": "約 RM 5,000 – RM 9,000 / 年（通学時）",
-    "lunchFeeEstimate": "通学費に含む（寮生は全食事込み）",
+    "busFeeEstimate": "通学時: 約RM 5,000 – RM 9,000 / 年（KL市内・空港方面 / 寮生は不要）",
+    "lunchFeeEstimate": "通学生: カフェテリア都度払い（1食 約RM 18〜22目安） / 寮生: 全寮費に全食事を含む",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -154,7 +154,7 @@
       "items": []
     }
   ],
-  "websiteUrl": "https://www.epsomschool.com",
+  "websiteUrl": "https://www.epsomcollege.edu.my",
   "contact": {
     "email": "admissions@epsomschool.com",
     "phone": "+60 6-240 4188"
@@ -162,15 +162,22 @@
   "lastVerified": "September 2026",
   "sources": [
     {
-      "url": "https://www.epsomschool.com",
+      "url": "https://www.epsomcollege.edu.my",
       "title": "Epsom College in Malaysia Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://www.epsomschool.com/admissions/fees",
-      "title": "ECiM Schedule of Fees 2025/2026",
+      "url": "https://www.epsomcollege.edu.my/admissions/fees/",
+      "title": "Epsom College Table of Fees",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.epsomcollege.edu.my/wp-content/uploads/2026/03/Day_School_Programme.pdf",
+      "title": "Epsom College Day School Fee Schedule (PDF)",
       "sourceType": "official_pdf",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"

@@ -81,8 +81,8 @@
     "applicationFee": 1500,
     "registrationFee": 17050,
     "deposit": 10000,
-    "busFeeEstimate": "約 RM 4,800 – RM 8,500 / 年",
-    "lunchFeeEstimate": "約 RM 3,000 – RM 4,200 / 年",
+    "busFeeEstimate": "Zone別: 約RM 4,800 – RM 8,500 / 年（公式提携バス会社）",
+    "lunchFeeEstimate": "学期制ホットランチ（年約RM 3,000〜4,200目安） または カフェテリア都度払い",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -155,7 +155,7 @@
       "items": []
     }
   ],
-  "websiteUrl": "https://www.nordangliaeducation.com/bskl",
+  "websiteUrl": "https://www.nordangliaeducation.com/bskl-kuala-lumpur",
   "contact": {
     "email": "admissions@britishschool.edu.my",
     "phone": "+60 3-7727 7775"
@@ -163,18 +163,25 @@
   "lastVerified": "September 2026",
   "sources": [
     {
-      "url": "https://www.nordangliaeducation.com/bskl",
+      "url": "https://www.nordangliaeducation.com/bskl-kuala-lumpur",
       "title": "BSKL Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://www.nordangliaeducation.com/bskl/admissions/fees",
-      "title": "BSKL Schedule of Fees 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://www.nordangliaeducation.com/bskl-kuala-lumpur/admissions/tuition-fees",
+      "title": "BSKL Official Tuition & Fees Page",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.nordangliaeducation.com/bskl-kuala-lumpur/-/media/bskl-kuala-lumpur/admissions/bskl-school-fees---2026-27.pdf",
+      "title": "BSKL Official School Fees 2026-27 (PDF)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
     }
   ],
   "logoUrl": "/img/schools/logos/bskl.png"

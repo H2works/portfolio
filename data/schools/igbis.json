@@ -78,8 +78,8 @@
     "applicationFee": 1200,
     "registrationFee": 10000,
     "deposit": 10000,
-    "busFeeEstimate": "約 RM 4,500 – RM 8,000 / 年",
-    "lunchFeeEstimate": "約 RM 2,800 – RM 4,200 / 年",
+    "busFeeEstimate": "ルート別: 約RM 4,500 – RM 8,000 / 年（公式提携バス）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 15〜22目安 / プリペイドカード利用 / お弁当持参可）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -161,15 +161,15 @@
   "sources": [
     {
       "url": "https://igbis.edu.my",
-      "title": "IGB International School Official Website",
+      "title": "IGBIS Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://igbis.edu.my/admissions/fees",
-      "title": "IGBIS Official Schedule of School Fees 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://igbis.edu.my/admissions/fee/",
+      "title": "IGBIS Official Tuition & Fees Schedule",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }

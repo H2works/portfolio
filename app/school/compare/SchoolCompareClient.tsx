@@ -311,6 +311,11 @@ export default function SchoolCompareClient({ allSchools }: Props) {
                   {s.features.schoolBus ? (
                     <div>
                       <span className="badge bg-success-subtle text-success fw-bold">運行あり</span>
+                      {s.currentFees.busFeeEstimate && (
+                        <div className="fw-semibold text-dark mt-1" style={{ fontSize: '0.78rem' }}>
+                          {s.currentFees.busFeeEstimate}
+                        </div>
+                      )}
                       <div className="small text-secondary mt-1" style={{ fontSize: '0.75rem' }}>
                         {s.features.busDetail}
                       </div>
@@ -318,6 +323,16 @@ export default function SchoolCompareClient({ allSchools }: Props) {
                   ) : (
                     <span className="text-muted small">運行なし</span>
                   )}
+                </td>
+              ))}
+            </tr>
+
+            {/* Lunch */}
+            <tr>
+              <td className="compare-label-col">給食・ランチ代</td>
+              {selectedSchools.map((s) => (
+                <td key={s.slug} className="small">
+                  <div className="fw-medium text-dark">{s.currentFees.lunchFeeEstimate || 'カフェテリア実費'}</div>
                 </td>
               ))}
             </tr>

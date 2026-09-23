@@ -18,7 +18,9 @@
     "start": "next start",
     "lint": "next lint",
     "school:extract": "node scripts/extract-school.js",
-    "school:logos": "node scripts/fetch-logos.js"
+    "school:logos": "node scripts/fetch-logos.js",
+    "school:download-pdfs": "node scripts/download-official-pdfs.js",
+    "school:verify-urls": "node scripts/verify-all-school-urls.js"
   },
   "dependencies": {
     "@types/aos": "^3.0.7",

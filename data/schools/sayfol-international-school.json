@@ -78,8 +78,8 @@
     "applicationFee": 500,
     "registrationFee": 2500,
     "deposit": 3000,
-    "busFeeEstimate": "約 RM 2,400 – RM 4,800 / 年",
-    "lunchFeeEstimate": "約 RM 1,800 – RM 2,800 / 年",
+    "busFeeEstimate": "個別見積もり（Ampang・KLCC等 / 相場目安: 約RM 2,400〜/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜14目安 / お弁当持参可）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -152,7 +152,7 @@
       "items": []
     }
   ],
-  "websiteUrl": "https://sayfol.edu.my",
+  "websiteUrl": "https://www.sayfol.edu.my",
   "contact": {
     "email": "inquiry@sayfol.edu.my",
     "phone": "+60 3-4256 8791"
@@ -160,18 +160,25 @@
   "lastVerified": "September 2026",
   "sources": [
     {
-      "url": "https://sayfol.edu.my",
-      "title": "Sayfol International School Official Website",
+      "url": "https://www.sayfol.edu.my",
+      "title": "Sayfol Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://sayfol.edu.my/admissions/fees",
-      "title": "Sayfol Schedule of Fees 2025/2026",
+      "url": "https://sayfol.edu.my/admission/fee-structure-terms-of-payment-academic-year-2026-2027/",
+      "title": "Sayfol Fee Structure & Terms of Payment",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://sayfol.edu.my/wp-content/uploads/2026/05/Academic-Calendar-Fee-2026-2027.pdf",
+      "title": "Sayfol Academic Calendar & Fee Schedule (PDF)",
       "sourceType": "official_pdf",
       "checkedAt": "2026-09",
-      "academicYear": "2025/2026"
+      "academicYear": "2026/2027"
     }
   ],
   "logoUrl": "/img/schools/logos/sayfol-international-school.png"

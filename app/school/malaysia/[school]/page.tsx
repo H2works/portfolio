@@ -258,17 +258,23 @@ export default async function SchoolDetailPage({ params }: PageProps) {
               </div>
 
               {/* Ancillary Fees Estimates */}
-              <h3 className="h6 fw-bold text-dark mb-2">その他諸費用（概算）</h3>
-              <ul className="list-group list-group-flush border rounded-2 small mb-3">
-                <li className="list-group-item d-flex justify-content-between align-items-center">
-                  <span>🚌 スクールバス代（年間）</span>
-                  <span className="fw-semibold text-dark">{school.currentFees.busFeeEstimate || 'ルート・距離に応じて別見積'}</span>
+              <div className="d-flex flex-wrap align-items-center justify-content-between mb-2">
+                <h3 className="h6 fw-bold text-dark mb-0">通学・給食等の諸費用（目安）</h3>
+                <span className="badge bg-light text-secondary border small">利用状況・距離により変動</span>
+              </div>
+              <ul className="list-group list-group-flush border rounded-2 small mb-2">
+                <li className="list-group-item d-flex flex-column flex-sm-row justify-content-between align-items-sm-center gap-1 py-3">
+                  <span className="fw-medium text-secondary">🚌 スクールバス運賃</span>
+                  <span className="fw-semibold text-dark text-sm-end">{school.currentFees.busFeeEstimate || 'ルート・距離に応じて別見積'}</span>
                 </li>
-                <li className="list-group-item d-flex justify-content-between align-items-center">
-                  <span>🍱 給食・ランチ代（年間）</span>
-                  <span className="fw-semibold text-dark">{school.currentFees.lunchFeeEstimate || '利用時別途実費'}</span>
+                <li className="list-group-item d-flex flex-column flex-sm-row justify-content-between align-items-sm-center gap-1 py-3">
+                  <span className="fw-medium text-secondary">🍱 給食・ランチ代</span>
+                  <span className="fw-semibold text-dark text-sm-end">{school.currentFees.lunchFeeEstimate || '利用時別途実費'}</span>
                 </li>
               </ul>
+              <div className="text-muted small mb-4" style={{ fontSize: '0.75rem' }}>
+                ※ スクールバス・給食代は学校提携の専門運行会社またはカフェテリア業者への直接精算となる場合が多く、居住地や学年によって異なります。多くの学校でお弁当の持参も可能です。
+              </div>
 
               {/* Historical Fees Notice */}
               {school.historicalFees && school.historicalFees.length > 0 && (

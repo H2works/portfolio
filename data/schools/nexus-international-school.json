@@ -82,8 +82,8 @@
     "applicationFee": 1000,
     "registrationFee": 5000,
     "deposit": 10000,
-    "busFeeEstimate": "約 RM 4,500 – RM 8,500 / 年",
-    "lunchFeeEstimate": "約 RM 2,800 – RM 4,200 / 年",
+    "busFeeEstimate": "エリア別: 約RM 4,500 – RM 8,500 / 年（公式提携バス）",
+    "lunchFeeEstimate": "学期制ミールプラン または カフェテリア都度払い（1食 約RM 15〜22目安 / 寮生は全食事込み）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -165,17 +165,24 @@
   "sources": [
     {
       "url": "https://www.nexus.edu.my",
-      "title": "Nexus International School Malaysia Official Website",
+      "title": "Nexus Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://www.nexus.edu.my/admissions/fees",
-      "title": "Nexus Fee Schedule 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://www.nexus.edu.my/admissions/school-fees/",
+      "title": "Nexus Official School Fees Schedule",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.nexus.edu.my/wp-content/uploads/2026/04/NISM-Fees-Schedule-2026-27.pdf",
+      "title": "Nexus Official Fee Schedule 2026-27 (PDF)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
     }
   ],
   "logoUrl": "/img/schools/logos/nexus-international-school.png"

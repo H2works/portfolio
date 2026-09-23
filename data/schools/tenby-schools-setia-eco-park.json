@@ -80,8 +80,8 @@
     "applicationFee": 800,
     "registrationFee": 3500,
     "deposit": 5000,
-    "busFeeEstimate": "約 RM 2,600 – RM 5,000 / 年",
-    "lunchFeeEstimate": "約 RM 1,900 – RM 3,000 / 年",
+    "busFeeEstimate": "個別見積もり（Setia Alam・Klang等 / 相場目安: 約RM 2,600〜/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -169,9 +169,9 @@
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://tenby.edu.my/setia-eco-park/admissions/fees",
-      "title": "Tenby SEP Official Fees 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://tenby.edu.my/setia-eco-park/admissions/tuition-fees",
+      "title": "Tenby Setia Eco Park Official Tuition Fees",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }

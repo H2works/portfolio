@@ -77,8 +77,8 @@
     "applicationFee": 1000,
     "registrationFee": 5000,
     "deposit": 8000,
-    "busFeeEstimate": "約 RM 3,500 – RM 6,500 / 年",
-    "lunchFeeEstimate": "約 RM 2,400 – RM 3,600 / 年",
+    "busFeeEstimate": "個別見積もり（Subang・PJ・KL方面 / 相場目安: 約RM 3,500〜/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 14〜18目安 / 寮生は全食事込み）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -151,7 +151,7 @@
       "items": []
     }
   ],
-  "websiteUrl": "https://sis.sunway.edu.my",
+  "websiteUrl": "https://sunwayschools.edu.my/siskl",
   "contact": {
     "email": "infosis@sunway.edu.my",
     "phone": "+60 3-5639 8800"
@@ -159,16 +159,16 @@
   "lastVerified": "September 2026",
   "sources": [
     {
-      "url": "https://sis.sunway.edu.my",
+      "url": "https://sunwayschools.edu.my/siskl",
       "title": "Sunway International School Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://sis.sunway.edu.my/admissions/fees",
-      "title": "SIS Official Schedule of Fees 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://sunwayschools.edu.my/siskl/admissions/admission-overview",
+      "title": "Sunway International School Admissions Overview",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }

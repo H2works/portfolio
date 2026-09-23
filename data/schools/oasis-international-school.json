@@ -76,8 +76,8 @@
     "applicationFee": 1200,
     "registrationFee": 6500,
     "deposit": 8000,
-    "busFeeEstimate": "約 RM 3,600 – RM 6,500 / 年",
-    "lunchFeeEstimate": "約 RM 2,400 – RM 3,600 / 年",
+    "busFeeEstimate": "個別見積もり（Kota Kemuning・Subang等 / 相場目安: 約RM 3,600〜/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 14〜18目安 / お弁当持参可）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -159,15 +159,15 @@
   "sources": [
     {
       "url": "https://www.ois.edu.my",
-      "title": "OIS Official Website",
+      "title": "Oasis International School Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://www.ois.edu.my/admissions/tuition-fees",
-      "title": "OIS Tuition and Fees 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://www.ois.edu.my/admissions/tuition-and-fees",
+      "title": "Oasis Official Tuition and Fees Schedule",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }

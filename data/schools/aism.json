@@ -79,8 +79,8 @@
     "applicationFee": 1300,
     "registrationFee": 10000,
     "deposit": 10000,
-    "busFeeEstimate": "約 RM 4,200 – RM 7,500 / 年",
-    "lunchFeeEstimate": "約 RM 2,600 – RM 3,800 / 年",
+    "busFeeEstimate": "個別見積もり（ルート・距離による / 相場目安: 約RM 4,000〜/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 15〜20目安 / お弁当持参可）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -168,9 +168,9 @@
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://www.aism.edu.my/admissions/fees",
-      "title": "AISM Fee Schedule 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://aism.edu.my/admissions-overview/school-fees/",
+      "title": "AISM Official School Fees Schedule",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }

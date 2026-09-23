@@ -77,8 +77,8 @@
     "applicationFee": 1000,
     "registrationFee": 4000,
     "deposit": 8000,
-    "busFeeEstimate": "約 RM 3,000 – RM 5,800 / 年",
-    "lunchFeeEstimate": "約 RM 2,200 – RM 3,400 / 年",
+    "busFeeEstimate": "個別見積もり（PJ・Damansara等 / 相場目安: 約RM 3,000〜/年）",
+    "lunchFeeEstimate": "学期制給食セット または カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -151,7 +151,7 @@
       "items": []
     }
   ],
-  "websiteUrl": "https://srikdu.edu.my/schools/kd-international",
+  "websiteUrl": "https://srikdu.edu.my/kota-damansara-international/",
   "contact": {
     "email": "info@srikdu.edu.my",
     "phone": "+60 3-6145 3888"
@@ -159,16 +159,16 @@
   "lastVerified": "September 2026",
   "sources": [
     {
-      "url": "https://srikdu.edu.my/schools/kd-international",
-      "title": "Sri KDU International School KD Official Website",
+      "url": "https://srikdu.edu.my/kota-damansara-international/",
+      "title": "Sri KDU Kota Damansara Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://srikdu.edu.my/admissions/fees",
-      "title": "Sri KDU KD Schedule of Fees 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://srikdu.edu.my/kota-damansara-international/fee-structure/",
+      "title": "Sri KDU Kota Damansara Official Fee Structure",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }

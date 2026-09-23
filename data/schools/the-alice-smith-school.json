@@ -80,8 +80,8 @@
     "applicationFee": 1200,
     "registrationFee": 5000,
     "deposit": 10000,
-    "busFeeEstimate": "約 RM 4,800 – RM 8,500 / 年",
-    "lunchFeeEstimate": "約 RM 2,600 – RM 3,800 / 年",
+    "busFeeEstimate": "Zone別: 約RM 4,800 – RM 8,500 / 年（公式Zone運賃表）",
+    "lunchFeeEstimate": "学期制ミールプラン または カフェテリア都度払い（1食 約RM 15〜20目安 / お弁当持参可）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -163,17 +163,24 @@
   "sources": [
     {
       "url": "https://www.alice-smith.edu.my",
-      "title": "The Alice Smith School Official Website",
+      "title": "Alice Smith School Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://www.alice-smith.edu.my/admissions/fees",
-      "title": "Official Schedule of School Fees 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://www.alice-smith.edu.my/join/tuition-and-fees",
+      "title": "Alice Smith Official Tuition & Fees Schedule",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.alice-smith.edu.my/userfiles/assmvc/Documents/03-Join/Admissions/2026-27%20Fees%20Schedule%20(New%20Tier)%20(FINAL).pdf",
+      "title": "Alice Smith 2026-27 Fee Schedule (PDF)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
     }
   ],
   "logoUrl": "/img/schools/logos/the-alice-smith-school.png"

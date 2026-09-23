@@ -76,8 +76,8 @@
     "applicationFee": 1000,
     "registrationFee": 5000,
     "deposit": 5000,
-    "busFeeEstimate": "約 RM 2,800 – RM 5,500 / 年",
-    "lunchFeeEstimate": "約 RM 2,000 – RM 3,200 / 年",
+    "busFeeEstimate": "個別見積もり（Wangsa Maju・KL市内 / 相場目安: 約RM 2,800〜/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / 寮生は全食事込み）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -165,9 +165,9 @@
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://fairview.edu.my/admissions/fees",
-      "title": "Fairview Fee Schedule 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://fairview.edu.my/school-admission/school-fees/",
+      "title": "Fairview Official School Fees Schedule",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }

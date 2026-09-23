@@ -79,8 +79,8 @@
     "applicationFee": 1500,
     "registrationFee": 9000,
     "deposit": 10000,
-    "busFeeEstimate": "約 RM 5,000 – RM 9,000 / 年（ルート・距離による）",
-    "lunchFeeEstimate": "約 RM 3,000 – RM 4,500 / 年",
+    "busFeeEstimate": "ルート・距離別: 約RM 5,000 – RM 9,000 / 年（公式提携バス会社）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 16〜22目安 / プリペイドカード利用 / お弁当持参可）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -168,9 +168,9 @@
       "academicYear": "2025/2026"
     },
     {
-      "url": "https://www.iskl.edu.my/admissions/fees/",
-      "title": "ISKL Official Tuition & Fee Schedule 2025/2026",
-      "sourceType": "official_pdf",
+      "url": "https://www.iskl.edu.my/admissions/iskl-fees",
+      "title": "ISKL Official Tuition & Fee Schedule",
+      "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
