@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { useState, useEffect } from 'react';
 
 const STORAGE_KEY = 'h2works_compare_schools';
@@ -43,11 +44,14 @@ export function clearComparedSchools() {
 }
 
 export default function CompareBar() {
+  const pathname = usePathname();
   const [selectedSlugs, setSelectedSlugs] = useState<string[]>([]);
+  const [isDismissed, setIsDismissed] = useState(false);
 
   useEffect(() => {
     const sync = () => {
       setSelectedSlugs(getComparedSchoolSlugs());
+      setIsDismissed(false);
     };
     sync();
     window.addEventListener('h2works_compare_change', sync);
@@ -58,7 +62,11 @@ export default function CompareBar() {
     };
   }, []);
 
-  if (selectedSlugs.length === 0) return null;
+  // 比較ページ自身では表示しない
+  if (pathname === '/school/compare') return null;
+
+  // 選択校が0校、または「比較表を見る」クリック後は非表示
+  if (selectedSlugs.length === 0 || isDismissed) return null;
 
   return (
     <div className="compare-floating-bar" role="status" aria-live="polite">
@@ -71,6 +79,7 @@ export default function CompareBar() {
         <Link
           href={`/school/compare?schools=${selectedSlugs.join(',')}`}
           className="btn btn-primary btn-sm rounded-pill px-3 fw-bold shadow-sm"
+          onClick={() => setIsDismissed(true)}
         >
           比較表を見る
           <svg

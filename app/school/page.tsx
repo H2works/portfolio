@@ -108,25 +108,25 @@ export default function SchoolPortalTop() {
                 <div
                   className="hero-visual-img position-relative"
                   style={{
-                    backgroundImage: "url('/img/webp/bck8_md.webp')",
+                    backgroundImage: "url('/img/malaysia/kl-petronas-twin-towers.webp')",
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
-                    minHeight: '340px',
+                    minHeight: '350px',
                   }}
                 >
                   <div
                     className="position-absolute bottom-0 start-0 end-0 p-4"
                     style={{
-                      background: 'linear-gradient(180deg, rgba(11, 15, 25, 0.25) 0%, rgba(11, 15, 25, 0.95) 90%)',
+                      background: 'linear-gradient(180deg, rgba(11, 15, 25, 0.15) 0%, rgba(11, 15, 25, 0.95) 85%)',
                       backdropFilter: 'blur(3px)',
                       WebkitBackdropFilter: 'blur(3px)',
                     }}
                   >
-                    <div className="d-flex align-items-center gap-2 mb-2">
+                    <div className="d-flex align-items-center justify-content-between mb-2">
                       <span className="badge bg-primary px-2 py-1 small fw-semibold">
-                        H2works Data Standard
+                        Kuala Lumpur &amp; Selangor
                       </span>
-                      <span className="text-white-50 small">クランバレー全18校</span>
+                      <span className="text-white-50 small">全18校 掲載</span>
                     </div>
                     <h3 className="h6 text-white fw-bold mb-2">公式エビデンスに基づく教育データベース</h3>
                     <div className="row g-2 text-white-50 small">
