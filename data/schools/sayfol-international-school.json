@@ -19,11 +19,24 @@
     "maxAge": 18,
     "display": "2.5–18"
   },
-  "curricula": ["British", "Cambridge"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "French", "Malay"],
+    "secondLanguages": [
+      "Mandarin",
+      "French",
+      "Malay"
+    ],
     "japaneseSupport": false,
     "japaneseSupportDetail": "日本語対応スタッフはいませんが、英語集中サポート（Intensive English Course）により英語初心者から着実に実力を養えます。",
     "ellSupport": true,
@@ -40,7 +53,11 @@
     "afterSchoolCareDetail": "サッカー、バスケ、バドミントン、チェス、美術、音楽などの課外活動。"
   },
   "admissions": {
-    "intakeMonths": ["September", "January", "April"],
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
     "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
     "applicationProcess": "願書出願、学力診断テスト（英語・算数）、面談審査。",
     "assessmentRequired": true
@@ -156,5 +173,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/sayfol-international-school.png"
 }

@@ -19,11 +19,23 @@
     "maxAge": 18,
     "display": "5–18"
   },
-  "curricula": ["British", "Cambridge", "IB"],
-  "gradeLevels": ["Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IB"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "Malay", "French"],
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
     "japaneseSupport": false,
     "japaneseSupportDetail": "日本語対応スタッフはいませんが、英語集中コース（IEP）により基礎英語力を手厚く底上げします。",
     "ellSupport": true,
@@ -40,7 +52,10 @@
     "afterSchoolCareDetail": "バドミントン、水泳、ロボティクス、ディベートなど多彩な放課後CCA。"
   },
   "admissions": {
-    "intakeMonths": ["September", "January"],
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
     "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
     "applicationProcess": "願書出願、CAT4テストおよび英語・算数の学力アセスメント、校長・教頭面接。",
     "assessmentRequired": true
@@ -157,5 +172,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/sri-kdu-international-school-kota-damansara.png"
 }

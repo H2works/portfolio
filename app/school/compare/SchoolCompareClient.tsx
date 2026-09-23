@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { School } from '@/types/school';
+import SchoolLogo from '@/components/school/SchoolLogo';
 import {
   getComparedSchoolSlugs,
   toggleCompareSchool,
@@ -157,6 +158,13 @@ export default function SchoolCompareClient({ allSchools }: Props) {
                       aria-label="削除"
                       title="比較から除外"
                     ></button>
+                  </div>
+                  <div className="d-flex justify-content-center mb-2">
+                    <SchoolLogo
+                      name={school.name}
+                      logoUrl={school.logoUrl}
+                      size={48}
+                    />
                   </div>
                   <h3 className="h6 fw-bold text-dark mb-2" style={{ minHeight: '2.5rem' }}>
                     {school.name}

@@ -19,11 +19,25 @@
     "maxAge": 18,
     "display": "3–18"
   },
-  "curricula": ["British", "Cambridge", "IPC"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "Malay", "French"],
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
     "japaneseSupport": false,
     "japaneseSupportDetail": "日本語対応スタッフはいませんが、英語集中プログラム（Intensive English Programme）により初学者を丁寧にフォローします。",
     "ellSupport": true,
@@ -40,7 +54,11 @@
     "afterSchoolCareDetail": "スポーツ、アート、音楽、チェス、サイエンスなど70種以上の課外活動（CCAs）。"
   },
   "admissions": {
-    "intakeMonths": ["September", "January", "April"],
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
     "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
     "applicationProcess": "願書出願、CAT4テスト、英語・算数の学力アセスメント、面接審査。",
     "assessmentRequired": true
@@ -157,5 +175,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/tenby-schools-setia-eco-park.png"
 }

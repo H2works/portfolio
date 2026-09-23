@@ -19,11 +19,27 @@
     "maxAge": 18,
     "display": "3–18"
   },
-  "curricula": ["British", "Cambridge", "IB", "IPC"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IB",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "French", "Spanish", "Malay"],
+    "secondLanguages": [
+      "Mandarin",
+      "French",
+      "Spanish",
+      "Malay"
+    ],
     "japaneseSupport": true,
     "japaneseSupportDetail": "日本語対応スタッフによる出願相談窓口があり、ボーディング寮でも手厚いケアを実施。",
     "ellSupport": true,
@@ -40,7 +56,11 @@
     "afterSchoolCareDetail": "学術、芸術、スポーツ、ITなど80種類以上の課外アクティビティ（CCAs）。"
   },
   "admissions": {
-    "intakeMonths": ["August", "January", "April"],
+    "intakeMonths": [
+      "August",
+      "January",
+      "April"
+    ],
     "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
     "applicationProcess": "オンライン願書、CAT4診断テスト、英語力テスト、および面談。",
     "assessmentRequired": true
@@ -157,5 +177,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/nexus-international-school.png"
 }

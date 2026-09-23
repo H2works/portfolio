@@ -19,11 +19,25 @@
     "maxAge": 18,
     "display": "3–18"
   },
-  "curricula": ["British", "Cambridge"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "Malay", "French", "Spanish"],
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French",
+      "Spanish"
+    ],
     "japaneseSupport": true,
     "japaneseSupportDetail": "日本語対応可能なアドミッションスタッフ・リエゾンが常駐しており、見学や各種手続き時の日本語相談が可能です。Japanese Parents Groupもあります。",
     "ellSupport": true,
@@ -40,7 +54,11 @@
     "afterSchoolCareDetail": "放課後に100種類以上のアカデミック・スポーツ・文化系CCA（課外活動）プログラムを実施。"
   },
   "admissions": {
-    "intakeMonths": ["August", "January", "April"],
+    "intakeMonths": [
+      "August",
+      "January",
+      "April"
+    ],
     "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
     "applicationProcess": "オンライン願書提出、アセスメントテスト（CAT4等）、英語評価、および面接。",
     "assessmentRequired": true
@@ -157,5 +175,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/garden-international-school.png"
 }

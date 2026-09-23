@@ -19,11 +19,26 @@
     "maxAge": 18,
     "display": "3–18"
   },
-  "curricula": ["British", "Cambridge"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Reception", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Reception",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "French", "Spanish", "Malay"],
+    "secondLanguages": [
+      "Mandarin",
+      "French",
+      "Spanish",
+      "Malay"
+    ],
     "japaneseSupport": true,
     "japaneseSupportDetail": "入学説明会での通訳相談や、在校日本人ファミリーによるコミュニティサポートが活発です。",
     "ellSupport": true,
@@ -40,7 +55,11 @@
     "afterSchoolCareDetail": "多彩なクラブ活動、音楽アンサンブル、スポーツチーム活動などを放課後に実施。"
   },
   "admissions": {
-    "intakeMonths": ["September", "January", "April"],
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
     "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
     "applicationProcess": "オンライン登録、学校訪問・アセスメント、書類審査、合格通知および承諾手続き。",
     "assessmentRequired": true
@@ -156,5 +175,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/the-alice-smith-school.png"
 }

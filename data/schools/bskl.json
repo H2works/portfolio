@@ -19,11 +19,26 @@
     "maxAge": 18,
     "display": "2–18"
   },
-  "curricula": ["British", "Cambridge"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Reception", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Reception",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "Spanish", "French", "Malay"],
+    "secondLanguages": [
+      "Mandarin",
+      "Spanish",
+      "French",
+      "Malay"
+    ],
     "japaneseSupport": true,
     "japaneseSupportDetail": "日本語対応アドミッションスタッフが在籍。学校見学や各種手続き、保護者面談でのサポートがあり、Japanese Parents Networkも活発です。",
     "ellSupport": true,
@@ -40,7 +55,11 @@
     "afterSchoolCareDetail": "スポーツ、音楽、アート、STEM、語学など多彩な放課後アクティビティ（CCAs）。"
   },
   "admissions": {
-    "intakeMonths": ["August", "January", "April"],
+    "intakeMonths": [
+      "August",
+      "January",
+      "April"
+    ],
     "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜3月 / Term 3: 4月〜7月）",
     "applicationProcess": "オンライン願書提出、アセスメント（CAT4テスト・英語面談等）、および書類審査。",
     "assessmentRequired": true
@@ -157,5 +176,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/bskl.png"
 }

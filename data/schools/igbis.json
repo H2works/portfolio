@@ -19,11 +19,24 @@
     "maxAge": 18,
     "display": "2–18"
   },
-  "curricula": ["IB"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "IB"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "Spanish", "French", "Malay"],
+    "secondLanguages": [
+      "Mandarin",
+      "Spanish",
+      "French",
+      "Malay"
+    ],
     "japaneseSupport": true,
     "japaneseSupportDetail": "日本語対応スタッフによる出願相談窓口があり、母国語保持プログラム（Mother Tongue Support）や日本人ファミリー向けサポート体制が整っています。",
     "ellSupport": true,
@@ -40,7 +53,10 @@
     "afterSchoolCareDetail": "スポーツ、アート、ロボティクス、演劇、モデル国連など100種以上の放課後アクティビティ。"
   },
   "admissions": {
-    "intakeMonths": ["August", "January"],
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
     "academicYearSchedule": "2セメスター制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
     "applicationProcess": "オンライン願書、CAT4テスト、英語・数学診断テスト、学年主任および校長面接。",
     "assessmentRequired": true
@@ -157,5 +173,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/igbis.png"
 }

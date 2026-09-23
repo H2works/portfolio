@@ -19,11 +19,26 @@
     "maxAge": 18,
     "display": "3–18"
   },
-  "curricula": ["British", "Cambridge", "IPC"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "Malay", "Spanish", "French"],
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish",
+      "French"
+    ],
     "japaneseSupport": false,
     "japaneseSupportDetail": "日本語専任窓口はありませんが、英語が第2言語の生徒へのEALサポート体制が充実しています。",
     "ellSupport": true,
@@ -40,7 +55,10 @@
     "afterSchoolCareDetail": "スポーツ、パフォーミングアーツ、ロボット、コーディングなど80以上のクラブ活動。"
   },
   "admissions": {
-    "intakeMonths": ["September", "January"],
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
     "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
     "applicationProcess": "オンライン願書、CAT4診断テスト、英語・算数学力診断、面接。",
     "assessmentRequired": true
@@ -157,5 +175,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/help-international-school.png"
 }

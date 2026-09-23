@@ -5,6 +5,8 @@ import { useState, useEffect } from 'react';
 import { School } from '@/types/school';
 import { getComparedSchoolSlugs, toggleCompareSchool } from './CompareBar';
 
+import SchoolLogo from './SchoolLogo';
+
 interface SchoolCardProps {
   school: School;
 }
@@ -34,29 +36,46 @@ export default function SchoolCard({ school }: SchoolCardProps) {
       <div className="row align-items-center g-3">
         {/* Main Info */}
         <div className="col-12 col-lg-8">
-          <div className="d-flex flex-wrap align-items-center gap-2 mb-2">
-            <span className="text-secondary small d-flex align-items-center">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="13"
-                height="13"
-                fill="currentColor"
-                className="bi bi-geo-alt-fill me-1 text-danger"
-                viewBox="0 0 16 16"
-              >
-                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
-              </svg>
-              {school.location.state} • {school.location.area}
-            </span>
-            <span className="text-muted small">|</span>
-            <span className="text-secondary small">対象: {school.ageRange.display} 歳</span>
-          </div>
-
-          <h3 className="school-card-title">
-            <Link href={`/school/malaysia/${school.slug}`}>
-              {school.name}
+          <div className="d-flex align-items-start gap-3 mb-3">
+            <Link
+              href={`/school/malaysia/${school.slug}`}
+              className="text-decoration-none flex-shrink-0"
+              tabIndex={-1}
+              aria-hidden="true"
+            >
+              <SchoolLogo
+                name={school.name}
+                logoUrl={school.logoUrl}
+                size={54}
+              />
             </Link>
-          </h3>
+
+            <div className="flex-grow-1 min-w-0">
+              <div className="d-flex flex-wrap align-items-center gap-2 mb-1">
+                <span className="text-secondary small d-flex align-items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="13"
+                    height="13"
+                    fill="currentColor"
+                    className="bi bi-geo-alt-fill me-1 text-danger"
+                    viewBox="0 0 16 16"
+                  >
+                    <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
+                  </svg>
+                  {school.location.state} • {school.location.area}
+                </span>
+                <span className="text-muted small">|</span>
+                <span className="text-secondary small">対象: {school.ageRange.display} 歳</span>
+              </div>
+
+              <h3 className="school-card-title">
+                <Link href={`/school/malaysia/${school.slug}`}>
+                  {school.name}
+                </Link>
+              </h3>
+            </div>
+          </div>
 
           <div className="d-flex flex-wrap gap-1 mb-2">
             {school.curricula.map((curriculum) => (

@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import SchoolLayout from '@/components/school/SchoolLayout';
 import { SchoolStructuredData, BreadcrumbStructuredData } from '@/components/school/StructuredData';
 import { getAllSchoolSlugs, getSchoolBySlug } from '@/lib/schools';
+import SchoolLogo from '@/components/school/SchoolLogo';
 import SchoolDetailCompareButton from './SchoolDetailCompareButton';
 
 interface PageProps {
@@ -80,20 +81,27 @@ export default async function SchoolDetailPage({ params }: PageProps) {
           </nav>
 
           <div className="d-flex flex-wrap align-items-center justify-content-between gap-3">
-            <div>
-              <div className="d-flex flex-wrap align-items-center gap-2 mb-2">
-                <span className="badge bg-secondary-subtle text-dark fw-medium">
-                  {school.location.state} • {school.location.area}
-                </span>
-                <span className="verified-badge">
-                  ✓ 公式情報確認済み
-                </span>
-                <span className="text-muted small">
-                  最終確認: {school.lastVerified}
-                </span>
+            <div className="d-flex align-items-start align-items-sm-center gap-3">
+              <SchoolLogo
+                name={school.name}
+                logoUrl={school.logoUrl}
+                size={72}
+              />
+              <div>
+                <div className="d-flex flex-wrap align-items-center gap-2 mb-2">
+                  <span className="badge bg-secondary-subtle text-dark fw-medium">
+                    {school.location.state} • {school.location.area}
+                  </span>
+                  <span className="verified-badge">
+                    ✓ 公式情報確認済み
+                  </span>
+                  <span className="text-muted small">
+                    最終確認: {school.lastVerified}
+                  </span>
+                </div>
+                <h1 className="h2 fw-bold text-dark mb-1">{school.name}</h1>
+                <div className="text-muted small mb-0">{school.officialName}</div>
               </div>
-              <h1 className="h2 fw-bold text-dark mb-1">{school.name}</h1>
-              <div className="text-muted small mb-2">{school.officialName}</div>
             </div>
 
             <div className="d-flex align-items-center gap-2">

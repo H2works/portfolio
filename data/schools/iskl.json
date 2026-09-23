@@ -19,11 +19,25 @@
     "maxAge": 18,
     "display": "3–18"
   },
-  "curricula": ["American", "IB"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "American",
+    "IB"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "Spanish", "French", "Malay"],
+    "secondLanguages": [
+      "Mandarin",
+      "Spanish",
+      "French",
+      "Malay"
+    ],
     "japaneseSupport": true,
     "japaneseSupportDetail": "日本人ペアレントコミュニティ（JPA）が活発に活動しており、学校イベントや新入生オリエンテーションでの日本語サポート体制があります。",
     "ellSupport": true,
@@ -40,7 +54,10 @@
     "afterSchoolCareDetail": "多彩なアフタースクールアクティビティ（スポーツ、アート、ロボティクス、音楽など）を実施。"
   },
   "admissions": {
-    "intakeMonths": ["August", "January"],
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
     "academicYearSchedule": "2学期制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
     "applicationProcess": "オンライン出願、過去の成績証明書提出、推薦状、および学力・英語アセスメント（学年による）。",
     "assessmentRequired": true
@@ -157,5 +174,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/iskl.png"
 }

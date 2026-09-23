@@ -19,11 +19,25 @@
     "maxAge": 18,
     "display": "3–18"
   },
-  "curricula": ["American", "IB"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "American",
+    "IB"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "Spanish", "French", "Malay"],
+    "secondLanguages": [
+      "Mandarin",
+      "Spanish",
+      "French",
+      "Malay"
+    ],
     "japaneseSupport": true,
     "japaneseSupportDetail": "学内に活発なJapan Club（日本人保護者会）があり、入学オリエンテーションや生活全般のフォロー体制が整っています。",
     "ellSupport": true,
@@ -40,7 +54,10 @@
     "afterSchoolCareDetail": "スポーツ、アート、チェス、ロボット工学など多彩な放課後アクティビティ。"
   },
   "admissions": {
-    "intakeMonths": ["August", "January"],
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
     "academicYearSchedule": "2セメスター制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
     "applicationProcess": "願書オンライン申請、英語評価テスト（WIDAなど）、前在籍校の成績証明書提出。",
     "assessmentRequired": true
@@ -156,5 +173,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/mont-kiara-international-school.png"
 }

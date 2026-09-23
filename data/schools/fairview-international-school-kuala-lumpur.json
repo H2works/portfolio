@@ -19,11 +19,22 @@
     "maxAge": 18,
     "display": "3–18"
   },
-  "curricula": ["IB"],
-  "gradeLevels": ["Nursery", "Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "IB"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "Malay"],
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
     "japaneseSupport": false,
     "japaneseSupportDetail": "日本語対応スタッフはいませんが、IB探究学習に慣れるための段階的な語学サポート（EAL）を提供しています。",
     "ellSupport": true,
@@ -40,7 +51,10 @@
     "afterSchoolCareDetail": "テニス、水泳、バイオリン、ロボット、オーケストラなど多彩な課外活動。"
   },
   "admissions": {
-    "intakeMonths": ["August", "January"],
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
     "academicYearSchedule": "2セメスター制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
     "applicationProcess": "願書出願、英語・数学学力診断、面接審査。",
     "assessmentRequired": true
@@ -157,5 +171,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/fairview-international-school-kuala-lumpur.png"
 }

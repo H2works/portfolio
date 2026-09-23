@@ -19,11 +19,22 @@
     "maxAge": 16,
     "display": "4–16"
   },
-  "curricula": ["British", "Cambridge", "IPC"],
-  "gradeLevels": ["Kindergarten", "Primary", "Secondary"],
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "Malay"],
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
     "japaneseSupport": false,
     "japaneseSupportDetail": "日本語専任スタッフはいませんが、英語の基礎から学べる充実したIntensive English / EALサポートがあります。",
     "ellSupport": true,
@@ -40,7 +51,11 @@
     "afterSchoolCareDetail": "スポーツ、アート、サイエンスなど多種多様な放課後CCAアクティビティを用意。"
   },
   "admissions": {
-    "intakeMonths": ["January", "April", "September"],
+    "intakeMonths": [
+      "January",
+      "April",
+      "September"
+    ],
     "academicYearSchedule": "3学期制（1月新学期スタート）",
     "applicationProcess": "願書提出、学力診断テスト（英語・算数）および面接審査。",
     "assessmentRequired": true
@@ -156,5 +171,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/taylors-international-school-kuala-lumpur.png"
 }

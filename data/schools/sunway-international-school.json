@@ -19,11 +19,23 @@
     "maxAge": 18,
     "display": "4–18"
   },
-  "curricula": ["Canadian", "IB"],
-  "gradeLevels": ["Kindergarten", "Primary", "Secondary", "Sixth Form"],
+  "curricula": [
+    "Canadian",
+    "IB"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
   "languages": {
     "instructionLanguage": "English",
-    "secondLanguages": ["Mandarin", "French", "Malay"],
+    "secondLanguages": [
+      "Mandarin",
+      "French",
+      "Malay"
+    ],
     "japaneseSupport": true,
     "japaneseSupportDetail": "日本語対応スタッフや日本人学生サポートの経験が豊富で、入学相談や保護者面談でのサポートが充実しています。",
     "ellSupport": true,
@@ -40,7 +52,10 @@
     "afterSchoolCareDetail": "多彩なスポーツ、文化活動、リーダーシップ養成、コミュニティ奉仕プログラム。"
   },
   "admissions": {
-    "intakeMonths": ["January", "July"],
+    "intakeMonths": [
+      "January",
+      "July"
+    ],
     "academicYearSchedule": "2セメスター制（Semester 1: 1月〜6月 / Semester 2: 7月〜11月）",
     "applicationProcess": "願書オンライン提出、英語・数学診断テスト、インタビューおよび成績証明書の審査。",
     "assessmentRequired": true
@@ -157,5 +172,6 @@
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
-  ]
+  ],
+  "logoUrl": "/img/schools/logos/sunway-international-school.png"
 }
