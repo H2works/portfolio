@@ -275,13 +275,13 @@ export default function SchoolPortalTop() {
           <div className="school-brand-banner rounded-4 p-4 p-md-5 text-white position-relative overflow-hidden shadow-sm">
             <div className="row align-items-center position-relative z-1">
               <div className="col-12 col-lg-8 mb-3 mb-lg-0">
-                <span className="badge bg-white bg-opacity-15 border border-white border-opacity-25 text-white mb-2 px-3 py-1 rounded-pill small">
+                <div className="brand-badge">
                   Developed by H2works
-                </span>
-                <h3 className="h4 fw-bold text-white mb-2">
+                </div>
+                <h3 className="banner-title">
                   信頼性の高いデータ設計と、高速なWeb体験を。
                 </h3>
-                <p className="text-light opacity-90 mb-0 small">
+                <p className="banner-lead">
                   当サイトは、Next.js (SSG) と構造化データ設計により、0msの快適な検索体験と公式エビデンス（原本PDF・死活監視）の両立を追求したWebプロジェクトです。
                 </p>
               </div>
