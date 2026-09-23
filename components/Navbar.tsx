@@ -13,7 +13,12 @@ export default function Navbar({ darkMode }: NavbarProps) {
         <div className="fw-bold fs-4">H2works</div>
       </Link>
       <div className="col-auto ps-2 ms-2" id="navbarSupportedContent">
-        <ul className="nav ms-auto mb-2 mb-lg-0 ms-2 list-inline list-unstyled">
+        <ul className="nav ms-auto mb-2 mb-lg-0 ms-2 list-inline list-unstyled d-flex align-items-center">
+          <li className="nav-item">
+            <Link href="/blog" className={`nav-link pe-3 ${darkMode ? 'link-light' : 'link-dark'} link-opacity-50-hover fw-medium`}>
+              Blog
+            </Link>
+          </li>
           <li className="nav-item">
             <a className={`nav-link pe-3 ${darkMode ? 'link-light' : 'link-dark'} link-opacity-50-hover`} href="https://x.com/h2works_xyz" aria-label="Link to my X Profil Page" target="_blank" rel="noopener noreferrer">
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-x-lg" viewBox="0 0 16 16">

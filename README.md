@@ -52,7 +52,26 @@ Cloudflare Pages の設定:
 
 ## ディレクトリ構造
 
-- `app/`: Next.js App Router (各ページ)
+- `app/`: Next.js App Router (各ページ。`/blog`, `/blog/[slug]` など)
 - `components/`: React コンポーネント
+- `posts/`: ブログ用マークダウン記事ファイル
+- `lib/`: ユーティリティ・データ取得関数（Markdownパース等）
 - `styles/`: SCSS スタイルシート
 - `public/`: 画像、フォントなどの静的アセット
+
+## ブログ記事の作成方法
+
+`posts/` ディレクトリ配下に `.md` ファイルを作成することで、自動的に `/blog`（一覧）および `/blog/[slug]`（詳細）に表示されます。
+
+```markdown
+---
+title: "記事のタイトル"
+date: "2026-09-23"
+description: "記事の概要や抜粋文（省略可能）"
+tags: ["Next.js", "TypeScript"]
+---
+
+ここにマークダウン形式で記事本文を記述します。
+コードブロックのシンタックスハイライト、GFMテーブル、リスト、引用記法等に対応しています。
+```
+

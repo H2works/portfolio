@@ -23,6 +23,9 @@ export default function Footer({ darkMode }: FooterProps) {
             <Link href="/aboutme" className={`nav-link ${darkMode ? 'link-light' : 'link-dark'}`}>About</Link>
           </li>
           <li className="nav-item">
+            <Link href="/blog" className={`nav-link ${darkMode ? 'link-light' : 'link-dark'}`}>Blog</Link>
+          </li>
+          <li className="nav-item">
             <Link href="/imprint" className={`nav-link ${darkMode ? 'link-light' : 'link-dark'}`}>利用規約</Link>
           </li>
           <li className="nav-item">
