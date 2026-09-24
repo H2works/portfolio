@@ -1,0 +1,597 @@
+// Education Media Dedicated Styles
+
+.education-portal-body {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+// Education Header
+.education-header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #2563eb 0%, #0284c7 40%, #0d9488 75%, #10b981 100%);
+  }
+
+  .education-brand {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: #111827;
+    text-decoration: none;
+
+    .brand-sub {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #2563eb;
+      margin-left: 0.5rem;
+      padding-left: 0.5rem;
+      border-left: 2px solid #d1d5db;
+    }
+  }
+
+  .nav-link {
+    font-size: 0.92rem;
+    font-weight: 500;
+    color: #4b5563;
+    padding: 0.45rem 0.75rem;
+    border-radius: 6px;
+    transition: all 0.15s ease-in-out;
+
+    &:hover, &.active {
+      color: #111827;
+      background-color: #f3f4f6;
+    }
+  }
+}
+
+// Education Hero (Media Style)
+.education-hero-section {
+  position: relative;
+  background-color: #0f172a;
+  background-image:
+    linear-gradient(180deg, rgba(15, 23, 42, 0.58) 0%, rgba(11, 15, 25, 0.78) 100%),
+    url('/img/webp/bck8_xl.webp');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 4.5rem 0 3.5rem;
+  color: #ffffff;
+
+  @media (max-width: 991px) {
+    padding: 3.5rem 0 2.5rem;
+  }
+
+  .hero-badge {
+    background-color: rgba(37, 99, 235, 0.28);
+    border: 1px solid rgba(96, 165, 250, 0.45);
+    backdrop-filter: blur(6px);
+    color: #bae6fd;
+    font-size: 0.82rem;
+    font-weight: 600;
+    padding: 0.35rem 0.9rem;
+    border-radius: 9999px;
+    display: inline-block;
+  }
+
+  .hero-title {
+    font-size: 2.35rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    color: #ffffff;
+    line-height: 1.3;
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.35);
+
+    @media (max-width: 768px) {
+      font-size: 1.75rem;
+    }
+  }
+
+  .hero-lead {
+    font-size: 1.05rem;
+    color: #e2e8f0;
+    line-height: 1.7;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .hero-category-chip {
+    background-color: rgba(255, 255, 255, 0.14);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(6px);
+    color: #f8fafc;
+    text-decoration: none;
+    padding: 0.4rem 0.9rem;
+    border-radius: 9999px;
+    font-size: 0.82rem;
+    font-weight: 500;
+    transition: all 0.15s ease;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.25);
+      border-color: rgba(255, 255, 255, 0.45);
+      color: #ffffff;
+    }
+  }
+}
+
+// Category Page Banner
+.education-category-banner {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 2.75rem 0 2rem;
+
+  .category-badge-lg {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background-color: #eff6ff;
+    color: #1d4ed8;
+    border: 1px solid #bfdbfe;
+    font-size: 0.82rem;
+    font-weight: 600;
+    padding: 0.3rem 0.75rem;
+    border-radius: 9999px;
+  }
+
+  .category-title {
+    font-size: 1.85rem;
+    font-weight: 800;
+    color: #111827;
+    letter-spacing: -0.02em;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .category-description {
+    font-size: 0.95rem;
+    color: #4b5563;
+    line-height: 1.6;
+    max-width: 760px;
+  }
+}
+
+// Badges
+.badge-category {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  background-color: #eff6ff;
+  color: #1d4ed8;
+  text-decoration: none;
+  transition: background-color 0.15s ease;
+
+  &:hover {
+    background-color: #dbeafe;
+    color: #1e40af;
+  }
+}
+
+.badge-featured {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  background-color: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fde68a;
+}
+
+// Modern Media Article Card (Figma Style)
+.education-media-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  overflow: hidden;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: #cbd5e1;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+
+    .card-thumb-img {
+      transform: scale(1.03);
+    }
+  }
+
+  .card-thumb-link {
+    display: block;
+    text-decoration: none;
+    overflow: hidden;
+  }
+
+  .card-thumb-wrapper {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background-color: #f1f5f9;
+    overflow: hidden;
+
+    .card-thumb-img {
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+  }
+
+  .card-body-content {
+    padding: 1.25rem 1.25rem 1.4rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+
+  // カテゴリラベル: 塗りの強いピル型を廃止し、テキストのみのアクセントカラー
+  .card-category-label {
+    font-size: 0.78rem; // 12px〜13px
+    font-weight: 600;
+    color: #2563eb;
+    letter-spacing: 0.03em;
+    margin-bottom: 0.45rem;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+      transition: color 0.15s ease;
+
+      &:hover {
+        color: #1d4ed8;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  // タイトル: 20px / Bold / line-height 1.55
+  .card-title {
+    font-size: 1.22rem;
+    font-weight: 700;
+    line-height: 1.55;
+    margin-bottom: 0.5rem;
+
+    a {
+      color: #0f172a;
+      text-decoration: none;
+      transition: color 0.15s ease;
+
+      &:hover {
+        color: #2563eb;
+      }
+    }
+  }
+
+  // メタ情報: タイトルの直下にミニマル配置 (2026.09.24 · 7 min read)
+  .card-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.78rem; // 12px
+    color: #64748b;
+    font-weight: 400;
+    margin-bottom: 0.75rem;
+
+    .meta-separator {
+      color: #cbd5e1;
+      font-weight: 700;
+    }
+  }
+
+  // 本文プレビュー: 2行クランプで間延びを防止
+  .card-excerpt {
+    font-size: 0.88rem;
+    color: #64748b;
+    line-height: 1.6;
+    margin-bottom: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+// Dual-tier Section Header (英字サブキャッチ + 太字見出し + 右端導線)
+.section-header-dual {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.75rem;
+
+  .header-titles {
+    .sub-catch {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: #2563eb;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      display: block;
+      margin-bottom: 0.35rem;
+    }
+
+    .main-title {
+      font-size: 1.75rem;
+      font-weight: 800;
+      color: #0f172a;
+      letter-spacing: -0.02em;
+      line-height: 1.25;
+      margin: 0;
+
+      @media (max-width: 768px) {
+        font-size: 1.45rem;
+      }
+    }
+  }
+
+  .header-link {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #2563eb;
+    text-decoration: none;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: #1d4ed8;
+      text-decoration: underline;
+    }
+  }
+}
+
+// セクション間余白 (80px〜120px)
+.education-section-spacer {
+  margin-bottom: 5.5rem; // 約88px
+
+  @media (max-width: 768px) {
+    margin-bottom: 3.5rem; // モバイルでは約56px
+  }
+}
+
+// Table of Contents Box
+.education-toc {
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1.25rem;
+  margin-bottom: 2rem;
+
+  .toc-header {
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: #0f172a;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .toc-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    font-size: 0.85rem;
+
+    li {
+      margin-bottom: 0.4rem;
+
+      &.toc-h3 {
+        padding-left: 1.25rem;
+        font-size: 0.82rem;
+      }
+
+      a {
+        color: #475569;
+        text-decoration: none;
+        transition: color 0.15s ease;
+
+        &:hover {
+          color: #2563eb;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+// Markdown Content Typography (Education Media)
+.education-content {
+  font-size: 1.05rem;
+  line-height: 1.9;
+  color: #1e293b;
+  word-wrap: break-word;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    line-height: 1.4;
+    color: #0f172a;
+    scroll-margin-top: 5rem;
+  }
+
+  h2 {
+    font-size: 1.45rem;
+    margin-top: 2.75rem;
+    margin-bottom: 1.25rem;
+    padding-left: 0.85rem;
+    border-left: 4px solid #2563eb;
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 0.5rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    margin-bottom: 0.85rem;
+    padding-left: 0.65rem;
+    border-left: 3px solid #64748b;
+  }
+
+  h4 {
+    font-size: 1.05rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    margin-bottom: 1.5rem;
+  }
+
+  ul, ol {
+    margin-bottom: 1.5rem;
+    padding-left: 1.6rem;
+
+    li {
+      margin-bottom: 0.45rem;
+    }
+  }
+
+  blockquote {
+    margin: 1.75rem 0;
+    padding: 1rem 1.25rem;
+    background-color: #f8fafc;
+    border-left: 4px solid #3b82f6;
+    border-radius: 0 8px 8px 0;
+    color: #475569;
+    font-size: 0.95rem;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  hr {
+    margin: 2.75rem 0;
+    border: 0;
+    border-top: 1px solid #e2e8f0;
+  }
+
+  // Table styles
+  table {
+    width: 100%;
+    margin-bottom: 0;
+
+    th {
+      background-color: #f8fafc;
+      color: #334155;
+      font-weight: 600;
+      border-bottom: 2px solid #cbd5e1;
+      padding: 0.75rem 1rem;
+      font-size: 0.9rem;
+    }
+
+    td {
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid #f1f5f9;
+      font-size: 0.9rem;
+      vertical-align: middle;
+    }
+  }
+}
+
+// School CTA Banner (/school への送客カード - Figmaライクに洗練)
+.school-cta-card {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 2rem 2.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  background-image: linear-gradient(135deg, #ffffff 70%, #f8fafc 100%);
+
+  @media (max-width: 768px) {
+    padding: 1.5rem;
+  }
+
+  .cta-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background-color: #eff6ff;
+    border: 1px solid #dbeafe;
+    color: #1d4ed8;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px; // 4px〜6pxに統一
+    margin-bottom: 0.75rem;
+  }
+
+  .cta-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.35;
+    margin-bottom: 0.5rem;
+  }
+
+  .cta-description {
+    font-size: 0.92rem;
+    color: #64748b;
+    line-height: 1.6;
+    margin-bottom: 0;
+  }
+}
+
+// Education Footer
+.education-footer {
+  background-color: #ffffff;
+  border-top: 1px solid #e5e7eb;
+  padding: 3.5rem 0 2rem;
+  margin-top: auto;
+  font-size: 0.9rem;
+
+  .footer-heading {
+    font-size: 0.82rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #111827;
+    margin-bottom: 1rem;
+  }
+
+  .footer-link {
+    color: #6b7280;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 0.5rem;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: #111827;
+    }
+  }
+
+  .disclaimer-box {
+    background-color: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 1rem;
+    font-size: 0.8rem;
+    color: #6b7280;
+    line-height: 1.5;
+  }
+}

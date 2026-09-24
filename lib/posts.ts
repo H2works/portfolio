@@ -48,9 +48,33 @@ function unescapeHtml(str: string): string {
     .replace(/&#39;/g, "'");
 }
 
+function fixUnparsedBold(contentHtml: string): string {
+  const codeBlocks: { token: string; match: string }[] = [];
+  let placeholderIndex = 0;
+
+  const protectedHtml = contentHtml.replace(
+    /(<pre[\s\S]*?<\/pre>|<code[\s\S]*?<\/code>)/gi,
+    (match) => {
+      const token = `___CODE_PLACEHOLDER_${placeholderIndex++}___`;
+      codeBlocks.push({ token, match });
+      return token;
+    }
+  );
+
+  const replacedHtml = protectedHtml.replace(/\*\*([^\*\r\n]+?)\*\*/g, '<strong>$1</strong>');
+
+  let restoredHtml = replacedHtml;
+  for (const item of codeBlocks) {
+    restoredHtml = restoredHtml.replace(item.token, item.match);
+  }
+
+  return restoredHtml;
+}
+
 function highlightAndFormatCodeBlocks(contentHtml: string): string {
+  const normalizedHtml = fixUnparsedBold(contentHtml);
   // Highlight code blocks
-  let formatted = contentHtml.replace(
+  let formatted = normalizedHtml.replace(
     /<pre><code(?: class="language-([a-zA-Z0-9_-]+)")?>([\s\S]*?)<\/code><\/pre>/g,
     (_, lang: string | undefined, rawCode: string) => {
       const unescaped = unescapeHtml(rawCode);
