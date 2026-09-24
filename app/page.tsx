@@ -19,10 +19,10 @@ export default function Home() {
           />
         </div>
         <h1 className={`fw-lighter ${darkMode ? 'text-white' : 'text-black'}`}>
-          Next.js / TypeScript / microCMS を中心に、SEO とパフォーマンスにも強い Web 開発を行っています。
+          マレーシアのIT企業で働くエンジニアです。子育てをしながら、個人でWeb開発やサービス運営をしています。
         </h1>
         <p className="lead py-4">
-          企画〜実装〜運用まで、必要な形に合わせて設計・実装します。小さな改善から継続運用の仕組みづくりまでご相談ください。
+          家族と一緒にマレーシアへ移住し、日々の生活や子どもの教育に向き合いながら、Next.js や TypeScript を使ったWebツール・メディアの開発に取り組んでいます。
         </p>
         <div className="row d-flex align-items-center mb-2 mb-xxl-4 text-center text-sm-start mx-0">
           <Link

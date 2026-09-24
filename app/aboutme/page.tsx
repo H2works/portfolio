@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import MainLayout from '@/components/MainLayout';
 
 export default function AboutMe() {
@@ -39,7 +40,7 @@ export default function AboutMe() {
         <div className="col-12 col-xl-10 col-xxl-8 mt-3" data-aos="fade-left" data-aos-delay="400">
           <h1>私について</h1>
           <p className="lead">
-            Next.js / TypeScript を中心に、ヘッドレスCMSや Cloudflare Pages を使ったサイト・Webアプリの設計/実装/運用を行っています。SEO とパフォーマンス最適化も含めて、目的から逆算した改善が得意です。
+            マレーシアのIT企業で働くエンジニアです。日本から家族と一緒に移住し、子育てをしながら、個人でもWebサービスや情報ツールの開発・運営を行っています。Next.js / TypeScript を中心に、表示速度と保守性に優れたWebアプリ・サイトの設計・実装が得意です。
           </p>
 
           <h2>できること（技術スタック）</h2>
@@ -54,16 +55,18 @@ export default function AboutMe() {
 
           <h2>Side Projects</h2>
           <ul>
+            <li><Link href="/school">International School Finder</Link></li>
+            <li><Link href="/education">Education Media</Link></li>
             <li><a href="https://template-library.h2works.xyz/" target="_blank" rel="noopener noreferrer">Template Library</a></li>
             <li><a href="https://domain-tools.h2works.xyz/" target="_blank" rel="noopener noreferrer">Domain Tools</a></li>
             <li><a href="https://news-archive.h2works.xyz/" target="_blank" rel="noopener noreferrer">News Archive</a></li>
           </ul>
 
-          <h2>方針</h2>
+          <h2>最近興味のあること</h2>
           <ul>
-            <li>目的（CV/問い合わせ/採用/集客）に対して必要な情報設計を優先</li>
-            <li>Core Web Vitals を意識した実装・改善</li>
-            <li>運用しやすい更新フロー（CMS/コンポーネント化）</li>
+            <li>マレーシアでの子育て・教育環境の模索（インター校、マルチリンガル教育、日本の教育とのバランス）</li>
+            <li>日々の困りごとや「あったら便利」を素早く解決するスモールツールの開発</li>
+            <li>東南アジアの生活・テクノロジー・教育トレンドの観察</li>
           </ul>
         </div>
       </div>
