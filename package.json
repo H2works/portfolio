@@ -42,7 +42,7 @@
   "author": "Holger Koenemann",
   "devDependencies": {
     "@types/js-yaml": "^4.0.9",
-    "sass": "^1.99.0"
+    "sass": "^1.104.1"
   },
   "repository": {
     "type": "git",
