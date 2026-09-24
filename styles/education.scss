@@ -192,39 +192,83 @@
   border: 1px solid #fde68a;
 }
 
-// Education Article Card
-.education-card {
+// Modern Media Article Card (Figma Style)
+.education-media-card {
   background: #ffffff;
-  border: 1px solid #e5e7eb;
-  border-radius: 12px;
-  padding: 1.5rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  overflow: hidden;
   height: 100%;
   display: flex;
   flex-direction: column;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 
   &:hover {
     transform: translateY(-2px);
     border-color: #cbd5e1;
-    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.06), 0 8px 10px -6px rgba(0, 0, 0, 0.03);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+
+    .card-thumb-img {
+      transform: scale(1.03);
+    }
   }
 
-  .card-category-row {
+  .card-thumb-link {
+    display: block;
+    text-decoration: none;
+    overflow: hidden;
+  }
+
+  .card-thumb-wrapper {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background-color: #f1f5f9;
+    overflow: hidden;
+
+    .card-thumb-img {
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+  }
+
+  .card-body-content {
+    padding: 1.25rem 1.25rem 1.4rem;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 0.5rem;
-    margin-bottom: 0.75rem;
+    flex-direction: column;
+    flex-grow: 1;
   }
 
+  // カテゴリラベル: 塗りの強いピル型を廃止し、テキストのみのアクセントカラー
+  .card-category-label {
+    font-size: 0.78rem; // 12px〜13px
+    font-weight: 600;
+    color: #2563eb;
+    letter-spacing: 0.03em;
+    margin-bottom: 0.45rem;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+      transition: color 0.15s ease;
+
+      &:hover {
+        color: #1d4ed8;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  // タイトル: 20px / Bold / line-height 1.55
   .card-title {
-    font-size: 1.15rem;
+    font-size: 1.22rem;
     font-weight: 700;
-    line-height: 1.45;
+    line-height: 1.55;
     margin-bottom: 0.5rem;
 
     a {
-      color: #111827;
+      color: #0f172a;
       text-decoration: none;
       transition: color 0.15s ease;
 
@@ -234,74 +278,92 @@
     }
   }
 
-  .card-description {
-    font-size: 0.88rem;
-    color: #6b7280;
-    line-height: 1.6;
-    margin-bottom: 1rem;
-    flex-grow: 1;
-  }
-
-  .card-footer-meta {
+  // メタ情報: タイトルの直下にミニマル配置 (2026.09.24 · 7 min read)
+  .card-meta {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding-top: 0.75rem;
-    border-top: 1px solid #f3f4f6;
-    font-size: 0.78rem;
-    color: #6b7280;
+    gap: 0.4rem;
+    font-size: 0.78rem; // 12px
+    color: #64748b;
+    font-weight: 400;
+    margin-bottom: 0.75rem;
+
+    .meta-separator {
+      color: #cbd5e1;
+      font-weight: 700;
+    }
+  }
+
+  // 本文プレビュー: 2行クランプで間延びを防止
+  .card-excerpt {
+    font-size: 0.88rem;
+    color: #64748b;
+    line-height: 1.6;
+    margin-bottom: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 }
 
-// Featured / Hero Card
-.education-featured-card {
-  background: #ffffff;
-  border: 1px solid #e5e7eb;
-  border-radius: 14px;
-  overflow: hidden;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+// Dual-tier Section Header (英字サブキャッチ + 太字見出し + 右端導線)
+.section-header-dual {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.75rem;
 
-  &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 12px 30px -5px rgba(0, 0, 0, 0.08);
-  }
-
-  .featured-image-wrapper {
-    position: relative;
-    height: 240px;
-    background-color: #0b0f19;
-    background-image: url('/img/webp/bck8_md.webp');
-    background-size: cover;
-    background-position: center;
-
-    @media (max-width: 768px) {
-      height: 180px;
-    }
-  }
-
-  .featured-content {
-    padding: 1.75rem;
-
-    .featured-title {
-      font-size: 1.45rem;
+  .header-titles {
+    .sub-catch {
+      font-size: 0.8rem;
       font-weight: 700;
-      line-height: 1.35;
-      margin-bottom: 0.75rem;
+      color: #2563eb;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      display: block;
+      margin-bottom: 0.35rem;
+    }
 
-      a {
-        color: #111827;
-        text-decoration: none;
-        &:hover {
-          color: #2563eb;
-        }
+    .main-title {
+      font-size: 1.75rem;
+      font-weight: 800;
+      color: #0f172a;
+      letter-spacing: -0.02em;
+      line-height: 1.25;
+      margin: 0;
+
+      @media (max-width: 768px) {
+        font-size: 1.45rem;
       }
     }
+  }
 
-    .featured-lead {
-      font-size: 0.95rem;
-      color: #4b5563;
-      line-height: 1.65;
+  .header-link {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #2563eb;
+    text-decoration: none;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: #1d4ed8;
+      text-decoration: underline;
     }
+  }
+}
+
+// セクション間余白 (80px〜120px)
+.education-section-spacer {
+  margin-bottom: 5.5rem; // 約88px
+
+  @media (max-width: 768px) {
+    margin-bottom: 3.5rem; // モバイルでは約56px
   }
 }
 
@@ -445,34 +507,37 @@
   }
 }
 
-// School CTA Banner (/school への送客カード)
+// School CTA Banner (/school への送客カード - Figmaライクに洗練)
 .school-cta-card {
   background-color: #ffffff;
-  border: 1px solid #bfdbfe;
-  border-radius: 12px;
-  padding: 1.75rem;
-  margin: 2.5rem 0;
-  background-image: linear-gradient(135deg, #ffffff 60%, #f0f7ff 100%);
-  box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.05);
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 2rem 2.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  background-image: linear-gradient(135deg, #ffffff 70%, #f8fafc 100%);
+
+  @media (max-width: 768px) {
+    padding: 1.5rem;
+  }
 
   .cta-badge {
     display: inline-flex;
     align-items: center;
     gap: 0.35rem;
     background-color: #eff6ff;
-    border: 1px solid #bfdbfe;
+    border: 1px solid #dbeafe;
     color: #1d4ed8;
     font-size: 0.75rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.04em;
-    padding: 0.25rem 0.65rem;
-    border-radius: 9999px;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px; // 4px〜6pxに統一
     margin-bottom: 0.75rem;
   }
 
   .cta-title {
-    font-size: 1.25rem;
+    font-size: 1.35rem;
     font-weight: 700;
     color: #0f172a;
     line-height: 1.35;
@@ -480,10 +545,10 @@
   }
 
   .cta-description {
-    font-size: 0.9rem;
-    color: #475569;
+    font-size: 0.92rem;
+    color: #64748b;
     line-height: 1.6;
-    margin-bottom: 1.25rem;
+    margin-bottom: 0;
   }
 }
 

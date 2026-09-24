@@ -165,7 +165,17 @@ export default async function EducationDetailPage({
                 {post.tags && post.tags.length > 0 && (
                   <div className="d-flex flex-wrap gap-1 mt-3">
                     {post.tags.map((tag) => (
-                      <span key={tag} className="badge bg-light text-secondary border small">
+                      <span
+                        key={tag}
+                        className="text-secondary small"
+                        style={{
+                          backgroundColor: '#f1f5f9',
+                          border: '1px solid #e2e8f0',
+                          padding: '0.2rem 0.55rem',
+                          borderRadius: '4px',
+                          fontSize: '0.75rem',
+                        }}
+                      >
                         #{tag}
                       </span>
                     ))}
@@ -195,7 +205,14 @@ export default async function EducationDetailPage({
                   <div className="row g-3">
                     <div className="col-12 col-md-6">
                       {post.prevPost && (
-                        <div className="card h-100 p-3 border rounded bg-light">
+                        <div
+                          className="card h-100 p-3 bg-white"
+                          style={{
+                            border: '1px solid #e2e8f0',
+                            borderRadius: '12px',
+                            boxShadow: '0 1px 3px rgba(0, 0, 0, 0.04)',
+                          }}
+                        >
                           <span className="small text-muted mb-1">← 前の記事</span>
                           <Link
                             href={`/education/${post.prevPost.category}/${post.prevPost.slug}`}
@@ -208,7 +225,14 @@ export default async function EducationDetailPage({
                     </div>
                     <div className="col-12 col-md-6 text-md-end">
                       {post.nextPost && (
-                        <div className="card h-100 p-3 border rounded bg-light">
+                        <div
+                          className="card h-100 p-3 bg-white"
+                          style={{
+                            border: '1px solid #e2e8f0',
+                            borderRadius: '12px',
+                            boxShadow: '0 1px 3px rgba(0, 0, 0, 0.04)',
+                          }}
+                        >
                           <span className="small text-muted mb-1">次の記事 →</span>
                           <Link
                             href={`/education/${post.nextPost.category}/${post.nextPost.slug}`}

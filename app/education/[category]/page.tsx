@@ -91,18 +91,23 @@ export default async function EducationCategoryPage({ params }: CategoryPageProp
       <div className="container-xl px-3 py-5">
         <div className="row g-4 mb-5">
           <div className="col-12 col-lg-8">
-            <div className="d-flex align-items-center justify-content-between mb-4 border-bottom pb-2">
-              <h2 className="h5 fw-bold m-0">{category.name} の記事一覧</h2>
+            <div className="section-header-dual mb-4">
+              <div className="header-titles">
+                <span className="sub-catch">ARTICLES</span>
+                <h2 className="main-title" style={{ fontSize: '1.5rem' }}>{category.name} の記事一覧</h2>
+              </div>
             </div>
 
             {posts.length === 0 ? (
-              <div className="alert alert-secondary py-4 text-center">
+              <div className="alert alert-secondary py-4 text-center" style={{ borderRadius: '12px' }}>
                 現在、このカテゴリーの記事を準備中です。
               </div>
             ) : (
-              <div className="d-flex flex-column gap-3">
+              <div className="row g-4">
                 {posts.map((post) => (
-                  <EducationArticleCard key={post.slug} post={post} />
+                  <div key={post.slug} className="col-12 col-md-6">
+                    <EducationArticleCard post={post} />
+                  </div>
                 ))}
               </div>
             )}
@@ -110,7 +115,14 @@ export default async function EducationCategoryPage({ params }: CategoryPageProp
 
           {/* Sidebar */}
           <div className="col-12 col-lg-4">
-            <div className="card border rounded-3 p-3 bg-white shadow-sm mb-4">
+            <div
+              className="card p-4 bg-white mb-4"
+              style={{
+                border: '1px solid #e2e8f0',
+                borderRadius: '14px',
+                boxShadow: '0 1px 3px rgba(0, 0, 0, 0.04)',
+              }}
+            >
               <h3 className="h6 fw-bold mb-3 border-bottom pb-2">他のテーマを見る</h3>
               <ul className="list-unstyled m-0">
                 {EDUCATION_CATEGORIES.map((cat) => (
@@ -122,6 +134,7 @@ export default async function EducationCategoryPage({ params }: CategoryPageProp
                           ? 'bg-primary text-white fw-bold'
                           : 'text-dark link-opacity-75-hover'
                       }`}
+                      style={{ borderRadius: '6px' }}
                     >
                       <span>{cat.name}</span>
                       <span className="small opacity-75">→</span>
@@ -132,17 +145,31 @@ export default async function EducationCategoryPage({ params }: CategoryPageProp
             </div>
 
             {/* School Finder CTA in Sidebar */}
-            <div className="card border rounded-3 p-3 bg-light shadow-sm">
-              <span className="badge bg-primary-subtle text-primary fw-semibold small mb-2 d-inline-block">
-                RECOMMENDED
+            <div
+              className="card p-4 bg-white"
+              style={{
+                border: '1px solid #e2e8f0',
+                borderRadius: '14px',
+                boxShadow: '0 1px 3px rgba(0, 0, 0, 0.04)',
+              }}
+            >
+              <span
+                className="text-primary fw-bold small mb-2 d-inline-block"
+                style={{
+                  fontSize: '0.75rem',
+                  letterSpacing: '0.04em',
+                }}
+              >
+                RECOMMENDED DATABASE
               </span>
               <h4 className="h6 fw-bold mb-2">マレーシアのインター校を比較</h4>
-              <p className="text-muted small mb-3 lh-base">
+              <p className="text-secondary small mb-3 lh-base">
                 20校以上の学費・カリキュラム・エリア情報を一括検索できる専門データベース。
               </p>
               <Link
                 href="/school/malaysia"
-                className="btn btn-sm btn-primary w-100"
+                className="btn btn-sm btn-dark w-100 fw-semibold"
+                style={{ borderRadius: '8px' }}
               >
                 学校一覧を見る ↗
               </Link>

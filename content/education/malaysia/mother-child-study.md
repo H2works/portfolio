@@ -12,7 +12,7 @@ tags:
 publishedAt: "2026-09-24"
 updatedAt: "2026-09-24"
 featured: true
-coverImage: "/img/webp/bck8_md.webp"
+coverImage: "/img/education/mother-child-study.jpg"
 ---
 
 マレーシアは比較的治安が良く、英語環境とコストパフォーマンスの高さから、小中学生の母子留学先として高い人気を誇っています。一方で、**「子どもが高校生になってからの母子留学」**には、特有の制度的なハードルや卒業後の進路設計が存在します。

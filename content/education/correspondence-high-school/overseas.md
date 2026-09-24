@@ -12,7 +12,7 @@ tags:
 publishedAt: "2026-09-24"
 updatedAt: "2026-09-24"
 featured: true
-coverImage: "/img/webp/bck8_md.webp"
+coverImage: "/img/education/overseas-correspondence.jpg"
 ---
 
 保護者の海外赴任や海外留学、教育移住に伴い、「海外に滞在しながら日本の高校卒業資格を取得したい」というニーズが年々高まっています。

@@ -12,7 +12,7 @@ tags:
 publishedAt: "2026-09-24"
 updatedAt: "2026-09-24"
 featured: true
-coverImage: "/img/webp/bck8_md.webp"
+coverImage: "/img/education/double-schooling.jpg"
 ---
 
 近年、国内外のインターナショナルスクールに通う生徒の間で、**「現地のインター校に通いながら、日本の広域通信制高校にも同時在籍する（ダブルスクール）」**という進路戦略が注目されています。
