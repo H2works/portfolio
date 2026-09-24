@@ -45,6 +45,13 @@ export default function SchoolHeader() {
             >
               比較
             </Link>
+            <Link
+              href="/education"
+              className="nav-link"
+              title="海外教育・進路メディアへ"
+            >
+              教育メディア
+            </Link>
             <div className="vr mx-2 text-secondary" style={{ height: '20px' }}></div>
             <Link
               href="/"
@@ -94,6 +101,13 @@ export default function SchoolHeader() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 比較表
+              </Link>
+              <Link
+                href="/education"
+                className="nav-link"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                教育メディア
               </Link>
               <Link
                 href="/"

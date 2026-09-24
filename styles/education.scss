@@ -1,0 +1,528 @@
+// Education Media Dedicated Styles
+
+.education-portal-body {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+// Education Header
+.education-header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #2563eb 0%, #0284c7 40%, #0d9488 75%, #10b981 100%);
+  }
+
+  .education-brand {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: #111827;
+    text-decoration: none;
+
+    .brand-sub {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #2563eb;
+      margin-left: 0.5rem;
+      padding-left: 0.5rem;
+      border-left: 2px solid #d1d5db;
+    }
+  }
+
+  .nav-link {
+    font-size: 0.92rem;
+    font-weight: 500;
+    color: #4b5563;
+    padding: 0.45rem 0.75rem;
+    border-radius: 6px;
+    transition: all 0.15s ease-in-out;
+
+    &:hover, &.active {
+      color: #111827;
+      background-color: #f3f4f6;
+    }
+  }
+}
+
+// Education Hero (Media Style)
+.education-hero-section {
+  position: relative;
+  background-color: #0b0f19;
+  background-image:
+    linear-gradient(180deg, rgba(11, 15, 25, 0.86) 0%, rgba(11, 15, 25, 0.98) 100%),
+    url('/img/webp/bck8_xl.webp');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 4.5rem 0 3.5rem;
+  color: #ffffff;
+
+  @media (max-width: 991px) {
+    padding: 3.5rem 0 2.5rem;
+  }
+
+  .hero-badge {
+    background-color: rgba(37, 99, 235, 0.2);
+    border: 1px solid rgba(96, 165, 250, 0.35);
+    color: #93c5fd;
+    font-size: 0.82rem;
+    font-weight: 600;
+    padding: 0.35rem 0.9rem;
+    border-radius: 9999px;
+    display: inline-block;
+  }
+
+  .hero-title {
+    font-size: 2.35rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    color: #ffffff;
+    line-height: 1.3;
+
+    @media (max-width: 768px) {
+      font-size: 1.75rem;
+    }
+  }
+
+  .hero-lead {
+    font-size: 1.05rem;
+    color: #cbd5e1;
+    line-height: 1.7;
+  }
+
+  .hero-category-chip {
+    background-color: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    color: #e2e8f0;
+    text-decoration: none;
+    padding: 0.4rem 0.9rem;
+    border-radius: 9999px;
+    font-size: 0.82rem;
+    font-weight: 500;
+    transition: all 0.15s ease;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+      border-color: rgba(255, 255, 255, 0.35);
+      color: #ffffff;
+    }
+  }
+}
+
+// Category Page Banner
+.education-category-banner {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 2.75rem 0 2rem;
+
+  .category-badge-lg {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background-color: #eff6ff;
+    color: #1d4ed8;
+    border: 1px solid #bfdbfe;
+    font-size: 0.82rem;
+    font-weight: 600;
+    padding: 0.3rem 0.75rem;
+    border-radius: 9999px;
+  }
+
+  .category-title {
+    font-size: 1.85rem;
+    font-weight: 800;
+    color: #111827;
+    letter-spacing: -0.02em;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .category-description {
+    font-size: 0.95rem;
+    color: #4b5563;
+    line-height: 1.6;
+    max-width: 760px;
+  }
+}
+
+// Badges
+.badge-category {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  background-color: #eff6ff;
+  color: #1d4ed8;
+  text-decoration: none;
+  transition: background-color 0.15s ease;
+
+  &:hover {
+    background-color: #dbeafe;
+    color: #1e40af;
+  }
+}
+
+.badge-featured {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  background-color: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fde68a;
+}
+
+// Education Article Card
+.education-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1.5rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: #cbd5e1;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.06), 0 8px 10px -6px rgba(0, 0, 0, 0.03);
+  }
+
+  .card-category-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .card-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.45;
+    margin-bottom: 0.5rem;
+
+    a {
+      color: #111827;
+      text-decoration: none;
+      transition: color 0.15s ease;
+
+      &:hover {
+        color: #2563eb;
+      }
+    }
+  }
+
+  .card-description {
+    font-size: 0.88rem;
+    color: #6b7280;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    flex-grow: 1;
+  }
+
+  .card-footer-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.75rem;
+    border-top: 1px solid #f3f4f6;
+    font-size: 0.78rem;
+    color: #6b7280;
+  }
+}
+
+// Featured / Hero Card
+.education-featured-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 30px -5px rgba(0, 0, 0, 0.08);
+  }
+
+  .featured-image-wrapper {
+    position: relative;
+    height: 240px;
+    background-color: #0b0f19;
+    background-image: url('/img/webp/bck8_md.webp');
+    background-size: cover;
+    background-position: center;
+
+    @media (max-width: 768px) {
+      height: 180px;
+    }
+  }
+
+  .featured-content {
+    padding: 1.75rem;
+
+    .featured-title {
+      font-size: 1.45rem;
+      font-weight: 700;
+      line-height: 1.35;
+      margin-bottom: 0.75rem;
+
+      a {
+        color: #111827;
+        text-decoration: none;
+        &:hover {
+          color: #2563eb;
+        }
+      }
+    }
+
+    .featured-lead {
+      font-size: 0.95rem;
+      color: #4b5563;
+      line-height: 1.65;
+    }
+  }
+}
+
+// Table of Contents Box
+.education-toc {
+  background-color: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1.25rem;
+  margin-bottom: 2rem;
+
+  .toc-header {
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: #0f172a;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .toc-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    font-size: 0.85rem;
+
+    li {
+      margin-bottom: 0.4rem;
+
+      &.toc-h3 {
+        padding-left: 1.25rem;
+        font-size: 0.82rem;
+      }
+
+      a {
+        color: #475569;
+        text-decoration: none;
+        transition: color 0.15s ease;
+
+        &:hover {
+          color: #2563eb;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+// Markdown Content Typography (Education Media)
+.education-content {
+  font-size: 1.05rem;
+  line-height: 1.9;
+  color: #1e293b;
+  word-wrap: break-word;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    line-height: 1.4;
+    color: #0f172a;
+    scroll-margin-top: 5rem;
+  }
+
+  h2 {
+    font-size: 1.45rem;
+    margin-top: 2.75rem;
+    margin-bottom: 1.25rem;
+    padding-left: 0.85rem;
+    border-left: 4px solid #2563eb;
+    border-bottom: 1px solid #f1f5f9;
+    padding-bottom: 0.5rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    margin-bottom: 0.85rem;
+    padding-left: 0.65rem;
+    border-left: 3px solid #64748b;
+  }
+
+  h4 {
+    font-size: 1.05rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    margin-bottom: 1.5rem;
+  }
+
+  ul, ol {
+    margin-bottom: 1.5rem;
+    padding-left: 1.6rem;
+
+    li {
+      margin-bottom: 0.45rem;
+    }
+  }
+
+  blockquote {
+    margin: 1.75rem 0;
+    padding: 1rem 1.25rem;
+    background-color: #f8fafc;
+    border-left: 4px solid #3b82f6;
+    border-radius: 0 8px 8px 0;
+    color: #475569;
+    font-size: 0.95rem;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  hr {
+    margin: 2.75rem 0;
+    border: 0;
+    border-top: 1px solid #e2e8f0;
+  }
+
+  // Table styles
+  table {
+    width: 100%;
+    margin-bottom: 0;
+
+    th {
+      background-color: #f8fafc;
+      color: #334155;
+      font-weight: 600;
+      border-bottom: 2px solid #cbd5e1;
+      padding: 0.75rem 1rem;
+      font-size: 0.9rem;
+    }
+
+    td {
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid #f1f5f9;
+      font-size: 0.9rem;
+      vertical-align: middle;
+    }
+  }
+}
+
+// School CTA Banner (/school への送客カード)
+.school-cta-card {
+  background-color: #ffffff;
+  border: 1px solid #bfdbfe;
+  border-radius: 12px;
+  padding: 1.75rem;
+  margin: 2.5rem 0;
+  background-image: linear-gradient(135deg, #ffffff 60%, #f0f7ff 100%);
+  box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.05);
+
+  .cta-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background-color: #eff6ff;
+    border: 1px solid #bfdbfe;
+    color: #1d4ed8;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.25rem 0.65rem;
+    border-radius: 9999px;
+    margin-bottom: 0.75rem;
+  }
+
+  .cta-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.35;
+    margin-bottom: 0.5rem;
+  }
+
+  .cta-description {
+    font-size: 0.9rem;
+    color: #475569;
+    line-height: 1.6;
+    margin-bottom: 1.25rem;
+  }
+}
+
+// Education Footer
+.education-footer {
+  background-color: #ffffff;
+  border-top: 1px solid #e5e7eb;
+  padding: 3.5rem 0 2rem;
+  margin-top: auto;
+  font-size: 0.9rem;
+
+  .footer-heading {
+    font-size: 0.82rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #111827;
+    margin-bottom: 1rem;
+  }
+
+  .footer-link {
+    color: #6b7280;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 0.5rem;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: #111827;
+    }
+  }
+
+  .disclaimer-box {
+    background-color: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 1rem;
+    font-size: 0.8rem;
+    color: #6b7280;
+    line-height: 1.5;
+  }
+}
