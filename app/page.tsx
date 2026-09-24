@@ -51,6 +51,32 @@ export default function Home() {
         <h2 className="h6 mb-4 px-4" data-aos="fade-left" data-aos-delay="200">Side Projects:</h2>
         <div className="d-flex align-items-center p-4" data-aos="fade-left" data-aos-delay="200">
           <div className="me-4">
+            <Image src="/img/webp/bck8_xs.webp" width={80} height={80} className="rounded-circle shadow-sm" alt="International School Finder" />
+          </div>
+          <div className="flex-grow-1">
+            <h3 className="h5">
+              <Link href="/school" className={`${darkMode ? 'link-light' : 'link-dark'} link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-100-hover link-underline-dark`}>
+                International School Finder
+              </Link>
+            </h3>
+            <p>マレーシアのインターナショナルスクール検索・学費比較ツール。公式原本データに基づく学費・カリキュラム・英語補講（EAL）の即時絞り込み・比較が可能です。</p>
+          </div>
+        </div>
+        <div className="d-flex align-items-center my-2 p-4" data-aos="fade-left" data-aos-delay="200">
+          <div className="me-4">
+            <Image src="/img/webp/bck2_xs.webp" width={80} height={80} className="rounded-circle shadow-sm" alt="Education Media" />
+          </div>
+          <div className="flex-grow-1">
+            <h3 className="h5">
+              <Link href="/education" className={`${darkMode ? 'link-light' : 'link-dark'} link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-100-hover link-underline-dark`}>
+                Education Media
+              </Link>
+            </h3>
+            <p>海外教育・インターナショナルスクール・通信制高校など、多様化する教育と進路の選択肢を体系的に整理して発信する教育情報メディアです。</p>
+          </div>
+        </div>
+        <div className="d-flex align-items-center my-2 p-4" data-aos="fade-left" data-aos-delay="200">
+          <div className="me-4">
             <Image src="/img/webp/bck1_xs.webp" width={80} height={80} className="rounded-circle shadow-sm" alt="An image of my sitesproject website" />
           </div>
           <div className="flex-grow-1">
