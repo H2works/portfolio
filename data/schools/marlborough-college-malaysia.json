@@ -1,0 +1,235 @@
+{
+  "id": "marlborough-college-malaysia",
+  "slug": "marlborough-college-malaysia",
+  "name": "Marlborough College Malaysia",
+  "officialName": "Marlborough College Malaysia (MCM)",
+  "shortDescription": "ジョホール州イスカンダル・プテリに位置する英国名門パブリックスクール唯一の直営海外分校。90エーカーの広大なキャンパスに充実したボーディング環境とIB DPプログラムを完備。",
+  "overview": "2012年に設立されたMarlborough College Malaysia（MCM）は、英国で175年以上の歴史を誇る名門パブリックスクール「マールボロ・カレッジ」の正規直営海外分校です。ジョホール州イスカンダル・プテリにある90エーカー（東京ドーム約8個分）の広大かつ緑豊かなキャンパスで、英国式ナショナルカリキュラム、IGCSE、そして国際バカロレア（IB Diploma）を提供しています。通学（Day）だけでなく、Year 5からのDay BoardingおよびFull Boarding（全寮制）体制が極めて充実しており、世界水準のスポーツ施設、オーガニック農場（Barton Farm）、ウォータースポーツ用の湖などを備えています。英国本校の伝統と精神を継承し、全人教育を実践する最高峰の教育環境を提供しています。",
+  "establishedYear": 2012,
+  "location": {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Iskandar Puteri",
+    "area": "Iskandar Puteri",
+    "address": "Jalan Marlborough, 79200 Iskandar Puteri, Johor, Malaysia",
+    "googleMapsUrl": "https://maps.app.goo.gl/m3sZ5YBsKUQME5jL6"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "IB",
+    "IGCSE"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人スタッフは常駐していませんが、多くの日本人児童・生徒が在籍しており、保護者間での情報交換やコミュニティが活発です。",
+    "ellSupport": true,
+    "ellSupportDetail": "Accelerated English Programme（AEP）および集中英語学習サポート（EAL）が提供されており、非ネイティブ生徒の英語力向上を支援します。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "ジョホールバル市内各所（Ledang Heights, East Ledang, Horizon Hills, Leisure Farm, Mount Austin等 6ルート）およびシンガポールからの直通スクールバスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "専属ケータリング（Cezars Kitchen）による栄養士監修の温かい食事（洋食・アジア・ベジタリアン選択可）およびスナックをキャンパス内ダイニングホールで提供。自校ファームの新鮮野菜も活用。",
+    "boardingAvailable": true,
+    "boardingDetail": "Year 5から利用可能なボーディングハウスを完備。Day BoardingおよびFull Boardingに対応し、ハウスマスター・チューターによる24時間体制の手厚いパストラルケアと学習指導を提供。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "放課後の多彩なCo-Curricular Activities（スポーツ、芸術、音楽、アウトドア等）および寮生向けイブニングプログラムが充実。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Michaelmas Term: 8月〜12月 / Lent Term: 1月〜3月 / Summer Term: 4月〜7月）",
+    "applicationProcess": "オンライン出願、過去の成績証明書提出、推薦状、および入学アセスメント（CAT4 / 英語・数学試験 / 面接）。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "90エーカーの広大な専用キャンパス",
+    "50mオリンピック規格競泳プール & 20mトレーニングプール",
+    "国際規格ラグビーピッチ & サッカーグラウンド",
+    "全天候型400m陸上トラック & クリケットグラウンド",
+    "ダブルサイズ室内スポーツホール & スカッシュコート",
+    "全天候型テニスコート & ネットボールコート",
+    "自校オーガニック農場（Barton Farm） & ウォータースポーツ用湖",
+    "プロ仕様パフォーミングアーツ劇場 & 音楽テクノロジースイート",
+    "最先端サイエンス・ラボラトリー & メイカースペース",
+    "男子寮・女子寮専用ボーディングハウス（専任ハウス親常駐）",
+    "24時間対応メディカルヘルスセンター"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 63000,
+    "tuitionMaxAnnual": 166800,
+    "tuitionDisplay": "RM 63,000 – RM 166,800 / 年",
+    "applicationFee": 2000,
+    "registrationFee": 5000,
+    "deposit": 21000,
+    "busFeeEstimate": "公式ゾーン料金: 約RM 7,200 – RM 10,900 / 年（ジョホールバル市内6ルート・学期別料金 / シンガポール送迎対応）",
+    "lunchFeeEstimate": "授業料に含む（Cezars Kitchen専属シェフによる栄養士監修の温かい食事・スナックを自校ファーム野菜も取り入れ提供）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Registration Fee (Application Fee)",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Acceptance Fee (Day Pupil)",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（通学生: RM 5,000 / ナーサリー: RM 2,500 / 寮生: RM 7,500、別途6% SST）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Refundable Deposit (1 Term's Fees)",
+        "amount": 21000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分の授業料相当額（Nursery: RM 21,000 〜 Sixth Form: RM 55,600 / 進級時に差額調整、退学規定に基づき返金）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Nursery (Day)",
+        "amount": 63000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery",
+        "notes": "年間授業料（RM 21,000 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Pre-Prep: Reception - Year 3 (Day)",
+        "amount": 119400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Reception - Year 3",
+        "notes": "年間授業料（RM 39,800 / 学期 × 3学期、昼食・スナック込）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Prep School: Year 4 - Year 6 (Day)",
+        "amount": 125400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 4 - Year 6",
+        "notes": "年間授業料（RM 41,800 / 学期 × 3学期、昼食・スナック込）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Prep School: Year 7 & Year 8 (Day)",
+        "amount": 141300,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 7 - Year 8",
+        "notes": "年間授業料（RM 47,100 / 学期 × 3学期、昼食・スナック込）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Senior School: Shell / Year 9 (Day)",
+        "amount": 141300,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 9",
+        "notes": "年間授業料（RM 47,100 / 学期 × 3学期、昼食・スナック込）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Senior School: Remove & Hundred / Year 10 & Year 11 (Day)",
+        "amount": 153600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 10 - Year 11 (IGCSE)",
+        "notes": "年間授業料（RM 51,200 / 学期 × 3学期、昼食・スナック込）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Senior School: Sixth Form / Lower & Upper Sixth (Day)",
+        "amount": 166800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form / Year 12 - Year 13 (IB DP)",
+        "notes": "年間授業料（RM 55,600 / 学期 × 3学期、昼食・スナック込）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "boarding",
+        "label": "Full Boarding (Senior School: Sixth Form)",
+        "amount": 259800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Full Boarding)",
+        "notes": "全寮制年間費用（授業料＋寮滞在費＋全食＋洗濯・アクティビティ込、RM 86,600 / 学期 × 3学期）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 61200,
+      "tuitionMaxAnnual": 161900,
+      "tuitionDisplay": "RM 61,200 – RM 161,900 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.marlboroughcollegemalaysia.org",
+  "contact": {
+    "email": "admissions@marlboroughcollege.my",
+    "phone": "+60 7 560 2200"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.marlboroughcollegemalaysia.org",
+      "title": "Marlborough College Malaysia Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.marlboroughcollegemalaysia.org/admissions/fees/",
+      "title": "MCM Official Tuition & Fees Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/marlborough-college-malaysia.png"
+}
