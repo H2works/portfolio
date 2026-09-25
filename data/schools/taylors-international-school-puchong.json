@@ -1,0 +1,264 @@
+{
+  "id": "taylors-international-school-puchong",
+  "slug": "taylors-international-school-puchong",
+  "name": "Taylor's International School Puchong",
+  "officialName": "Taylor's International School Puchong (TIS Puchong)",
+  "shortDescription": "セランゴール州プチョンに位置するTaylor's教育グループの大規模最新キャンパス校。広大な敷地に充実した設備とCambridgeカリキュラムを低〜中価格帯の学費で提供。",
+  "overview": "2015年に開校したTaylor's International School Puchong (TIS Puchong) は、マレーシア有数の名門教育グループ「Taylor's Education Group」が運営する近代的なインターナショナルスクールです。セランゴール州プチョン（Bandar Bukit Puchong 2）の緑豊かで広大な専用キャンパスに、最新鋭の学習棟やスポーツ施設を備えています。Early YearsからYear 11（Cambridge IGCSE）までの一貫教育を提供し、英国ナショナルカリキュラムおよび人格教育（RECIPE）プログラムを実践しています。充実した設備と質の高い教育環境を、コストパフォーマンスに優れた学費水準で受けることができるため、近隣の日本人家庭やローカル・駐在ファミリーから非常に高い人気を誇ります。",
+  "establishedYear": 2015,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Puchong",
+    "area": "Bandar Bukit Puchong 2",
+    "address": "1, Jalan BP 14/7, Bandar Bukit Puchong 2, 47120 Puchong, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Taylor's+International+School+Puchong"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 16,
+    "display": "4–16"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人スタッフは常駐していませんが、英語初級者向けのIntensive English / EALサポートプログラムが整備されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による集中的な英語学習サポート（EAL: English as an Additional Language）プログラムが提供されています。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "プチョン、スバンジャヤ、サンウェイ、プトラハイツ、サイバージャヤ各方面など広域にスクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "栄養管理された学期制ランチセット提供およびカフェテリアでの温かい食事提供（ハラール対応・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "放課後の多彩なCo-Curricular Activities（スポーツ、音楽、STEM、アート等）を提供。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "April",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（1月新学期スタート）",
+    "applicationProcess": "オンライン願書提出、学力診断アセスメント（英語・算数/CAT4）、および面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "オリンピック規格スイミングプール & 幼児用プール",
+    "全天候型大型アストロターフ（人工芝）サッカーフィールド",
+    "大型エアコン完備マルチパーパススポーツホール（バスケットボール / バドミントン）",
+    "本格的パフォーミングアーツオーディトリアム（講堂）",
+    "最新サイエンス・ラボラトリー & ICTコンピュータールーム",
+    "デザイン＆テクノロジー（D&T）ワークショップ",
+    "広大なメディアセンター & 図書館"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 19830,
+    "tuitionMaxAnnual": 57240,
+    "tuitionDisplay": "RM 19,830 – RM 57,240 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 6000,
+    "deposit": 6610,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,000 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い または 学期制ランチプラン（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (Primary & Secondary)",
+        "amount": 6000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時に支払い（Early YearsはRM 5,000 / 返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Refundable Deposit (1 Term's Fees)",
+        "amount": 6610,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分の授業料相当額（Early YearsはRM 2,000固定 / 退学規定に従い返金）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Nursery & Reception",
+        "amount": 19830,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years (Nursery & Reception)",
+        "notes": "年間授業料（RM 6,610 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Year 1",
+        "amount": 27450,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 1",
+        "notes": "年間授業料（RM 9,150 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Year 2",
+        "amount": 29760,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 2",
+        "notes": "年間授業料（RM 9,920 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Year 3",
+        "amount": 33150,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 3",
+        "notes": "年間授業料（RM 11,050 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Year 4",
+        "amount": 35190,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 4",
+        "notes": "年間授業料（RM 11,730 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Year 5",
+        "amount": 39360,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 5",
+        "notes": "年間授業料（RM 13,120 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Year 6",
+        "amount": 42630,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 6",
+        "notes": "年間授業料（RM 14,210 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Year 7",
+        "amount": 48930,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 7",
+        "notes": "年間授業料（RM 16,310 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Year 8",
+        "amount": 51540,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 8",
+        "notes": "年間授業料（RM 17,180 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Year 9",
+        "amount": 53550,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 9",
+        "notes": "年間授業料（RM 17,850 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Year 10 - Year 11 (IGCSE)",
+        "amount": 57240,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 10 - Year 11",
+        "notes": "年間授業料（RM 19,080 / 学期 × 3学期）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 19080,
+      "tuitionMaxAnnual": 55050,
+      "tuitionDisplay": "RM 19,080 – RM 55,050 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.tis.edu.my/puchong-campus/",
+  "contact": {
+    "email": "admissions.pc@tis.edu.my",
+    "phone": "+60 3-8684 1000"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.tis.edu.my/puchong-campus/",
+      "title": "Taylor's International School Puchong Official Page",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.tis.edu.my/admissions/school-fees/",
+      "title": "TIS Official School Fees Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.tis.edu.my/wp-content/uploads/2026/07/TIS-School-Fees-2027.pdf",
+      "title": "TIS Official School Fees PDF Schedule",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/taylors-international-school-puchong.png"
+}

@@ -1,0 +1,242 @@
+{
+  "id": "king-henry-viii-college",
+  "slug": "king-henry-viii-college",
+  "name": "King Henry VIII College",
+  "officialName": "King Henry VIII College Malaysia (KH8)",
+  "shortDescription": "セランゴール州サイバージャヤに位置する英国名門校Christ College Breconの姉妹校。全寮制ボーディング対応と充実したCambridgeカリキュラム・A Levelsを提供。",
+  "overview": "2018年に開校したKing Henry VIII College（KH8）は、1541年に英国ヘンリー8世によって創設されたウェールズ屈指の名門パブリックスクール「Christ College Brecon」の約500年の伝統と格式を受け継ぐ姉妹校です。セランゴール州サイバージャヤの近代的なIT特区に位置し、Early YearsからSixth Form（A Levels）までの英国式教育を提供しています。通学だけでなく、Year 6以降の週寮（Weekly Boarding）および全寮制（Full Boarding）に対応した充実した寮施設を完備。最高水準のスポーツ施設やパフォーミングアーツホールを備え、英国伝統のハウスシステムに基づいた手厚いパストラルケアと高い学術成果を追求しています。",
+  "establishedYear": 2018,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Cyberjaya",
+    "area": "Cyber 9",
+    "address": "Persiaran Bestari, Cyber 9, 63000 Cyberjaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=King+Henry+VIII+College+Cyberjaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "A-Levels"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人専任スタッフはいませんが、英語非母語の生徒に対する充実したEALサポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による集中的な英語学習サポート（EAL: English as an Additional Language）プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "サイバージャヤ、プトラジャヤ、プチョン、スバンジャヤ、KL市内各方面など広域にスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "キャンパス内ダイニングホールにて栄養士監修の温かい食事（ハラール対応・ベジタリアン選択可）を提供。",
+    "boardingAvailable": true,
+    "boardingDetail": "Year 6から利用可能な最新ボーディングハウスを完備。全寮制（Full Boarding）および週寮（Weekly Boarding: 月〜金）に対応。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "多彩なCo-Curricular Activities（スポーツ、芸術、音楽、ロボティクス等）および寮生向け夜間イブニング学習を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Michaelmas Term: 9月 / Lent Term: 1月 / Summer Term: 4月）",
+    "applicationProcess": "オンライン願書提出、学力・英語診断アセスメント（CAT4 / 面接審査）、および成績証明書提出。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "競技用スイミングプール & トレーニングプール",
+    "全天候型陸上競技トラック & サッカーグラウンド",
+    "大型エアコン完備マルチパーパススポーツホール",
+    "スカッシュコート & 全天候型テニスコート",
+    "プロ仕様パフォーミングアーツオーディトリアム",
+    "最新サイエンス・ラボラトリー & メイカースペース",
+    "男子寮・女子寮専用ボーディングハウス（専任ハウス親常駐）",
+    "24時間対応メディカルクリニック"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 23500,
+    "tuitionMaxAnnual": 96000,
+    "tuitionDisplay": "RM 23,500 – RM 96,000 / 年",
+    "applicationFee": 1300,
+    "registrationFee": 6500,
+    "deposit": 7833,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 7,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い または 学期制ランチプラン（1食 約RM 14〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1300,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Acceptance Fee (Years 7 - 13)",
+        "amount": 6500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（EYFS〜Year 6はRM 3,900 / 返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Refundable Deposit (1 Term's Fees)",
+        "amount": 7833,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分の授業料相当額（所定の事前退学届通知により返金）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery, Reception, Year 1)",
+        "amount": 23500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery - Year 1",
+        "notes": "年間基本授業料（RM 7,833 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary (Year 2)",
+        "amount": 27400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 2",
+        "notes": "年間基本授業料（RM 9,133 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary (Year 3 - Year 4)",
+        "amount": 64000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 3 - Year 4",
+        "notes": "年間基本授業料（RM 21,333 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary (Year 5 - Year 6)",
+        "amount": 66400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 5 - Year 6",
+        "notes": "年間基本授業料（RM 22,133 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Senior (Year 7 - Year 9)",
+        "amount": 81800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 7 - Year 9",
+        "notes": "年間基本授業料（RM 27,266 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Senior (Year 10 - Year 11 / IGCSE)",
+        "amount": 89000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 10 - Year 11",
+        "notes": "年間基本授業料（RM 29,666 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Sixth Form (Year 12 - Year 13 / A Levels)",
+        "amount": 96000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Year 12 - Year 13)",
+        "notes": "年間基本授業料（RM 32,000 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "boarding",
+        "label": "Full Boarding",
+        "amount": 42000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 6 - Year 13",
+        "notes": "全寮制加算費用（RM 14,000 / 学期 × 3学期、滞在費＋全食事込）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "boarding",
+        "label": "Weekly Boarding (Monday - Friday)",
+        "amount": 38000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 6 - Year 13",
+        "notes": "週寮（平日常泊）加算費用（RM 12,667 / 学期 × 3学期）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 22500,
+      "tuitionMaxAnnual": 92000,
+      "tuitionDisplay": "RM 22,500 – RM 92,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.kinghenryviii.edu.my",
+  "contact": {
+    "email": "admissions@kinghenryviii.edu.my",
+    "phone": "+60 3-8800 9888"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.kinghenryviii.edu.my",
+      "title": "King Henry VIII College Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.kinghenryviii.edu.my/school-fees",
+      "title": "KH8 Official School Fees & Boarding Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/king-henry-viii-college.png"
+}

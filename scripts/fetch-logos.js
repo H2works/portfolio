@@ -114,15 +114,29 @@ async function downloadSchoolLogo(school) {
 }
 
 async function main() {
+  const targetSlug = process.argv[2];
   const files = fs.readdirSync(schoolsDir).filter((f) => f.endsWith('.json'));
-  console.log(`Found ${files.length} schools to process...`);
+  const targetFiles = targetSlug
+    ? files.filter((f) => f === `${targetSlug}.json` || f.replace('.json', '') === targetSlug)
+    : files;
+
+  console.log(`Found ${targetFiles.length} schools to process...`);
 
   let updatedCount = 0;
 
-  for (const file of files) {
+  for (const file of targetFiles) {
     const fullPath = path.join(schoolsDir, file);
     const content = fs.readFileSync(fullPath, 'utf8');
     const school = JSON.parse(content);
+
+    // Skip if custom/existing logo already exists on disk unless a specific slug is targeted
+    if (!targetSlug && school.logoUrl) {
+      const existingLogoPath = path.join(rootDir, 'public', school.logoUrl.replace(/^\//, ''));
+      if (fs.existsSync(existingLogoPath)) {
+        console.log(`Skipping ${school.name} (logo already exists: ${school.logoUrl})`);
+        continue;
+      }
+    }
 
     const logoRelativePath = await downloadSchoolLogo(school);
     if (logoRelativePath) {
@@ -132,7 +146,7 @@ async function main() {
     }
   }
 
-  console.log(`\nDone! Successfully updated ${updatedCount} / ${files.length} schools with logoUrl.`);
+  console.log(`\nDone! Successfully updated ${updatedCount} / ${targetFiles.length} schools with logoUrl.`);
 }
 
 main().catch(console.error);
