@@ -1,0 +1,191 @@
+{
+  "id": "rafflesia-international-school-puchong",
+  "slug": "rafflesia-international-school-puchong",
+  "name": "Rafflesia International School Puchong",
+  "officialName": "Rafflesia International School Puchong (Bandar 16 Sierra)",
+  "shortDescription": "セランゴール州プチョンのBandar 16 Sierraに位置するモダンなキャンパス校。IEYC・IPC・Cambridgeカリキュラムを導入した全人教育。",
+  "overview": "セランゴール州プチョン南部の計画都市「Bandar 16 Sierra」に位置するRafflesia International School Puchongは、Rafflesia Education Groupが運営する近代的な総合インターナショナルスクールです。Early YearsにはIEYC（International Early Years Curriculum）、PrimaryにはIPC（International Primary Curriculum）、SecondaryにはCambridgeカリキュラム（IGCSE）を採用し、探究型学習と学術的学力のバランスを重視しています。最新のICT設備や屋内体育館、スイミングプールを備え、バイリンガル教育（英語・中国語）にも注力しています。プチョンやサイバージャヤ、プトラジャヤ方面からのアクセスも良好です。",
+  "establishedYear": 2013,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Puchong",
+    "area": "Bandar 16 Sierra",
+    "address": "Persiaran Sierra 2, Bandar 16 Sierra, 47100 Puchong, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Rafflesia+International+School+Puchong"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC",
+    "IGCSE"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人専任窓口はありませんが、英語サポートおよび丁寧な学習ケア体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を母国語としない生徒のためのEAL（English as an Additional Language）プログラムが提供されています。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "プチョン、セリケンバンガン、サイバージャヤ、プトラジャヤ等へスクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "モダンなスクールカフェテリアでの栄養管理されたランチ提供（都度払いまたはミールプラン）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、ロボティクス、アート、音楽など多彩なCCA（課外活動）を提供。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（9月新学期スタート）",
+    "applicationProcess": "出願書類提出、アセスメントテスト（英語・算数）および面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "スイミングプール",
+    "フルサイズ・バスケットボールコート",
+    "大型マルチパーパスホール（体育館・講堂）",
+    "最新サイエンス・ラボラトリー（理科室）",
+    "ICTコンピューターラボ",
+    "図書室・ラーニングリソースセンター",
+    "音楽室・レクチャーホール・アートルーム",
+    "カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 16233,
+    "tuitionMaxAnnual": 49800,
+    "tuitionDisplay": "RM 16,233 – RM 49,800 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 3000,
+    "deposit": 16600,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い または ミールプラン（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "オファー受諾時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Deposit",
+        "amount": 16600,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分の授業料相当（退学規定遵守で返金可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery & Reception)",
+        "amount": 16233,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery & Reception",
+        "notes": "年間授業料（RM 5,411 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 1 - Year 2",
+        "amount": 23400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 1 - Year 2",
+        "notes": "年間授業料（RM 7,800 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 3 - Year 6",
+        "amount": 34965,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 3 - Year 6",
+        "notes": "年間授業料（RM 11,655 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 7 - Year 9",
+        "amount": 44415,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 7 - Year 9",
+        "notes": "年間授業料（RM 14,805 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 10 - Year 11 (IGCSE)",
+        "amount": 49800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 10 - Year 11",
+        "notes": "年間授業料（RM 16,600 / 学期 × 3学期）"
+      }
+    ]
+  },
+  "historicalFees": [],
+  "websiteUrl": "https://www.ris.edu.my",
+  "contact": {
+    "email": "admissions@rafflesia.edu.my",
+    "phone": "+60 3-8953 9088"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.ris.edu.my",
+      "title": "Rafflesia International & Private Schools Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.ris.edu.my/sites/default/files/2026-08/Rafflesia_International_School_Puchong.pdf",
+      "title": "Rafflesia International School Puchong Official Brochure & Fee Schedule PDF",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/rafflesia-international-school-puchong.png"
+}

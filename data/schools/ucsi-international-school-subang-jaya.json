@@ -1,0 +1,256 @@
+{
+  "id": "ucsi-international-school-subang-jaya",
+  "slug": "ucsi-international-school-subang-jaya",
+  "name": "UCSI International School Subang Jaya",
+  "officialName": "UCSI International School Subang Jaya (UIS Subang)",
+  "shortDescription": "セランゴール州スバンジャヤに位置するUCSI教育グループのインター校。Cambridgeカリキュラムを採用し、年間1万〜2万RM台の極めてリーズナブルな学費設定が魅力。",
+  "overview": "セランゴール州スバンジャヤ（SS13エリア）に校舎を構えるUCSI International School Subang Jaya（UISスバンジャヤ）は、マレーシア有数の高等教育機関UCSI大学を擁するUCSI教育グループが運営するインターナショナルスクールです。Early YearsからYear 11（IGCSE）までの一貫教育を提供し、英国ケンブリッジ国際カリキュラム（Cambridge Primary, Lower Secondary, IGCSE）を採用しています。KL郊外の都市部にあって年間約1.2万RM〜3万RMという極めて手頃で明瞭な学費体系を実現しており、手厚い少人数指導とコストパフォーマンスの高さで高い支持を集めています。",
+  "establishedYear": 2021,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Subang Jaya",
+    "area": "SS13",
+    "address": "Jalan SS 13/4, Subang Jaya Industrial Estate, 47500 Subang Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=UCSI+International+School+Subang+Jaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IGCSE"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "専任の日本人スタッフはいませんが、少人数制クラスとEALサポートにより英語初級者にも親身な指導を行っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語補講プログラム（EAL / English Support）が用意されており、英語に不安のある新入生をフォローします。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "スバンジャヤ、サンウェイ、プタリンジャヤ、プチョン等各方面へスクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "学食カフェテリアでのランチ提供（ミールプラン別契約または都度払い）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "放課後クラブ活動（CCA: スポーツ、アート、ロボティクス等）が実施されています。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（9月新学期スタート）",
+    "applicationProcess": "出願書類提出、プレースメントテスト（英語・算数）および面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "多目的体育館（マルチパーパスホール）",
+    "屋外スポーツコート・プレイグラウンド",
+    "最新サイエンスラボラトリー（理科実験室）",
+    "ICTコンピュータールーム",
+    "図書室・メディアリソースセンター",
+    "音楽室・アートスタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 12750,
+    "tuitionMaxAnnual": 29820,
+    "tuitionDisplay": "RM 12,750 – RM 29,820 / 年",
+    "applicationFee": 800,
+    "registrationFee": 3000,
+    "deposit": 8950,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い または ミールプラン（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 800,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格・入学受諾時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 8950,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分の授業料相当（退学規定遵守で返金可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years 1 - 2",
+        "amount": 12750,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years 1 - 2",
+        "notes": "年間授業料・施設費合計（RM 4,250 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 1",
+        "amount": 20280,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 1",
+        "notes": "年間授業料・施設費合計（RM 6,760 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 2",
+        "amount": 21840,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 2",
+        "notes": "年間授業料・施設費合計（RM 7,280 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 3",
+        "amount": 23130,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 3",
+        "notes": "年間授業料・施設費合計（RM 7,710 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 4",
+        "amount": 23730,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 4",
+        "notes": "年間授業料・施設費合計（RM 7,910 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 5",
+        "amount": 24630,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 5",
+        "notes": "年間授業料・施設費合計（RM 8,210 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 6",
+        "amount": 25020,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 6",
+        "notes": "年間授業料・施設費合計（RM 8,340 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 7",
+        "amount": 26070,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 7",
+        "notes": "年間授業料・施設費合計（RM 8,690 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 8",
+        "amount": 27270,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 8",
+        "notes": "年間授業料・施設費合計（RM 9,090 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 9",
+        "amount": 28620,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 9",
+        "notes": "年間授業料・施設費合計（RM 9,540 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 10 - Year 11 (IGCSE)",
+        "amount": 29820,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 10 - Year 11",
+        "notes": "年間授業料・施設費合計（RM 9,940 / 学期 × 3学期）"
+      }
+    ]
+  },
+  "historicalFees": [],
+  "websiteUrl": "https://www.ucsiinternationalschool.edu.my/sj/",
+  "contact": {
+    "email": "uis.subang@ucsiinternationalschool.edu.my",
+    "phone": "+60 3-5637 7108"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.ucsiinternationalschool.edu.my/sj/",
+      "title": "UCSI International School Subang Jaya Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.ucsiinternationalschool.edu.my/sj/fee-schedule/",
+      "title": "UCSI Subang Jaya Fee Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.ucsiinternationalschool.edu.my/sj/wp-content/uploads/sites/5/2025/04/UIS-SJ-Fee-Schedule-AY25-26-ver-Mar25.pdf",
+      "title": "UCSI Subang Jaya Fee Schedule AY2025/2026 PDF",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/ucsi-international-school-subang-jaya.png"
+}

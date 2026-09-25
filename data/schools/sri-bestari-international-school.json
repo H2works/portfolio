@@ -1,0 +1,210 @@
+{
+  "id": "sri-bestari-international-school",
+  "slug": "sri-bestari-international-school",
+  "name": "Sri Bestari International School",
+  "officialName": "Sri Bestari International School (SBIS Kuala Lumpur)",
+  "shortDescription": "クアラルンプール・バンダル・スリ・ダマンサラに位置する15エーカーの広大な緑あふれるキャンパス。Cambridgeカリキュラムと手厚いケアが評判。",
+  "overview": "1995年創立の歴史を持つ名門私立校グループが2017年に開校したSri Bestari International School (SBIS) は、クアラルンプール北西部のバンダル・スリ・ダマンサラ（Bandar Sri Damansara）にある15エーカーの自然豊かな専用キャンパスに位置するインターナショナルスクールです。Reception（3歳）からYear 11（Cambridge IGCSE）までの一貫教育を提供しています。モントキアラやダマンサラ方面からのアクセスも良く、充実した運動施設や自然体験環境、少人数制の手厚い指導が魅力です。学費は年間約1.7万RM〜3.8万RMと良心的で、保護者からの信頼も厚い学校です。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Bandar Sri Damansara",
+    "address": "Persiaran Margosa, Bandar Sri Damansara, 52200 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Sri+Bestari+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IGCSE"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人専任スタッフはいませんが、親身なケアとEALサポートが用意されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語学習支援（EAL）プログラムが提供されています。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "スリ・ダマンサラ、モントキアラ、PJ、ケポン各方面へスクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "給食ミールプラン提供（Early Yearsは無料、Year 1〜6は1学期RM 750の給食プラン）。ハラール対応。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "週1回のSociety Activities（ソサエティ活動）や放課後クラブ活動を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（9月新学期スタート）",
+    "applicationProcess": "出願書類提出、入学査定（筆記・面接・行動観察）。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "広大な屋外スポーツグラウンド（サッカー・陸上トラック）",
+    "スイミングプール",
+    "屋内スポーツ複合ホール（バドミントン / バスケットボール）",
+    "サイエンスラボラトリー（理科実験棟）",
+    "ICT・コンピュータールーム",
+    "図書室・自習リソースルーム",
+    "音楽室・ダンススタジオ・アート室",
+    "ダイニングホール（カフェテリア）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 17575,
+    "tuitionMaxAnnual": 38555,
+    "tuitionDisplay": "RM 17,575 – RM 38,555 / 年",
+    "applicationFee": 1200,
+    "registrationFee": 8000,
+    "deposit": 12850,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "Early Yearsは学費に含む（無料）、PrimaryはRM 2,250 / 年（RM 750 / 学期 × 3学期）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 8000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学受諾時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Deposit",
+        "amount": 12850,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分の学費相当（退学規定遵守で返金可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Reception 1 - Reception 2",
+        "amount": 17575,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Reception 1 - Reception 2",
+        "notes": "年間学費（RM 5,858 - RM 5,859 / 学期 × 3学期）※給食費込み"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Year 1 - Year 2",
+        "amount": 21590,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 1 - Year 2",
+        "notes": "年間学費（RM 7,196 - RM 7,197 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Year 3 - Year 4",
+        "amount": 23000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 3 - Year 4",
+        "notes": "年間学費（RM 7,666 - RM 7,668 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Year 5 - Year 6",
+        "amount": 24520,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 5 - Year 6",
+        "notes": "年間学費（RM 8,172 - RM 8,174 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 7 - Year 8",
+        "amount": 34845,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 7 - Year 8",
+        "notes": "年間学費（RM 11,615 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 9",
+        "amount": 35985,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 9",
+        "notes": "年間学費（RM 11,995 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 10 - Year 11 (IGCSE)",
+        "amount": 38555,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 10 - Year 11",
+        "notes": "年間学費（RM 12,851 - RM 12,853 / 学期 × 3学期）"
+      }
+    ]
+  },
+  "historicalFees": [],
+  "websiteUrl": "https://www.sribestariinternational.edu.my/",
+  "contact": {
+    "email": "sbis_admissions@bestari.edu.my",
+    "phone": "+60 3-6263 9923"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.sribestariinternational.edu.my/",
+      "title": "Sri Bestari International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.sribestariinternational.edu.my/wp-content/uploads/2025/04/2.-SBIS-Fee-Schedule-AY25-26.pdf",
+      "title": "Sri Bestari Official Fee Schedule AY2025/2026 PDF",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/sri-bestari-international-school.png"
+}

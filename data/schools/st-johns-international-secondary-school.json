@@ -1,0 +1,233 @@
+{
+  "id": "st-johns-international-secondary-school",
+  "slug": "st-johns-international-secondary-school",
+  "name": "St. John's International Secondary School",
+  "officialName": "St. John's International Secondary School (SJIS Kuala Lumpur)",
+  "shortDescription": "クアラルンプール中心部（ブキッ・ナナス）に位置する歴史ある伝統校系列のインター校。Cambridgeカリキュラムを都心部にありながら手頃な学費で提供。",
+  "overview": "クアラルンプールの中心部、緑豊かなブキッ・ナナス（Bukit Nanas）の歴史ある文教地区に位置するSt. John's International Secondary School (SJIS) は、1904年創立のマレーシア屈指の名門ラ・サール系伝統校St. John's Institutionの精神と教育基盤を受け継ぐインターナショナルスクールです。Primary（Key Stage 1-2）およびSecondary（Key Stage 3-4 / Cambridge IGCSE）、さらにはA-Levelまで提供しています。KLCCやKLタワー至近という都心の一等地にありながら、年間学費は約1.7万RM〜3.7万RMと非常にリーズナブル。学業成績の優秀さと規律あるスクールカルチャーで高い評価を得ています。",
+  "establishedYear": 2012,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Bukit Nanas",
+    "address": "Jalan Bukit Nanas, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=St.+John's+International+Secondary+School"
+  },
+  "ageRange": {
+    "minAge": 5,
+    "maxAge": 18,
+    "display": "5–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IGCSE",
+    "A-Levels"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary",
+    "Post-16"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人専任窓口はありませんが、英語サポート（EAL/ESL）プログラムが提供されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を第一言語としない生徒向けの補講プログラム（EAL）が整っています。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内およびクランバレー主要エリアへスクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "スクールカフェテリアでのランチ提供（都度払い・カフェテリア利用）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、クラブ活動、学術系CCAが盛んに実施されています。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（1月新学期スタート / 9月学期対応）",
+    "applicationProcess": "オンライン出願、入学診断テスト（英語・算数/科学）、面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "サイエンス・ラボラトリー（物理・化学・生物実験室）",
+    "コンピュータ・ICTラボ",
+    "図書室・リサーチセンター",
+    "エアコン完備マルチパーパスホール（講堂・スポーツホール）",
+    "アート＆デザインスタジオ",
+    "カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 17600,
+    "tuitionMaxAnnual": 37210,
+    "tuitionDisplay": "RM 17,600 – RM 37,210 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2500,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee (Primary)",
+        "amount": 250,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "出願時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee (Secondary)",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "出願時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (Primary)",
+        "amount": 2750,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "入学受諾時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (Secondary)",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "入学受諾時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "デポジット（退学規定遵守で返金可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "insurance",
+        "label": "Student Insurance",
+        "amount": 60,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "notes": "学生保険料（年間）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 1",
+        "amount": 17600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 1",
+        "notes": "年間学費（インターナショナル生料金）※マレーシア国籍生はRM 15,300"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 2 - Year 3",
+        "amount": 18860,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 2 - Year 3",
+        "notes": "年間学費（インターナショナル生料金）※マレーシア国籍生はRM 16,400"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 4 - Year 6",
+        "amount": 21850,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 4 - Year 6",
+        "notes": "年間学費（インターナショナル生料金）※マレーシア国籍生はRM 19,000"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 7",
+        "amount": 30260,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 7",
+        "notes": "年間学費（インターナショナル生料金）※マレーシア国籍生はRM 24,800"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 8 - Year 9",
+        "amount": 31720,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 8 - Year 9",
+        "notes": "年間学費（インターナショナル生料金）※マレーシア国籍生はRM 26,000"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 10 - Year 11 (IGCSE)",
+        "amount": 37210,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 10 - Year 11",
+        "notes": "年間学費（インターナショナル生料金）※マレーシア国籍生はRM 30,500"
+      }
+    ]
+  },
+  "historicalFees": [],
+  "websiteUrl": "https://sjis.edu.my/",
+  "contact": {
+    "email": "info@sjis.edu.my",
+    "phone": "+60 3-2022 4881"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://sjis.edu.my/",
+      "title": "St. John's International Secondary School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://sjis.edu.my/fees-structure/",
+      "title": "SJIS Official Fees Structure",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/st-johns-international-secondary-school.png"
+}

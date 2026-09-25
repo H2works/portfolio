@@ -1,0 +1,227 @@
+{
+  "id": "ucsi-international-school-kuala-lumpur",
+  "slug": "ucsi-international-school-kuala-lumpur",
+  "name": "UCSI International School Kuala Lumpur",
+  "officialName": "UCSI International School Kuala Lumpur (UIS KL)",
+  "shortDescription": "クアラルンプール・チェラスに位置するUCSI大学直結のインター校。Cambridgeカリキュラム、ボーディング寮、手厚い英語集中サポートを提供。",
+  "overview": "クアラルンプール南東部のチェラス（Cheras）に位置するUCSI International School Kuala Lumpur（UIS KL）は、マレーシア有数の名門UCSI大学のメインキャンパスに隣接するインターナショナルスクールです。Early Years（Early Years 1-2）からYear 11（Cambridge IGCSE）までの一貫教育を提供し、全寮制ボーディング施設（平日寮・通年寮）も完備しています。Apple認定校（Apple Regional Training Center / Apple Distinguished School候補）としてテクノロジーを活用した先進的なICT教育や、英語集中プログラム（EIP/EIP+）を導入。都心近郊の大学直結型スクールとして、充実したアカデミック環境とリーズナブルな学費を両立しています。",
+  "establishedYear": 2020,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Cheras",
+    "address": "No. 1, Jalan Menara Gading 1, UCSI Heights, Cheras, 56000 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=UCSI+International+School+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IGCSE"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人専任スタッフはいませんが、独自の集中的な英語イマージョンプログラム（EIP/EIP+）により英語力に不安のある留学生も手厚くサポートされます。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語集中プログラム（EIP+: English Intensive Programme+ / EIP: English Immersion Programme）が完備されています。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内、チェラス、アンパン、カジャン等主要エリアへスクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "学食カフェテリアでの栄養バランスの取れた食事提供（都度払いまたはミールプラン）。",
+    "boardingAvailable": true,
+    "boardingDetail": "フルボーディング（通年寮）および平日ボーディング（ウィークデイ寮、1人部屋または2人部屋）を提供。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、音楽、アート、STEM、リーダーシップなど多彩な課外活動を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（9月新学期スタート）",
+    "applicationProcess": "出願書類提出、プレースメントテスト（英語・算数）および面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "ボーディングハウス（学生寮施設）",
+    "UCSI大学直結の最先端スポーツ複合施設・プール",
+    "Apple Education対応ICTルーム",
+    "最新サイエンスラボラトリー",
+    "大型オーディトリアム（講堂・パフォーミングアーツホール）",
+    "図書室・ラーニングリソースセンター",
+    "アート＆デザインスタジオ・音楽室",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 23250,
+    "tuitionMaxAnnual": 49200,
+    "tuitionDisplay": "RM 23,250 – RM 49,200 / 年",
+    "applicationFee": 1200,
+    "registrationFee": 5000,
+    "deposit": 15800,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い または ミールプラン（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学受諾時支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "other",
+        "label": "Administration Fee (International Students)",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "留学生向け事務手数料（一回限り、返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Deposit",
+        "amount": 15800,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分の授業料相当（退学規定遵守で返金可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "insurance",
+        "label": "Student Personal Insurance",
+        "amount": 30,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "notes": "学生個人保険料（年間）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Early Years 1 - 2",
+        "amount": 23250,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years 1 - 2",
+        "notes": "年間学費（授業料 RM 7,150 + Tech Fee RM 600 = RM 7,750 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 1",
+        "amount": 33000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 1",
+        "notes": "年間学費（授業料 RM 10,400 + Tech Fee RM 600 = RM 11,000 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 2 - Year 3",
+        "amount": 36150,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 2 - Year 3",
+        "notes": "年間学費（授業料 RM 11,450 + Tech Fee RM 600 = RM 12,050 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 4 - Year 6",
+        "amount": 38100,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 4 - Year 6",
+        "notes": "年間学費（授業料 RM 12,100 + Tech Fee RM 600 = RM 12,700 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 7 - Year 8",
+        "amount": 45300,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 7 - Year 8",
+        "notes": "年間学費（授業料 RM 14,500 + Tech Fee RM 600 = RM 15,100 / 学期 × 3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 9 - Year 11 (IGCSE)",
+        "amount": 49200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Year 9 - Year 11",
+        "notes": "年間学費（授業料 RM 15,800 + Tech Fee RM 600 = RM 16,400 / 学期 × 3学期）"
+      }
+    ]
+  },
+  "historicalFees": [],
+  "websiteUrl": "https://www.ucsiinternationalschool.edu.my/kl/",
+  "contact": {
+    "email": "adm.kl@ucsiinternationalschool.edu.my",
+    "phone": "+60 3-9101 8880"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.ucsiinternationalschool.edu.my/kl/",
+      "title": "UCSI International School Kuala Lumpur Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.ucsiinternationalschool.edu.my/kl/fee-schedule/",
+      "title": "UCSI International School Kuala Lumpur Fee Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.ucsiinternationalschool.edu.my/kl/wp-content/uploads/sites/3/2026/05/UISKL-Fee-Schedule.pdf",
+      "title": "UCSI Kuala Lumpur Fee Schedule AY2026/2027 PDF",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/ucsi-international-school-kuala-lumpur.png"
+}
