@@ -117,16 +117,16 @@ export default function SchoolPortalTop() {
                   <div
                     className="position-absolute bottom-0 start-0 end-0 p-4"
                     style={{
-                      background: 'linear-gradient(180deg, rgba(11, 15, 25, 0.15) 0%, rgba(11, 15, 25, 0.95) 85%)',
-                      backdropFilter: 'blur(3px)',
-                      WebkitBackdropFilter: 'blur(3px)',
+                      background: 'linear-gradient(180deg, rgba(15, 23, 42, 0.2) 0%, rgba(15, 23, 42, 0.88) 85%)',
+                      backdropFilter: 'blur(4px)',
+                      WebkitBackdropFilter: 'blur(4px)',
                     }}
                   >
                     <div className="d-flex align-items-center justify-content-between mb-2">
                       <span className="badge bg-primary px-2 py-1 small fw-semibold">
                         Kuala Lumpur &amp; Selangor
                       </span>
-                      <span className="text-white-50 small">全18校 掲載</span>
+                      <span className="text-white-50 small">全{allSchools.length}校 掲載</span>
                     </div>
                     <h3 className="h6 text-white fw-bold mb-2">公式エビデンスに基づく教育データベース</h3>
                     <div className="row g-2 text-white-50 small">
