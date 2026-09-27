@@ -51,7 +51,7 @@ export default function Home() {
         <h2 className="h6 mb-4 px-4" data-aos="fade-left" data-aos-delay="200">Side Projects:</h2>
         <div className="d-flex align-items-center p-4" data-aos="fade-left" data-aos-delay="200">
           <div className="me-4">
-            <Image src="/img/webp/bck8_xs.webp" width={80} height={80} className="rounded-circle shadow-sm" alt="International School Finder" />
+            <Image src="/img/webp/school_finder_xs.webp" width={80} height={80} className="rounded-circle shadow-sm" alt="International School Finder" />
           </div>
           <div className="flex-grow-1">
             <h3 className="h5">
@@ -64,7 +64,7 @@ export default function Home() {
         </div>
         <div className="d-flex align-items-center my-2 p-4" data-aos="fade-left" data-aos-delay="200">
           <div className="me-4">
-            <Image src="/img/webp/bck2_xs.webp" width={80} height={80} className="rounded-circle shadow-sm" alt="casinoasobi" />
+            <Image src="/img/webp/casinoasobi_xs.webp" width={80} height={80} className="rounded-circle shadow-sm" alt="casinoasobi - 実店舗カジノ情報メディア" />
           </div>
           <div className="flex-grow-1">
             <h3 className="h5">
@@ -72,7 +72,7 @@ export default function Home() {
                 casinoasobi
               </a>
             </h3>
-            <p>海外の実店舗カジノへ行く日本人のための旅行・ゲーム情報メディア。ラスベガスやマカオ等のカジノ施設情報、ルールや確率、初心者のためのガイドを掲載しています。</p>
+            <p>海外の実店舗カジノへ行く日本人のための旅行・ゲーム情報メディア。ラスベガスやマカオ等の主要施設情報、ルールや数学的確率・控除率、初心者のためのガイドを体系的に掲載しています。</p>
           </div>
         </div>
         <div className="d-flex align-items-center my-2 p-4" data-aos="fade-left" data-aos-delay="200">
