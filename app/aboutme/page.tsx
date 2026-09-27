@@ -56,7 +56,7 @@ export default function AboutMe() {
           <h2>Side Projects</h2>
           <ul>
             <li><Link href="/school">International School Finder</Link></li>
-            <li><Link href="/education">Education Media</Link></li>
+            <li><a href="https://casinoasobi.h2works.xyz/" target="_blank" rel="noopener noreferrer">casinoasobi</a></li>
             <li><a href="https://template-library.h2works.xyz/" target="_blank" rel="noopener noreferrer">Template Library</a></li>
             <li><a href="https://domain-tools.h2works.xyz/" target="_blank" rel="noopener noreferrer">Domain Tools</a></li>
             <li><a href="https://news-archive.h2works.xyz/" target="_blank" rel="noopener noreferrer">News Archive</a></li>

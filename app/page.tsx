@@ -64,15 +64,15 @@ export default function Home() {
         </div>
         <div className="d-flex align-items-center my-2 p-4" data-aos="fade-left" data-aos-delay="200">
           <div className="me-4">
-            <Image src="/img/webp/bck2_xs.webp" width={80} height={80} className="rounded-circle shadow-sm" alt="Education Media" />
+            <Image src="/img/webp/bck2_xs.webp" width={80} height={80} className="rounded-circle shadow-sm" alt="casinoasobi" />
           </div>
           <div className="flex-grow-1">
             <h3 className="h5">
-              <Link href="/education" className={`${darkMode ? 'link-light' : 'link-dark'} link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-100-hover link-underline-dark`}>
-                Education Media
-              </Link>
+              <a href="https://casinoasobi.h2works.xyz/" className={`${darkMode ? 'link-light' : 'link-dark'} link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-100-hover link-underline-dark`} target="_blank" rel="noopener noreferrer">
+                casinoasobi
+              </a>
             </h3>
-            <p>海外教育・インターナショナルスクール・通信制高校など、多様化する教育と進路の選択肢を体系的に整理して発信する教育情報メディアです。</p>
+            <p>海外の実店舗カジノへ行く日本人のための旅行・ゲーム情報メディア。ラスベガスやマカオ等のカジノ施設情報、ルールや確率、初心者のためのガイドを掲載しています。</p>
           </div>
         </div>
         <div className="d-flex align-items-center my-2 p-4" data-aos="fade-left" data-aos-delay="200">
