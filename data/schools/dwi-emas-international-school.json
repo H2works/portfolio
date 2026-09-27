@@ -1,0 +1,168 @@
+{
+  "id": "dwi-emas-international-school",
+  "slug": "dwi-emas-international-school",
+  "name": "Dwi Emas International School",
+  "officialName": "Dwi Emas International School (ACE EdVenture)",
+  "shortDescription": "マレーシア初の起業家教育（アントレプレナーシップ）特化型インター。IPCとCambridge IGCSEに独自ビジネス＆金融教育を融合。",
+  "overview": "Dwi Emas International Schoolは、セランゴール州シャーアラムの中心部に位置する、マレーシアで初めて「起業家精神（アントレプレナーシップ）の育成」を理念に掲げた画期的なインターナショナルスクールです。ACE EdVentureグループにより設立され、初等部ではIPC（International Primary Curriculum）、中高等部ではCambridge IGCSEを採用。教科書を暗記するだけでなく、実践的な金融リテラシー、ビジネス企画、プレゼンテーション、リーダーシップを幼少期から体系的に学ぶ「Powerpreneur」プログラムを展開。主体性と課題解決力を育む現代的な教育方針で高い評価を得ています。",
+  "establishedYear": 2015,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "area": "Seksyen 14",
+    "address": "No. 5, Jalan Ikhtisas 14/1, Seksyen 14, 40000 Pusat Bandar Shah Alam, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Dwi+Emas+International+School"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 17,
+    "display": "4–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応窓口はありませんが、英語が母国語でない生徒へのインタラクティブなサポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "実践的なコミュニケーションと協働学習を通じて英語力を向上させるACEメソッドを導入。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Shah Alam、Subang Jaya、Petaling Jaya、Klang方面へスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "健康的でバランスの取れたカフェテリアメニューを提供（お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "起業家クラブ、プログラミング、ロボティクス、演劇、各種スポーツなど意欲的なCCA。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、体験授業またはアセスメント面接、校長面談、入学承諾。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "多目的全天候型インドアスポーツホール",
+    "イノベーション＆アントレプレナーシップラボ",
+    "最新サイエンスラボ＆ITスタジオ",
+    "パフォーミングアーツ＆ダンススタジオ",
+    "コラボレーション学習ラウンジ",
+    "図書・リサーチセンター",
+    "スタイリッシュなカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 28000,
+    "tuitionMaxAnnual": 44450,
+    "tuitionDisplay": "RM 28,000 – RM 44,450 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 4000,
+    "deposit": 8000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 14〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "願書出願時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学決定時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 8000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Preschool / Early Years (Annual)",
+        "amount": 28000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "年学費（学期分割納入可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (IPC / Year 1 - Year 6) (Annual)",
+        "amount": 36000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Cambridge IGCSE / Year 7 - Year 11) (Annual)",
+        "amount": 44450,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年学費（Powerpreneurプログラム含む）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 26500,
+      "tuitionMaxAnnual": 42000,
+      "tuitionDisplay": "RM 26,500 – RM 42,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://dwiemas.edu.my/",
+  "contact": {
+    "email": "enquiry@dwiemas.edu.my",
+    "phone": "+60 3-5524 6390"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://dwiemas.edu.my/",
+      "title": "Dwi Emas International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/dwi-emas-international-school.png"
+}

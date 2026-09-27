@@ -1,0 +1,170 @@
+{
+  "id": "eaton-international-school",
+  "slug": "eaton-international-school-jade-hills",
+  "name": "Eaton International School",
+  "officialName": "Eaton International School (Jade Hills)",
+  "shortDescription": "Kajangの緑豊かな高級住宅街Jade Hillsに位置。英国式カリキュラムとCambridge IGCSEを提供し、温かく協調的なコミュニティが魅力。",
+  "overview": "Eaton International Schoolは、セランゴール州カジャン（Kajang）のGamuda Landによる高級ゲーテッドコミュニティ「Jade Hills」の美しい景観の中に広がる、英国式インターナショナルスクールです。Early YearsからKey Stage 3、そしてCambridge IGCSE（Year 10-11）までの一貫教育を提供。一人ひとりの好奇心と探求心を育む探究型学習を重視し、アットホームで国際色豊かな環境が特徴です。Kajang、Cheras、Bangi、Putrajayaなどセランゴール南部エリアのファミリーから厚い支持を集めています。",
+  "establishedYear": 2013,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Kajang",
+    "area": "Jade Hills",
+    "address": "Persiaran Puncak Utama, Jade Hills, 43000 Kajang, Selangor Darul Ehsan",
+    "googleMapsUrl": "https://maps.google.com/?q=Eaton+International+School+Jade+Hills"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任スタッフはいませんが、少人数制クラスのため個別の学習サポートが手厚く行き届きます。",
+    "ellSupport": true,
+    "ellSupportDetail": "母国語が英語でない生徒向けに専任のEAL（英語集中補講）プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Kajang、Jade Hills、Bangi、Cheras、Semenyih、Putrajaya方面をカバーするスクールバス網。",
+    "lunchProvided": true,
+    "lunchDetail": "Early YearsおよびKey Stage 1は栄養バランスに配慮した給食プログラムが標準対応。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、音楽、演劇、ロボティクスなど多彩なアフタースクールCCA。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、学力診断テスト・面談、入学承諾および学費納入。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "屋外スイミングプール",
+    "多目的全天候型スポーツホール（バスケットボール・バドミントンコート）",
+    "人工芝サッカーグラウンド",
+    "パフォーミングアーツ＆ドラマスタジオ",
+    "最新サイエンスラボ＆ICTラボ",
+    "総合メディアライブラリー",
+    "屋外プレイグラウンド＆レクリエーション広場",
+    "清潔なカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 16500,
+    "tuitionMaxAnnual": 46000,
+    "tuitionDisplay": "RM 16,500 – RM 46,000 / 年",
+    "applicationFee": 2000,
+    "registrationFee": 4500,
+    "deposit": 10000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,500 / 年）",
+    "lunchFeeEstimate": "学期制給食セット または カフェテリア都度払い（1食 約RM 14〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 4500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Security Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "学年進行に伴う差額調整あり（所定の退学届提出により返金）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (K1 - K3) (Annual)",
+        "amount": 16500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "年3学期分割納入（学期あたり約RM 5,500〜）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Year 1 - Year 6) (Annual)",
+        "amount": 34000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年3学期分割納入（学期あたり約RM 10,800〜RM 12,300）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Year 7 - Year 11 / Cambridge IGCSE) (Annual)",
+        "amount": 46000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年3学期分割納入（学期あたり約RM 13,000〜RM 15,300）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 15800,
+      "tuitionMaxAnnual": 44000,
+      "tuitionDisplay": "RM 15,800 – RM 44,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.eaton.edu.my/",
+  "contact": {
+    "email": "enquiry@eaton.edu.my",
+    "phone": "+60 3-8741 4965"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.eaton.edu.my/",
+      "title": "Eaton International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/eaton-international-school-jade-hills.png"
+}

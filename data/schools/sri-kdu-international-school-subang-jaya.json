@@ -1,0 +1,182 @@
+{
+  "id": "sri-kdu-international-school-subang-jaya",
+  "slug": "sri-kdu-international-school-subang-jaya",
+  "name": "Sri KDU International School Subang Jaya",
+  "officialName": "Sri KDU International School Subang Jaya",
+  "shortDescription": "Tropicana Metropark内の最新鋭キャンパス。英国式カリキュラム、Cambridge IGCSE・A-Level、英語・中国語バイリンガル（ECP）を提供。",
+  "overview": "Sri KDU International School Subang Jayaは、セランゴール州スバンジャヤの総合開発地区「Tropicana Metropark」内に位置する、名門Sri KDUグループの国際校です（旧GEMS International School）。英国ナショナルカリキュラムに準拠し、Early YearsからCambridge IGCSE、Sixth Form（A-Levels）までの一貫教育を提供。特に初等部では英語・中国語のダブル担任制による「English-Chinese Primary Programme (ECP)」を導入しており、英語力と確かな中国語運用能力を両立できる点でも国内外の家庭から注目されています。充実したスポーツ・芸術設備が揃っています。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Subang Jaya",
+    "area": "Tropicana Metropark",
+    "address": "Jalan MP 2, Tropicana Metropark, 47500 Subang Jaya, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Sri+KDU+International+School+Subang+Jaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任スタッフはいませんが、英語集中補講（IEP）により英語力立ち上げを手厚くサポート。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力に応じた段階的IEP（Intensive English Programme）およびEALサポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Subang Jaya、Petaling Jaya、Shah Alam、Puchong、Ara Damansaraを結ぶバスルート網。",
+    "lunchProvided": true,
+    "lunchDetail": "ハラール基準に配慮した温かい給食ミールプランおよびカフェテリア完備。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、フットサル、ロボティクス、中国武術、コーディングなど多彩な放課後CCA。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、CAT4テストおよび学力アセスメント面接、校長面談、入学承諾。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "オリンピックサイズ屋内スイミングプール",
+    "大型全天候型体育館（マルチパーパススポーツホール）",
+    "全天候型人工芝グラウンド",
+    "パフォーミングアーツブラックボックスシアター",
+    "サイエンスラボ＆STREAMイノベーションセンター",
+    "ICTスイート＆デザインテクノロジースタジオ",
+    "図書・メディアリソースセンター",
+    "モダンなカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 22000,
+    "tuitionMaxAnnual": 54000,
+    "tuitionDisplay": "RM 22,000 – RM 54,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 4000,
+    "deposit": 8000,
+    "busFeeEstimate": "個別見積もり（Subang・PJ・Shah Alam等 / 相場目安: 約RM 3,500〜RM 6,500/年）",
+    "lunchFeeEstimate": "学期制給食セット または カフェテリア都度払い（1食 約RM 14〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 8000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery & Reception) (Annual)",
+        "amount": 22000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "年3学期分割納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Year 1 - Year 6) (Annual)",
+        "amount": 36000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年3学期分割納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Year 7 - Year 11 / Cambridge IGCSE) (Annual)",
+        "amount": 48000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年3学期分割納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form (Year 12 - Year 13 / Cambridge A-Levels) (Annual)",
+        "amount": 54000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Year 12 - 13)",
+        "notes": "年3学期分割納入"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 21000,
+      "tuitionMaxAnnual": 51500,
+      "tuitionDisplay": "RM 21,000 – RM 51,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://srikdu.edu.my/subang-jaya/",
+  "contact": {
+    "email": "info.subang@srikdu.edu.my",
+    "phone": "+60 3-5036 8900"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://srikdu.edu.my/subang-jaya/",
+      "title": "Sri KDU International School Subang Jaya Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/sri-kdu-international-school-subang-jaya.png"
+}

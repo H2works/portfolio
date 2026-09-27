@@ -1,0 +1,167 @@
+{
+  "id": "sri-emas-international-school",
+  "slug": "sri-emas-international-school",
+  "name": "Sri Emas International School",
+  "officialName": "Sri Emas International School (ACE EdVenture)",
+  "shortDescription": "Petaling Jayaの中心に位置するACE EdVenture系列校。実践的な体験学習（ACEメソッド）とCambridge IGCSEで主体性を育む。",
+  "overview": "Sri Emas International Schoolは、セランゴール州ペタリンジャヤ（Petaling Jaya）の好立地にある、革新的な教育アプローチで知られるインターナショナルスクールです。ACE EdVentureの教育メソッド（ACE Method）に基づき、暗記型ではなく能動的・体験型の学び（Active Learning）を実践。初等部ではIPC、中等部ではCambridge IGCSEを提供しています。生徒の好奇心を引き出し、プレゼンテーション能力やクリエイティブシンキング、チームワークを重視した校風が特徴で、PJ・KL近郊のファミリーから親しまれています。",
+  "establishedYear": 2011,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "SS7",
+    "address": "Lot 1214, Seksyen 40, Batu 10, Lebuhraya Persekutuan, Off Jalan SS7/2, 47300 Petaling Jaya, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Sri+Emas+International+School"
+  },
+  "ageRange": {
+    "minAge": 6,
+    "maxAge": 17,
+    "display": "6–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "少人数・インタラクティブな授業形式により、英語非母国語生にも親しみやすい学習環境。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力に応じた段階的サポートと双方向型アクティブラーニングによる言語習得。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Petaling Jaya、Subang Jaya、Damansara、Bangsar方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "キャンパス内カフェテリアにて健康的で温かい食事を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "eスポーツ、クリエイティブアート、ディベート、各種スポーツなど多面的なCCA。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン出願、体験授業または学力アセスメントテスト、面談、合否通知。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "屋内多目的スポーツコート",
+    "理科実験室（サイエンスラボ）",
+    "ICT・プログラミングルーム",
+    "音楽スタジオ＆パフォーミングアーツスペース",
+    "クリエイティブアートスタジオ",
+    "ライブラリー＆スタディエリア",
+    "学生カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 19500,
+    "tuitionMaxAnnual": 32000,
+    "tuitionDisplay": "RM 19,500 – RM 32,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 4000,
+    "deposit": 6000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,000 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 13〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 6000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学手続きにより返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (IPC / Year 1 - Year 6) (Annual)",
+        "amount": 19500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年学費（学期分割納入可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Year 7 - Year 8) (Annual)",
+        "amount": 26400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Lower Secondary (Year 7 - 8)",
+        "notes": "年学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Year 9 - Year 11 / Cambridge IGCSE) (Annual)",
+        "amount": 32000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Upper Secondary (Year 9 - 11)",
+        "notes": "年学費"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 18500,
+      "tuitionMaxAnnual": 30500,
+      "tuitionDisplay": "RM 18,500 – RM 30,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://sriemas.edu.my/",
+  "contact": {
+    "email": "enquiry@sriemas.edu.my",
+    "phone": "+60 3-7865 5787"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://sriemas.edu.my/",
+      "title": "Sri Emas International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/sri-emas-international-school.png"
+}

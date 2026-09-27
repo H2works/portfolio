@@ -1,0 +1,171 @@
+{
+  "id": "real-international-school-shah-alam",
+  "slug": "real-international-school-shah-alam",
+  "name": "REAL International School Shah Alam",
+  "officialName": "R.E.A.L International School, Shah Alam Campus",
+  "shortDescription": "緑豊かな自然に囲まれた広大なキャンパス。英国式カリキュラムとCambridge IGCSEを手頃な学費と充実した環境で提供。",
+  "overview": "REAL International School Shah Alam Campusは、セランゴール州シャーアラム（Shah Alam）の閑静な丘陵地に位置する、歴史ある広大なキャンパスを誇るインターナショナルスクールです。英国ナショナルカリキュラムおよびCambridge IGCSEを提供。緑豊かな自然環境を活かしたアウトドア教育や、本格的なスポーツ施設、充実したアート・サイエンス設備を備えながら、リーズナブルで継続しやすい学費設定が大きな魅力です。地元マレーシア家庭および外国人駐在員家庭から長年にわたり厚い信頼を得ています。",
+  "establishedYear": 1985,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "area": "Seksyen U9",
+    "address": "Lot No. 5, Jalan Merah Saga U9/5, 40250 Shah Alam, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=REAL+Schools+Shah+Alam+Campus"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Arabic"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、英語集中サポート（EAL）によりスムーズな適応を支援。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学時の英語習熟度に応じた段階的集中英語サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Shah Alam、Subang Jaya、Petaling Jaya、Klang、Kota Damansara方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "ハラール対応の温かい給食ミールプランおよびカフェテリア利用可能。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、テニス、マーシャルアーツ、音楽、アート、ロボティクスなど多彩な放課後活動。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書提出、プレースメントテスト（英語・算数）および面談、合否通知。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "屋外競泳プール",
+    "テニスコート＆バドミントンコート",
+    "全天候型フットサルコート＆サッカーグラウンド",
+    "本格的な木工・デザインテクノロジースタジオ",
+    "理科実験室（サイエンスラボ）",
+    "音楽スタジオ＆パフォーミングアーツ室",
+    "総合メディアライブラリー",
+    "緑に囲まれたカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 18000,
+    "tuitionMaxAnnual": 34000,
+    "tuitionDisplay": "RM 18,000 – RM 34,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 1000,
+    "deposit": 3150,
+    "busFeeEstimate": "個別見積もり（Shah Alam・Subang・PJ等 / 相場目安: 約RM 3,000〜RM 5,500/年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 3150,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学届提出により返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery & Kindergarten) (Annual)",
+        "amount": 18000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "年学費（学期分割納入可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Cambridge Primary / Year 1 - Year 6) (Annual)",
+        "amount": 24000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Cambridge IGCSE / Year 7 - Year 11) (Annual)",
+        "amount": 34000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年学費"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 17200,
+      "tuitionMaxAnnual": 32500,
+      "tuitionDisplay": "RM 17,200 – RM 32,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://realschools.edu.my/shah-alam-campus/",
+  "contact": {
+    "email": "enquiry_sa@real.edu.my",
+    "phone": "+60 3-7831 6521"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://realschools.edu.my/shah-alam-campus/",
+      "title": "REAL Schools Shah Alam Campus Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/real-international-school-shah-alam.png"
+}

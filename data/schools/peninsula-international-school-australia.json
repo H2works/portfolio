@@ -1,0 +1,182 @@
+{
+  "id": "peninsula-international-school-australia",
+  "slug": "peninsula-international-school-australia",
+  "name": "Peninsula International School Australia",
+  "officialName": "Peninsula International School Australia (PISA)",
+  "shortDescription": "オーストラリア・ビクトリア州名門校の提携校。豪州カリキュラムとVCE（Victorian Certificate of Education）を提供し、世界の一流大学進学へ直結。",
+  "overview": "Peninsula International School Australia（PISA）は、セランゴール州セティア・アラームにキャンパスを構える、マレーシアでも希少なオーストラリア・ビクトリア州カリキュラム準拠のインターナショナルスクールです。オーストラリア・メルボルンの名門校Peninsula Grammarと提携し、初等部から高等部（VCE）までの一貫教育を提供。世界各国の大学進学に対応する国際資格VCEの取得が可能で、オーストラリア・英国・米国等のトップ大学への高い進学実績を誇ります。広大な敷地に最新のスポーツ施設や学習棟、ボーディング（学生寮）を備えています。",
+  "establishedYear": 2018,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "area": "Setia Alam",
+    "address": "No. 1, Jalan Setia Murni U13/51, Seksyen U13, Setia Alam, 40170 Shah Alam, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Peninsula+International+School+Australia"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "Australian"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary",
+    "Senior Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "日本人アドバイザーによる入学相談・保護者サポート体制あり。日本人生徒の受入実績多数。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学時の英語力に応じた段階的EAL（English as an Additional Language）プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Setia Alam、Shah Alam、Klang、Subang Jaya、Petaling Jaya、Mont Kiara等を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "ハラール対応の温かい給食ミールプランおよびカフェテリア完備。",
+    "boardingAvailable": true,
+    "boardingDetail": "Year 7以上の生徒を対象とした週寮（Weekly）および全寮制（Full Boarding）施設を併設。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、アート、テクノロジー、STEAMなど多彩な課外活動（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "April",
+      "July",
+      "October"
+    ],
+    "academicYearSchedule": "4学期制（Term 1: 1月〜 / Term 2: 4月〜 / Term 3: 7月〜 / Term 4: 10月〜 ※豪州暦）",
+    "applicationProcess": "願書出願、学力アセスメントテスト（英語・数学）、面接、合格通知および入学手続き。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "屋内オリンピックサイズ競泳プール",
+    "全天候型大型体育館（マルチパーパススポーツホール）",
+    "人工芝サッカーグラウンド＆陸上トラック",
+    "パフォーミングアーツシアター・ダンススタジオ",
+    "最新サイエンスラボ＆STEAMイノベーションラボ",
+    "マルチメディアライブラリー",
+    "カフェテリア＆学生ラウンジ",
+    "男女別ボーディング（学生寮）棟"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 26000,
+    "tuitionMaxAnnual": 65000,
+    "tuitionDisplay": "RM 26,000 – RM 65,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 5000,
+    "deposit": 12000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 4,000 – RM 7,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 15〜22目安 / プリペイド利用 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学受諾時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 12000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分相当（所定の退学通知手続きにより返金）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Foundation / Early Years (Annual)",
+        "amount": 26000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "年4学期分割納入（一括前納割引5%あり）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Prep - Year 6) (Annual)",
+        "amount": 42000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Prep - Year 6)",
+        "notes": "年4学期分割納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Year 7 - 10) (Annual)",
+        "amount": 54000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 10)",
+        "notes": "年4学期分割納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Senior Secondary / VCE (Year 11 - 12) (Annual)",
+        "amount": 65000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Senior Secondary (Year 11 - 12)",
+        "notes": "オーストラリアVCE認定カリキュラム"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 24800,
+      "tuitionMaxAnnual": 62000,
+      "tuitionDisplay": "RM 24,800 – RM 62,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://peninsula.edu.my/home/",
+  "contact": {
+    "email": "admissions@peninsula.edu.my",
+    "phone": "+60 3-5033 8000"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://peninsula.edu.my/home/",
+      "title": "Peninsula International School Australia Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/peninsula-international-school-australia.png"
+}

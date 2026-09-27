@@ -1,0 +1,171 @@
+{
+  "id": "tenby-international-school-tropicana-aman",
+  "slug": "tenby-international-school-tropicana-aman",
+  "name": "Tenby International School Tropicana Aman",
+  "officialName": "Tenby International School Tropicana Aman",
+  "shortDescription": "世界的大手ISPグループ運営校。Kota Kemuning近郊の10エーカーの広大な専用キャンパスで英国式＆Cambridge IGCSEを提供。",
+  "overview": "Tenby International School Tropicana Amanは、セランゴール州コタ・ケムニン（Kota Kemuning）およびバンダル・リンバユ（Bandar Rimbayu）に隣接するトロピカーナ・アーマンに位置する、国際教育グループISP（International Schools Partnership）傘下の近代的なインターナショナルスクールです。10エーカーの広大で緑豊かな専用キャンパスに、幼稚園（EYFS）、初等部（IPC・英国カリキュラム）、中等部（Cambridge IGCSE）を完備。「アメージング・ラーニング（Amazing Learning）」を教育理念に掲げ、生徒が自らの限界を超えて成長できる支援体制と、充実した最新スポーツ・STEAM施設が整っています。",
+  "establishedYear": 2018,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Telok Panglima Garang",
+    "area": "Bandar Tropicana Aman",
+    "address": "No. 1, Jalan Tropicana Aman, Jalan Utama 2, Bandar Tropicana Aman, 42500 Telok Panglima Garang, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Tenby+International+School+Tropicana+Aman"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 16,
+    "display": "3–16"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、国際色豊かな学習環境で英語サポート（EAL）が充実しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学時の英語レベルに応じた段階的なEAL（English as an Additional Language）サポート。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Kota Kemuning、Bandar Rimbayu、Puchong、Subang Jaya、Klang方面へスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全基準に配慮した温かい給食ミールプランおよびカフェテリア利用可能。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、フットサル、ロボティクス、演劇、チェスなど豊富な放課後クラブ活動。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン願書提出、アセスメントテスト（CAT4・面談）、合否通知、入学承諾。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "オリンピックサイズ屋外競泳プール",
+    "全天候型大型マルチパーパススポーツホール",
+    "人工芝サッカーグラウンド",
+    "パフォーミングアーツオーディトリアム＆音楽室",
+    "最新サイエンスラボ＆デザインテクノロジー室",
+    "ライブラリー＆メディアリソースセンター",
+    "清潔で広々としたスクールカフェテリア",
+    "幼児専用プレイグラウンド"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 21000,
+    "tuitionMaxAnnual": 65000,
+    "tuitionDisplay": "RM 21,000 – RM 65,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 4000,
+    "deposit": 10000,
+    "busFeeEstimate": "公式ゾーン料金または別見積（相場目安: 約RM 3,800 – RM 7,000 / 年）",
+    "lunchFeeEstimate": "学期制給食セット または カフェテリア都度払い（1食 約RM 14〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学決定時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学届提出により返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery & Reception) (Annual)",
+        "amount": 21000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "年3学期分割納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Key Stage 1 & 2 / Year 1 - Year 6) (Annual)",
+        "amount": 38000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年3学期分割納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Key Stage 3 & 4 / Year 7 - Year 11 / Cambridge IGCSE) (Annual)",
+        "amount": 65000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年3学期分割納入"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 20000,
+      "tuitionMaxAnnual": 62000,
+      "tuitionDisplay": "RM 20,000 – RM 62,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.tenby.edu.my/tropicana-aman",
+  "contact": {
+    "email": "tropicana@tenby.edu.my",
+    "phone": "+60 3-7624 2121"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.tenby.edu.my/tropicana-aman",
+      "title": "Tenby International School Tropicana Aman Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/tenby-international-school-tropicana-aman.jpg"
+}
