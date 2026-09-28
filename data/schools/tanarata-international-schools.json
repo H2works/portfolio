@@ -1,0 +1,208 @@
+{
+  "id": "tanarata-international-schools",
+  "slug": "tanarata-international-schools",
+  "name": "Tanarata International Schools",
+  "officialName": "Tanarata International Schools (TiS)",
+  "shortDescription": "Kajangの広大な自然プランテーション環境に広がる、伝統的で良心的な学費の英国ケンブリッジ校。",
+  "overview": "2007年に設立されたTanarata International Schools (TiS) は、セランゴール州カジャン（Kajang）の元プランテーション農園跡地という豊かな緑に囲まれたエコキャンパスを構える英国式インターナショナルスクールです。Year 1（5歳）からYear 11（IGCSE）およびA-Levelまでの教育を提供。過度な華美さを排し、本質的な学力養成と自然との共生、コミュニティ意識を大切にする堅実な教育方針で知られています。保護者に寄り添ったリーズナブルで安定した授業料設定と、広大なオープンスペースでのびのび学べる学習環境が、国内外のファミリーから長年厚い信頼を集めています。",
+  "establishedYear": 2007,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Kajang",
+    "area": "Kajang",
+    "address": "TiS @ Planters Grounds, 3.5 mls off Kajang-Serdang Road, 43000 Kajang, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Tanarata+International+Schools"
+  },
+  "ageRange": {
+    "minAge": 5,
+    "maxAge": 18,
+    "display": "5–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人専任窓口はありませんが、英語が母語でない生徒への細やかなケアを実施。",
+    "ellSupport": true,
+    "ellSupportDetail": "通常授業と並行した英語支援サポートを実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Kajang、Bangi、Seri Kembangan、Putrajaya、Cheras方面へ提携スクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "緑に囲まれたオープンエアのカフェテリアにて栄養バランスのとれたハラール対応ランチを提供（お弁当持参可能）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "自然観察、スポーツ、チェス、各種課外クラブ活動を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "出願書類提出、過去の成績証明書提出、アセスメントテスト（英語・数学）、保護者・生徒面談。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "広大な自然エコキャンパス & 植物園",
+    "25mスイミングプール",
+    "天然芝サッカーグラウンド & 陸上トラック",
+    "屋外テニスコート & バスケットボールコート",
+    "理科実験室（物理・化学・生物ラボ）",
+    "ICTコンピュータールーム",
+    "図書館 & 自習リソースセンター"
+  ],
+  "currentFees": {
+    "academicYear": "2024/2025",
+    "tuitionMinAnnual": 23400,
+    "tuitionMaxAnnual": 34500,
+    "tuitionDisplay": "RM 23,400 – RM 34,500 / 年",
+    "applicationFee": 900,
+    "registrationFee": 5400,
+    "deposit": 3500,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2024/2025",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 900,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願手続き時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "registration_fee",
+        "label": "Admission Fee (Year 3 - 4)",
+        "amount": 5400,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学許可時に支払い（学年によりRM 4,300〜RM 8,700）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "学年によりRM 3,000〜RM 4,000。1学期前の書面通知により返金"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "other",
+        "label": "Resource Fund Contribution",
+        "amount": 1800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "All Grades",
+        "notes": "1学期あたりRM 600（年間RM 1,800、最長4年間支払）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Primary Year 1 - 2 Tuition (Annual)",
+        "amount": 23400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 2)",
+        "notes": "1学期あたりRM 7,800（全3学期）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Primary Year 3 - 4 Tuition (Annual)",
+        "amount": 25050,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 3 - 4)",
+        "notes": "1学期あたりRM 8,350（全3学期）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Primary Year 5 - 6 Tuition (Annual)",
+        "amount": 26700,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 5 - 6)",
+        "notes": "1学期あたりRM 8,900（全3学期）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Secondary Year 7 - 9 Tuition (Annual)",
+        "amount": 29100,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 9)",
+        "notes": "1学期あたりRM 9,700（全3学期）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Secondary Year 10 - 11 Tuition / IGCSE (Annual)",
+        "amount": 34500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 10 - 11)",
+        "notes": "1学期あたりRM 11,500（全3学期）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2023/2024",
+      "tuitionMinAnnual": 22000,
+      "tuitionMaxAnnual": 33000,
+      "tuitionDisplay": "RM 22,000 – RM 33,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.tanarata.net",
+  "contact": {
+    "email": "admin@tanarata.net",
+    "phone": "+60 3-8737 7366"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.tanarata.net",
+      "title": "Tanarata International Schools Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2024/2025"
+    },
+    {
+      "url": "https://www.tanarata.net/academics-enrollment/fees/",
+      "title": "Tanarata Official Tuition & Fees Page",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2024/2025"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/tanarata-international-schools.png"
+}

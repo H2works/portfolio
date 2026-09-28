@@ -1,0 +1,270 @@
+{
+  "id": "the-international-school-at-parkcity",
+  "slug": "the-international-school-at-parkcity",
+  "name": "The International School @ ParkCity",
+  "officialName": "The International School @ ParkCity (ISP)",
+  "shortDescription": "Desa ParkCityの中心に位置し、英国式カリキュラムと緑豊かな安全な居住環境が融合したKL屈指の人気校。",
+  "overview": "2011年に開校したThe International School @ ParkCity (ISP) は、クアラルンプール有数のプレミアム住宅街「Desa ParkCity」のマスタープラン内に位置する英国式インターナショナルスクールです。緑豊かな公園や歩行者専用道路に囲まれた安全なコミュニティ内で、NurseryからYear 13（A-Level）までの一貫教育を提供しています。英国ナショナルカリキュラムおよびケンブリッジ国際教育プログラム（IGCSE、A-Level）を採用し、高い学術的成果と充実したスポーツ・芸術・STEM活動を両立。徒歩・自転車通学が可能な住環境の良さから、駐在員ファミリーや教育移住者に圧倒的な人気を誇ります。",
+  "establishedYear": 2011,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Desa ParkCity",
+    "address": "No. 1, Jalan Intisari Perdana, Desa ParkCity, 52200 Kuala Lumpur",
+    "googleMapsUrl": "https://maps.google.com/?q=The+International+School+at+ParkCity"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Reception",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish",
+      "French"
+    ],
+    "japaneseSupport": true,
+    "japaneseSupportDetail": "日本人保護者コミュニティが形成されており、Desa ParkCity在住の日本人ファミリーも多く情報共有が活発です。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による集中的な英語学習サポート（EAL: English as an Additional Language）プログラムあり（別途RM 3,250 / 学期）。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Desa ParkCity周辺、Mont Kiara、Bangsar、Damansara等の主要エリアを結ぶスクールバス運行あり（公式提携）。",
+    "lunchProvided": true,
+    "lunchDetail": "スクールカフェテリアにて栄養バランスのとれたハラール対応ランチを提供（お弁当持参も可能）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、音楽、ロボティクス、ディベートなど多彩な放課後課外活動（ECA/CCA）を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン出願書類提出、過去の成績証明書審査、対面アセスメント（学年に応じてEYC面談、CAT4試験、ライティング、面接等）。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "オリンピック規格競泳プール & 練習用プール",
+    "FIFA規格人工芝サッカーグラウンド",
+    "大型屋内スポーツホール & バスケットボールコート",
+    "パフォーミングアーツシアター & ドラマスタジオ",
+    "サイエンスラボ & デザインテクノロジー（DT）ルーム",
+    "デジタルメディアセンター & 図書館",
+    "Desa ParkCity直結のグリーンキャンパス"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 25800,
+    "tuitionMaxAnnual": 87000,
+    "tuitionDisplay": "RM 25,800 – RM 87,000 / 年",
+    "applicationFee": 1500,
+    "registrationFee": 20000,
+    "deposit": 29000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 4,000 – RM 7,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 15〜22目安 / プリペイド利用 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (Year 1 to Year 11)",
+        "amount": 20000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（Desa ParkCity居住者には25%割引制度あり）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (Nursery & Reception)",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "Year 1進学時に差額RM 10,000のトップアップが必要"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (Year 12 & Year 13)",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "Sixth Form新規入学生の登録料"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 29000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "授業料1学期分相当（学年によりRM 8,600〜RM 29,000）。退学規約に従い所定の通知を行った場合に返金"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Nursery Tuition (Annual)",
+        "amount": 25800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery",
+        "notes": "1学期あたりRM 8,600（全3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Reception Tuition (Annual)",
+        "amount": 27000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Reception",
+        "notes": "1学期あたりRM 9,000（全3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 1 Tuition (Annual)",
+        "amount": 40500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1)",
+        "notes": "1学期あたりRM 13,500（全3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 2 Tuition (Annual)",
+        "amount": 54600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 2)",
+        "notes": "1学期あたりRM 18,200（全3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 3 - 4 Tuition (Annual)",
+        "amount": 63600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 3 - 4)",
+        "notes": "1学期あたりRM 21,200（全3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 5 - 6 Tuition (Annual)",
+        "amount": 66000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 5 - 6)",
+        "notes": "1学期あたりRM 22,000（全3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 7 Tuition (Annual)",
+        "amount": 75600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7)",
+        "notes": "1学期あたりRM 25,200（全3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 8 - 9 Tuition (Annual)",
+        "amount": 77400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 8 - 9)",
+        "notes": "1学期あたりRM 25,800（全3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 10 - 11 Tuition / IGCSE (Annual)",
+        "amount": 84000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 10 - 11)",
+        "notes": "1学期あたりRM 28,000（全3学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Sixth Form Year 12 - 13 Tuition / A-Level (Annual)",
+        "amount": 87000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Year 12 - 13)",
+        "notes": "1学期あたりRM 29,000（全3学期）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 24900,
+      "tuitionMaxAnnual": 84000,
+      "tuitionDisplay": "RM 24,900 – RM 84,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://isp.edu.my",
+  "contact": {
+    "email": "admissions@isp.edu.my",
+    "phone": "+60 3-6280 8888"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://isp.edu.my",
+      "title": "ISP Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://isp.edu.my/admissions/fees/",
+      "title": "ISP Official Tuition & Fees Page",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/the-international-school-at-parkcity.jpg"
+}

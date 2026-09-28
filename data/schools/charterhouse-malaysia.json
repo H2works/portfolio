@@ -1,0 +1,216 @@
+{
+  "id": "charterhouse-malaysia",
+  "slug": "charterhouse-malaysia",
+  "name": "Charterhouse Malaysia",
+  "officialName": "Charterhouse Malaysia",
+  "shortDescription": "英国名門Charterhouseの伝統を受け継ぐ、Sri Hartamasのシニアスクール・シックスフォーム（IGCSE & A-Level）専門校。",
+  "overview": "英国屈指の名門パブリックスクール「Charterhouse」の伝統と教育理念をアジアに導入したCharterhouse Malaysiaは、クアラルンプールの一等地Sri Hartamasに位置するアッパースクール・シックスフォーム（Year 9〜Year 13）専門のインターナショナルスクールです。ケンブリッジIGCSEおよびA-Levelに特化し、世界中のトップ大学への進学を強力にサポートするFuture Readyプログラムを展開。先進的なデザインシンキング、個別メンター制度、少人数制セミナー型指導を取り入れ、グローバルリーダーを育成する高度な教育環境を提供しています。ボーディング（寄宿舎）施設も完備。",
+  "establishedYear": 2021,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Sri Hartamas",
+    "address": "193, Jalan Sri Hartamas 3, Taman Sri Hartamas, 50480 Kuala Lumpur",
+    "googleMapsUrl": "https://maps.google.com/?q=Charterhouse+Malaysia"
+  },
+  "ageRange": {
+    "minAge": 13,
+    "maxAge": 19,
+    "display": "13–19"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人スタッフの常駐はありませんが、留学生向けの専任アカデミックアドバイザーがサポートします。",
+    "ellSupport": true,
+    "ellSupportDetail": "大学進学やA-Levelでの専門的論文執筆を見据えた集中アカデミックEALプログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内主要エリア（Mont Kiara、Bangsar、Damansara等）より送迎バス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "キャンパス内ダイニングホールにてシェフ監修の高品質ハラールメニューを提供。",
+    "boardingAvailable": true,
+    "boardingDetail": "週日ボーディング（Weekly: RM 36,000/年）およびフルボーディング（Full: RM 52,000/年）の近代的学生寮を完備。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "個別大学進学カウンセリング、探究プロジェクト、各種クラブ活動を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン出願、過去の成績証明書、英語および学力アセスメント、校長・教頭による個別面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "ハーバード式ディスカッション型レクチャールーム",
+    "最先端サイエンス・バイオテクノロジーラボ",
+    "デザイン＆イノベーションスタジオ（メイカースペース）",
+    "ブラックボックスシアター & メディアプロダクションルーム",
+    "インドアスポーツアリーナ & フィットネスジム",
+    "カレッジスタイルの自習スペース & レファレンスライブラリ",
+    "プレミアムボーディングハウス（学生寮）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 92715,
+    "tuitionMaxAnnual": 119250,
+    "tuitionDisplay": "RM 92,715 – RM 119,250 / 年",
+    "applicationFee": 1500,
+    "registrationFee": 5000,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 4,000 – RM 7,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 16〜25目安 / プリペイド利用 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee (Malaysian / International)",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "アセスメント実施前に支払い（出願料: マレーシア人 RM 1,500 / インターナショナル生 RM 5,000）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "卒業時または規定の1学期間前予告を行った退学時に返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "technology_fee",
+        "label": "Technology Resource Fee",
+        "amount": 850,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "All Grades",
+        "notes": "年間テクノロジーリソース利用料"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Year 9 Tuition (Annual, Malaysian)",
+        "amount": 92715,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 9)",
+        "notes": "1学期あたりRM 30,905（全3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Year 10 & 11 Tuition / IGCSE (Annual, Malaysian)",
+        "amount": 94800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 10 - 11)",
+        "notes": "1学期あたりRM 31,600（全3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Year 12 & 13 Tuition / A-Level (Annual, Malaysian)",
+        "amount": 95850,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Year 12 - 13)",
+        "notes": "1学期あたりRM 31,950（全3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "IGCSE Foundation Year 9 Tuition (Annual, International)",
+        "amount": 113550,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 9)",
+        "notes": "1学期あたりRM 37,850（全3学期、インターナショナル生対象）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Year 10 & 11 Tuition / IGCSE (Annual, International)",
+        "amount": 115590,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 10 - 11)",
+        "notes": "1学期あたりRM 38,530（全3学期、インターナショナル生対象）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Year 12 & 13 Tuition / A-Level+ (Annual, International)",
+        "amount": 119250,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Year 12 - 13)",
+        "notes": "1学期あたりRM 39,750（全3学期、インターナショナル生対象）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 89000,
+      "tuitionMaxAnnual": 115000,
+      "tuitionDisplay": "RM 89,000 – RM 115,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.charterhouse-htms.edu.my",
+  "contact": {
+    "email": "admissions@charterhouse-htms.edu.my",
+    "phone": "+60 3-6201 0188"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.charterhouse-htms.edu.my",
+      "title": "Charterhouse Malaysia Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.charterhouse-htms.edu.my/school-fees/",
+      "title": "Charterhouse Malaysia Official School Fees",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/charterhouse-malaysia.png"
+}

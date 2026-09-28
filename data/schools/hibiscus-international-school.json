@@ -1,0 +1,226 @@
+{
+  "id": "hibiscus-international-school",
+  "slug": "hibiscus-international-school",
+  "name": "Hibiscus International School",
+  "officialName": "Hibiscus International School (formerly Time International School)",
+  "shortDescription": "Segambut/Kepongに位置するアットホームで学費バランスに優れた英国ケンブリッジカリキュラム校。",
+  "overview": "2012年にTime International Schoolとして設立され、Hibiscus International Schoolへと改称した本校は、クアラルンプール（Segambut / Kepongエリア）にキャンパスを構える英国式インターナショナルスクールです。幼小中高（NurseryからYear 11 / IGCSE）まで一貫したケンブリッジカリキュラムを提供。少人数制クラスによるきめ細やかな指導と、多国籍で温かいファミリーコミュニティ、そしてクアラルンプール市内でも極めて手頃で明瞭な学費設定が大きな特徴です。追加費用なしのEAL（英語補講サポート）も提供されており、英語初学者にも手厚い環境が整っています。",
+  "establishedYear": 2012,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Segambut",
+    "address": "1, Jalan Udang Harimau 3, Kepong Business Park, Taman Sri Segambut, 51200 Kuala Lumpur",
+    "googleMapsUrl": "https://maps.google.com/?q=Hibiscus+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Reception",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Turkish",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人スタッフの常駐はありませんが、英語初級者向けの個別ケアが充実しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "EAL（英語学習サポート）プログラムが追加料金なし（無料）で提供されます。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "公式ゾーン料金制（月額RM 400〜RM 650）。Mont Kiara、Kepong、Ampang、Damansara等に送迎ルートあり。",
+    "lunchProvided": true,
+    "lunchDetail": "スクールカフェテリアにて温かいハラール対応ランチを提供（お弁当持参可能）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "放課後のクラブ活動（ECA）、スポーツ、アート、ITアクティビティを実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン出願、過去の成績証明書提出、プレースメントテストおよび面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "科学実験室（理科ラボ）",
+    "ICT・コンピュータールーム",
+    "図書館 & メディアリソースセンター",
+    "屋外多目的スポーツコート & フットサル場",
+    "スクールカフェテリア",
+    "音楽室 & アートスタジオ",
+    "屋内プレイグラウンド（プレスクール専用）"
+  ],
+  "currentFees": {
+    "academicYear": "2024/2025",
+    "tuitionMinAnnual": 21360,
+    "tuitionMaxAnnual": 43650,
+    "tuitionDisplay": "RM 21,360 – RM 43,650 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 3000,
+    "deposit": 5000,
+    "busFeeEstimate": "公式ゾーン料金: 約RM 4,400 – RM 7,150 / 年（Zone 1〜4、月額RM 400〜650）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2024/2025",
+        "feeType": "application_fee",
+        "label": "Placement Test & Assessment Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願・学力診断テスト時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（学年によりRM 2,500〜RM 4,000）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "3ヶ月前の書面退学届提出により全額返金"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Pre-School Nursery Tuition (Annual)",
+        "amount": 21360,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery",
+        "notes": "1学期あたりRM 7,120（全3学期）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Pre-School Reception Tuition (Annual)",
+        "amount": 24660,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Reception",
+        "notes": "1学期あたりRM 8,220（全3学期）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Primary Year 1 - 2 Tuition (Annual)",
+        "amount": 29550,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 2)",
+        "notes": "1学期あたりRM 9,850（全3学期）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Primary Year 3 - 4 Tuition (Annual)",
+        "amount": 31305,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 3 - 4)",
+        "notes": "1学期あたりRM 10,435（全3学期）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Primary Year 5 - 6 Tuition (Annual)",
+        "amount": 33210,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 5 - 6)",
+        "notes": "1学期あたりRM 11,070（全3学期）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Secondary Year 7 - 9 Tuition (Annual)",
+        "amount": 35580,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 9)",
+        "notes": "1学期あたりRM 11,860（全3学期）"
+      },
+      {
+        "academicYear": "2024/2025",
+        "feeType": "tuition",
+        "label": "Secondary Year 10 - 11 Tuition / IGCSE (Annual)",
+        "amount": 43650,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 10 - 11)",
+        "notes": "1学期あたりRM 14,550（全3学期）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2023/2024",
+      "tuitionMinAnnual": 20000,
+      "tuitionMaxAnnual": 41000,
+      "tuitionDisplay": "RM 20,000 – RM 41,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://hibiscus.edu.my",
+  "contact": {
+    "email": "admissions@hibiscus.edu.my",
+    "phone": "+60 3-6242 5544"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://hibiscus.edu.my",
+      "title": "Hibiscus International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2024/2025"
+    },
+    {
+      "url": "https://hibiscus.edu.my/admissions/school-fees/",
+      "title": "Hibiscus Official School Fees Page",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2024/2025"
+    },
+    {
+      "url": "https://hibiscus.edu.my/wp-content/uploads/2024/10/Fee-Structure-2024.pdf",
+      "title": "Hibiscus Official Fee Structure PDF",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2024/2025"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/hibiscus-international-school.png"
+}

@@ -1,0 +1,307 @@
+{
+  "id": "kingsgate-international-school",
+  "slug": "kingsgate-international-school",
+  "name": "Kingsgate International School",
+  "officialName": "Kingsgate International School",
+  "shortDescription": "Bukit Jalil / Seri Kembanganに位置し、伝統的な英国式カリキュラムと最新施設が揃う全年齢対象校。",
+  "overview": "2017年に創立されたKingsgate International Schoolは、クアラルンプール南部とセランゴール州境のBukit Jalil / Seri Kembanganエリアに位置する英国式インターナショナルスクールです。Nursery（3歳）からSixth Form（Year 13 / A-Level）までの一貫教育を提供。英国ナショナルカリキュラムおよびケンブリッジ国際カリキュラムを採用し、少人数制クラスで学術的卓越性と人間性の育成（リーダーシップ・共感力）に注力しています。最新のサイエンスラボやイノベーションスタジオ、スポーツ施設を備え、制服2セットが授業料に含まれるなど明瞭で包括的な学費体系が保護者に評価されています。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Seri Kembangan",
+    "area": "Bukit Jalil / Seri Kembangan",
+    "address": "A-GF-05, Jalan PBS 14/2, Seksyen 13, Taman Bukit Serdang, 43300 Seri Kembangan, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Kingsgate+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Reception",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人スタッフの常駐はありませんが、英語学習サポートが手厚く外国人ファミリーを温かく受け入れています。",
+    "ellSupport": true,
+    "ellSupportDetail": "追加言語プログラム（English / Mandarin）あり（Primary: RM 3,250/学期、Secondary: RM 3,750/学期）。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Bukit Jalil、Seri Kembangan、Cheras、Puchong、KL南部等へスクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "スクールミール制度（モーニングリセス＆ランチ: RM 1,200/学期、RM 3,600/年）を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "火・水・木曜日の放課後に多彩な課外活動（ECA: 校内講師担当分は無料）を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン出願、過去の成績証明書、英語・学力アセスメントテスト、面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "サイエンス＆STEMイノベーションラボ",
+    "パフォーミングアーツ＆ダンススタジオ",
+    "屋内スポーツアリーナ & バスケットボールコート",
+    "スイミングプール",
+    "モダンライブラリ & デジタルラーニングセンター",
+    "カフェテリア & ダイニングエリア",
+    "安全な屋内外プレイグラウンド"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 30450,
+    "tuitionMaxAnnual": 74100,
+    "tuitionDisplay": "RM 30,450 – RM 74,100 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 20000,
+    "deposit": 9500,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,800 – RM 7,000 / 年）",
+    "lunchFeeEstimate": "スクールミール公式料金: RM 3,600 / 年（RM 1,200 / 学期、朝のおやつ＋昼食）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願・アセスメント実施前に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Enrolment Fee",
+        "amount": 20000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 9500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期間前の正式書面による退学届提出により返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Nursery Tuition (Annual)",
+        "amount": 30450,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery",
+        "notes": "1学期あたりRM 10,150（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Reception Tuition (Annual)",
+        "amount": 31500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Reception",
+        "notes": "1学期あたりRM 10,500（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 1 Tuition (Annual)",
+        "amount": 35700,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1)",
+        "notes": "1学期あたりRM 11,900（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 2 Tuition (Annual)",
+        "amount": 37800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 2)",
+        "notes": "1学期あたりRM 12,600（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 3 Tuition (Annual)",
+        "amount": 39900,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 3)",
+        "notes": "1学期あたりRM 13,300（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 4 Tuition (Annual)",
+        "amount": 42900,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 4)",
+        "notes": "1学期あたりRM 14,300（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 5 Tuition (Annual)",
+        "amount": 45000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 5)",
+        "notes": "1学期あたりRM 15,000（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 6 Tuition (Annual)",
+        "amount": 53400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 6)",
+        "notes": "1学期あたりRM 17,800（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 7 Tuition (Annual)",
+        "amount": 57600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7)",
+        "notes": "1学期あたりRM 19,200（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 8 Tuition (Annual)",
+        "amount": 61800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 8)",
+        "notes": "1学期あたりRM 20,600（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 9 Tuition (Annual)",
+        "amount": 67800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 9)",
+        "notes": "1学期あたりRM 22,600（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 10 Tuition / IGCSE (Annual)",
+        "amount": 68100,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 10)",
+        "notes": "1学期あたりRM 22,700（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 11 Tuition / IGCSE (Annual)",
+        "amount": 69900,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 11)",
+        "notes": "1学期あたりRM 23,300（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form Year 12 Tuition / A-Level (Annual)",
+        "amount": 72000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Year 12)",
+        "notes": "1学期あたりRM 24,000（全3学期、制服2セット込）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form Year 13 Tuition / A-Level (Annual)",
+        "amount": 74100,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Year 13)",
+        "notes": "1学期あたりRM 24,700（全3学期、制服2セット込）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 29000,
+      "tuitionMaxAnnual": 71000,
+      "tuitionDisplay": "RM 29,000 – RM 71,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.kingsgate.edu.my",
+  "contact": {
+    "email": "info@kingsgate.edu.my",
+    "phone": "+60 3-8656 7062"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.kingsgate.edu.my",
+      "title": "Kingsgate Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.kingsgate.edu.my/kingsgate-fees/",
+      "title": "Kingsgate Official Tuition & Fees Page",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.kingsgate.edu.my/wp-content/uploads/2025/12/Schedule-of-Tuition-Fees-25_26-v2.pdf",
+      "title": "Kingsgate Official Schedule of Tuition Fees PDF",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/kingsgate-international-school.png"
+}

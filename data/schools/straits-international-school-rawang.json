@@ -1,0 +1,288 @@
+{
+  "id": "straits-international-school-rawang",
+  "slug": "straits-international-school-rawang",
+  "name": "Straits International School Rawang",
+  "officialName": "Straits International School Rawang (SIS Rawang)",
+  "shortDescription": "Rawangの自然に恵まれた専用キャンパスで、英国式カリキュラムと質の高い全人教育を提供。",
+  "overview": "Straits International School Rawang (SIS Rawang) は、セランゴール州ラワン（Rawang）の緑豊かな自然環境に位置する英国式インターナショナルスクールです。International Schools Partnership (ISP) グループの一員として、Early Years（3歳）からYear 11（IGCSE）までの一貫教育を提供しています。英国ナショナルカリキュラムおよびケンブリッジ/AQA国際資格プログラムを採用し、学術的な厳格さと批判的思考力、創造性を育成。クランバレー北部およびセランゴール州北東部からのアクセスも良く、充実したスポーツ設備や近代的な校舎、きめ細かな少人数制クラスが魅力です。",
+  "establishedYear": 2018,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Rawang",
+    "area": "Rawang",
+    "address": "No. 1, Jalan SIS, Taman Rawang Tin, 48000 Rawang, Selangor",
+    "googleMapsUrl": "https://maps.google.com/?q=Straits+International+School+Rawang"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 16,
+    "display": "3–16"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Reception",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人専任窓口はありませんが、英語初級者向けの個別配慮が行われます。",
+    "ellSupport": true,
+    "ellSupportDetail": "非英語ネイティブの生徒向けに段階的なELLサポートプログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Rawang、Selayang、Batu Caves、Kepong、Sungai Buloh等よりスクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "スクールカフェテリアにて栄養管理されたハラール給食を提供（持参も可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツクラブ、ロボティクス、芸術・音楽などの放課後アクティビティ（CCA）を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン出願、過去の成績証明書提出、学年別アセスメントテスト（英語・算数）および面談。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "25mスイミングプール",
+    "全天候型多目的スポーツグラウンド",
+    "屋内体育館 & バスケットボールコート",
+    "物理・化学・生物サイエンスラボ",
+    "ICTコンピュータースイート & メイカースペース",
+    "ミュージックルーム & アートスタジオ",
+    "図書室 & ラーニングリソースセンター"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 18480,
+    "tuitionMaxAnnual": 55642,
+    "tuitionDisplay": "RM 18,480 – RM 55,642 / 年",
+    "applicationFee": 1200,
+    "registrationFee": 7000,
+    "deposit": 10546,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 14〜20目安 / プリペイド利用 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (Primary School)",
+        "amount": 7000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（Early Years: RM 6,000 / Primary: RM 7,000 / Secondary: RM 8,000）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 10546,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "授業料1学期分相当。所定の退学通知を行った場合に返金"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "technology_fee",
+        "label": "Technology Fee (One-off)",
+        "amount": 2200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "applicableGrade": "Year 1 - Year 11",
+        "notes": "初回入学時のみ支払うICT設備利用費"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Nursery Tuition (Annual)",
+        "amount": 18480,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery",
+        "notes": "1学期あたりRM 6,160（全3学期）＋教材リソース費RM 1,450/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Reception Tuition (Annual)",
+        "amount": 20940,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Reception",
+        "notes": "1学期あたりRM 6,980（全3学期）＋教材リソース費RM 1,450/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 1 Tuition (Annual)",
+        "amount": 26607,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1)",
+        "notes": "1学期あたりRM 8,869（全3学期）＋教材リソース費RM 1,450/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 2 Tuition (Annual)",
+        "amount": 26736,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 2)",
+        "notes": "1学期あたりRM 8,912（全3学期）＋教材リソース費RM 1,450/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 3 Tuition (Annual)",
+        "amount": 31638,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 3)",
+        "notes": "1学期あたりRM 10,546（全3学期）＋教材リソース費RM 1,650/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 4 Tuition (Annual)",
+        "amount": 31938,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 4)",
+        "notes": "1学期あたりRM 10,646（全3学期）＋教材リソース費RM 1,650/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 5 Tuition (Annual)",
+        "amount": 32241,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 5)",
+        "notes": "1学期あたりRM 10,747（全3学期）＋教材リソース費RM 1,650/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 6 Tuition (Annual)",
+        "amount": 35688,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 6)",
+        "notes": "1学期あたりRM 11,896（全3学期）＋教材リソース費RM 1,650/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 7 Tuition (Annual)",
+        "amount": 40038,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7)",
+        "notes": "1学期あたりRM 13,346（全3学期）＋教材リソース費RM 1,950/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 8 Tuition (Annual)",
+        "amount": 40800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 8)",
+        "notes": "1学期あたりRM 13,600（全3学期）＋教材リソース費RM 1,950/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 9 Tuition (Annual)",
+        "amount": 46362,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 9)",
+        "notes": "1学期あたりRM 15,454（全3学期）＋教材リソース費RM 1,950/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 10 Tuition / IGCSE (Annual)",
+        "amount": 51249,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 10)",
+        "notes": "1学期あたりRM 17,083（全3学期）＋教材リソース費RM 2,250/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary Year 11 Tuition / IGCSE (Annual)",
+        "amount": 55642,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 11)",
+        "notes": "全2学期制: 1学期あたりRM 27,821＋教材リソース費RM 2,250/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 17800,
+      "tuitionMaxAnnual": 53500,
+      "tuitionDisplay": "RM 17,800 – RM 53,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.rawangsisgroup.edu.my",
+  "contact": {
+    "email": "admissions@rawangsisgroup.edu.my",
+    "phone": "+60 3-6092 8188"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.rawangsisgroup.edu.my",
+      "title": "Straits International School Rawang Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.rawangsisgroup.edu.my/admissions/tuition-fees",
+      "title": "SIS Rawang Official Tuition & Fees Page",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/straits-international-school-rawang.png"
+}
