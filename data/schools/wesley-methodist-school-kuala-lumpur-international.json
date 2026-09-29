@@ -1,0 +1,164 @@
+{
+  "id": "wesley-methodist-school-kuala-lumpur-international",
+  "slug": "wesley-methodist-school-kuala-lumpur-international",
+  "name": "Wesley Methodist School Kuala Lumpur (International)",
+  "officialName": "Wesley Methodist School Kuala Lumpur (International) (WMSKLI)",
+  "shortDescription": "KL・Sentulに位置する歴史ある英国式ケンブリッジ中等校。卓越した規律・人格教育とハイレベルな進学実績が特徴。",
+  "overview": "Wesley Methodist School Kuala Lumpur (International) は、クアラルンプール中心部北側のSentul地区に位置する伝統ある英国式インターナショナルセカンダリースクールです。1891年創始のメソジスト教育の精神を受け継ぎ、生徒一人ひとりの精神的・知性的な全人教育と厳格な規律指導を追求しています。Year 7からYear 11（Cambridge IGCSE）までの中等教育を提供し、毎年IGCSE試験において国内トップクラスの優秀な成績を収めています。リーズナブルで質の高い教育機会を提供し、熱心な教員陣と温かいコミュニティが根強い人気を誇ります。",
+  "establishedYear": 2015,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Sentul",
+    "address": "Lot 185, Jalan Sentul, 51000 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Wesley+Methodist+School+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 11,
+    "maxAge": 17,
+    "display": "11–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語スタッフはいませんが、英語力に応じた段階的指導を行っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "必要に応じた英語補習・学習サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内および近郊各地域への通学スクールバス運行（認可運行トランスポーター提携）。",
+    "lunchProvided": true,
+    "lunchDetail": "キャンパス内カフェテリアにて温かいハラール対応ランチを提供（お弁当持参可能）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "多彩なクラブ活動（Uniformed Groups、スポーツ、ディベート、音楽など）を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（1月開始）",
+    "applicationProcess": "オンラインフォーム提出、入学アセスメント試験（英語・数学・科学）、面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備の多目的講堂（オーディトリアム）",
+    "バスケットボールコート＆バドミントンコート",
+    "屋外陸上トラック＆スポーツグラウンド",
+    "専門サイエンスラボラトリー（物理・化学・生物）",
+    "ICTコンピューターラボ",
+    "図書室＆学習リソースルーム",
+    "音楽室＆チャペル",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 22000,
+    "tuitionMaxAnnual": 35000,
+    "tuitionDisplay": "RM 22,000 – RM 35,000 / 年",
+    "applicationFee": 150,
+    "registrationFee": 4000,
+    "deposit": 6000,
+    "busFeeEstimate": "ルート・距離別: 約RM 2,500 – RM 5,000 / 年（専属運行業者）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Entrance Assessment Fee",
+        "amount": 150,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願・アセスメント受験時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Enrolment / Registration Fee",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Security Deposit",
+        "amount": 6000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きに従い返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Lower Secondary Tuition (Year 7 - Year 9)",
+        "amount": 22000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 9)",
+        "notes": "学年進行に応じてRM 22,000〜RM 26,000（学期毎分割納入可能）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Upper Secondary Tuition (Year 10 - Year 11 / IGCSE)",
+        "amount": 35000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 10 - Year 11)",
+        "notes": "学年進行に応じてRM 29,000〜RM 35,000（外部試験検定料別途）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 21000,
+      "tuitionMaxAnnual": 33500,
+      "tuitionDisplay": "RM 21,000 – RM 33,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://kl.wms.edu.my",
+  "contact": {
+    "email": "kl@wms.edu.my",
+    "phone": "+60 3-4041 6470"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://kl.wms.edu.my",
+      "title": "Wesley Methodist School Kuala Lumpur Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://kl.wms.edu.my/fee-structure/",
+      "title": "WMSKL International Official Fee Structure Page",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/wesley-methodist-school-kuala-lumpur-international.png"
+}

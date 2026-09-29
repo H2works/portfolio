@@ -1,0 +1,166 @@
+{
+  "id": "nobel-international-school",
+  "slug": "nobel-international-school",
+  "name": "Nobel International School",
+  "officialName": "Nobel International School (NIS)",
+  "shortDescription": "セランゴール州ペタリンジャヤに位置する徳育重視のケンブリッジ校。高い学術水準と手厚い英語サポート、給食費込の安心設計が特徴。",
+  "overview": "2004年に創立されたNobel International Schoolは、セランゴール州ペタリンジャヤ（Kelana Jaya）にキャンパスを構える人気の英国式ケンブリッジカリキュラム校です。『Shaping Global Citizens with Noble Hearts and Minds（高潔な心と知性を備えた地球市民の育成）』を掲げ、優れた学術教育だけでなく人格形成や道徳教育（徳育）を大切にしています。Early YearsからSecondary（IGCSE）まで対応し、英語を母語としない生徒のためのEnglish Transition Programme（ETP）も提供。年間学費には温かい給食や最新のテクノロジー利用料が含まれており、高い教育環境と費用対効果のバランスが保護者に高く評価されています。",
+  "establishedYear": 2004,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "Petaling Jaya / Kelana Jaya",
+    "address": "No. 4, Jalan SS 7/2, Kelana Jaya, 47301 Petaling Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Nobel+International+School"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 17,
+    "display": "4–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語スタッフの常駐はありませんが、留学生向けのケアとアットホームな環境が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語移行プログラム（English Transition Programme - ETP）を設置し、英語力に不安のある生徒をきめ細かくサポート。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "ペタリンジャヤ、スバンジャヤ、シャーアラム等へのスクールバス運行ルートあり。",
+    "lunchProvided": true,
+    "lunchDetail": "毎日のランチ（給食）費用が授業料に含まれており、栄養バランスに配慮した温かい食事が提供されます。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "放課後クラブ活動、スポーツ、ロボティクス、音楽等の課外活動を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "June"
+    ],
+    "academicYearSchedule": "2学期制（Term 1: 1月〜5月 / Term 2: 6月〜11月）",
+    "applicationProcess": "出願書提出、入学考査（英語・数学等）、面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "マルチパーパスホール＆体育館",
+    "人工芝スポーツフィールド",
+    "サイエンスラボラトリー",
+    "ICT＆マルチメディアラボ",
+    "ライブラリー＆リサーチセンター",
+    "クッキング＆カリナリーラボ（食育実習室）",
+    "アート＆デザインスタジオ",
+    "カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2026",
+    "tuitionMinAnnual": 24000,
+    "tuitionMaxAnnual": 38200,
+    "tuitionDisplay": "RM 24,000 – RM 38,200 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 4500,
+    "deposit": 7000,
+    "busFeeEstimate": "ルート・距離別: 約RM 2,800 – RM 5,000 / 年（提携運行）",
+    "lunchFeeEstimate": "授業料に含む（温かい給食・テクノロジー費込）",
+    "items": [
+      {
+        "academicYear": "2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (Elementary)",
+        "amount": 4500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（Secondary進学時はRM 6,000）"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "deposit",
+        "label": "Refundable Security Deposit (Elementary)",
+        "amount": 7000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きに従い返金（SecondaryはRM 10,000）"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Elementary School Tuition (Year 1 - Year 6)",
+        "amount": 24000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "学年進行に応じてRM 24,000〜RM 29,000（給食代・テクノロジー費込）"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Junior & Senior School Tuition (Year 7 - Year 11)",
+        "amount": 38200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "学年進行に応じてRM 32,200〜RM 38,200（給食代・テクノロジー費込）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025",
+      "tuitionMinAnnual": 22800,
+      "tuitionMaxAnnual": 36500,
+      "tuitionDisplay": "RM 22,800 – RM 36,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://nobel.edu.my",
+  "contact": {
+    "email": "info@nobel.edu.my",
+    "phone": "+60 3-7880 6325"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://nobel.edu.my",
+      "title": "Nobel International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026"
+    },
+    {
+      "url": "https://nobel.edu.my/admissions/fees",
+      "title": "Nobel Official Tuition & Fees Information",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/nobel-international-school.png"
+}

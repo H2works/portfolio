@@ -1,0 +1,170 @@
+{
+  "id": "sri-kuala-lumpur-international-school",
+  "slug": "sri-kuala-lumpur-international-school",
+  "name": "Sri Kuala Lumpur International School",
+  "officialName": "Sri Kuala Lumpur International School (Sri KL)",
+  "shortDescription": "セランゴール州スバンジャヤに位置する1979年創立の老舗名門校。高い学術水準と規律、充実した設備、給食費込の学費体系が特徴。",
+  "overview": "1979年に設立されたSri Kuala Lumpur International School (Sri KL) は、セランゴール州スバンジャヤ（SS15）の中心に広大なキャンパスを構えるマレーシア有数の伝統的インターナショナルスクールです。『Asian Values, International Excellence（アジアの価値観、国際的な卓越性）』をモットーに、英国式ケンブリッジカリキュラム（Primary & Secondary / IGCSE）を提供しています。学業成績において国内外で卓越した実績を残す一方、厳格な規律指導、道徳教育、活発なスポーツ・課外活動にも力を注いでいます。学費に日々の温かい給食やモーニングティー、施設利用料が含まれる透明性の高い学費体系も保護者から長年高く支持されています。",
+  "establishedYear": 1979,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Subang Jaya",
+    "area": "Subang Jaya",
+    "address": "No. 1, Jalan SS 15/7A, 47500 Subang Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Sri+Kuala+Lumpur+School"
+  },
+  "ageRange": {
+    "minAge": 6,
+    "maxAge": 17,
+    "display": "6–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任スタッフはいませんが、英語力に応じた段階的指導や手厚い生活指導が行われています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語補習およびサポート体制あり。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "スバンジャヤ、ペタリンジャヤ、プチョン、シャーアラム等へのスクールバス運行ルートあり（専属提携運行会社）。",
+    "lunchProvided": true,
+    "lunchDetail": "授業料に毎日のモーニングティーおよび温かいランチ（給食）が含まれており、自校厨房で調理された食事が提供されます。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "放課後の多彩なクラブ活動、スポーツトレーニング、芸術活動を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January"
+    ],
+    "academicYearSchedule": "2学期制（Semester 1: 1月〜5月 / Semester 2: 6月〜11月）",
+    "applicationProcess": "出願書類提出、入学考査（英語・数学など）、保護者・生徒面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "25mスイミングプール",
+    "エアコン完備の大型室内体育館・オーディトリアム",
+    "屋外全天候型スポーツフィールド＆トラック",
+    "専門サイエンスラボラトリー（物理・化学・生物）",
+    "最新Mac & PCコンピューターラボ",
+    "広大な蔵書を誇るスクールライブラリー",
+    "音楽室＆ドラマスタジオ",
+    "自校調理対応カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2026",
+    "tuitionMinAnnual": 18100,
+    "tuitionMaxAnnual": 34100,
+    "tuitionDisplay": "RM 18,100 – RM 34,100 / 年",
+    "applicationFee": 500,
+    "registrationFee": 5000,
+    "deposit": 7000,
+    "busFeeEstimate": "ルート・距離別: 約RM 3,000 – RM 5,500 / 年（提携運行会社）",
+    "lunchFeeEstimate": "授業料に含む（モーニングティー・温かい給食提供）",
+    "items": [
+      {
+        "academicYear": "2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "deposit",
+        "label": "Refundable Security Deposit",
+        "amount": 7000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きに従い返金"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Annual)",
+        "amount": 18100,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "給食・モーニングティー・施設利用料込（学期毎分割納入可能）"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Secondary School Tuition (Annual)",
+        "amount": 34100,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "給食・モーニングティー・施設利用料込（学年進行に応じてRM 27,100〜RM 34,100）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025",
+      "tuitionMinAnnual": 17500,
+      "tuitionMaxAnnual": 33000,
+      "tuitionDisplay": "RM 17,500 – RM 33,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://srikl.edu.my",
+  "contact": {
+    "email": "admin@srikl.edu.my",
+    "phone": "+60 3-5634 3491"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://srikl.edu.my",
+      "title": "Sri Kuala Lumpur School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026"
+    },
+    {
+      "url": "https://www.srikl.edu.my/admissions/fee-schedules/",
+      "title": "Sri KL Official Fee Schedules Information",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026"
+    },
+    {
+      "url": "https://www.srikl.edu.my/wp-content/uploads/2025/05/2026-Primary-School-Fee-Schedule.pdf",
+      "title": "Sri KL Official 2026 Primary School Fee Schedule PDF",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026"
+    }
+  ]
+}

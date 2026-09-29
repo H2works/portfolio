@@ -1,0 +1,178 @@
+{
+  "id": "asia-pacific-international-school",
+  "slug": "asia-pacific-international-school",
+  "name": "Asia Pacific International School",
+  "officialName": "Asia Pacific International School (APIS)",
+  "shortDescription": "セランゴール州スバンに位置するISP傘下のケンブリッジカリキュラム校。充実した最新IT・スポーツ施設と実践的なSTEM教育が特徴。",
+  "overview": "Asia Pacific International School (APIS) は、クアラルンプール近郊のスバン空港近くに位置する英国式ケンブリッジカリキュラム校です。世界的な学校運営グループ International Schools Partnership (ISP) の傘下にあり、質の高い教員とグローバルネットワークを誇ります。Early YearsからSecondary（IGCSE）までの一貫教育を提供し、テクノロジーやSTEM（科学・技術・工学・数学）教育に強い強みを持ちます。広大なキャンパスには全天候型スポーツフィールド、スイミングプール、最新のサイエンスラボやICTルームが完備されており、バランスの取れた学びと高い進学実績を実現しています。",
+  "establishedYear": 2006,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Subang",
+    "area": "Subang / Petaling Jaya",
+    "address": "No. 1, Persiaran A, Off Jalan Lapangan Terbang Subang, 47200 Subang, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Asia+Pacific+International+School+Subang"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本人スタッフは常駐していませんが、国際的な受入れ態勢が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を母語としない生徒のための集中的なEAL（English as an Additional Language）サポートプログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "スバン、ペタリンジャヤ、シャーアラム、モントキアラなど主要エリアをカバーする公式スクールバス路線を運行。",
+    "lunchProvided": true,
+    "lunchDetail": "キャンパス内カフェテリアにて栄養管理された温かいハラール対応ランチを提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "放課後の多彩なCo-Curricular Activities (CCA) やクラブ活動を実施。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン出願書類提出、CAT4認知能力テストおよび英語・数学のプレイスメントテスト、面接。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "25mスイミングプール",
+    "全天候型人工芝サッカーフィールド",
+    "マルチパーパス室内体育館（バドミントン・バスケットボールコート）",
+    "最新サイエンスラボラトリー（物理・化学・生物）",
+    "ICT＆コンピュータースイート",
+    "図書室＆メディアリソースセンター",
+    "パフォーミングアーツ＆ドラマスタジオ",
+    "音楽室＆練習ブース",
+    "カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 20547,
+    "tuitionMaxAnnual": 56535,
+    "tuitionDisplay": "RM 20,547 – RM 56,535 / 年",
+    "applicationFee": 2000,
+    "registrationFee": 5000,
+    "deposit": 7446,
+    "busFeeEstimate": "ルート・距離別: 約RM 3,500 – RM 6,500 / 年（公式提携バス会社）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Security Deposit (Secondary Entry)",
+        "amount": 7446,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きに従い返金（学年によりRM 2,000〜RM 9,422）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 20547,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years 1 & 2",
+        "notes": "学期毎分割納入可能（年3学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Year 1 - Year 6)",
+        "amount": 20547,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "学年進行に応じてRM 20,547〜RM 23,265"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School Tuition (Year 7 - Year 11 / IGCSE)",
+        "amount": 56535,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11)",
+        "notes": "学年進行に応じてRM 44,676〜RM 56,535（外部試験費用別途）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 19500,
+      "tuitionMaxAnnual": 53800,
+      "tuitionDisplay": "RM 19,500 – RM 53,800 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.apschools.edu.my",
+  "contact": {
+    "email": "admissions@apschools.edu.my",
+    "phone": "+60 3-7624 2122"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.apschools.edu.my",
+      "title": "Asia Pacific Schools Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://www.apschools.edu.my/admissions/tuition-fees",
+      "title": "APIS Official Tuition Fees Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}
