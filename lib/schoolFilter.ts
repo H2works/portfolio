@@ -63,18 +63,26 @@ export function filterSchools(schools: School[], filters: SearchFilterParams): S
     result = result.filter((s) => s.features.boardingAvailable);
   }
 
-  // Keyword query
+  // Keyword query (supports space-separated multiple tokens)
   if (filters.keyword && filters.keyword.trim()) {
-    const q = filters.keyword.toLowerCase().trim();
-    result = result.filter(
-      (s) =>
-        s.name.toLowerCase().includes(q) ||
-        s.officialName.toLowerCase().includes(q) ||
-        s.location.city.toLowerCase().includes(q) ||
-        s.location.area.toLowerCase().includes(q) ||
-        s.curricula.some((c) => c.toLowerCase().includes(q)) ||
-        s.shortDescription.toLowerCase().includes(q)
-    );
+    const tokens = filters.keyword.toLowerCase().trim().split(/\s+/).filter(Boolean);
+    result = result.filter((s) => {
+      const searchTarget = [
+        s.name,
+        s.officialName,
+        s.slug,
+        s.location.city,
+        s.location.area,
+        s.location.state,
+        ...s.curricula,
+        s.shortDescription,
+        s.overview,
+      ]
+        .join(' ')
+        .toLowerCase();
+
+      return tokens.every((token) => searchTarget.includes(token));
+    });
   }
 
   // Sorting

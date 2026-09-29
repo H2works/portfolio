@@ -5,6 +5,7 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import { School, SearchFilterParams, CurriculumType, GradeLevel } from '@/types/school';
 import SchoolFilter from '@/components/school/SchoolFilter';
 import SchoolCard from '@/components/school/SchoolCard';
+import SchoolSearchBar from '@/components/school/SchoolSearchBar';
 import { filterSchools } from '@/lib/schoolFilter';
 
 interface SchoolSearchClientProps {
@@ -106,6 +107,14 @@ export default function SchoolSearchClient({ allSchools }: SchoolSearchClientPro
 
         {/* Right Search Results */}
         <div className="col-12 col-lg-8 col-xl-9">
+          {/* School Name & Keyword Search Bar with Autocomplete */}
+          <SchoolSearchBar
+            allSchools={allSchools}
+            value={filters.keyword || ''}
+            onChange={(kw) => handleFilterChange({ ...filters, keyword: kw || undefined })}
+            className="mb-3"
+          />
+
           {/* Top Controls Bar */}
           <div className="bg-white border rounded-3 p-3 mb-3 d-flex flex-wrap align-items-center justify-content-between gap-3 shadow-sm">
             <div className="text-dark fw-bold">
