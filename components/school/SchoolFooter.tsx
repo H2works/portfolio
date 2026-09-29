@@ -96,12 +96,17 @@ export default function SchoolFooter() {
             <ul className="list-unstyled mb-3">
               <li>
                 <Link href="/school/malaysia" className="footer-link">
-                  学校を探す
+                  学校を探す (マレーシア)
                 </Link>
               </li>
               <li>
                 <Link href="/school/compare" className="footer-link">
                   学校を比較する
+                </Link>
+              </li>
+              <li>
+                <Link href="/school" className="footer-link">
+                  対象国・地域ポータル
                 </Link>
               </li>
               <li>

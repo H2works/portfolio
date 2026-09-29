@@ -38,7 +38,7 @@ export default function MalaysiaSchoolsPage() {
                   マレーシアのインターナショナルスクール検索
                 </h1>
                 <p className="text-light opacity-90 mb-0 small">
-                  クランバレー（KL・セランゴール）全18校の学費・カリキュラム・付帯費用を即時絞り込み
+                  クランバレー（KL・セランゴール）全{allSchools.length}校の学費・カリキュラム・付帯費用を即時絞り込み
                 </p>
               </div>
               <div className="d-flex align-items-center gap-2">

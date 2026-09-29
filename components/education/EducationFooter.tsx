@@ -60,7 +60,7 @@ export default function EducationFooter() {
             <h4 className="footer-heading">関連サービス・リンク</h4>
             <ul className="list-unstyled m-0">
               <li>
-                <Link href="/school" className="footer-link fw-semibold text-primary">
+                <Link href="/school/malaysia" className="footer-link fw-semibold text-primary">
                   マレーシア インター校検索・比較 ↗
                 </Link>
               </li>

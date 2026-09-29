@@ -44,7 +44,7 @@ export default function EducationHeader() {
             ))}
             <div className="vr mx-2 text-secondary" style={{ height: '20px' }}></div>
             <Link
-              href="/school"
+              href="/school/malaysia"
               className="btn btn-sm btn-outline-primary d-inline-flex align-items-center"
               title="マレーシアインター校 検索・比較サービスへ"
             >
@@ -66,7 +66,7 @@ export default function EducationHeader() {
           {/* Tablet/Desktop secondary */}
           <div className="d-none d-md-flex d-xl-none align-items-center gap-2">
             <Link
-              href="/school"
+              href="/school/malaysia"
               className="btn btn-sm btn-outline-primary"
             >
               学校検索 ↗
@@ -121,7 +121,7 @@ export default function EducationHeader() {
               ))}
               <div className="pt-2 border-top mt-2 d-flex flex-column gap-2">
                 <Link
-                  href="/school"
+                  href="/school/malaysia"
                   className="btn btn-sm btn-primary w-100 text-center"
                   onClick={() => setIsMenuOpen(false)}
                 >

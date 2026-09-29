@@ -19,7 +19,7 @@ export default function SchoolHeader() {
       <div className="container-xl px-3 py-3">
         <div className="d-flex align-items-center justify-content-between">
           {/* Brand */}
-          <Link href="/school" className="school-brand d-flex align-items-center">
+          <Link href="/school/malaysia" className="school-brand d-flex align-items-center">
             <span className="fw-bold">H2works</span>
             <span className="brand-sub d-none d-sm-inline">International School Finder</span>
             <span className="badge bg-dark-subtle text-dark ms-2 fw-semibold small">MY</span>
@@ -28,22 +28,16 @@ export default function SchoolHeader() {
           {/* Desktop Navigation */}
           <nav className="d-none d-md-flex align-items-center gap-1">
             <Link
-              href="/school"
-              className={`nav-link ${isActive('/school') && pathname === '/school' ? 'active' : ''}`}
-            >
-              トップ
-            </Link>
-            <Link
               href="/school/malaysia"
               className={`nav-link ${isActive('/school/malaysia') ? 'active' : ''}`}
             >
-              学校一覧・検索
+              学校検索
             </Link>
             <Link
               href="/school/compare"
               className={`nav-link ${isActive('/school/compare') ? 'active' : ''}`}
             >
-              比較
+              比較表
             </Link>
             <Link
               href="/education"
@@ -82,18 +76,11 @@ export default function SchoolHeader() {
           <div className="d-md-none pt-3 pb-2 border-top mt-3">
             <div className="d-flex flex-column gap-2">
               <Link
-                href="/school"
-                className={`nav-link ${pathname === '/school' ? 'active' : ''}`}
-                onClick={() => setIsMenuOpen(false)}
-              >
-                トップ
-              </Link>
-              <Link
                 href="/school/malaysia"
                 className={`nav-link ${isActive('/school/malaysia') ? 'active' : ''}`}
                 onClick={() => setIsMenuOpen(false)}
               >
-                学校一覧・検索
+                学校検索 (マレーシア)
               </Link>
               <Link
                 href="/school/compare"
