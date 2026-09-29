@@ -1,0 +1,173 @@
+{
+  "id": "templer-park-international-school",
+  "slug": "templer-park-international-school",
+  "name": "Templer Park International School",
+  "officialName": "Templer Park International School",
+  "shortDescription": "ラワン・テンプラーパークの大自然に囲まれたグリーンキャンパス。自然体験学習とCambridge IGCSEおよび米国式カリキュラムを提供。",
+  "overview": "Templer Park International School（テンプラーパーク・インターナショナルスクール / TPIS）は、クアラルンプール北部ラワン（Templer Park）の壮大な熱帯雨林と奇岩に囲まれた大自然の中に位置する認可インターナショナルスクールです。英国ケンブリッジ（Cambridge）および米国式カリキュラムを採用し、幼児部から初等部、中等部までの一貫教育を提供しています。大自然を活かしたアウトドアアドベンチャー、乗馬、環境体験学習と、高い学術指導を融合。都会の喧騒を離れ、健康的で伸びやかな環境で個性を伸ばしたいファミリーから熱い注目を集めています。",
+  "establishedYear": 2018,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Rawang",
+    "area": "Templer Park",
+    "address": "Lot 2555 & 2556, Jalan Templer Park, 48000 Rawang, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Templer+Park+International+School"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 18,
+    "display": "4–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "American"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Arabic"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任スタッフはいませんが、英語非母語者向けの少人数EALサポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員によるEAL個別指導および学習支援を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Rawang、Selayang、Gombak、Kepong、Kuala Lumpur市内方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "乗馬体験、スイミング、アーチェリー、ネイチャー探究、各種球技等の放課後アクティビティ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、入学アセスメントテスト（英語・算数）、面談を経て合格通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "大自然に囲まれたグリーンキャンパス普通教室群",
+    "スイミングプール",
+    "屋外スポーツグラウンド & ネイチャートレイル",
+    "サイエンス実験室 & ITコンピュータラボ",
+    "インドア多目的アクティビティホール",
+    "図書室 & リソースルーム",
+    "学内カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 15000,
+    "tuitionMaxAnnual": 30000,
+    "tuitionDisplay": "RM 15,000 – RM 30,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2500,
+    "deposit": 4000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金可能"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition",
+        "amount": 15000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Kindergarten",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 21000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 18,000〜24,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 27500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 25,000〜30,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 14200,
+      "tuitionMaxAnnual": 28500,
+      "tuitionDisplay": "RM 14,200 – RM 28,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://tpis.edu.my",
+  "contact": {
+    "email": "info@tpis.edu.my",
+    "phone": "+60 3-6092 9999"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://tpis.edu.my",
+      "title": "Templer Park International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/templer-park-international-school.png"
+}

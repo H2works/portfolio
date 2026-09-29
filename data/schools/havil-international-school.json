@@ -1,0 +1,171 @@
+{
+  "id": "havil-international-school",
+  "slug": "havil-international-school",
+  "name": "Havil International School",
+  "officialName": "Havil International School",
+  "shortDescription": "KLセントラル・ブリックフィールズに位置する少人数制インター。手頃な費用と温かな指導、Cambridge IGCSEカリキュラムを提供。",
+  "overview": "Havil International School（ハーヴィル・インターナショナルスクール）は、交通至便なKLセントラル駅至近のブリックフィールズ（Brickfields）に位置する認可インターナショナルスクールです。英国ケンブリッジ（Cambridge International）カリキュラムに基づき、幼児部から初等部（Cambridge Primary）、中等部（Cambridge IGCSE）までの一貫教育を提供しています。徹底した少人数制と教員と生徒の距離の近さが特徴で、個々の学習ニーズに応じた手厚いケアを実施。クアラルンプール都心部に位置しながら学費がリーズナブルで、国際的な環境で着実に学力を伸ばせる学校として親しまれています。",
+  "establishedYear": 2012,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Brickfields",
+    "address": "No. 21, Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Havil+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けの少人数EAL個別指導体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員によるEALサポート指導を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL Sentral、Bangsar、Brickfields、Petaling Jaya各方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "バドミントン、バスケットボール、アート、チェス、ロボティクス等の放課後アクティビティ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、入学アセスメントテスト（英語・算数）、面談を経て合格通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備の普通教室群",
+    "理科・サイエンス実験室",
+    "コンピュータ・ITラボ",
+    "多目的インドアホール",
+    "図書室 & リソースルーム",
+    "音楽スタジオ & アートルーム",
+    "学内カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 14000,
+    "tuitionMaxAnnual": 28000,
+    "tuitionDisplay": "RM 14,000 – RM 28,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2500,
+    "deposit": 4000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金可能"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition",
+        "amount": 14000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Kindergarten",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 19500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 16,000〜23,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 26000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 24,000〜28,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 13500,
+      "tuitionMaxAnnual": 26500,
+      "tuitionDisplay": "RM 13,500 – RM 26,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://havil.edu.my",
+  "contact": {
+    "email": "admissions@havil.edu.my",
+    "phone": "+60 3-2276 3338"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://havil.edu.my",
+      "title": "Havil International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/havil-international-school.png"
+}

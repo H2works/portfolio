@@ -1,0 +1,157 @@
+{
+  "id": "mindrich-international-secondary-school",
+  "slug": "mindrich-international-secondary-school",
+  "name": "Mindrich International Secondary School",
+  "officialName": "MINDRICH International Secondary School (Setia Alam)",
+  "shortDescription": "セティア・アラム（トップグローブタワー内）に位置する中等Cambridge認可校。在学中の学費据え置き保証と少人数・個別進学指導。",
+  "overview": "MINDRICH International Secondary School（マインドリッチ・インターナショナル・セカンダリースクール）は、セランゴール州シャーアラム（Setia Alam）のランドマーク「Top Glove Tower」の高層階に近代的なスクールキャンパスを構える中等教育専門の国際認可校です。英国ケンブリッジ中等教育（Cambridge Lower Secondary & IGCSE）カリキュラムを導入。入学から卒業まで学費の値上げを行わない『Fees Guarantee（学費保証プログラム）』を採用し、透明性の高い良心的な学費で質の高い教育を提供しています。少人数制を徹底し、個々の生徒の学力到達度や志望進路に応じた手厚いパーソナル指導を行っています。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "area": "Setia Alam",
+    "address": "Level 13 & 13A, Top Glove Tower, No. 16, Persiaran Setia Dagang, Setia Alam, Seksyen U13, 40170 Shah Alam, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Mindrich+International+Secondary+School"
+  },
+  "ageRange": {
+    "minAge": 11,
+    "maxAge": 17,
+    "display": "11–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、少人数制クラスによる手厚い英語フォローが用意されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任講師によるEAL言語サポートと放課後補習を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Setia Alam、Klang、Shah Alam、Subang Jaya方面を結ぶ通学バン・バス運行ルートあり。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・清潔な学内カフェテリアにてバランスのとれた給食を提供（注文・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "バドミントン、ロボティクス、ディベート、アート、各種アカデミッククラブ等のCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "願書出願、入学面談および基礎診断テストを経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス物理・化学・生物実験室",
+    "コンピュータICTラボ",
+    "多目的アクティビティホール",
+    "図書・スタディラウンジ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 16000,
+    "tuitionMaxAnnual": 26000,
+    "tuitionDisplay": "RM 16,000 – RM 26,000 / 年（学費据置保証）",
+    "applicationFee": 500,
+    "registrationFee": 2000,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,400 – RM 5,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Lower Secondary (Years 7–9) Tuition",
+        "amount": 18000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 16,000〜20,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Upper Secondary (Years 10–11 IGCSE) Tuition",
+        "amount": 24000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 22,000〜26,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 15000,
+      "tuitionMaxAnnual": 25000,
+      "tuitionDisplay": "RM 15,000 – RM 25,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.mindrich.edu.my",
+  "contact": {
+    "email": "enquiries@mindrich.edu.my",
+    "phone": "+60 3-3358 4068"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.mindrich.edu.my",
+      "title": "Mindrich International Secondary School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/mindrich-international-secondary-school.png"
+}

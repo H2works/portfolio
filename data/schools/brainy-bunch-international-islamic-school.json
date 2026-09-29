@@ -1,0 +1,173 @@
+{
+  "id": "brainy-bunch-international-islamic-school",
+  "slug": "brainy-bunch-international-islamic-school",
+  "name": "Brainy Bunch International Islamic School",
+  "officialName": "Brainy Bunch International Islamic School",
+  "shortDescription": "サイバージャヤに広大なフラッグシップキャンパスを構える認可校。モンテッソーリ幼児教育と英国Cambridgeカリキュラムを統合。",
+  "overview": "Brainy Bunch International Islamic School（ブレイニー・バンチ・インターナショナル・イスラミック・スクール）は、セランゴール州サイバージャヤ（Cyber Valley）に位置する認可インターナショナルスクールです。国内外で高い知名度を誇るBrainy Bunch教育グループの基幹キャンパスとして、モンテッソーリ教育を取り入れた幼児教育から、初等部（Cambridge Primary）、中等部（Cambridge IGCSE）までの一貫教育を提供しています。英語を主要言語としながら、自律性、批判的思考力、確かな学力、そして温かな道徳心を育む独自の教育アプローチにより、幅広いファミリーに選ばれています。",
+  "establishedYear": 2013,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Cyberjaya",
+    "area": "Cyberjaya Flagship",
+    "address": "Complex Brainy Bunch, Jalan Cyber Valley 1B/2, 63000 Cyberjaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Brainy+Bunch+International+Islamic+School+Cyberjaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "Montessori"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Arabic",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けの学習サポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員によるEAL個別指導および学習支援を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Cyberjaya、Putrajaya、Puchong、Seri Kembangan、Dengkil各方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "アーチェリー、スイミング、マーシャルアーツ、各種球技、サイエンス探究等の放課後アクティビティ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、学力アセスメントテスト（英語・算数）、面談を経て合格通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群 & モンテッソーリ専用ルーム",
+    "スイミングプール",
+    "屋外スポーツグラウンド & アーチェリー場",
+    "サイエンス実験室 & ITコンピュータラボ",
+    "多目的インドアホール",
+    "図書室 & ラーニングリソースセンター",
+    "学内カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 14000,
+    "tuitionMaxAnnual": 28000,
+    "tuitionDisplay": "RM 14,000 – RM 28,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2500,
+    "deposit": 4000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金可能"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years / Montessori Kindergarten Tuition",
+        "amount": 14000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Kindergarten",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 19500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 17,000〜22,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 25500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 23,000〜28,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 13500,
+      "tuitionMaxAnnual": 26500,
+      "tuitionDisplay": "RM 13,500 – RM 26,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://brainybunch.com",
+  "contact": {
+    "email": "info@brainybunch.com",
+    "phone": "+60 3-8686 2111"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://brainybunch.com",
+      "title": "Brainy Bunch International Islamic School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/brainy-bunch-international-islamic-school.png"
+}

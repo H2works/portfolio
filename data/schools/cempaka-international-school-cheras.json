@@ -1,0 +1,172 @@
+{
+  "id": "cempaka-international-school-cheras",
+  "slug": "cempaka-international-school-cheras",
+  "name": "Cempaka International School Cheras",
+  "officialName": "Cempaka International School Cheras",
+  "shortDescription": "チェラスの広大な丘陵地に位置する名門Cempakaグループの本校キャンパス。英国Cambridgeカリキュラムと世界水準のパフォーミングアーツ・全人教育。",
+  "overview": "Cempaka International School Cheras（チェンパカ・インターナショナルスクール・チェラス校）は、1983年に設立された名門チェンパカ教育グループの創祥の地であり、セランゴール州チェラス（Taman Cheras Permata 2）の緑豊かな丘陵地に広大なキャンパスを展開しています。幼稚園（Early Years）から初等部、中等部（Cambridge IGCSE）までの一貫教育を提供。厳格な規律と高い学業成績を重視しながら、本格的なオーケストラ、ミュージカル、演劇などのパフォーミングアーツ教育、テニスやスイミングなどのスポーツ振興に伝統的な強みを持っています。",
+  "establishedYear": 1983,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Cheras",
+    "area": "Taman Cheras Permata",
+    "address": "Persiaran Awana, Taman Cheras Permata 2, 43200 Cheras, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Cempaka+Schools+Cheras"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けの充実したEALサポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員による充実したEALサポートクラスを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Cheras全域、Ampang、Kajang、Kuala Lumpur都心部方面を結ぶスクールバスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "舞台芸術・合唱・オーケストラ、テニス、スイミング、プログラミング等の多彩な放課後課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書オンライン出願、入学アセスメントテスト（英語・算数）および面談を経て合否判定。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室棟群",
+    "大型パフォーミングアーツ劇場 & 音楽スタジオ",
+    "屋外スイミングプール",
+    "インドアスポーツアリーナ & テニスコート",
+    "サイエンス物理・化学・生物実験室",
+    "ICTコンピュータ室 & 図書室",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 18000,
+    "tuitionMaxAnnual": 53000,
+    "tuitionDisplay": "RM 18,000 – RM 53,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 2500,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,800 – RM 6,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 14〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition",
+        "amount": 18000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Preschool",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 34000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 26,000〜42,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 47000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 40,000〜53,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 17000,
+      "tuitionMaxAnnual": 50000,
+      "tuitionDisplay": "RM 17,000 – RM 50,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://cempaka.edu.my",
+  "contact": {
+    "email": "admissions@cempaka.edu.my",
+    "phone": "+60 3-9076 8400"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://cempaka.edu.my",
+      "title": "Cempaka Schools Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/cempaka-international-school-damansara.png"
+}

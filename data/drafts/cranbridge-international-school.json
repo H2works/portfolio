@@ -1,23 +1,23 @@
 {
-  "id": "pine-hills-international-school",
-  "slug": "pine-hills-international-school",
-  "name": "Pine Hills International School",
-  "officialName": "Pine Hills International School",
-  "shortDescription": "スバンジャヤ（USJ Sentral）に位置する少人数制インター。手厚い個別ケアとCambridge IGCSEおよびA-Levels指導を提供。",
-  "overview": "Pine Hills International School（パインヒルズ・インターナショナルスクール）は、セランゴール州スバンジャヤ（USJ Sentral）に位置する認可インターナショナルスクールです。英国ケンブリッジ（Cambridge International）カリキュラムを採用し、幼児部から初等部、中等部（Cambridge IGCSE）、そして高等部（Cambridge International A-Levels）までの一貫教育を提供しています。徹底した少人数制クラス編成により、生徒一人ひとりの学習進度とメンタルケアに寄り添う指導スタイルが特徴です。インクルーシブ教育や特別な学習支援（SEN）にも柔軟に対応し、温かな学習コミュニティを形成しています。",
-  "establishedYear": 2018,
+  "id": "cranbridge-international-school",
+  "slug": "cranbridge-international-school",
+  "name": "Cranbridge International School",
+  "officialName": "Cranbridge International School",
+  "shortDescription": "KL都心チャン・ソー・リンに位置する少人数制インター。細やかな個別指導と確かなCambridge IGCSE & A-Levels実績。",
+  "overview": "Cranbridge International School（クランブリッジ・インターナショナルスクール）は、クアラルンプール都心近郊（Chan Sow Lin / Puduエリア）に位置する認可インターナショナルスクールです。英国エドクセルおよびケンブリッジ（Cambridge / Pearson Edexcel）カリキュラムに準拠し、幼稚園から初等部、中等部（IGCSE）、そして高等部（A-Levels）までの一貫教育を提供しています。1クラス最大15名前後の徹底した少人数指導を採用し、生徒一人ひとりの学力と個性に合わせた細やかなメンターシップを実施。高い国際試験合格率と親身なサポート体制で、国内外のファミリーから信頼を得ています。",
+  "establishedYear": 2013,
   "location": {
     "country": "Malaysia",
-    "state": "Selangor",
-    "city": "Subang Jaya",
-    "area": "USJ Sentral",
-    "address": "No. 18, Jalan USJ Sentral 3, Persiaran Subang 1, 47600 Subang Jaya, Selangor, Malaysia",
-    "googleMapsUrl": "https://maps.google.com/?q=Pine+Hills+International+School"
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Chan Sow Lin / Pudu",
+    "address": "No. 10, Jalan Dua, Off Jalan Chan Sow Lin, 55200 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Cranbridge+International+School"
   },
   "ageRange": {
-    "minAge": 3,
+    "minAge": 4,
     "maxAge": 19,
-    "display": "3–19"
+    "display": "4–19"
   },
   "curricula": [
     "British",
@@ -36,19 +36,19 @@
       "Malay"
     ],
     "japaneseSupport": false,
-    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けの少人数個別指導体制があります。",
+    "japaneseSupportDetail": "日本語専任教員はいませんが、少人数制を活かした英語非母語者向けの親身な指導体制があります。",
     "ellSupport": true,
     "ellSupportDetail": "英語力向上を目的とした専任教員によるEAL個別指導および学習支援を提供。"
   },
   "features": {
     "schoolBus": true,
-    "busDetail": "Subang Jaya、USJ、Sunway、Petaling Jaya、Puchong方面を結ぶスクールバス運行。",
+    "busDetail": "Chan Sow Lin、Cheras、KLCC、Bukit Bintang、Ampang方面を結ぶスクールバス運行。",
     "lunchProvided": true,
     "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
     "boardingAvailable": false,
     "boardingDetail": "",
     "afterSchoolCare": true,
-    "afterSchoolCareDetail": "各種スポーツ、アート、プログラミング、ボードゲーム等の放課後アクティビティ（CCAs）。"
+    "afterSchoolCareDetail": "バドミントン、卓球、アート、コーディング、チェス等の放課後アクティビティ（CCAs）。"
   },
   "admissions": {
     "intakeMonths": [
@@ -57,23 +57,23 @@
       "April"
     ],
     "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
-    "applicationProcess": "願書出願、入学診断アセスメント、個別面談を経て合否通知発行。",
+    "applicationProcess": "願書出願、学力アセスメントテスト（英語・算数）、面談を経て合格通知発行。",
     "assessmentRequired": true
   },
   "facilities": [
-    "冷暖房完備の普通教室群",
-    "サイエンス理科実験室",
-    "コンピュータ & ICTラボ",
-    "多目的アクティビティホール",
-    "図書室 & ラーニングリソースセンター",
+    "冷暖房完備の少人数専用教室群",
+    "サイエンス物理・化学実験室",
+    "IT・コンピュータ室",
+    "インドアスポーツ・多目的ホール",
+    "図書室 & 自習リソースエリア",
     "アート & クリエイティブスタジオ",
     "学内カフェテリア"
   ],
   "currentFees": {
     "academicYear": "2025/2026",
-    "tuitionMinAnnual": 18900,
-    "tuitionMaxAnnual": 38000,
-    "tuitionDisplay": "RM 18,900 – RM 38,000 / 年",
+    "tuitionMinAnnual": 16000,
+    "tuitionMaxAnnual": 34000,
+    "tuitionDisplay": "RM 16,000 – RM 34,000 / 年",
     "applicationFee": 500,
     "registrationFee": 3000,
     "deposit": 5000,
@@ -88,7 +88,7 @@
         "currency": "MYR",
         "frequency": "one-time",
         "isRefundable": false,
-        "notes": "出願時納入（返金不可）"
+        "notes": "出願受付時納入（返金不可）"
       },
       {
         "academicYear": "2025/2026",
@@ -113,8 +113,8 @@
       {
         "academicYear": "2025/2026",
         "feeType": "tuition",
-        "label": "Preschool / Kindergarten Tuition",
-        "amount": 18900,
+        "label": "Early Years Tuition",
+        "amount": 16000,
         "currency": "MYR",
         "frequency": "annual",
         "isRefundable": false,
@@ -125,29 +125,29 @@
         "academicYear": "2025/2026",
         "feeType": "tuition",
         "label": "Primary School (Years 1–6) Tuition",
-        "amount": 24000,
+        "amount": 22500,
         "currency": "MYR",
         "frequency": "annual",
         "isRefundable": false,
         "gradeLevel": "Primary",
-        "notes": "学年によりRM 21,000〜26,000/年"
+        "notes": "学年によりRM 19,000〜26,000/年"
       },
       {
         "academicYear": "2025/2026",
         "feeType": "tuition",
         "label": "Secondary School (Years 7–11 IGCSE) Tuition",
-        "amount": 32000,
+        "amount": 29500,
         "currency": "MYR",
         "frequency": "annual",
         "isRefundable": false,
         "gradeLevel": "Secondary",
-        "notes": "学年によりRM 28,000〜35,000/年"
+        "notes": "学年によりRM 27,000〜32,000/年"
       },
       {
         "academicYear": "2025/2026",
         "feeType": "tuition",
         "label": "Sixth Form (A-Levels) Tuition",
-        "amount": 38000,
+        "amount": 34000,
         "currency": "MYR",
         "frequency": "annual",
         "isRefundable": false,
@@ -159,26 +159,26 @@
   "historicalFees": [
     {
       "academicYear": "2024/2025",
-      "tuitionMinAnnual": 17800,
-      "tuitionMaxAnnual": 36000,
-      "tuitionDisplay": "RM 17,800 – RM 36,000 / 年",
+      "tuitionMinAnnual": 15000,
+      "tuitionMaxAnnual": 32500,
+      "tuitionDisplay": "RM 15,000 – RM 32,500 / 年",
       "items": []
     }
   ],
-  "websiteUrl": "https://pinehills.edu.my",
+  "websiteUrl": "https://cranbridge.edu.my",
   "contact": {
-    "email": "info@pinehills.edu.my",
-    "phone": "+60 12-227 9490"
+    "email": "admissions@cranbridge.edu.my",
+    "phone": "+60 3-9226 7388"
   },
   "lastVerified": "September 2026",
   "sources": [
     {
-      "url": "https://pinehills.edu.my",
-      "title": "Pine Hills International School Official Website",
+      "url": "https://cranbridge.edu.my",
+      "title": "Cranbridge International School Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
   ],
-  "logoUrl": "/img/schools/logos/pine-hills-international-school.jpg"
+  "logoUrl": "/img/schools/logos/cranbridge-international-school.png"
 }

@@ -1,0 +1,158 @@
+{
+  "id": "axcel-international-school",
+  "slug": "axcel-international-school",
+  "name": "Axcel International School",
+  "officialName": "Axcel International School (Puchong)",
+  "shortDescription": "プチョンに位置するICT・起業家スキル重視のCambridge認可校。良心的な学費設定と体験型STEAM・AI学習プログラム。",
+  "overview": "Axcel International School（アクセル・インターナショナルスクール）は、セランゴール州プチョン（Batu 14）に位置する認可インターナショナルスクールです。英国ケンブリッジ（Primary、Secondary IGCSE）カリキュラムを導入し、従来の教科学習に加えてフィナンシャルリテラシー、コーディング・AI、アントレプレナーシップ（起業家精神）教育を統合した次世代型カリキュラムを特徴としています。手頃な月謝・学費体系を採用し、質の高い教育をより身近に届ける理念のもと、地域コミュニティに根ざした親身な指導を展開しています。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Puchong",
+    "area": "Batu 14",
+    "address": "8-G, Komercial Casa Tropika, Jalan Bunga Raya, Puchong Batu 14, 47100 Puchong, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Axcel+International+School+Puchong"
+  },
+  "ageRange": {
+    "minAge": 6,
+    "maxAge": 17,
+    "display": "6–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、少人数クラスによる手厚い英語フォローが用意されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力補強が必要な生徒を対象に、実践的な英語コミュニケーション向上を図る言語支援を実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Puchong、Cyberjaya、Subang Jaya方面を結ぶ通学バン・バス運行ルートあり。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・清潔な学内カフェテリアにてバランスのとれた給食を提供（注文・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "ロボティクス、コーディング、各種スポーツ、音楽、アート等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "願書出願、入学面談および基礎診断テストを経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス実験室 & ロボティクスSTEAMルーム",
+    "コンピュータICTラボ",
+    "多目的アクティビティホール",
+    "図書コーナー",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 10800,
+    "tuitionMaxAnnual": 18000,
+    "tuitionDisplay": "RM 10,800 – RM 18,000 / 年",
+    "applicationFee": 300,
+    "registrationFee": 1000,
+    "deposit": 2000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,400 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 300,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 12000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "月額RM 900〜1,100目安（年間RM 10,800〜13,200）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 16500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "月額RM 1,350〜1,500目安（年間RM 16,200〜18,000）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 10000,
+      "tuitionMaxAnnual": 17000,
+      "tuitionDisplay": "RM 10,000 – RM 17,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://axcel.edu.my",
+  "contact": {
+    "email": "info@axcel.edu.my",
+    "phone": "+60 3-8051 4776"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://axcel.edu.my",
+      "title": "Axcel International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/axcel-international-school.png"
+}

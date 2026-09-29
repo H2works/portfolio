@@ -1,0 +1,159 @@
+{
+  "id": "al-hamra-international-primary-school",
+  "slug": "al-hamra-international-primary-school",
+  "name": "Al-Hamra International Primary School",
+  "officialName": "Al-Hamra International Primary School (Kota Damansara)",
+  "shortDescription": "コタ・ダマンサラに位置する初等認可インター校。英国Cambridge Primaryカリキュラムと人格徳育教育、アットホームな学習コミュニティ。",
+  "overview": "Al-Hamra International Primary School（アル・ハムラ・インターナショナル・プライマリースクール）は、セランゴール州ペタリンジャヤ（Kota Damansara / Encorp Strand）に位置する初等教育に特化した国際認可校です。英国ケンブリッジ初等（Cambridge Early Years & Primary）カリキュラムを導入し、子どもたちの知的好奇心と批判的思考力を育む探究型学習を実践。学術面のみならず、普遍的な人格形成や情操教育を融合した温かな学習環境を整えており、少人数制クラスによる手厚い個別ケアを提供しています。",
+  "establishedYear": 2015,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "Kota Damansara",
+    "address": "Block A, A-GF-2, Encorp Strand Garden Office, No. 12, Jalan PJU 5/1, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Al-Hamra+Integrated+School+Kota+Damansara"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 12,
+    "display": "4–12"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Arabic"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、少人数制ならではの丁寧な個別英語サポートが用意されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "基礎英語力の定着を促す専任講師によるEAL言語サポートを実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Kota Damansara、Bandar Utama、Tropicana、Damansara Perdana方面を結ぶ通学バンを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・清潔な学内カフェテリアにてバランスのとれた給食を提供（注文・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "武道、ロボティクス、アート＆クラフト、英語劇等の放課後アクティビティ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "願書出願、入学面談および基礎診断テストを経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス実験室 & STEMルーム",
+    "コンピュータICTラボ",
+    "多目的アクティビティルーム",
+    "図書コーナー",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 10800,
+    "tuitionMaxAnnual": 22000,
+    "tuitionDisplay": "RM 10,800 – RM 22,000 / 年",
+    "applicationFee": 300,
+    "registrationFee": 1500,
+    "deposit": 2000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,400 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 300,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Preschool / Kindergarten Tuition",
+        "amount": 10800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Preschool",
+        "notes": "月額RM 900目安（年間RM 10,800）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 18000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "月額RM 1,200〜1,850目安（年間RM 14,400〜22,000）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 10000,
+      "tuitionMaxAnnual": 21000,
+      "tuitionDisplay": "RM 10,000 – RM 21,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://alhamra.edu.my",
+  "contact": {
+    "email": "enquiries@alhamra.my",
+    "phone": "+60 3-6142 6161"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://alhamra.edu.my",
+      "title": "Al-Hamra International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/al-hamra-international-primary-school.png"
+}

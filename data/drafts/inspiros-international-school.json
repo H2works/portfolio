@@ -1,0 +1,172 @@
+{
+  "id": "inspiros-international-school",
+  "slug": "inspiros-international-school",
+  "name": "Inspiros International School",
+  "officialName": "Inspiros International School",
+  "shortDescription": "プチョン中心部（SetiaWalk）に位置する認可英国式校。手頃な学費水準と英国ケンブリッジ（IGCSE & A-Levels）一貫教育。",
+  "overview": "Inspiros International School（インスピロス・インターナショナルスクール）は、セランゴール州プチョンの大型複合施設「SetiaWalk」内にキャンパスを構える国際認可校です。英国ケンブリッジ国際カリキュラム（Early Years、Primary、Secondary IGCSE、A-Levels）を導入し、すべての子どもたちに質の高いプレミアムな教育を手の届きやすい学費で届けることをミッションとしています。少人数制による手厚い学力・生活指導と、都心近郊の好アクセスな立地により、地域ファミリーから厚い信頼を得ています。",
+  "establishedYear": 2014,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Puchong",
+    "area": "Pusat Bandar Puchong",
+    "address": "Blocks B & K, SetiaWalk, Persiaran Wawasan, Pusat Bandar Puchong, 47160 Puchong, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Inspiros+International+School+Puchong"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けのEAL語学支援体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学時の英語力評価に基づき、専任講師によるきめ細やかな英語補習プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Puchong全域、Subang Jaya、Bandar Sunway、Bukit Jalil方面を結ぶ通学バスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにてバランスのとれた給食を提供（持参・注文可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "バドミントン、バスケットボール、ロボティクス、チェス、アート等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、入学アセスメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス物理・化学実験室",
+    "ICTコンピュータ室 & 図書室",
+    "多目的ホール & インドアアクティビティスペース",
+    "アート＆音楽スタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 10000,
+    "tuitionMaxAnnual": 23500,
+    "tuitionDisplay": "RM 10,000 – RM 23,500 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 3000,
+    "deposit": 3500,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,400 – RM 5,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Preschool",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 14500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 12,000〜17,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 19500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 17,500〜23,500/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 9500,
+      "tuitionMaxAnnual": 22000,
+      "tuitionDisplay": "RM 9,500 – RM 22,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://inspiros.edu.my",
+  "contact": {
+    "email": "info@inspiros.edu.my",
+    "phone": "+60 3-8600 8600"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://inspiros.edu.my",
+      "title": "Inspiros International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/inspiros-international-school.png"
+}

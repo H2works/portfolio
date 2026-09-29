@@ -1,0 +1,185 @@
+{
+  "id": "matrix-global-schools",
+  "slug": "matrix-global-schools",
+  "name": "Matrix Global Schools",
+  "officialName": "Matrix Global Schools (Bandar Sri Sendayan)",
+  "shortDescription": "KLIA・セランゴール南部に隣接する20エーカーの超巨大キャンパス。英国伝統校を模した全寮制・通学制の最高峰ファシリティ。",
+  "overview": "Matrix Global Schools（マトリックス・グローバル・スクールズ: MGS）は、KLIA（クアラルンプール国際空港）至近、セランゴール州境に隣接する総合開発都市「Bandar Sri Sendayan」に位置する20エーカーの広大な専用キャンパスを誇る国際認可校です。英国の伝統的な全寮制パブリックスクールをモチーフに設計された壮大なキャンパスには、オリンピック規格競泳プール、屋内アリーナ、屋外陸上競技場、最新鋭のサイエンス棟やパフォーミングアーツ劇場を完備。英国ケンブリッジ（Early Years、Primary、Secondary IGCSE、A-Levels）一貫教育と充実したボーディング学生寮を提供しています。",
+  "establishedYear": 2014,
+  "location": {
+    "country": "Malaysia",
+    "state": "Negeri Sembilan",
+    "city": "Bandar Sri Sendayan",
+    "area": "Sendayan Merchant Square",
+    "address": "PT 12652, Sendayan Merchant Square, Persiaran 1, Sendayan Utama, 71950 Bandar Sri Sendayan, Negeri Sembilan, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Matrix+Global+Schools"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 19,
+    "display": "3–19"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けの充実したEAL学習フォロー体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学時の英語力評価に基づき、専任教員による集中的なEAL補習プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Seremban、Nilai、Sepang、Cyberjaya、Putrajaya方面を結ぶ通学バスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な大型学内ダイニングホールにてバランスのとれた給食を提供。",
+    "boardingAvailable": true,
+    "boardingDetail": "近代的なボーディング学生寮棟を完備（週日寮・全寮制対応、24時間セキュリティ・寮長体制）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、サッカー、テニス、乗馬、ゴルフ、ロボティクス、パフォーミングアーツ等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、入学アセスメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の最新スマート普通教室群",
+    "オリンピック規格スイミングプール & 屋内トレーニングジム",
+    "全天候型陸上競技場 & サッカーグラウンド",
+    "インドアスポーツ多目的アリーナ（テニス・バスケットボール）",
+    "近代的なボーディング学生寮棟",
+    "最新サイエンス実験室 & ITコンピュータラボ",
+    "パフォーミングアーツ劇場、音楽スタジオ、大型ダイニングホール"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 16000,
+    "tuitionMaxAnnual": 48000,
+    "tuitionDisplay": "RM 16,000 – RM 48,000 / 年（通学制）",
+    "applicationFee": 500,
+    "registrationFee": 4000,
+    "deposit": 6000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 4,000 – RM 7,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 14〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 6000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years / Kindergarten Tuition",
+        "amount": 16000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Preschool",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 28000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 24,000〜33,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 38000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 34,000〜43,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form (A-Levels) Tuition",
+        "amount": 48000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Sixth Form",
+        "notes": "A-Levels年間学費"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 15000,
+      "tuitionMaxAnnual": 46000,
+      "tuitionDisplay": "RM 15,000 – RM 46,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://matrixschools.edu.my",
+  "contact": {
+    "email": "info@matrixschools.edu.my",
+    "phone": "+60 6-781 9888"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://matrixschools.edu.my",
+      "title": "Matrix Global Schools Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/matrix-global-schools.png"
+}

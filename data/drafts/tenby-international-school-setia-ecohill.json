@@ -1,0 +1,174 @@
+{
+  "id": "tenby-international-school-setia-ecohill",
+  "slug": "tenby-international-school-setia-ecohill",
+  "name": "Tenby International School Setia EcoHill",
+  "officialName": "Tenby International School Setia EcoHill (Semenyih)",
+  "shortDescription": "セランゴール州セメニの広大なエコヒルタウンに位置する英国式校。ISPグループの国際水準カリキュラムと近代的なスポーツ・学習施設。",
+  "overview": "Tenby International School Setia EcoHill（テンビー・インターナショナルスクール セティア・エコヒル校）は、セランゴール州南部セメニ（Semenyih）の大規模グリーン住宅街「Setia EcoHill」内に位置する認可インターナショナルスクールです。世界的な教育機関International Schools Partnership（ISP）のグローバルネットワークに属し、英国ケンブリッジ（Early Years, Primary, Secondary IGCSE）カリキュラムを導入。学術的な卓越性と自主性、国際的な視野を育む教育を実践しています。充実したスイミングプール、全天候型スポーツホール、サイエンスラボなど最新の学習環境を完備し、クランバレー南部・カジャン方面のファミリーに高い人気を誇ります。",
+  "establishedYear": 2016,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Semenyih",
+    "area": "Setia EcoHill",
+    "address": "No. 6, Jalan EcoHill 1, Setia EcoHill, 43500 Semenyih, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Tenby+International+School+Setia+EcoHill"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けのEAL語学支援体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学時の英語力評価に基づき、専任のEAL講師による集中的な語学サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Semenyih、Kajang、Bangi、Cheras南部方面を結ぶスクールバスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "ハラール認証の栄養バランスに配慮したスクールランチを提供（学内カフェテリア）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、サッカー、バスケットボール、ロボティクス、パフォーミングアーツ等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、入学プレースメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の最新スマート普通教室群",
+    "屋外スイミングプール",
+    "インドアスポーツ多目的アリーナ",
+    "人工芝サッカーグラウンド",
+    "サイエンス実験室 & ITコンピュータラボ",
+    "音楽練習室 & ドラマスタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 15800,
+    "tuitionMaxAnnual": 42000,
+    "tuitionDisplay": "RM 15,800 – RM 42,000 / 年",
+    "applicationFee": 1600,
+    "registrationFee": 3000,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,800 – RM 6,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1600,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery & Reception) Tuition",
+        "amount": 15800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Preschool",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 26500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 22,000〜31,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 37500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 33,000〜42,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 15000,
+      "tuitionMaxAnnual": 40000,
+      "tuitionDisplay": "RM 15,000 – RM 40,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.tenby.edu.my/setia-ecohill",
+  "contact": {
+    "email": "admissions.seh@tenby.edu.my",
+    "phone": "+60 3-8725 5625"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.tenby.edu.my/setia-ecohill",
+      "title": "Tenby International School Setia EcoHill Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/tenby-schools-setia-eco-park.jpg"
+}

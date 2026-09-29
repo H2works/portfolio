@@ -1,0 +1,170 @@
+{
+  "id": "oakbridge-international-school",
+  "slug": "oakbridge-international-school",
+  "name": "Oakbridge International School",
+  "officialName": "Oakbridge International School",
+  "shortDescription": "スバンジャヤに位置する少人数制Cambridge認定校。手厚い個別ケアとリーズナブルな学費で確かな学力・徳育指導を提供。",
+  "overview": "Oakbridge International School（オークブリッジ・インターナショナルスクール）は、セランゴール州スバンジャヤに位置するケンブリッジ認定校（Cambridge International School MY885）です。幼児部から初等部（Cambridge Primary）、中等部（Cambridge Lower Secondary & IGCSE）までの一貫教育を提供しています。1クラスの生徒数を厳格に抑えた少人数制を採用し、一人ひとりの個性と学力進度に寄り添った親身な個別指導が特長です。良心的な学費水準でありながら、STEM教育や人格形成、ディスカッションを通じた自己表現力の育成に力を入れています。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Subang Jaya",
+    "area": "Taman Perindustrian Subang",
+    "address": "Lot 556, Jalan Subang 3, Taman Perindustrian Subang, 47500 Subang Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Oakbridge+International+School+Subang+Jaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、少人数制を活かしたきめ細やかな英語支援を提供しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "少人数制ならではの手厚いEAL英語補習・個別学習フォローを実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Subang Jaya、USJ、Sunway、Puchong方面への通学バス運行ルートあり。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・清潔な学内カフェテリアにてバランスのとれた給食を提供（事前予約・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "STEMクラブ、アート＆クラフト、各種スポーツ、音楽等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "願書出願、入学面談および基礎学力確認テストを経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス実験室 & STEMルーム",
+    "コンピュータICTルーム",
+    "多目的ホール（屋内スポーツ・アクティビティ対応）",
+    "図書・読書コーナー",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 8000,
+    "tuitionMaxAnnual": 19000,
+    "tuitionDisplay": "RM 8,000 – RM 19,000 / 年",
+    "applicationFee": 200,
+    "registrationFee": 500,
+    "deposit": 2000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,400 – RM 5,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Kindergarten (K1 & K2) Tuition",
+        "amount": 8000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Preschool",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 12500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 11,000〜14,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 17500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 15,000〜19,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 7500,
+      "tuitionMaxAnnual": 18000,
+      "tuitionDisplay": "RM 7,500 – RM 18,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://oakbridge.edu.my",
+  "contact": {
+    "email": "info@oakbridge.edu.my",
+    "phone": "+60 3-8023 1088"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://oakbridge.edu.my",
+      "title": "Oakbridge International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/oakbridge-international-school.png"
+}

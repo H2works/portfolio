@@ -1,0 +1,172 @@
+{
+  "id": "real-international-school-cheras",
+  "slug": "real-international-school-cheras",
+  "name": "R.E.A.L International School Cheras Campus",
+  "officialName": "R.E.A.L International School Cheras Campus",
+  "shortDescription": "チェラス・フルランガットの豊かな自然に囲まれたスリアキャンパス。広大な敷地と充実したスポーツ施設、英国Cambridge一貫指導。",
+  "overview": "R.E.A.L International School Cheras Campus（リアル・インターナショナルスクール チェラス校）は、セランゴール州チェラス・フルランガット（Hulu Langat）の緑豊かな丘陵地に位置する総合キャンパス（Suria Campus）です。35年以上の教育実績を誇るR.E.A.L Education Groupが運営し、英国ケンブリッジ国際カリキュラム（Primary / Secondary IGCSE）に基づき、探究型・体験型学習を推進しています。広大な敷地には人工芝サッカー場、プール、体育館、各種サイエンスラボなどを完備し、学術面と全人教育・スポーツ活動のバランスを重視した指導を行っています。",
+  "establishedYear": 1985,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Cheras",
+    "area": "Hulu Langat",
+    "address": "Lot 217, Batu 13, Jalan Hulu Langat, 43100 Hulu Langat, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=REAL+Schools+Cheras+Campus"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者へのEAL（英語補習）プログラムが充実しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学時の英語力に応じた専門教員によるEAL集中補習指導を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Cheras、Ampang、Kajang、Balakong、Seri Kembangan方面を結ぶ広範囲な通学バスルートを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "ハラール認証の栄養バランスに配慮したスクールランチを提供（学内カフェテリア）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、サッカー、バスケットボール、武道、ロボティクス、パフォーミングアーツ等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、入学プレースメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室棟群",
+    "屋外スイミングプール",
+    "人工芝サッカーグラウンド & 陸上トラック",
+    "インドアスポーツホール（バドミントン・バスケットボール）",
+    "サイエンス物理・化学・生物実験室",
+    "コンピュータITラボ & 図書室",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 15000,
+    "tuitionMaxAnnual": 33000,
+    "tuitionDisplay": "RM 15,000 – RM 33,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2000,
+    "deposit": 6000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,800 – RM 6,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 6000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years / Kindergarten Tuition",
+        "amount": 15000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Preschool",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 22500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 19,000〜26,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 30000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 27,000〜33,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 14500,
+      "tuitionMaxAnnual": 32000,
+      "tuitionDisplay": "RM 14,500 – RM 32,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://realschools.edu.my/cheras-campus/",
+  "contact": {
+    "email": "enquiry_ch@real.edu.my",
+    "phone": "+60 3-9021 3601"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://realschools.edu.my/cheras-campus/",
+      "title": "R.E.A.L Schools Cheras Campus Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/real-international-school-cheras.png"
+}

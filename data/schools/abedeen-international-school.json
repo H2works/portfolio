@@ -1,0 +1,171 @@
+{
+  "id": "abedeen-international-school",
+  "slug": "abedeen-international-school",
+  "name": "Abedeen International School",
+  "officialName": "Abedeen International School",
+  "shortDescription": "サイバージャヤ（ガーデンレジデンス）に位置する国際認可校。英国ケンブリッジカリキュラムと人格・徳育教育を融合した世界水準の教育。",
+  "overview": "Abedeen International School（アベディーン・インターナショナルスクール）は、セランゴール州サイバージャヤの落ち着いた住環境（Garden Residenceエリア）にキャンパスを構える国際認可校です。英国ケンブリッジ（Cambridge Primary, Lower Secondary, IGCSE）カリキュラムを基盤とし、早期幼児教育から高等中等教育までの一貫教育を提供しています。高い学術水準の達成に加え、グローバルな多文化理解や人格教育（モラル・徳育）を教育の根幹に据え、少人数制による生徒一人ひとりへの丁寧なメンターシップを徹底。テクノロジーを活用したハイブリッド学習環境も整備されています。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Cyberjaya",
+    "area": "Garden Residence",
+    "address": "Persiaran Garden Residence 2, Cyber 3, 63000 Cyberjaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Abedeen+International+School+Cyberjaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Arabic"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員はおりませんが、英語を第二言語とする生徒への手厚い語学サポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "基礎英語力の習得・向上を目的とした個別補習・EAL言語サポートを実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Cyberjaya、Putrajaya、Puchong、Dengkil、Seri Kembangan方面を結ぶ通学バス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "ハラール認証の栄養バランスに配慮したスクールランチを提供（学内カフェテリア）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種球技、武道、ロボティクス、書道、スピーチ＆ディベート等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、基礎診断テスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の最新マルチメディア普通教室群",
+    "サイエンス実験室 & ITコンピュータラボ",
+    "図書室 & リサーチスペース",
+    "インドアスポーツコート（フットサル・バドミントン）",
+    "プレイグラウンド（屋外遊具広場）",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 10500,
+    "tuitionMaxAnnual": 22000,
+    "tuitionDisplay": "RM 10,500 – RM 22,000 / 年",
+    "applicationFee": 200,
+    "registrationFee": 1200,
+    "deposit": 4500,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,600 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application & Assessment Fee",
+        "amount": 200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 1200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 4500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Preschool / Kindergarten Tuition",
+        "amount": 10500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Preschool",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 15500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 14,000〜17,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 19500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 16,500〜22,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 9800,
+      "tuitionMaxAnnual": 21000,
+      "tuitionDisplay": "RM 9,800 – RM 21,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://abedeen.edu.my",
+  "contact": {
+    "email": "admin@abedeen.edu.my",
+    "phone": "+60 3-8687 6999"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://abedeen.edu.my",
+      "title": "Abedeen International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/abedeen-international-school.png"
+}

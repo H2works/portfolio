@@ -1,0 +1,185 @@
+{
+  "id": "al-noor-international-school",
+  "slug": "al-noor-international-school",
+  "name": "Al-Noor International School",
+  "officialName": "Al-Noor International School Kuala Lumpur",
+  "shortDescription": "KL都心ブキット・ペタリンに位置する歴史ある英国式インター。手頃な学費水準と多文化環境、Cambridge IGCSE & A-Levelsを提供。",
+  "overview": "Al-Noor International School（アル・ヌール・インターナショナルスクール / AIS KL）は、1993年に創立されたクアラルンプール都心部（Bukit Petaling / Jalan Syed Putra）に位置する認可インターナショナルスクールです。英国ケンブリッジ（Cambridge Assessment International Education）カリキュラムに基づき、幼児部から初等部、中等部（Cambridge IGCSE）、そして高等部（Cambridge International A-Levels）までの一貫教育を提供しています。世界数十カ国から集まる多様な生徒構成と、都心部にありながら非常に良心的な学費設定が特徴。温かなコミュニティの中で確かな学力育成と道徳教育を実践しています。",
+  "establishedYear": 1993,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Bukit Petaling",
+    "address": "No. 6, Jalan Permai, Off Jalan Syed Putra, Bukit Petaling, 50460 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Al-Noor+International+School+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 19,
+    "display": "3–19"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Arabic",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けのEAL学習サポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員によるEAL個別指導および補習プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Bukit Petaling、KL Sentral、Bangsar、Cheras、Ampang各方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種球技、アート、サイエンス探究、チェス等の放課後アクティビティ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、学力アセスメントテスト（英語・算数）、面談を経て合格通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス物理・化学・生物実験室",
+    "コンピュータ・ITラボ",
+    "屋外スポーツグラウンド & プレイエリア",
+    "図書室 & リソースルーム",
+    "アートスタジオ & 音楽室",
+    "学内カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 11500,
+    "tuitionMaxAnnual": 24000,
+    "tuitionDisplay": "RM 11,500 – RM 24,000 / 年",
+    "applicationFee": 400,
+    "registrationFee": 2000,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,000 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 400,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金可能"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition",
+        "amount": 11500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Kindergarten",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 15500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 13,000〜18,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 20500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 18,500〜22,500/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form (A-Levels) Tuition",
+        "amount": 24000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Sixth Form",
+        "notes": "A-Levels年間学費"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 11000,
+      "tuitionMaxAnnual": 23000,
+      "tuitionDisplay": "RM 11,000 – RM 23,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://ais-kl.edu.my",
+  "contact": {
+    "email": "info@ais-kl.edu.my",
+    "phone": "+60 3-2142 4901"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://ais-kl.edu.my",
+      "title": "Al-Noor International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/al-noor-international-school.png"
+}

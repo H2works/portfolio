@@ -1,0 +1,158 @@
+{
+  "id": "collinz-international-school",
+  "slug": "collinz-international-school",
+  "name": "Collinz International School",
+  "officialName": "Collinz International School (Glenmarie Campus)",
+  "shortDescription": "グレンマリー（シャーアラム）に位置するCambridge認定校。月謝制の手頃な学費と少人数制・STEAM学習指導を実践。",
+  "overview": "Collinz International School（コリンズ・インターナショナルスクール: Glenmarie校）は、セランゴール州シャーアラム・グレンマリー（Temasya 8）のアクセス良好なビジネスエリアにキャンパスを構える国際認可校です。英国ケンブリッジ（Primary、Secondary IGCSE）カリキュラムを導入し、質の高い国際教育を誰もが手の届くリーズナブルな学費（月額RM 1,210〜）で提供することを教育方針に掲げています。少人数制クラスによる丁寧な個別学習指導、理数・STEAM教育、自己表現力を伸ばすプレゼンテーション指導に注力しています。",
+  "establishedYear": 2020,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "area": "Glenmarie",
+    "address": "Block 2 & 3, Perniagaan Temasya 8, Jalan Doktor U1/67, Glenmarie, 40150 Shah Alam, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Collinz+International+School+Glenmarie"
+  },
+  "ageRange": {
+    "minAge": 5,
+    "maxAge": 17,
+    "display": "5–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、少人数クラスによる手厚い英語フォローが用意されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任講師によるEAL言語サポートと放課後補習を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Shah Alam、Subang Jaya、Petaling Jaya、Ara Damansara方面を結ぶ通学バン・バスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・清潔な学内カフェテリアにてバランスのとれた給食を提供（注文・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "バドミントン、ロボティクス、コーディング、アート、スピーチ＆ディベート等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "願書出願、入学面談および基礎診断テストを経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス実験室 & STEAMルーム",
+    "コンピュータICTラボ",
+    "多目的アクティビティホール",
+    "図書コーナー",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 14500,
+    "tuitionMaxAnnual": 29500,
+    "tuitionDisplay": "RM 14,500 – RM 29,500 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2000,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,400 – RM 5,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 16500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "月額RM 1,210〜1,450目安（年間RM 14,500〜17,400）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 25000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "月額RM 1,800〜2,450目安（年間RM 21,600〜29,400）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 13800,
+      "tuitionMaxAnnual": 28000,
+      "tuitionDisplay": "RM 13,800 – RM 28,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://collinz.edu.my",
+  "contact": {
+    "email": "enquiries@collinz.edu.my",
+    "phone": "+60 12-902 9664"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://collinz.edu.my",
+      "title": "Collinz International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/collinz-international-school.png"
+}

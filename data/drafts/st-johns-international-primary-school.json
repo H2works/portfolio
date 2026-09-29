@@ -1,0 +1,159 @@
+{
+  "id": "st-johns-international-primary-school",
+  "slug": "st-johns-international-primary-school",
+  "name": "St. John's International Primary School",
+  "officialName": "St. John's International Primary School (SJIS Kuala Lumpur)",
+  "shortDescription": "クアラルンプール都心（ブキッ・ナナス）の歴史的文教地区に位置する初等認可校。Cambridge Primaryカリキュラムを手頃な学費で提供。",
+  "overview": "St. John's International Primary School（セントジョンズ・インターナショナル・プライマリースクール: SJIS Primary）は、クアラルンプール中心部、緑豊かなブキッ・ナナス（Bukit Nanas）の歴史ある文教地区に位置する初等教育認可校です。1904年創立の名門ラ・サール系伝統校St. John's Institutionの精神と教育基盤を受け継ぎ、英国ケンブリッジ初等（Cambridge Primary）カリキュラムを導入。KLCCやKLタワー至近の一等地に位置しながら、年間学費約1.5万RM〜2.2万RMという非常に良心的な学費設定で、英語をベースとした質の高い基礎学力と豊かな人間性を育んでいます。",
+  "establishedYear": 2012,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Bukit Nanas",
+    "address": "Jalan Bukit Nanas, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=St.+John's+International+Primary+School"
+  },
+  "ageRange": {
+    "minAge": 5,
+    "maxAge": 12,
+    "display": "5–12"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けのEAL語学支援体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "基礎英語力の定着を促す専任講師によるEAL言語サポートを実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内中心部、Ampang、Bangsar、Mont Kiara方面を結ぶスクールバスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにてバランスのとれた給食を提供（注文・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種球技、水泳、武道、ロボティクス、音楽等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（1月新学期スタート / 9月学期対応）",
+    "applicationProcess": "願書出願、入学面談および基礎診断テストを経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス実験室 & ITコンピュータラボ",
+    "インドアスポーツホール",
+    "図書・メディアセンター",
+    "音楽スタジオ & アート室",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 15000,
+    "tuitionMaxAnnual": 22000,
+    "tuitionDisplay": "RM 15,000 – RM 22,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2000,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,600 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Preschool / Kindergarten Tuition",
+        "amount": 15000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Preschool",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 18500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 15,000〜22,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 14000,
+      "tuitionMaxAnnual": 21000,
+      "tuitionDisplay": "RM 14,000 – RM 21,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://sjis.edu.my",
+  "contact": {
+    "email": "info@sjis.edu.my",
+    "phone": "+60 3-2022 4881"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://sjis.edu.my",
+      "title": "St. John's International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/st-johns-international-secondary-school.png"
+}

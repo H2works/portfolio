@@ -1,0 +1,173 @@
+{
+  "id": "german-school-kuala-lumpur",
+  "slug": "german-school-kuala-lumpur",
+  "name": "German School Kuala Lumpur",
+  "officialName": "German School Kuala Lumpur (Deutsche Schule Kuala Lumpur - DSKL)",
+  "shortDescription": "ペタリンジャヤに位置するドイツ政府公認の国際校。ドイツ語・英語の高度なバイリンガル教育と国際アビトゥア（DIAP）資格。",
+  "overview": "German School Kuala Lumpur（ドイツ校 / Deutsche Schule Kuala Lumpur: DSKL）は、1979年に設立されたドイツ在外教育機関（DAS）認定の歴史あるインターナショナルスクールです。セランゴール州ペタリンジャヤ中心部の閑静なエリアに位置し、幼稚園から初等部、中等部、高等部までの一貫教育を提供しています。ドイツ語と英語による質の高いカリキュラムを実践し、世界最高峰の大学入学資格であるドイツ・国際アビトゥア（DIAP: Deutsche Internationale Abiturprüfung）の取得に対応。少人数制による手厚い指導と、温かな多文化コミュニティが特長です。",
+  "establishedYear": 1979,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "Seksyen 52",
+    "address": "Lot 5, Lorong Utara B, Off Jalan Utara, 46200 Petaling Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Deutsche+Schule+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "German",
+    "International Baccalaureate"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "German, English",
+    "secondLanguages": [
+      "English",
+      "French",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、ドイツ語・英語非母語者向けの語学サポートクラス（DaZ/DaF）が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "ドイツ語第二言語指導（DaZ）および英語補習サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Petaling Jaya、Kuala Lumpur都心部、Mont Kiara、Bangsar、Subang Jaya方面を結ぶ通学バスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・清潔な学内カフェテリアにて、ドイツ・西洋料理を中心としたランチを提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "サッカー、器械体操、オーケストラ、演劇、ロボティクス等の課外活動（AGs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "2学期制（Semester 1: 8月〜1月 / Semester 2: 2月〜7月）",
+    "applicationProcess": "願書出願、学業成績証明書審査および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "屋外スイミングプール & 屋内体育館",
+    "スポーツグラウンド & プレイグラウンド",
+    "サイエンス物理・化学・生物実験室",
+    "コンピュータICTルーム & 図書室",
+    "音楽室 & アートスタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 26000,
+    "tuitionMaxAnnual": 54000,
+    "tuitionDisplay": "RM 26,000 – RM 54,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 3500,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,600 – RM 6,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 14〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Kindergarten Tuition",
+        "amount": 26000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Kindergarten",
+        "notes": "幼稚園年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Grades 1–4) Tuition",
+        "amount": 38000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "初等部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & High School (Grades 5–12 Abitur) Tuition",
+        "amount": 48000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "中高等部年間学費（学年によりRM 42,000〜54,000）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 25000,
+      "tuitionMaxAnnual": 52000,
+      "tuitionDisplay": "RM 25,000 – RM 52,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.dskl.edu.my/",
+  "contact": {
+    "email": "enquiries@dskl.edu.my",
+    "phone": "+60 3-7956 7808"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.dskl.edu.my/",
+      "title": "German School Kuala Lumpur Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/german-school-kuala-lumpur.jpg"
+}

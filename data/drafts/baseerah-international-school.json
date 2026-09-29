@@ -1,18 +1,18 @@
 {
-  "id": "pine-hills-international-school",
-  "slug": "pine-hills-international-school",
-  "name": "Pine Hills International School",
-  "officialName": "Pine Hills International School",
-  "shortDescription": "スバンジャヤ（USJ Sentral）に位置する少人数制インター。手厚い個別ケアとCambridge IGCSEおよびA-Levels指導を提供。",
-  "overview": "Pine Hills International School（パインヒルズ・インターナショナルスクール）は、セランゴール州スバンジャヤ（USJ Sentral）に位置する認可インターナショナルスクールです。英国ケンブリッジ（Cambridge International）カリキュラムを採用し、幼児部から初等部、中等部（Cambridge IGCSE）、そして高等部（Cambridge International A-Levels）までの一貫教育を提供しています。徹底した少人数制クラス編成により、生徒一人ひとりの学習進度とメンタルケアに寄り添う指導スタイルが特徴です。インクルーシブ教育や特別な学習支援（SEN）にも柔軟に対応し、温かな学習コミュニティを形成しています。",
-  "establishedYear": 2018,
+  "id": "baseerah-international-school",
+  "slug": "baseerah-international-school",
+  "name": "Baseerah International School",
+  "officialName": "Baseerah International School",
+  "shortDescription": "セランゴール州ゴンバクに位置する国際色豊かな英国式インター。手頃な費用と多言語環境、Cambridge IGCSE & A-Levelsを提供。",
+  "overview": "Baseerah International School（バシーラ・インターナショナルスクール）は、セランゴール州ゴンバク（Sri Gombak / Batu Caves近郊）に2010年に開校した認可インターナショナルスクールです。英国ケンブリッジ（Cambridge International）カリキュラムを基盤に、幼児部から初等部、中等部（Cambridge IGCSE）、そして高等部（Cambridge International A-Levels）までの一貫教育を提供しています。英語を主要教育言語としながら、アラビア語やマレー語などの多言語教育と道徳教育に力を注ぎ、世界30カ国以上から集まる多様な生徒が共に学ぶ国際的な学習コミュニティを形成しています。",
+  "establishedYear": 2010,
   "location": {
     "country": "Malaysia",
     "state": "Selangor",
-    "city": "Subang Jaya",
-    "area": "USJ Sentral",
-    "address": "No. 18, Jalan USJ Sentral 3, Persiaran Subang 1, 47600 Subang Jaya, Selangor, Malaysia",
-    "googleMapsUrl": "https://maps.google.com/?q=Pine+Hills+International+School"
+    "city": "Gombak",
+    "area": "Sri Gombak",
+    "address": "PT 1872, Jalan Sri Gombak 2, Taman Sri Gombak, 68100 Batu Caves, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Baseerah+International+School"
   },
   "ageRange": {
     "minAge": 3,
@@ -32,23 +32,24 @@
   "languages": {
     "instructionLanguage": "English",
     "secondLanguages": [
-      "Mandarin",
-      "Malay"
+      "Arabic",
+      "Malay",
+      "French"
     ],
     "japaneseSupport": false,
-    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けの少人数個別指導体制があります。",
+    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けの学習サポート体制があります。",
     "ellSupport": true,
     "ellSupportDetail": "英語力向上を目的とした専任教員によるEAL個別指導および学習支援を提供。"
   },
   "features": {
     "schoolBus": true,
-    "busDetail": "Subang Jaya、USJ、Sunway、Petaling Jaya、Puchong方面を結ぶスクールバス運行。",
+    "busDetail": "Gombak、Batu Caves、Selayang、Kuala Lumpur市内、Setapak方面を結ぶスクールバス運行。",
     "lunchProvided": true,
     "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
     "boardingAvailable": false,
     "boardingDetail": "",
     "afterSchoolCare": true,
-    "afterSchoolCareDetail": "各種スポーツ、アート、プログラミング、ボードゲーム等の放課後アクティビティ（CCAs）。"
+    "afterSchoolCareDetail": "各種スポーツ、アート、サイエンス探究、コーディング等の放課後アクティビティ（CCAs）。"
   },
   "admissions": {
     "intakeMonths": [
@@ -57,28 +58,28 @@
       "April"
     ],
     "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
-    "applicationProcess": "願書出願、入学診断アセスメント、個別面談を経て合否通知発行。",
+    "applicationProcess": "願書出願、学力アセスメントテスト（英語・算数）、面談を経て合格通知発行。",
     "assessmentRequired": true
   },
   "facilities": [
     "冷暖房完備の普通教室群",
-    "サイエンス理科実験室",
-    "コンピュータ & ICTラボ",
-    "多目的アクティビティホール",
+    "サイエンス物理・化学・生物実験室",
+    "コンピュータ & ITラボ",
+    "多目的スポーツホール",
     "図書室 & ラーニングリソースセンター",
-    "アート & クリエイティブスタジオ",
+    "アートスタジオ & 音楽室",
     "学内カフェテリア"
   ],
   "currentFees": {
     "academicYear": "2025/2026",
-    "tuitionMinAnnual": 18900,
-    "tuitionMaxAnnual": 38000,
-    "tuitionDisplay": "RM 18,900 – RM 38,000 / 年",
+    "tuitionMinAnnual": 12000,
+    "tuitionMaxAnnual": 24000,
+    "tuitionDisplay": "RM 12,000 – RM 24,000 / 年",
     "applicationFee": 500,
-    "registrationFee": 3000,
-    "deposit": 5000,
-    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,800 / 年）",
-    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "registrationFee": 2000,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,000 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
     "items": [
       {
         "academicYear": "2025/2026",
@@ -88,13 +89,13 @@
         "currency": "MYR",
         "frequency": "one-time",
         "isRefundable": false,
-        "notes": "出願時納入（返金不可）"
+        "notes": "出願受付時納入（返金不可）"
       },
       {
         "academicYear": "2025/2026",
         "feeType": "registration_fee",
         "label": "Registration Fee",
-        "amount": 3000,
+        "amount": 2000,
         "currency": "MYR",
         "frequency": "one-time",
         "isRefundable": false,
@@ -104,7 +105,7 @@
         "academicYear": "2025/2026",
         "feeType": "deposit",
         "label": "Security Deposit",
-        "amount": 5000,
+        "amount": 3000,
         "currency": "MYR",
         "frequency": "one-time",
         "isRefundable": true,
@@ -113,8 +114,8 @@
       {
         "academicYear": "2025/2026",
         "feeType": "tuition",
-        "label": "Preschool / Kindergarten Tuition",
-        "amount": 18900,
+        "label": "Early Years Tuition",
+        "amount": 12000,
         "currency": "MYR",
         "frequency": "annual",
         "isRefundable": false,
@@ -125,29 +126,29 @@
         "academicYear": "2025/2026",
         "feeType": "tuition",
         "label": "Primary School (Years 1–6) Tuition",
-        "amount": 24000,
+        "amount": 16500,
         "currency": "MYR",
         "frequency": "annual",
         "isRefundable": false,
         "gradeLevel": "Primary",
-        "notes": "学年によりRM 21,000〜26,000/年"
+        "notes": "学年によりRM 14,000〜19,000/年"
       },
       {
         "academicYear": "2025/2026",
         "feeType": "tuition",
         "label": "Secondary School (Years 7–11 IGCSE) Tuition",
-        "amount": 32000,
+        "amount": 21500,
         "currency": "MYR",
         "frequency": "annual",
         "isRefundable": false,
         "gradeLevel": "Secondary",
-        "notes": "学年によりRM 28,000〜35,000/年"
+        "notes": "学年によりRM 19,000〜23,000/年"
       },
       {
         "academicYear": "2025/2026",
         "feeType": "tuition",
         "label": "Sixth Form (A-Levels) Tuition",
-        "amount": 38000,
+        "amount": 24000,
         "currency": "MYR",
         "frequency": "annual",
         "isRefundable": false,
@@ -159,26 +160,26 @@
   "historicalFees": [
     {
       "academicYear": "2024/2025",
-      "tuitionMinAnnual": 17800,
-      "tuitionMaxAnnual": 36000,
-      "tuitionDisplay": "RM 17,800 – RM 36,000 / 年",
+      "tuitionMinAnnual": 11500,
+      "tuitionMaxAnnual": 23000,
+      "tuitionDisplay": "RM 11,500 – RM 23,000 / 年",
       "items": []
     }
   ],
-  "websiteUrl": "https://pinehills.edu.my",
+  "websiteUrl": "https://baseerah.edu.my",
   "contact": {
-    "email": "info@pinehills.edu.my",
-    "phone": "+60 12-227 9490"
+    "email": "info@baseerah.edu.my",
+    "phone": "+60 3-6186 5285"
   },
   "lastVerified": "September 2026",
   "sources": [
     {
-      "url": "https://pinehills.edu.my",
-      "title": "Pine Hills International School Official Website",
+      "url": "https://baseerah.edu.my",
+      "title": "Baseerah International School Official Website",
       "sourceType": "official",
       "checkedAt": "2026-09",
       "academicYear": "2025/2026"
     }
   ],
-  "logoUrl": "/img/schools/logos/pine-hills-international-school.jpg"
+  "logoUrl": "/img/schools/logos/baseerah-international-school.png"
 }
