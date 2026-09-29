@@ -1,0 +1,178 @@
+{
+  "id": "pine-hills-international-school",
+  "slug": "pine-hills-international-school",
+  "name": "Pine Hills International School",
+  "officialName": "Pine Hills International School",
+  "shortDescription": "Brief description of school, community, and curriculum focus.",
+  "overview": "Detailed overview of the school history, culture, campus, and student body.",
+  "establishedYear": 2010,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Mont Kiara",
+    "address": "Full address line here, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=..."
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "Japanese parent liaison staff / mother tongue classes if available",
+    "ellSupport": true,
+    "ellSupportDetail": "English Language Learner support program available for non-native speakers"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Door-to-door and central pick-up routes across Klang Valley",
+    "lunchProvided": true,
+    "lunchDetail": "Nutritious hot meals catered on campus with halal options",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "Co-curricular activities (CCA) and supervised after-school study"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "3 Terms (August to July)",
+    "applicationProcess": "Online application form, academic transcripts submission, and student assessment.",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "Science Laboratories",
+    "Library & Media Centre",
+    "Sports Complex & Gymnasium",
+    "Swimming Pool",
+    "Performing Arts Theatre",
+    "Cafeteria",
+    "ICT Suites"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 35000,
+    "tuitionMaxAnnual": 75000,
+    "tuitionDisplay": "RM 35,000 – RM 75,000 / year",
+    "applicationFee": 1000,
+    "registrationFee": 5000,
+    "deposit": 10000,
+    "busFeeEstimate": "RM 2,500 – RM 5,000 / year depending on distance",
+    "lunchFeeEstimate": "RM 2,000 – RM 3,500 / year",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "Non-refundable upon submitting application form"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration / Enrolment Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "Payable upon acceptance of offer"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "Refundable subject to notice of withdrawal conditions"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years / Nursery Tuition (Annual)",
+        "amount": 35000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Nursery",
+        "notes": "Payable per term or annually"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Tuition (Annual)",
+        "amount": 52000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "Includes course materials and standard day activities"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Tuition (Annual)",
+        "amount": 75000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11)",
+        "notes": "Excludes external exam fees (e.g. IGCSE / IB)"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 33000,
+      "tuitionMaxAnnual": 71000,
+      "tuitionDisplay": "RM 33,000 – RM 71,000 / year",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://pinehills.edu.my",
+  "contact": {
+    "email": "admissions@example-school.edu.my",
+    "phone": "+60 3-XXXX XXXX"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://pinehills.edu.my",
+      "title": "Official School Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://pinehills.edu.my/fees",
+      "title": "Official Fee Schedule (2025/2026)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ]
+}

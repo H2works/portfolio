@@ -1,0 +1,191 @@
+{
+  "id": "qosmo-international-school",
+  "slug": "qosmo-international-school",
+  "name": "Qosmo International School",
+  "officialName": "Qosmo International School",
+  "shortDescription": "ペタリンジャヤ中心部（Jalan Barat）に位置する都市型インター。手頃な費用と少人数制による手厚いCambridge IGCSEおよびA-Levels教育を提供。",
+  "overview": "Qosmo International School（コスモ・インターナショナルスクール）は、セランゴール州ペタリンジャヤの中心部（Seksyen 52 / Jalan Barat）に位置する都市型キャンパスの英国式インターナショナルスクールです。幼稚園から初等部、中等部（Cambridge IGCSE）、そして高等部（Cambridge International A-Levels）までの一貫教育を提供しています。生徒一人ひとりの個性に寄り添う少人数制クラスと、公式Webサイトで明瞭に開示された明朗な学費体系が特徴です。STEM教育やロボティクス、批判的思考力を育む探究型学習に注力し、クアラルンプール首都圏のファミリーに高品質でアクセスしやすい国際教育の機会を提供しています。",
+  "establishedYear": 2019,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "Seksyen 52 / PJ New Town",
+    "address": "Wisma Qosmo, No. 8, Jalan Barat, Seksyen 52, 46200 Petaling Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Qosmo+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 19,
+    "display": "3–19"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けのEALサポートおよび少人数での学習サポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語基礎力向上を目的とした専任教員によるEAL個別指導プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Petaling Jaya、Subang Jaya、Kuala Lumpur市内方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "ロボティクス、コーディング、アート、各種球技、パフォーミングアーツ等の放課後アクティビティ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書オンライン出願、入学アセスメントテスト（英語・算数）、面談を経て合格通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "都市型冷暖房完備の最新教室群",
+    "サイエンス実験室（Physics, Chemistry, Biology）",
+    "ロボティクス & ICTコンピュータラボ",
+    "インドアスポーツ多目的ホール",
+    "アート & デザインスタジオ",
+    "音楽練習室",
+    "スクールカフェテリア & 図書室"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 21480,
+    "tuitionMaxAnnual": 40254,
+    "tuitionDisplay": "RM 21,480 – RM 40,254 / 年",
+    "applicationFee": 780,
+    "registrationFee": 5200,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,600 – RM 6,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 14〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 780,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金可能"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Preschool / Kindergarten Tuition",
+        "amount": 21480,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Kindergarten",
+        "notes": "学期RM 7,160 × 3学期 = RM 21,480/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 27321,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "Year 1–2: RM 27,321/年、Year 3–6: RM 28,803/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–10 IGCSE) Tuition",
+        "amount": 35055,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "Year 7–9: RM 35,055/年、Year 10: RM 36,708/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form (Years 11–12 A-Levels) Tuition",
+        "amount": 40254,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Sixth Form",
+        "notes": "学期RM 13,418 × 3学期 = RM 40,254/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 20400,
+      "tuitionMaxAnnual": 38500,
+      "tuitionDisplay": "RM 20,400 – RM 38,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://qosmoschools.edu.my",
+  "contact": {
+    "email": "info@qosmoschools.edu.my",
+    "phone": "+60 3-2779 0650"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://qosmoschools.edu.my",
+      "title": "Qosmo International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://qosmoschools.edu.my/fee-structure/",
+      "title": "Qosmo International School Official Fee Structure",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/qosmo-international-school.png"
+}

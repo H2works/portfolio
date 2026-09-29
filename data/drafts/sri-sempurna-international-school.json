@@ -1,0 +1,159 @@
+{
+  "id": "sri-sempurna-international-school",
+  "slug": "sri-sempurna-international-school",
+  "name": "Sri Sempurna International School",
+  "officialName": "Sri Sempurna International School",
+  "shortDescription": "クアラルンプール・チェラスに位置するキリスト教主義の規律ある英国式インター。手頃な学費と高水準なCambridge IGCSE進学実績。",
+  "overview": "Sri Sempurna International School（スリ・センプルナ・インターナショナルスクール）は、1993年に創立されたクアラルンプール・チェラス地区（Taman Cheras）の英国式インターナショナルスクールです。キリスト教の価値観に基づく高潔な人格形成と学術的厳格さを教育方針に掲げ、初等部（Cambridge Primary）から中等部（Cambridge IGCSE）までの一貫教育を提供しています。クアラルンプール市内屈指のリーズナブルな学費設定でありながら、IGCSEにおいて毎年優秀な学業成績を収めており、規律正しい教育環境を望む現地および国際ファミリーから絶大な支持を集めています。",
+  "establishedYear": 1993,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Cheras",
+    "address": "No. 2A, Jalan Selasih, Taman Cheras, 56100 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Sri+Sempurna+International+School"
+  },
+  "ageRange": {
+    "minAge": 6,
+    "maxAge": 17,
+    "display": "6–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けの丁寧な学習指導体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員によるEALサポート指導を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Cheras、Ampang、Kuala Lumpur市内、Petaling Jaya方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "バドミントン、バスケットボール、聖歌隊、ロボティクス、チェス等の放課後クラブ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）※1月開始カレンダー",
+    "applicationProcess": "願書出願、学力診断テスト（英語・算数）、面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備の普通教室群",
+    "サイエンス物理・化学・生物実験室",
+    "コンピュータ・ITラボ",
+    "インドアスポーツ多目的ホール（バドミントン・バスケットボールコート）",
+    "図書室 & リソースセンター",
+    "音楽室 & 講堂",
+    "学内カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 10800,
+    "tuitionMaxAnnual": 18200,
+    "tuitionDisplay": "RM 10,800 – RM 18,200 / 年",
+    "applicationFee": 300,
+    "registrationFee": 1500,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 300,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金可能"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 11500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 10,800〜13,200/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 16500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 14,500〜18,200/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 10200,
+      "tuitionMaxAnnual": 17500,
+      "tuitionDisplay": "RM 10,200 – RM 17,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://srisempurna.edu.my",
+  "contact": {
+    "email": "enquiry@srisempurna.edu.my",
+    "phone": "+60 3-9132 5100"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://srisempurna.edu.my",
+      "title": "Sri Sempurna International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/sri-sempurna-international-school.png"
+}

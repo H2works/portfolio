@@ -1,0 +1,174 @@
+{
+  "id": "cempaka-international-school-damansara",
+  "slug": "cempaka-international-school-damansara",
+  "name": "Cempaka International School Damansara Heights",
+  "officialName": "Cempaka International School Damansara Heights",
+  "shortDescription": "高級住宅街ダマンサラ・ハイツに位置するマレーシア屈指の名門インター。英国Cambridgeカリキュラムおよび高等部での国際バカロレア（IB Diploma）を提供。",
+  "overview": "Cempaka International School Damansara Heights（チェンパカ・インターナショナルスクール・ダマンサラハイツ校）は、クアラルンプールの高級住宅街ダマンサラ・ハイツに位置するマレーシア有数の名門校です。1983年に設立されたチェンパカ教育グループの国際校部門として、幼稚園から初等部・中等部（Cambridge IGCSE）、そして高等部での国際バカロレア（IB Diploma Programme）までの一貫教育を提供しています。高い学術水準と規律ある校風に加え、パフォーミングアーツ（舞台芸術・音楽・演劇）やスポーツ、リーダーシップ育成に極めて力を入れており、国内外の名門大学へ多数の進学者を輩出しています。",
+  "establishedYear": 2004,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Damansara Heights",
+    "address": "No. 19, Jalan Setiabakti 1, Damansara Heights, 50490 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Cempaka+International+School+Damansara+Heights"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IB"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けのEALサポートおよび細やかな進路指導を提供。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員による充実したEALサポートクラスを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Damansara Heights、Bangsar、Mont Kiara、Sri Hartamas、Petaling Jaya各方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "舞台芸術・合唱・オーケストラ、テニス、スイミング、プログラミング等の多彩な放課後課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書オンライン提出、入学診断テスト（英語・数学）、面接審査を経て合格発表。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "本格的な音響・照明設備を備えたパフォーミングアーツ劇場",
+    "スイミングプール",
+    "インドアスポーツホール（バスケットボール・バドミントンコート）",
+    "最新サイエンス実験室 & コンピュータラボ",
+    "音楽スタジオ & アートルーム",
+    "初等部・中等部専用図書室",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 38700,
+    "tuitionMaxAnnual": 63100,
+    "tuitionDisplay": "RM 38,700 – RM 63,100 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 5000,
+    "deposit": 10000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 4,000 – RM 7,200 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 15〜22目安 / プリペイド利用 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金可能"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Year 1–6) Tuition",
+        "amount": 38700,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 38,700〜48,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Year 7–11 IGCSE) Tuition",
+        "amount": 52000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 48,000〜56,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form (IB Diploma) Tuition",
+        "amount": 63100,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Sixth Form",
+        "notes": "IBディプロマ課程（RM 60,000〜63,100/年）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 37500,
+      "tuitionMaxAnnual": 61000,
+      "tuitionDisplay": "RM 37,500 – RM 61,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.cempaka.edu.my",
+  "contact": {
+    "email": "admissions@cempaka.edu.my",
+    "phone": "+60 3-2093 1740"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.cempaka.edu.my",
+      "title": "Cempaka Schools Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/cempaka-international-school-damansara.png"
+}

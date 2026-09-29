@@ -1,0 +1,185 @@
+{
+  "id": "maz-international-school-petaling-jaya",
+  "slug": "maz-international-school-petaling-jaya",
+  "name": "MAZ International School Petaling Jaya",
+  "officialName": "MAZ International School Petaling Jaya",
+  "shortDescription": "ペタリンジャヤ（Paramount Park）に位置する歴史ある英国式インター。手頃な学費水準と確かなCambridge IGCSE & A-Levels指導。",
+  "overview": "MAZ International School Petaling Jaya（マズ・インターナショナルスクール・ペタリンジャヤ校）は、1992年に創立されたクランバレーでも長い歴史を持つ英国式インターナショナルスクールです。セランゴール州ペタリンジャヤの閑静な住宅街Paramount Parkにキャンパスを構え、幼稚園から初等部、中等部（Cambridge IGCSE）、そして高等部（Cambridge International A-Levels）までの一貫教育を提供しています。良心的で手頃な学費体系を維持しながら、世界60カ国以上からの生徒が集う国際的な教育環境と温かなコミュニティを形成しています。",
+  "establishedYear": 1992,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "Paramount Park / Seksyen 20",
+    "address": "No. 1, Jalan 20/19, Paramount Park, 46300 Petaling Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=MAZ+International+School+Petaling+Jaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 19,
+    "display": "3–19"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けのEALサポートおよび少人数指導体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員によるEAL個別・グループサポートプログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Petaling Jaya、Subang Jaya、Kuala Lumpur市内方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種球技、演劇、チェス、アート、音楽等の放課後アクティビティ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、入学診断テスト（英語・算数）、面談を経て合格通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス実験室（Physics, Chemistry, Biology）",
+    "コンピュータ・ITラボ",
+    "多目的インドアホール（バスケットボール・バドミントンコート）",
+    "図書室 & リソースルーム",
+    "アートスタジオ & 音楽室",
+    "学内カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 10500,
+    "tuitionMaxAnnual": 31000,
+    "tuitionDisplay": "RM 10,500 – RM 31,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2500,
+    "deposit": 4000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金可能"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition",
+        "amount": 10500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Kindergarten",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 17500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 14,000〜21,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 25000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 22,000〜28,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form (A-Levels) Tuition",
+        "amount": 31000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Sixth Form",
+        "notes": "A-Levels年間学費"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 10000,
+      "tuitionMaxAnnual": 29500,
+      "tuitionDisplay": "RM 10,000 – RM 29,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://mazinternational.edu.my",
+  "contact": {
+    "email": "pj@mazinternational.edu.my",
+    "phone": "+60 3-7874 2930"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://mazinternational.edu.my",
+      "title": "MAZ International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/maz-international-school-petaling-jaya.png"
+}

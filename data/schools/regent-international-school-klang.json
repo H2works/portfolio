@@ -1,0 +1,171 @@
+{
+  "id": "regent-international-school-klang",
+  "slug": "regent-international-school-klang",
+  "name": "Regent International School Klang",
+  "officialName": "Regent International School Klang",
+  "shortDescription": "セランゴール州クラン市街地に位置する英国式インター。アクセスしやすい良心的な学費とCambridge IGCSEカリキュラムを提供。",
+  "overview": "Regent International School Klang（リージェント・インターナショナルスクール・クラン校）は、セランゴール州クランの中心部（Jalan Temoh）に位置する認可インターナショナルスクールです。英国ケンブリッジ（Cambridge Assessment International Education）カリキュラムに準拠し、幼稚園から初等部、中等部（Cambridge IGCSE）までの一貫教育を提供しています。年間1万〜2万リンギ前後という非常に手頃な学費水準でありながら、経験豊富な教員陣による確かな基礎学力向上指導と人格形成、充実した課外活動を実施しており、クラン・ポートクラン周辺のファミリーから親しまれています。",
+  "establishedYear": 2011,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Klang",
+    "area": "Klang City",
+    "address": "Wisma Regent, No. 1, Jalan Temoh, Off Jalan Goh Hock Huat, 41400 Klang, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Regent+International+School+Klang"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 17,
+    "display": "4–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員はいませんが、英語非母語者向けの学習サポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員によるEALサポート指導を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Klang、Shah Alam、Setia Alam各方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、アート、音楽、チェス、ロボティクス等の放課後アクティビティ（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "願書出願、学力アセスメントテスト（英語・算数）、面談を経て合格通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス実験室（Physics, Chemistry, Biology）",
+    "コンピュータ・ITラボ",
+    "インドアスポーツ多目的ホール",
+    "図書室 & リソースルーム",
+    "音楽スタジオ & アートルーム",
+    "学内カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 12000,
+    "tuitionMaxAnnual": 19000,
+    "tuitionDisplay": "RM 12,000 – RM 19,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 3000,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金可能"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition",
+        "amount": 12000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Kindergarten",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 14500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 12,500〜15,500/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 17800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 16,000〜19,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 11500,
+      "tuitionMaxAnnual": 18000,
+      "tuitionDisplay": "RM 11,500 – RM 18,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://regent.edu.my",
+  "contact": {
+    "email": "admissions@regent.edu.my",
+    "phone": "+60 3-6419 2565"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://regent.edu.my",
+      "title": "Regent International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/regent-international-school-klang.png"
+}

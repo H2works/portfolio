@@ -1,0 +1,173 @@
+{
+  "id": "idrissi-international-school-setia-alam",
+  "slug": "idrissi-international-school-setia-alam",
+  "name": "Idrissi International School Setia Alam",
+  "officialName": "IDRISSI International School Setia Alam",
+  "shortDescription": "セランゴール州セティア・アラムに位置する自然共生型（Eco-Islamic）インター。英国Cambridgeカリキュラムと環境・道徳教育を融合。",
+  "overview": "IDRISSI International School Setia Alam（イドリシ・インターナショナルスクール・セティアアラム校）は、セランゴール州シャーアラムの人気居住区セティア・アラムに2015年に開校したユニークなエコ・インターナショナルスクールです。英国ケンブリッジ（Cambridge International）カリキュラムを基盤としながら、自然環境への敬意と道徳的価値観を育む『Eco-Islamic』教育を提唱しています。学内のエコファームや自然体験学習、少人数制クラスによるきめ細やかな指導が特徴で、宗教的バックグラウンドを問わず多様な価値観を尊重する国際的な学習環境を提供しています。",
+  "establishedYear": 2015,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Shah Alam",
+    "area": "Setia Alam",
+    "address": "Jalan Setia Dagang U13/AH, Setia Alam, Seksyen U13, 40170 Shah Alam, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=IDRISSI+International+School+Setia+Alam"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Nursery",
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Arabic",
+      "Malay",
+      "Mandarin"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任スタッフはいませんが、英語非母語者向けの親身なサポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を目的とした専任教員によるEAL個別・グループサポートプログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Setia Alam、Klang、Shah Alam、Subang Jaya各方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて栄養バランスのとれた給食を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "アーチェリー、エコクラブ、サイエンス探究、各種スポーツ等の多彩な放課後課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書オンライン出願、学力アセスメントテスト（英語・算数）、面談を経て入学受諾。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "学内エコファーム & 自然体験学習エリア",
+    "冷暖房完備の最新教室群",
+    "サイエンス実験室 & ITコンピュータラボ",
+    "多目的スポーツホール & 屋外グラウンド",
+    "アーチェリー場",
+    "図書室 & リソースセンター",
+    "学内カフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 15600,
+    "tuitionMaxAnnual": 32400,
+    "tuitionDisplay": "RM 15,600 – RM 32,400 / 年",
+    "applicationFee": 500,
+    "registrationFee": 3000,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,800 – RM 7,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜18目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金可能"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years / Preschool Tuition",
+        "amount": 15600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Kindergarten",
+        "notes": "幼児部年間学費"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 21800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 18,000〜24,000/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 29500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 26,000〜32,400/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 14800,
+      "tuitionMaxAnnual": 31000,
+      "tuitionDisplay": "RM 14,800 – RM 31,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.idrissischool.edu.my/setiaalam/",
+  "contact": {
+    "email": "admissions@idrissischool.edu.my",
+    "phone": "+60 3-3362 4216"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.idrissischool.edu.my/setiaalam/",
+      "title": "IDRISSI International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/idrissi-international-school-setia-alam.png"
+}
