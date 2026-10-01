@@ -1,0 +1,167 @@
+{
+  "id": "real-international-school-johor-bahru",
+  "slug": "real-international-school-johor-bahru",
+  "name": "R.E.A.L International School Johor Bahru Campus",
+  "officialName": "R.E.A.L International School Johor Bahru Campus",
+  "shortDescription": "ジョホール州マサイの緑豊かな5エーカー敷地に位置する認可インター校。実績あるR.E.A.L教育グループの英国ケンブリッジ一貫教育。",
+  "overview": "R.E.A.L International School Johor Bahru Campus（リアル・インターナショナルスクール・ジョホールバル校）は、1985年創設の定評あるR.E.A.L教育グループ（R.E.A.L Education Group）が展開するジョホール州の認可インターナショナルスクールです。ペルマス・ジャヤ近郊マサイ（Masai / Plentong）の緑豊かな5エーカーの広大な専用キャンパスに位置し、英国ケンブリッジ（Primary、Secondary IGCSE）カリキュラムを導入。学術面の高い指導に加え、アクティブラーニングや人間教育（Real Leaders）、多彩な課外活動をバランスよく統合し、生徒一人ひとりの可能性を最大限に引き出す教育を実践しています。",
+  "establishedYear": 2008,
+  "location": {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Johor Bahru",
+    "area": "Masai / Plentong",
+    "address": "Lot 2361, Jalan Persiaran Seri Plentong, Bandar Baru Seri Alam, 81750 Masai, Johor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=REAL+International+School+Johor+Bahru"
+  },
+  "ageRange": {
+    "minAge": 5,
+    "maxAge": 17,
+    "display": "5–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語初級者向けの個別EALサポートを完備。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による個別EAL（English as an Additional Language）英語語学支援プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Bandar Baru Seri Alam、Permas Jaya、Mount Austin、Johor Bahru中心部等を結ぶ公式通学バスを運行（距離に応じたゾーン別実費制）。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・清潔な学内カフェテリアにてバランスのとれた給食を提供（注文制・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "テコンドー、水泳、バドミントン、プログラミング、演劇等の多彩な課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、入学アセスメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "屋外公式スイミングプール",
+    "全天候型マルチパーパススポーツホール",
+    "天然芝サッカーグラウンド",
+    "専門サイエンスラボ・研究室",
+    "ICT・コンピュータラボ",
+    "アートアトリエ・デザイン工房",
+    "音楽スタジオ・防音練習室",
+    "全学年対応図書館",
+    "学内カフェテリア・ダイニングエリア"
+  ],
+  "feeStructure": {
+    "currency": "MYR",
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 13760,
+    "tuitionMaxAnnual": 30210,
+    "tuitionDisplay": "RM 13,760 – RM 30,210 / 年",
+    "tuitionSummary": "初等部（Years 1–6）約RM 13,760〜RM 22,540/年、中等部（Years 7–11 IGCSE）約RM 24,270〜RM 30,210/年（留学生料金）。※スクールバス代・給食代は利用状況により異なる付帯費用です。",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願選考料（留学生料金、返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学登録料（留学生料金、返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象（留学生料金）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 18150,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 13,760〜22,540/年（3学期分割納入）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 27240,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 24,270〜30,210/年（3学期分割納入）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 13000,
+      "tuitionMaxAnnual": 28500,
+      "tuitionDisplay": "RM 13,000 – RM 28,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://realschools.edu.my/johor-bahru-campus",
+  "contact": {
+    "email": "admissions.jb@realschools.edu.my",
+    "phone": "+60 7-386 4468"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://realschools.edu.my/johor-bahru-campus",
+      "title": "R.E.A.L International School Johor Bahru Campus Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://realschools.edu.my/wp-content/uploads/2026/07/RSJB-Fees-International-_2026-27_HSBC-300726-1.pdf",
+      "title": "Official International Curriculum Fee Structure 2026/2027 (RSJB)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/real-international-school-johor-bahru.png"
+}

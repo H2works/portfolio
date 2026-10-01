@@ -1,0 +1,179 @@
+{
+  "id": "forest-city-international-school",
+  "slug": "forest-city-international-school",
+  "name": "Forest City International School",
+  "officialName": "Forest City International School (FCIS)",
+  "shortDescription": "ジョホール州フォレストシティの広大な近代スマートキャンパスに位置する米国式ボーディングスクール（旧Shattuck-St. Mary's）。充実した全日給食と最先端施設。",
+  "overview": "Forest City International School (FCIS) は、ジョホール州ゲランパタのフォレストシティ（Forest City）に位置するインターナショナルスクールです。もともと米国の名門ボーディングスクール「Shattuck-St. Mary's」の初の海外分校として2018年に創立され、現在は国際的な教育グループ「CATS Global Schools」の傘下として運営されています。プレK（3歳）から高校（Grade 12）まで、米国式カリキュラムおよびアドバンスト・プレイスメント（APプログラム）を提供。緑豊かな人工島に設計されたエコフレンドリーなキャンパスには、本格的なスポーツ施設、サイエンスラボ、学生寮を完備し、全生徒への充実した給食提供や留学生向けの安全な学習環境が高く評価されています。",
+  "establishedYear": 2018,
+  "location": {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Gelang Patah",
+    "area": "Forest City",
+    "address": "PTD 5093 (PLOT 62), Jalan Forest City 9, Forest City, 81550 Gelang Patah, Johor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Forest+City+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "American",
+    "AP"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Kindergarten",
+    "Primary",
+    "Middle School",
+    "High School"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けの集中的なEAL学習サポートプログラム（iEAL / aEAL）が完備されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "習熟度に応じた集中的なEAL（English as an Additional Language）プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "フォレストシティ島内、ゲランパタ、イスカンダルプテリ、ジョホールバル市内主要エリアを結ぶ通学バスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "キャンパス内の広々としたダイニングホールにて栄養士監修の温かいランチとスナックを全日制で提供（学費プラン内）。",
+    "boardingAvailable": true,
+    "boardingDetail": "ミドルスクール・ハイスクール生徒向けにキャンパス内最新レジデンス（4人部屋/2人部屋）にてフルボーディングを提供（全食事込）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "ゴルフ、水泳、各種球技、パフォーミングアーツ、ロボティクス、中国武術など多彩な放課後アクティビティ（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "2学期制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
+    "applicationProcess": "オンライン出願、過去の成績証明書提出、アセスメントテスト（英語・数学・面談）を経て合否判定。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "海に面した広大な近未来型スマートキャンパス",
+    "オリンピック規格スイミングプール & 屋内トレーニングプール",
+    "フルサイズ人工芝サッカーピッチ & 全天候型トラック",
+    "ダブルサイズインドア体育館 & フィットネスセンター",
+    "サイエンス・テクノロジー実験室 & メイカースペース",
+    "パフォーミングアーツシアター & ダンス・ドラマスタジオ",
+    "図書室 & デジタルメディア学習センター",
+    "セントラルダイニングホール（カフェテリア）",
+    "最新セキュア学生寮（ボーディングハウス）"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 56000,
+    "tuitionMaxAnnual": 74000,
+    "tuitionDisplay": "RM 56,000 – RM 74,000 / 年（基本授業料）",
+    "applicationFee": 1000,
+    "registrationFee": 0,
+    "deposit": 5200,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,800 – RM 6,500 / 年）",
+    "lunchFeeEstimate": "デイスクール給食費: RM 6,000 / 年（全日制ホットミール）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Deposit (Day Student)",
+        "amount": 5200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "通学生デポジット。所定の退学通知手続きにより返金対象（寮生デポジットはRM 8,000）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Pre-K & Kindergarten Annual Tuition",
+        "amount": 56000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Pre-K & Kindergarten",
+        "notes": "基本年間授業料（給食・アクティビティ・教材等込で年間合計RM 65,500）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary School Annual Tuition",
+        "amount": 60000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary School",
+        "notes": "基本年間授業料（給食・アクティビティ・教材等込で年間合計RM 69,500）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Middle School Annual Tuition",
+        "amount": 68000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Middle School",
+        "notes": "基本年間授業料（給食・アクティビティ・教材等込で年間合計RM 77,500）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "High School Annual Tuition",
+        "amount": 74000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "High School",
+        "notes": "基本年間授業料（給食・アクティビティ・教材等込で年間合計RM 83,500。※Boarding生は寮費 RM 30,000〜43,000/年が加算）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 53000,
+      "tuitionMaxAnnual": 70000,
+      "tuitionDisplay": "RM 53,000 – RM 70,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://cats-fc.org",
+  "contact": {
+    "email": "admissions@cats-fc.org",
+    "phone": "+60 7-277 6089"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://cats-fc.org",
+      "title": "Forest City International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://cats-fc.org/school-fees/",
+      "title": "Forest City International School Official Tuition Fees",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/forest-city-international-school.png"
+}

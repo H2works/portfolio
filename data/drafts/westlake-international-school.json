@@ -1,0 +1,163 @@
+{
+  "id": "westlake-international-school",
+  "slug": "westlake-international-school",
+  "name": "Westlake International School",
+  "officialName": "Westlake International School (Kampar, Perak)",
+  "shortDescription": "ペラ州カンパーの美しい湖畔に位置するCambridge認定全寮制校。良心的な学費と手厚いボーディング教育。",
+  "overview": "Westlake International School（ウェストレイク・インターナショナルスクール: WIS）は、ペラ州カンパー（Kampar: UTAR大学都市至近）の広大で美しい湖畔に建設された、教育省認可の英国ケンブリッジ認定校です。幼児部（Early Years）から初等、中等（IGCSE）、A-Levelsまでの一貫教育を提供。世界クラスの寄宿寮（Boarding House）を完備し、「B.E.S.T（Boarding, Excellence, Character, Teamwork）」の理念のもと、規律ある共同生活と卓越した学力向上、豊かな人格育成を両立。全寮制インター校の中でも極めて良心的な学費設定により、マレーシア国内外の幅広い留学生から熱い支持を集めています。",
+  "establishedYear": 2013,
+  "location": {
+    "country": "Malaysia",
+    "state": "Perak",
+    "city": "Kampar",
+    "area": "Bandar Barat",
+    "address": "Lot 18662, Jalan Universiti, Taman Bandar Barat, 31900 Kampar, Perak, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Westlake+International+School+Kampar"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、留学生のための手厚い英語サポート体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "入寮生および留学生のための手厚いEAL英語補修プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Kampar市内、Ipoh、Tapah、Gopeng方面への通学バス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内ダイニングホールにて栄養バランスのとれた給食を提供（寮生は3食込）。",
+    "boardingAvailable": true,
+    "boardingDetail": "安全で快適な最新の男女別学生寮（フルボーディング／ウィークリー対応）を完備。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、カヤック、各種球技、音楽、ロボティクス等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "出願、書類審査、学力診断テストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室棟",
+    "最新サイエンス物理・化学・生物実験室",
+    "ITコンピュータ室",
+    "スイミングプール",
+    "多目的屋内スポーツホール",
+    "天然芝サッカーグラウンド & テニスコート",
+    "湖畔アウトドアアクティビティエリア",
+    "中央図書館 & メディアセンター",
+    "学生寮レジデンス棟（ボーディングハウス）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 13000,
+    "tuitionMaxAnnual": 32000,
+    "tuitionDisplay": "RM 13,000 – RM 32,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2500,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 2,500 – RM 4,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜14目安 / 寮生は寮費に3食含む）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 13000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Annual)",
+        "amount": 20000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 16,000〜RM 24,000。学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & A-Levels Tuition (Annual)",
+        "amount": 28000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary & A-Levels (Year 7 - Year 13)",
+        "notes": "RM 24,000〜RM 32,000。学期納入（年3期）"
+      }
+    ]
+  },
+  "contact": {
+    "email": "enquiry@westlakeschool.edu.my",
+    "phone": "+605-467 2222"
+  },
+  "websiteUrl": "https://westlakeschool.edu.my/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Westlake International School Official Fees",
+      "url": "https://westlakeschool.edu.my/admissions/fees/",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09"
+}

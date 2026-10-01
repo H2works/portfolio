@@ -1,0 +1,166 @@
+{
+  "id": "tenby-international-school-ipoh",
+  "slug": "tenby-international-school-ipoh",
+  "name": "Tenby International School Ipoh",
+  "officialName": "Tenby Schools Ipoh (Tenby International School Ipoh)",
+  "shortDescription": "1960年創設の歴史を誇るTenbyグループ発祥本校。ペラ州イポーの広大な敷地で展開する英国ケンブリッジ一貫教育。",
+  "overview": "Tenby International School Ipoh（テンビー・インターナショナルスクール: イポー校）は、ペラ州イポーの近代開発エリア「Bandar Meru Raya」に広大なキャンパスを構える英国式国際認可校です。1960年に外国人駐在員の子弟教育のために設立された「Tenby Schools」グループの発祥本校として、半世紀以上の歴史と名声を誇ります。英国ナショナルカリキュラム、IPC（International Primary Curriculum）、ケンブリッジ（IGCSE）、A-Levelsまでのシームレスな一貫教育を提供。広大な敷地に充実したスポーツ施設やサイエンス実験棟を備え、名門ISP（International Schools Partnership）グループ傘下として世界水準の国際教育を届けています。",
+  "establishedYear": 1960,
+  "location": {
+    "country": "Malaysia",
+    "state": "Perak",
+    "city": "Ipoh",
+    "area": "Bandar Meru Raya",
+    "address": "1, Persiaran Meru Raya 14, Bandar Meru Raya, 30020 Ipoh, Perak, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Tenby+Schools+Ipoh"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語および第二言語（フランス語・中国語等）の指導が充実しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を支援するEAL集中レッスンを用意。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Ipoh市内各地、Batu Gajah、Kampar方面を結ぶ通学バス運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて栄養バランスのとれた給食を提供（カフェテリア都度払い・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、音楽、アート、ロボティクス、演劇等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "出願、書類審査、学力診断テストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室棟",
+    "最新サイエンス実験棟",
+    "デザイン＆テクノロジー・ICTラボ",
+    "オリンピック規格スイミングプール",
+    "全天候型多目的スポーツホール",
+    "天然芝サッカー場 & テニスコート",
+    "図書館 & メディアセンター",
+    "アート＆音楽スタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 14500,
+    "tuitionMaxAnnual": 40000,
+    "tuitionDisplay": "RM 14,500 – RM 40,000 / 年",
+    "applicationFee": 600,
+    "registrationFee": 3500,
+    "deposit": 4000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 2,800 – RM 4,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜14目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 600,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 14500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition / IPC (Annual)",
+        "amount": 23500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 17,500〜RM 28,000。学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & Sixth Form Tuition (Annual)",
+        "amount": 34000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary & Sixth Form (Year 7 - Year 13)",
+        "notes": "RM 29,000〜RM 40,000。学期納入（年3期）"
+      }
+    ]
+  },
+  "contact": {
+    "email": "ipoh@tenby.edu.my",
+    "phone": "+605-525 4566"
+  },
+  "websiteUrl": "https://www.tenby.edu.my/ipoh",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Tenby Schools Ipoh Tuition Fees",
+      "url": "https://www.tenby.edu.my/ipoh/admissions/tuition-fees",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09",
+  "logoUrl": "/img/schools/logos/tenby-international-school-ipoh.jpg"
+}

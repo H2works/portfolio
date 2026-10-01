@@ -1,0 +1,157 @@
+{
+  "id": "tenby-schools-setia-eco-gardens",
+  "slug": "tenby-schools-setia-eco-gardens",
+  "name": "Tenby Schools Setia Eco Gardens",
+  "officialName": "Tenby Schools Setia Eco Gardens",
+  "shortDescription": "ジョホール州イスカンダル・プテリのエコ環境に位置する認可インター校。広大な敷地と英国ケンブリッジ一貫教育。",
+  "overview": "Tenby Schools Setia Eco Gardens（テンビー・スクールズ・セティア・エコ・ガーデンズ）は、ジョホール州イスカンダル・プテリ（Setia Eco Gardens / Gelang Patah）に位置する認可インターナショナルスクールです。環境に配慮した設計の広大なキャンパスにおいて、英国ケンブリッジ（Early Years、Primary、Secondary IGCSE）カリキュラムを導入。学業面の高い指導力、国際プライマリーカリキュラム（IPC）によるアクティブラーニング、スポーツ・芸術を含む総合的（ホリスティック）な人間教育を展開しています。シンガポールやジョホールバル中心部からのアクセスも良好です。",
+  "establishedYear": 2013,
+  "location": {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Iskandar Puteri",
+    "area": "Gelang Patah",
+    "address": "7, Jalan Laman Setia Utama, Setia Eco Gardens, 81550 Gelang Patah, Johor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Tenby+Schools+Setia+Eco+Gardens"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語初級者向けの個別EALサポートを完備。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による個別EAL（English as an Additional Language）英語語学支援プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "イスカンダル・プテリ、ジョホールバル各地区を結ぶ公式スクールバスを運行（距離に応じたゾーン別実費制）。",
+    "lunchProvided": true,
+    "lunchDetail": "清潔な学内カフェテリアにて温かい日替わり給食を提供（注文制・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "バドミントン、水泳、フットサル、ロボティクス、演劇、音楽等の多彩な課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン願書提出、入学アセスメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "屋外公式スイミングプール",
+    "全天候型マルチパーパススポーツホール",
+    "フルサイズ人工芝サッカーピッチ",
+    "専門サイエンスラボ・研究室",
+    "ICT・コンピュータラボ",
+    "音楽スタジオ・アートアトリエ",
+    "全学年対応図書情報センター",
+    "学内カフェテリア・ダイニングホール"
+  ],
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 18500,
+      "tuitionMaxAnnual": 46000,
+      "tuitionDisplay": "RM 18,500 – RM 46,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.tenby.edu.my/setia-eco-gardens",
+  "contact": {
+    "email": "admissions.seg@tenby.edu.my",
+    "phone": "+60 7-558 8812"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.tenby.edu.my/setia-eco-gardens",
+      "title": "Tenby Schools Setia Eco Gardens Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.tenby.edu.my/setia-eco-gardens/admissions/tuition-fees",
+      "title": "Tenby Schools Setia Eco Gardens Tuition Fees",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/tenby-schools-setia-eco-gardens.jpg",
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 19500,
+    "tuitionMaxAnnual": 48270,
+    "tuitionDisplay": "RM 19,500 – RM 48,270 / 年",
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,600 – RM 7,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 900,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時選考料（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学登録料（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 28000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 19,500〜35,000/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 43500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 38,000〜48,270/年"
+      }
+    ]
+  }
+}

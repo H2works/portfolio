@@ -1,0 +1,152 @@
+{
+  "id": "international-modern-arabic-school",
+  "slug": "international-modern-arabic-school",
+  "name": "International Modern Arabic School (IMAS)",
+  "officialName": "International Modern Arabic School (IMAS Putrajaya)",
+  "shortDescription": "プトラジャヤに位置する名門非営利認可校。英国Cambridgeおよび国際バカロレア（IB）課程を良心的な学費で提供。",
+  "overview": "International Modern Arabic School（国際近代アラブ学校: IMAS）は、マレーシアの連邦行政首都プトラジャヤ（Presint 14）に位置する教育省認可の非営利国際校です。2007年の設立以来、アラブ諸国および世界各国の外交官・国際公務員・多国籍企業の子弟を受け入れ、英国ケンブリッジ（Cambridge Primary, Secondary IGCSE）および国際バカロレア（IB Diploma / DP）課程を提供しています。非営利教育財団による運営のため、年間RM 9,500〜という極めてリーズナブルな学費水準を実現しながら、充実したサイエンスラボや多言語（英語・アラビア語・マレー語）指導、国際感覚豊かな教育環境を誇ります。",
+  "establishedYear": 2007,
+  "location": {
+    "country": "Malaysia",
+    "state": "Putrajaya",
+    "city": "Putrajaya",
+    "area": "Presint 14",
+    "address": "Jalan P14G, Presint 14, 62050 Putrajaya, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=International+Modern+Arabic+School+Putrajaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IB"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Arabic",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語・アラビア語の多言語指導が充実しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語およびアラビア語の集中語学サポートプログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Putrajaya、Cyberjaya、Kajang、Bangi、Seri Kembangan、KL各方面へのスクールバス運行（委託運行・別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて食事サービスを提供（幼稚部は持参、小中高はカフェテリア都度払い・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "アーチェリー、フットサル、武術、ロボティクス、ディベート等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "2学期制（Term 1: 9月〜1月 / Term 2: 2月〜6月）",
+    "applicationProcess": "出願、書類審査、学力診断テストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "最新サイエンス物理・化学・生物実験室",
+    "コンピュータICTラボ",
+    "多目的スポーツホール & フットサル場",
+    "図書館 & メディアリソースセンター",
+    "アート＆クラフトスタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 9500,
+    "tuitionMaxAnnual": 14500,
+    "tuitionDisplay": "RM 9,500 – RM 14,500 / 年",
+    "registrationFee": 1200,
+    "deposit": 2000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 1200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Kindergarten Tuition (Annual)",
+        "amount": 9500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten",
+        "notes": "学期納入（年2期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Annual)",
+        "amount": 12000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - Grade 6)",
+        "notes": "学期納入（年2期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary & High School Tuition (Annual)",
+        "amount": 14000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary & High School (Grade 7 - Grade 12)",
+        "notes": "RM 13,000〜RM 14,500。学期納入（年2期）"
+      }
+    ]
+  },
+  "websiteUrl": "https://imas.edu.my/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "IMAS Official Fee Structure",
+      "url": "https://imas.edu.my/admission/fee-structure/",
+      "retrievedAt": "2026-09"
+    },
+    {
+      "sourceType": "official",
+      "name": "IMAS Official Fee Structure PDF",
+      "url": "https://imas.edu.my/wp-content/uploads/2026/08/IMAS-STANDARD-FEE-STRUCTURE-5.pdf",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09"
+}

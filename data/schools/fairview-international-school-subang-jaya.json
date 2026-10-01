@@ -1,0 +1,159 @@
+{
+  "id": "fairview-international-school-subang-jaya",
+  "slug": "fairview-international-school-subang-jaya",
+  "name": "Fairview International School Subang Jaya",
+  "officialName": "Fairview International School Subang Jaya (FISSJ)",
+  "shortDescription": "スバンジャヤに位置する名門FairviewグループのIB World School。初等（PYP）および中等（MYP）の国際バカロレア一貫教育。",
+  "overview": "Fairview International School Subang Jaya（フェアビュー・インターナショナルスクール: スバンジャヤ校）は、セランゴール州スバンジャヤ（Sime UEP Industrial Park）に位置する国際バカロレア（IB）公認の国際認可校です。マレーシア国内で最大規模のIB認定校ネットワークを持つFairviewグループのキャンパスとして、初等教育（IB PYP: Primary Years Programme）および中等教育（IB MYP: Middle Years Programme）の一貫教育を提供しています。探究型学習（Inquiry-based Learning）、批判的思考力、グローバル市民性を育む指導を行い、理科実験棟やICT環境、屋内スポーツ施設が整備されています。",
+  "establishedYear": 2010,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Subang Jaya",
+    "area": "Subang Jaya / USJ",
+    "address": "2A, Jalan TP2, Sime UEP Industrial Park, 47600 Subang Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Fairview+International+School+Subang+Jaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 16,
+    "display": "3–16"
+  },
+  "curricula": [
+    "IB"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語および第二言語（中国語等）の指導環境が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を母国語としない生徒に向けたEAL集中語学サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Subang Jaya、USJ、Sunway、Puchong、Shah Alam方面を結ぶ通学バスを運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて栄養バランスのとれた給食を提供（カフェテリア都度払い・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、音楽、アート、ロボティクス等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "2学期制（Term 1: 8月〜12月 / Term 2: 1月〜6月）",
+    "applicationProcess": "願書出願、書類審査、学力診断テストおよび面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "最新サイエンス実験室",
+    "コンピュータICT室",
+    "屋内体育ホール & バスケットボールコート",
+    "図書館 & メディアリソースセンター",
+    "アート＆音楽スタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 24000,
+    "tuitionMaxAnnual": 58000,
+    "tuitionDisplay": "RM 24,000 – RM 58,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 5000,
+    "deposit": 10000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 24000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years (Nursery / Reception)",
+        "notes": "学期納入（年2期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Tuition / IB PYP (Annual)",
+        "amount": 39000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - Grade 6)",
+        "notes": "RM 29,000〜RM 46,000。学期納入（年2期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Middle Years Tuition / IB MYP (Annual)",
+        "amount": 52000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Grade 7 - Grade 11)",
+        "notes": "RM 48,000〜RM 58,000。学期納入（年2期）"
+      }
+    ]
+  },
+  "contact": {
+    "email": "enquiries.subang@fairview.edu.my",
+    "phone": "+603-8023 7777"
+  },
+  "websiteUrl": "https://fairview.edu.my/our-campuses/location-subang-jaya/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Fairview International School Subang Admission & Fees",
+      "url": "https://fairview.edu.my/school-admission/admission-information/#subangjaya",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09",
+  "logoUrl": "/img/schools/logos/fairview-international-school-subang-jaya.png"
+}

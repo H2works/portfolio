@@ -1,0 +1,158 @@
+{
+  "id": "tenby-schools-penang",
+  "slug": "tenby-schools-penang",
+  "name": "Tenby Schools Penang",
+  "officialName": "Tenby Schools Penang",
+  "shortDescription": "ペナン島タンジュン・ブンガの美しい丘陵地に位置する名門認可校。英国ケンブリッジ一貫教育と充実した近代的キャンパス設備。",
+  "overview": "Tenby Schools Penang（テンビー・スクールズ・ペナン）は、マレーシア全土に展開する歴史あるTenbyグループのペナン校です。ペナン島北部の高級住宅街タンジュン・ブンガ（Tanjung Bungah）の緑豊かな丘陵地に位置し、英国ケンブリッジ（Early Years、Primary、Secondary IGCSE）カリキュラムを導入。学業面の高い到達度とともに、国際プライマリーカリキュラム（IPC）による探究型学習や多彩な芸術・スポーツプログラムを実践しています。多国籍な生徒コミュニティと温かな学びの環境が整っています。",
+  "establishedYear": 2007,
+  "location": {
+    "country": "Malaysia",
+    "state": "Penang",
+    "city": "Tanjung Bungah",
+    "area": "Tanjung Bungah",
+    "address": "55, Lorong Lembah Permai 1, 11200 Tanjung Bungah, Penang, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Tenby+Schools+Penang"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語初級者向けの個別EALサポートを完備。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による個別EAL（English as an Additional Language）英語語学支援プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "ジョージタウン、バヤンレパス、タンジュンブンガ等ペナン島主要エリアを結ぶ通学バスを運行（距離に応じたゾーン別実費制）。",
+    "lunchProvided": true,
+    "lunchDetail": "清潔な学内カフェテリアにて温かい日替わり給食を提供（注文制・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、アート、ロボティクス、音楽、ディベート等の多彩な課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン願書提出、入学アセスメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "屋外公式スイミングプール",
+    "全天候型マルチパーパススポーツホール",
+    "人工芝サッカーグラウンド",
+    "専門サイエンスラボ・研究室",
+    "ICT・コンピュータラボ",
+    "パフォーミングアーツ・音楽スタジオ",
+    "全学年対応図書館・メディアセンター",
+    "学内カフェテリア・ダイニングエリア"
+  ],
+  "feeStructure": {
+    "currency": "MYR",
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 16000,
+    "tuitionMaxAnnual": 48000,
+    "tuitionDisplay": "RM 16,000 – RM 48,000 / 年",
+    "tuitionSummary": "初等部（Primary）約RM 16,000〜RM 32,000/年、中等部（Secondary IGCSE）約RM 35,000〜RM 48,000/年。学年・課程により異なる。※スクールバス代・給食代は利用状況により異なる付帯費用です。",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時選考料（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration",
+        "label": "Registration Fee",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学登録料（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 25000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 16,000〜32,000/年"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 42000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 35,000〜48,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 15000,
+      "tuitionMaxAnnual": 46000,
+      "tuitionDisplay": "RM 15,000 – RM 46,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.tenby.edu.my/penang",
+  "contact": {
+    "email": "admissions.penang@tenby.edu.my",
+    "phone": "+60 4-892 7777"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.tenby.edu.my/penang",
+      "title": "Tenby Schools Penang Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.tenby.edu.my/penang/admissions/tuition-fees",
+      "title": "Tenby Schools Penang Tuition Fees",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/tenby-schools-penang.jpg"
+}

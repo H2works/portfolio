@@ -1,0 +1,162 @@
+{
+  "id": "elc-international-school-cyberjaya",
+  "slug": "elc-international-school-cyberjaya",
+  "name": "elc International School Cyberjaya",
+  "officialName": "elc International School (Cyberjaya Campus)",
+  "shortDescription": "サイバージャヤに位置する名門elcの第2キャンパス。伝統ある英国ケンブリッジ教育と充実した近代的設備。",
+  "overview": "elc International School Cyberjaya（イー・エル・シー・インターナショナルスクール: サイバージャヤ校）は、セランゴール州サイバージャヤ（Cyber 12）に位置する教育省認可の英国式国際校です。スンガイ・ブロの名門本校と同じ「Excellence in Loyalty and Courtesy」を教育理念とし、英国ナショナルカリキュラムおよびケンブリッジ（Primary、Secondary IGCSE）に基づく一貫指導を提供。IT都市サイバージャヤの好立地を生かした最新の学習棟、理科実験室、スポーツ設備を備え、伝統校の規律と現代的な探究学習が融合した教育環境が高く評価されています。",
+  "establishedYear": 2010,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Cyberjaya",
+    "area": "Cyber 12",
+    "address": "Lingkaran Cyber Point Barat, Cyber 12, 63000 Cyberjaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=elc+International+School+Cyberjaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語および多彩な第二言語指導が充実しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を支援するEAL集中レッスンを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Cyberjaya、Putrajaya、Puchong、Seri Kembangan方面を結ぶ通学バスを運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内ダイニングにて衛生管理された給食を提供（注文制・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、音楽、科学クラブ、ディベート等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "出願、書類審査、学力診断テストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備の普通教室群",
+    "最新サイエンス物理・化学・生物実験室",
+    "ICTコンピュータ室",
+    "スイミングプール",
+    "屋内体育館 & バスケットボールコート",
+    "屋外スポーツグラウンド",
+    "図書館 & メディアセンター",
+    "アート＆音楽スタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 18000,
+    "tuitionMaxAnnual": 51000,
+    "tuitionDisplay": "RM 18,000 – RM 51,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 750,
+    "deposit": 8000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,600 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 750,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 8000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分の授業料相当（退学時返金規定あり）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 19500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Annual)",
+        "amount": 31500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 24,000〜RM 39,000。学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School Tuition (Annual)",
+        "amount": 46500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "RM 42,000〜RM 51,000。学期納入（年3期）"
+      }
+    ]
+  },
+  "contact": {
+    "email": "admissions_cyb@elc.edu.my",
+    "phone": "+603-8319 1641"
+  },
+  "websiteUrl": "https://www.elc.edu.my/about-cyberjaya-campus/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "elc International School Official Fee Structure",
+      "url": "https://www.elc.edu.my/fee-structure/",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09"
+}

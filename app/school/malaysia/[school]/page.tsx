@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const title = `${school.name} 学費・カリキュラム・入学情報 | マレーシア School Finder`;
-  const description = `${school.name}（${school.location.city}・${school.location.area}）の学費（${school.currentFees.academicYear}度）、カリキュラム（${school.curricula.join('・')}）、対象年齢（${school.ageRange.display}歳）、バス送迎、日本語対応状況の詳細情報。`;
+  const description = `${school.name}（${school.location?.city || ''}・${school.location?.area || ''}）の学費（${school.currentFees?.academicYear || '最新'}度）、カリキュラム（${(school.curricula || []).join('・')}）、対象年齢（${school.ageRange?.display || ''}歳）、バス送迎、日本語対応状況の詳細情報。`;
 
   return {
     title,
@@ -408,12 +408,12 @@ export default async function SchoolDetailPage({ params }: PageProps) {
               )}
 
               <div className="border-top pt-2 small">
-                {school.contact.phone && (
+                {school.contact?.phone && (
                   <div className="mb-1">
                     <strong>TEL:</strong> {school.contact.phone}
                   </div>
                 )}
-                {school.contact.email && (
+                {school.contact?.email && (
                   <div className="mb-2">
                     <strong>Email:</strong> {school.contact.email}
                   </div>

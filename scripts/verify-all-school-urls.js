@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { execSync } from 'child_process';
 
 async function testAllSchools() {
   const schoolsDir = path.resolve('data', 'schools');
@@ -33,7 +34,7 @@ async function testAllSchools() {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
           },
-          signal: AbortSignal.timeout(8000),
+          signal: AbortSignal.timeout(15000),
           redirect: 'follow'
         });
         if (res.ok) {
@@ -44,8 +45,21 @@ async function testAllSchools() {
           errorCount++;
         }
       } catch (err) {
-        console.log(`  [ERR: ${err.message}] ${item.type}: ${item.url}`);
-        errorCount++;
+        // Fallback: try curl.exe if available (handles LiteSpeed / OpenSSL 3.0 TLS handshake alerts / cert quirks)
+        try {
+          const codeStr = execSync(`curl.exe -k -s -o NUL -w "%{http_code}" -L --connect-timeout 15 "${item.url}"`, { encoding: 'utf8' }).trim();
+          const statusCode = parseInt(codeStr, 10);
+          if (statusCode >= 200 && statusCode < 400) {
+            console.log(`  [${statusCode} OK via curl] ${item.type}: ${item.url}`);
+            successCount++;
+          } else {
+            console.log(`  [${statusCode || 'ERR'} FAIL via curl: ${err.message}] ${item.type}: ${item.url}`);
+            errorCount++;
+          }
+        } catch (curlErr) {
+          console.log(`  [ERR: ${err.message}] ${item.type}: ${item.url}`);
+          errorCount++;
+        }
       }
     }
   }

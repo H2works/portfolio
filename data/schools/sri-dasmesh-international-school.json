@@ -1,0 +1,158 @@
+{
+  "id": "sri-dasmesh-international-school",
+  "slug": "sri-dasmesh-international-school",
+  "name": "Sri Dasmesh International School",
+  "officialName": "Sri Dasmesh International School",
+  "shortDescription": "クリンチ（Bangsar South近郊）に位置する名門徳育校。『7つの習慣』公認の人格教育とKL都心屈指の良心的な学費設定。",
+  "overview": "Sri Dasmesh International School（スリ・ダメッシュ・インターナショナルスクール）は、クアラルンプールのクリンチ（Kerinchi / Bangsar South隣接）に位置する非営利の教育省認可校です。英国ケンブリッジ（Primary、Secondary IGCSE）カリキュラムを基盤とし、スティーブン・コヴィー博士の世界的リーダーシップ教育プログラム『The Leader in Me（7つの習慣）』の公認校として、学術的優秀性と人格・道徳教育を両立させています。非営利財団による運営方針により、KL市内でも突出して良心的な学費水準（年間RM 11,700〜）を維持しており、地域コミュニティから極めて高い信頼を得ています。",
+  "establishedYear": 2001,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Kerinchi / Bangsar South",
+    "address": "12, Jalan Pantai Baru, Kerinchi, 59200 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Sri+Dasmesh+International+School"
+  },
+  "ageRange": {
+    "minAge": 5,
+    "maxAge": 17,
+    "display": "5–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Tamil"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語およびマレー語・中国語の言語指導が充実しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上をサポートするEAL補習レッスンを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Bangsar、Petaling Jaya、KL都心部、Cheras方面を結ぶスクールバスが運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにてベジタリアン＆ヘルシー給食を提供（カフェテリア都度払い・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "Leader in Meプログラム、ロボティクス、ディベート、各種スポーツ等のCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "出願、書類審査、学力アセスメントおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス理科実験室",
+    "ICTコンピュータ室",
+    "多目的スポーツホール",
+    "図書館 & メディアリソースセンター",
+    "アート＆クラフトスタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2026",
+    "tuitionMinAnnual": 11700,
+    "tuitionMaxAnnual": 13800,
+    "tuitionDisplay": "RM 11,700 – RM 13,800 / 年",
+    "registrationFee": 2000,
+    "deposit": 2500,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Key Stage 1 Tuition (Annual)",
+        "amount": 11717,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 2)",
+        "notes": "授業料、STEM教育費、Enrichment Feeを含む。"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Key Stage 2 Tuition (Annual)",
+        "amount": 11852,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 3 - Year 6)",
+        "notes": "授業料、STEM教育費、Enrichment Feeを含む。"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Key Stage 3 Tuition (Annual)",
+        "amount": 12512,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 9)",
+        "notes": "授業料、STEM教育費、Enrichment Feeを含む。"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Key Stage 4 Tuition (Annual)",
+        "amount": 13788,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 10 - Year 11 / IGCSE)",
+        "notes": "授業料、Enrichment Feeを含む。"
+      }
+    ]
+  },
+  "websiteUrl": "https://sridasmesh.edu.my/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Sri Dasmesh International School Official Fees",
+      "url": "https://sridasmesh.edu.my/fee-structure/",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09",
+  "logoUrl": "/img/schools/logos/sri-dasmesh-international-school.png",
+  "contact": {
+    "email": "admin@sridasmesh.edu.my",
+    "phone": "+603-2288 1600"
+  }
+}

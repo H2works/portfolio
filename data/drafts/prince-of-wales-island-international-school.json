@@ -1,0 +1,171 @@
+{
+  "id": "prince-of-wales-island-international-school",
+  "slug": "prince-of-wales-island-international-school",
+  "name": "Prince of Wales Island International School (POWIIS)",
+  "officialName": "Prince of Wales Island International School",
+  "shortDescription": "ペナン島屈指の名門英国式インター校。バリ・プラウの全寮制中高とタンジュン・ブンガの初等部を展開し、世界屈指の大学進学実績を誇る。",
+  "overview": "Prince of Wales Island International School（POWIIS）は、2011年に創設されたペナン州を代表する最高峰の英国式認可インターナショナルスクールです。自然豊かなバリ・プラウ（Balik Pulau）に位置する全寮制中等・高等部キャンパスと、風光明媚なタンジュン・ブンガ（Tanjung Bungah）に位置する初等部キャンパスの2拠点体制を展開。英国ケンブリッジ（IGCSEおよびA-Levels）カリキュラムを導入し、オックスフォード、ケンブリッジ、インペリアル・カレッジをはじめとする英米名門大学への圧倒的な合格実績を誇ります。充実した音楽ホール、サイエンスラボ、スポーツ設備、最高水準の寮生活を提供しています。",
+  "establishedYear": 2011,
+  "location": {
+    "country": "Malaysia",
+    "state": "Penang",
+    "city": "Balik Pulau & Tanjung Bungah",
+    "area": "Balik Pulau",
+    "address": "1 Jalan Sungai Air Putih 6, Bandar Baru Air Putih, 11000 Balik Pulau, Penang, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Prince+of+Wales+Island+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "A-Levels"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、外国人留学生向けの手厚いEAL英語補習体制を整備。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による個別EAL（English as an Additional Language）英語語学支援プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "ペナン島全域（ジョージタウン、バヤンレパス、タンジュンブンガ等）を結ぶ公式スクールバスを運行（距離に応じたゾーン別実費制）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内ダイニングホールにて専門栄養士監修の温かいランチおよび寮生向け3食を提供（アレルギー・ハラール対応）。",
+    "boardingAvailable": true,
+    "boardingDetail": "フルボーディング（通年全寮制）およびウィークリーボーディング（週5日寮制）を完備。手厚い寮監・チューターサポート。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "オーケストラ、演劇、ロボティクス、フェンシング、セーリング、各種スポーツ等の多彩な課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン出願、入学アセスメント（CAT4または英語・数学テスト）、面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "500席規模プロ仕様パフォーミングアーツ講堂",
+    "25m公式スイミングプール",
+    "マルチパーパススポーツホール（体育館）",
+    "屋外全天候型人工芝グラウンド",
+    "専門サイエンスラボ・研究室",
+    "デザイン＆テクノロジー（D&T）工房",
+    "音楽練習室・防音スタジオ",
+    "全学年対応図書情報センター",
+    "男子寮・女子寮専用レジデンス棟"
+  ],
+  "feeStructure": {
+    "currency": "MYR",
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 26220,
+    "tuitionMaxAnnual": 62970,
+    "tuitionDisplay": "RM 26,220 – RM 62,970 / 年",
+    "tuitionSummary": "初等部（タンジュン・ブンガ校）約RM 26,220〜RM 42,000/年、中高等部・Sixth Form（バリ・プラウ校）約RM 55,260〜RM 62,970/年。ボーディング費用（全寮制）別途約RM 39,600/年。※スクールバス代・給食代は利用状況により異なる付帯費用です。",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application",
+        "label": "Application / Assessment Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時選考料（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時の入学金（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 34000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 26,220〜42,000/年（タンジュン・ブンガ校）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary School & Sixth Form (Years 7–13) Tuition",
+        "amount": 59000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 55,260〜62,970/年（バリ・プラウ校）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "boarding",
+        "label": "Full Boarding Fee",
+        "amount": 39600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "notes": "バリ・プラウ校のフルボーディング（3食・生活指導込）費用"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 25000,
+      "tuitionMaxAnnual": 60000,
+      "tuitionDisplay": "RM 25,000 – RM 60,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.powiis.edu.my",
+  "contact": {
+    "email": "admissions.bp@powiis.edu.my",
+    "phone": "+60 4-868 9999"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.powiis.edu.my",
+      "title": "Prince of Wales Island International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.powiis.edu.my/wp-content/uploads/2026/02/POW_ScheduleOfFee_2602_FA_NoCrpMrks.pdf",
+      "title": "Official Schedule of Fees 2026/2027 (POWIIS)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/prince-of-wales-island-international-school.png"
+}

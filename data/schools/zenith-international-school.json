@@ -1,0 +1,150 @@
+{
+  "id": "zenith-international-school",
+  "slug": "zenith-international-school",
+  "name": "Zenith International School",
+  "officialName": "Zenith International School (Seremban)",
+  "shortDescription": "セレンバン2の中心部に位置するCambridge認定校。月謝制・オールインワンの極めて良心的な学費水準。",
+  "overview": "Zenith International School（ゼニス・インターナショナルスクール）は、ヌグリ・スンビラン州セレンバン2（Centrio Seremban 2）に位置する教育省認可の英国ケンブリッジ認定校です。幼児部から初等部（Primary）、中等部（Secondary IGCSE）までの一貫教育を提供しています。質の高い国際教育を誰もがアクセスしやすい学費で提供することを使命とし、月謝制（RM 898〜/月）にも対応した「オールインワン学費システム」を導入。英語力強化（ESL）、STEAM学習、多様なスポーツ・文化活動を通じて、自立心と国際感覚豊かな次世代のリーダーを育成しています。",
+  "establishedYear": 2012,
+  "location": {
+    "country": "Malaysia",
+    "state": "Negeri Sembilan",
+    "city": "Seremban",
+    "area": "Seremban 2",
+    "address": "126, Jalan S2 B19, Centrio Seremban 2, 70300 Seremban, Negeri Sembilan, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Zenith+International+School+Seremban"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 17,
+    "display": "4–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語および第二言語（中国語・マレー語）のサポートがあります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力を基礎から底上げする手厚いESL集中サポートを用意。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Seremban 2、Seremban市内、Sendayan、Nilai方面を結ぶスクールバス運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにてバランスのとれた給食を提供（カフェテリア都度払い・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、アート、音楽、ロボティクス、ディベート等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜3月 / Term 3: 4月〜7月）",
+    "applicationProcess": "出願、書類審査、学力診断テストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス実験室",
+    "コンピュータICT室",
+    "多目的アクティビティホール",
+    "図書室",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 10700,
+    "tuitionMaxAnnual": 21500,
+    "tuitionDisplay": "RM 10,700 – RM 21,500 / 年",
+    "applicationFee": 500,
+    "registrationFee": 3000,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 2,800 – RM 4,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜14目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "世帯あたりRM 3,000（1学期前事前通知にて返金）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Annual)",
+        "amount": 13173,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 10,781〜RM 15,570。学期納入または月納対応。"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School Tuition (Annual)",
+        "amount": 19765,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "RM 17,968〜RM 21,562。学期納入または月納対応。"
+      }
+    ]
+  },
+  "contact": {
+    "email": "admission@zenith.edu.my",
+    "phone": "+606-601 5500"
+  },
+  "websiteUrl": "https://www.zenith.edu.my/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Zenith International School Official Fee Schedule",
+      "url": "https://www.zenith.edu.my/feeschedule-allinonefee.php",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09",
+  "logoUrl": "/img/schools/logos/zenith-international-school.png"
+}

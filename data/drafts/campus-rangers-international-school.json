@@ -1,0 +1,143 @@
+{
+  "id": "campus-rangers-international-school",
+  "slug": "campus-rangers-international-school",
+  "name": "Campus Rangers International School",
+  "officialName": "Campus Rangers International School",
+  "shortDescription": "オールド・クラン・ロードに位置する少人数制Cambridge認定校。高いIGCSE学術実績と生徒一人ひとりに寄り添う丁寧な指導。",
+  "overview": "Campus Rangers International School（キャンパス・レンジャーズ・インターナショナルスクール）は、クアラルンプールのオールド・クラン・ロード（Old Klang Road）沿いにキャンパスを構える英国ケンブリッジ認定校です。2012年にIGCSE指導センターとして設立されて以来、100%のIGCSE合格率と高いストレートA取得率を誇る優れた進路実績を築き、教育省認可インターナショナルスクールへと発展しました。1クラス15〜20名程度の少人数制を徹底し、教員と生徒の距離が近い温かなアットホームな環境で、生徒一人ひとりの学力と個性を最大限に伸ばす教育を実践しています。",
+  "establishedYear": 2012,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Old Klang Road",
+    "address": "9, Jalan 2/137B, Resource Industrial Centre, Off Jalan Klang Lama, 58200 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Campus+Rangers+International+School"
+  },
+  "ageRange": {
+    "minAge": 5,
+    "maxAge": 17,
+    "display": "5–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、少人数制を生かした手厚い英語フォローが整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "少人数クラスでの手厚い英語フォローアップと個別サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Old Klang Road、Bukit Jalil、Kuchai Lama、Bangsar方面を結ぶ通学バス（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて栄養バランスのとれた給食を提供（事前注文制・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "ディベート、ロボティクス、スポーツ、音楽等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "出願、書類審査、学力診断テストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス理科実験室",
+    "コンピュータICT室",
+    "多目的アクティビティホール",
+    "図書室",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 15000,
+    "tuitionMaxAnnual": 35000,
+    "tuitionDisplay": "RM 15,000 – RM 35,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2500,
+    "deposit": 3500,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,400 – RM 5,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Tuition (Annual)",
+        "amount": 19500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 15,000〜RM 26,000。学期ごと分納。"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Tuition (Annual)",
+        "amount": 28500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "RM 21,500〜RM 35,000。学期ごと分納。"
+      }
+    ]
+  },
+  "websiteUrl": "https://campusrangers.edu.my/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Campus Rangers International School Official Admission & Fees",
+      "url": "https://www.campusrangers.edu.my/cr-admission/",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09"
+}

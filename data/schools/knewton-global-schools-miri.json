@@ -1,0 +1,198 @@
+{
+  "id": "knewton-global-schools-miri",
+  "slug": "knewton-global-schools-miri",
+  "name": "Knewton Global Schools Miri",
+  "officialName": "Knewton Global Schools Miri (Sekolah Antarabangsa Knewton Miri)",
+  "shortDescription": "サラワク州ミリ（セナディン）に位置する東マレーシア屈指の認可英国式校（旧Tenby Miri）。ケンブリッジ一貫カリキュラムと国際色豊かな教育環境。",
+  "overview": "Knewton Global Schools Miri（ニュートン・グローバル・スクールズ ミリ校）は、サラワク州ミリの緑豊かな文教エリア（Jalan Desa Senadin）に位置する認可インターナショナルスクールです。もともとTenby Schools Miriとして2011年に設立され、現在はKnewton Global Schoolsグループの基幹校として運営されています。Hornbills幼児部から初等部（Primary）、中等部（Secondary IGCSE）まで、英国ケンブリッジ国際カリキュラムを採用。多国籍な石油・エネルギー産業関係者や国内外のファミリーが集まる国際的なコミュニティを形成し、広大な専用キャンパスで質の高い学術指導と豊かな課外活動を展開しています。",
+  "establishedYear": 2011,
+  "location": {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Miri",
+    "area": "Desa Senadin",
+    "address": "Lot 10700, Block 5, Jalan Desa Senadin, Kuala Baram Land District, 98000 Miri, Sarawak, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Knewton+Global+Schools+Miri"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けのEAL語学支援体制が整備されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "専門教員による集中的な英語学習サポート（EAL: English as an Additional Language）プログラムを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "ミリ市内、Lutong、Piasau、Senadin、Tanjong Lobang等の主要住宅エリアを結ぶスクールバスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにて温かい日替わりランチやスナックを提供（注文・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、フットサル、バドミントン、パフォーミングアーツ、ロボティクス、STEM、美術など多彩な放課後アクティビティ（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、入学アセスメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "緑に囲まれた広大な専用キャンパス",
+    "屋外スイミングプール",
+    "全天候型スポーツ体育館 & バスケットボールコート",
+    "天然芝サッカーグラウンド",
+    "サイエンス物理・化学・生物実験室",
+    "コンピュータICTラボ & メディアセンター",
+    "音楽スタジオ & アートデザイン室",
+    "スクールカフェテリア",
+    "総合図書室"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 11340,
+    "tuitionMaxAnnual": 40590,
+    "tuitionDisplay": "RM 11,340 – RM 40,590 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 3500,
+    "deposit": 13530,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 2,800 – RM 4,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee (International School)",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時・アセスメント前に支払い（Pre-SchoolはRM 500・返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (International School)",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時に支払い（Pre-SchoolはRM 1,200・返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit (One Term's Fee)",
+        "amount": 13530,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "各学年の1学期分授業料に相当。所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Hornbills Pre-School (Nursery / Reception / Foundation) Tuition",
+        "amount": 11340,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Preschool",
+        "notes": "学期RM 3,780×3学期"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary: Years 1 to 2 Tuition",
+        "amount": 24870,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Years 1 - 2)",
+        "notes": "学期RM 8,290×3学期"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary: Years 3 to 6 Tuition",
+        "amount": 28980,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Years 3 - 6)",
+        "notes": "学期RM 9,660×3学期"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary: Years 7 to 9 Tuition",
+        "amount": 37215,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Years 7 - 9)",
+        "notes": "学期RM 12,405×3学期"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary: Years 10 to 11 IGCSE Tuition",
+        "amount": 40590,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Years 10 - 11)",
+        "notes": "学期RM 13,530×3学期"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 10800,
+      "tuitionMaxAnnual": 38700,
+      "tuitionDisplay": "RM 10,800 – RM 38,700 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://mir.knewton.edu.my",
+  "contact": {
+    "email": "miri@knewton.edu.my",
+    "phone": "+60 85-491 526"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://mir.knewton.edu.my",
+      "title": "Knewton Global Schools Miri Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://mir.knewton.edu.my/school-fees/",
+      "title": "Knewton Global Schools Miri Official Fee Structure",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/knewton-global-schools-miri.png"
+}

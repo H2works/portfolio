@@ -1,0 +1,218 @@
+{
+  "id": "crescendo-help-international-school",
+  "slug": "crescendo-help-international-school",
+  "name": "Crescendo-HELP International School",
+  "officialName": "Crescendo-HELP International School (CHIS)",
+  "shortDescription": "ジョホールバル（デサ・チェメルラン）に位置する定評ある英国式校。HELP教育グループのノウハウとIPC・ケンブリッジIGCSEカリキュラムを提供。",
+  "overview": "Crescendo-HELP International School (CHIS) は、名門HELP Education Groupと上場企業Crescendo Corporationの共同パートナーシップにより2017年にジョホール州ジョホールバル（Taman Desa Cemerlang）に設立されたインターナショナルスクールです。初等部では国際初等カリキュラム（IPC: International Primary Curriculum）、中等部では英国ケンブリッジ（IGCSE）を導入し、探究型の学びと学問的厳格さを融合。シンガポールやジョホールバル中心部からのアクセスも良く、近代的なスポーツ・IT教育施設を備え、良質な教育を手頃な学費水準で提供する人気校として高い評価を得ています。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Johor Bahru",
+    "area": "Taman Desa Cemerlang",
+    "address": "PTD 204446, Lebuh Cemerlang, Taman Desa Cemerlang, 81800 Ulu Tiram, Johor Bahru, Johor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Crescendo-HELP+International+School"
+  },
+  "ageRange": {
+    "minAge": 5,
+    "maxAge": 17,
+    "display": "5–17"
+  },
+  "curricula": [
+    "British",
+    "IPC",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けのEAL語学支援体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による集中的なEAL（English as an Additional Language）指導サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "ジョホールバル市内各所、Tebrau、Mount Austin、Ulu Tiram等を結ぶ通学スクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにてバランスのとれた温かい食事を提供（プリペイドカード利用・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、サッカー、バドミントン、ロボティクス、チェス、コーラス、演劇など多彩な放課後アクティビティ（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン出願、過去の成績証明書提出、英語・算数プレイスメントテストおよび面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "近代的な全館冷暖房完備キャンパス",
+    "水泳用スイミングプール",
+    "多目的インドアスポーツホール & 体育館",
+    "人工芝サッカーグラウンド",
+    "サイエンス物理・化学・生物実験室",
+    "コンピュータICTスイート & デザインテクノロジー室",
+    "音楽スタジオ & パフォーミングアーツ室",
+    "広々としたスクールカフェテリア",
+    "図書室 & リサーチメディアセンター"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 29700,
+    "tuitionMaxAnnual": 42030,
+    "tuitionDisplay": "RM 29,700 – RM 42,030 / 年（5%バーサリー適用前）",
+    "applicationFee": 250,
+    "registrationFee": 2000,
+    "deposit": 2500,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜18目安 / プリペイド利用 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 250,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary: Years 1 to 2 Tuition (Annual)",
+        "amount": 29700,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Years 1 - 2)",
+        "notes": "年間学費（5%バーサリー適用時 RM 28,215）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary: Years 3 to 4 Tuition (Annual)",
+        "amount": 31500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Years 3 - 4)",
+        "notes": "年間学費（5%バーサリー適用時 RM 29,925）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary: Years 5 to 6 Tuition (Annual)",
+        "amount": 32430,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Years 5 - 6)",
+        "notes": "年間学費（5%バーサリー適用時 RM 30,808.50）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary: Year 7 Tuition (Annual)",
+        "amount": 34020,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7)",
+        "notes": "年間学費（5%バーサリー適用時 RM 32,319）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary: Year 8 Tuition (Annual)",
+        "amount": 35580,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 8)",
+        "notes": "年間学費（5%バーサリー適用時 RM 33,801）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary: Year 9 Tuition (Annual)",
+        "amount": 40320,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 9)",
+        "notes": "年間学費（5%バーサリー適用時 RM 38,304）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary: Years 10 to 11 IGCSE Tuition (Annual)",
+        "amount": 42030,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Years 10 - 11)",
+        "notes": "年間学費（5%バーサリー適用時 RM 39,928.50）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 28300,
+      "tuitionMaxAnnual": 40000,
+      "tuitionDisplay": "RM 28,300 – RM 40,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://chis.edu.my",
+  "contact": {
+    "email": "info@chis.edu.my",
+    "phone": "+60 7-861 6788"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://chis.edu.my",
+      "title": "Crescendo-HELP International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://chis.edu.my/school-fees/",
+      "title": "Crescendo-HELP International School Official School Fees",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/crescendo-help-international-school.png"
+}

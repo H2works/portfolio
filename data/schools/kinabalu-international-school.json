@@ -1,0 +1,176 @@
+{
+  "id": "kinabalu-international-school",
+  "slug": "kinabalu-international-school",
+  "name": "Kinabalu International School (KIS)",
+  "officialName": "Kinabalu International School",
+  "shortDescription": "1973年創設・東マレーシア（サバ州）最古・最高峰の非営利名門インター校。FOBISIAおよびCIS認可の英国ケンブリッジ一貫教育。",
+  "overview": "Kinabalu International School（キナバル・インターナショナルスクール: KIS）は、1973年にサバ州コタキナバル（Bukit Padang）に設立された東マレーシア最古・屈指の歴史を誇る非営利の認可インターナショナルスクールです。英国ケンブリッジ（Early Years、Primary、Secondary IGCSE、A-Levels）カリキュラムを導入し、英国国際学校評議会（COBIS）、アジア英国系学校連盟（FOBISIA）、国際学校会議（CIS）から正式認定。非営利組織として利益をすべて教育設備・教員陣に再投資し、キナバル山の麓の自然豊かな環境で、世界30カ国以上から集まる生徒たちに国際色豊かな最高水準の教育を提供しています。",
+  "establishedYear": 1973,
+  "location": {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Kota Kinabalu",
+    "area": "Bukit Padang",
+    "address": "Off Jalan Khidmat, Bukit Padang, 88300 Kota Kinabalu, Sabah, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Kinabalu+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "A-Levels"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、手厚い個別EAL英語補習プログラムを提供。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による個別EAL（English as an Additional Language）英語語学支援プログラム（学期制）を提供。"
+  },
+  "features": {
+    "schoolBus": false,
+    "busDetail": "保護者送迎または個別手配（自家用車送迎専用レーン完備）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内Colour Meal Canteenにて栄養バランスのとれた出来立ての給食を提供（注文制・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、セーリング、クライミング、音楽、ドラマ、Model UN等の多彩な課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 8月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、入学アセスメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "25m公式スイミングプール",
+    "全天候型マルチパーパススポーツホール（体育館）",
+    "天然芝サッカーグラウンド",
+    "専門サイエンスラボ・研究室",
+    "ICT・コンピュータラボ",
+    "音楽スタジオ・防音練習室",
+    "全学年対応図書情報センター",
+    "学内カフェテリア・食堂"
+  ],
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 28500,
+      "tuitionMaxAnnual": 52000,
+      "tuitionDisplay": "RM 28,500 – RM 52,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.kis.edu.my",
+  "contact": {
+    "email": "info@kis.edu.my",
+    "phone": "+60 88 224526"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://www.kis.edu.my",
+      "title": "Kinabalu International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.kis.edu.my/kis-admissions-and-fee-policies-2026-2027-final170826/",
+      "title": "KIS Admissions and Fee Policies 2026-2027",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.kis.edu.my/wp-content/uploads/2026/08/KIS-Admissions-and-Fee-Policies-2026-2027-FINAL170826.pdf",
+      "title": "Official Admissions and Fee Policies PDF 2026-2027 (KIS)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/kinabalu-international-school.png",
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 29880,
+    "tuitionMaxAnnual": 54000,
+    "tuitionDisplay": "RM 29,880 – RM 54,000 / 年",
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,600 – RM 7,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 800,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時選考料（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2100,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学登録料（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "other",
+        "label": "School Development Fund Levy",
+        "amount": 2100,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "notes": "年間学校開発維持費（RM 700 / 学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 31500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 29,880〜33,438/年（3学期分割納入）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary & Sixth Form (Years 7–13) Tuition",
+        "amount": 46500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 38,715〜54,000/年（3学期分割納入）"
+      }
+    ]
+  }
+}

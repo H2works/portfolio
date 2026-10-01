@@ -1,0 +1,157 @@
+{
+  "id": "tzu-chi-international-school-kuala-lumpur",
+  "slug": "tzu-chi-international-school-kuala-lumpur",
+  "name": "Tzu Chi International School Kuala Lumpur",
+  "officialName": "Tzu Chi International School Kuala Lumpur (TCISKL)",
+  "shortDescription": "ブキッ・ジャリルに広大な最新キャンパスを構えるCambridge認定校。給食費込みの良心的な学費と人間性・徳育教育を重視。",
+  "overview": "Tzu Chi International School Kuala Lumpur（慈済国際学校: TCISKL）は、台湾の仏教慈善組織「慈済基金会」の教育理念に基づき、クアラルンプール南部のブキッ・ジャリル（Bukit Jalil）に設立された大規模な国際認可校です。英国ケンブリッジ国際カリキュラム（Primary、Secondary IGCSE、A-Levels）を採用し、高い学術水準とSTEAM教育、そして環境保護・礼儀・感謝の心を育む全人的な徳育教育を両立しています。年間学費には栄養バランスの取れた学内給食（ランチ）が含まれており、最新鋭の校舎・スポーツ施設・理科実験室が完備されています。",
+  "establishedYear": 2020,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Bukit Jalil",
+    "address": "No. 1, Jalan Jalil Impian 2, Bukit Jalil, 57000 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Tzu+Chi+International+School+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 18,
+    "display": "4–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語および中国語をバランスよく学べる多言語環境が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を母国語としない生徒に向けたEAL補修サポートクラスを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL都心部、Bukit Jalil、Puchong、Cheras、Sri Petaling方面を結ぶスクールバス運行（公式ゾーン別料金設定）。",
+    "lunchProvided": true,
+    "lunchDetail": "学業授業料に栄養バランスの取れたベジタリアン給食（ランチ）が含まれています。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、音楽、アート、ロボティクス等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January"
+    ],
+    "academicYearSchedule": "2学期制（Term 1: 1月〜6月 / Term 2: 7月〜11月）",
+    "applicationProcess": "オンライン出願、書類審査、学力診断テストおよび面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備の普通教室群",
+    "最新サイエンス実験室",
+    "コンピュータ・ICTラボ",
+    "屋内体育館 & バスケットボールコート",
+    "人工芝サッカーグラウンド",
+    "オリンピック規格スイミングプール",
+    "オーディトリアム（講堂）",
+    "中央図書館 & メディアセンター",
+    "スクールカフェテリア（ベジタリアンダイニング）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 13200,
+    "tuitionMaxAnnual": 27700,
+    "tuitionDisplay": "RM 13,200 – RM 27,700 / 年",
+    "applicationFee": 300,
+    "registrationFee": 2000,
+    "deposit": 4500,
+    "busFeeEstimate": "公式ゾーン料金: 約RM 3,600 – RM 6,000 / 年（距離・エリアにより変動）",
+    "lunchFeeEstimate": "授業料に含む（栄養バランスに配慮した給食を全生徒に提供）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 300,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "願書出願時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 4500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "学年によりRM 3,300〜RM 6,300（退学時返金規定あり）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 13200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years (Nursery, Reception)",
+        "notes": "年2回分納。給食費を含む。"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Tuition (Annual)",
+        "amount": 18400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 15,300〜RM 20,300。年2回分納。給食費を含む。"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Tuition (Annual)",
+        "amount": 25200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "RM 22,700〜RM 27,700。年2回分納。給食費を含む。"
+      }
+    ]
+  },
+  "websiteUrl": "https://www.tzuchi.edu.my/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Tzu Chi International School KL Official Fees",
+      "url": "https://www.tzuchi.edu.my/education/schoolfeesmy.html",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09"
+}

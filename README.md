@@ -15,7 +15,7 @@ H2works のポートフォリオサイトです。**Next.js (App Router)** + **T
 ## Side Projects
 
 - [International School Finder](/school)
-- [casinoasobi](https://casinoasobi.h2works.xyz/)
+- [casinoasobi](https://casinoasobi.com/)
 - [Template Library](https://template-library.h2works.xyz/)
 - [Domain Tools](https://domain-tools.h2works.xyz/)
 - [News Archive](https://news-archive.h2works.xyz/)

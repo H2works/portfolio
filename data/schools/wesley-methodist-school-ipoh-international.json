@@ -1,0 +1,161 @@
+{
+  "id": "wesley-methodist-school-ipoh-international",
+  "slug": "wesley-methodist-school-ipoh-international",
+  "name": "Wesley Methodist School Ipoh (International)",
+  "officialName": "Wesley Methodist School Ipoh (International)",
+  "shortDescription": "ペラ州イポーに位置する歴史あるメソジストグループの認可インター校。確かな英国ケンブリッジ一貫教育ときめ細やかな人格徳育指導。",
+  "overview": "Wesley Methodist School Ipoh (International)（ウェスリー・メソジスト・スクール・イポー・インターナショナル: WMSII）は、1895年の伝統校に起源を持つ名門メソジスト教育グループがペラ州イポー市シリビン（Silibin）で運営する認可インターナショナルスクールです。英国ケンブリッジ（Early Years、Primary、Secondary IGCSE）カリキュラムを導入し、クアラルンプール本校（WMSKL）と同様に卓越した学業成績とキリスト教精神に基づく厳格なモラル・人格育成を両立。良心的な学費設定と温かな教育環境により、地元コミュニティおよび留学生から厚い信頼を得ています。",
+  "establishedYear": 2013,
+  "location": {
+    "country": "Malaysia",
+    "state": "Perak",
+    "city": "Ipoh",
+    "area": "Silibin",
+    "address": "1, Jalan Silibin, 30100 Ipoh, Perak, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Wesley+Methodist+School+Ipoh+International"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 17,
+    "display": "4–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語初級者向けの親身な補習指導を実施。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による個別EAL（English as an Additional Language）英語支援を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "イポー市内および近郊エリアを結ぶ通学バスを運行（距離に応じたゾーン別実費制）。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・清潔な学内カフェテリアにてバランスのとれた給食を提供（注文制・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "バドミントン、バスケットボール、聖歌隊、ロボティクス、チェス等の多彩な課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "願書出願、入学アセスメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備マルチパーパス講堂",
+    "全天候型スポーツコート",
+    "専門サイエンスラボ・研究室",
+    "コンピュータ・ITラボ",
+    "音楽スタジオ・アートルーム",
+    "図書情報センター",
+    "学内カフェテリア・ダイニングホール"
+  ],
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 10500,
+      "tuitionMaxAnnual": 19500,
+      "tuitionDisplay": "RM 10,500 – RM 19,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://ipoh.wms.edu.my",
+  "contact": {
+    "email": "info@iph.wms.edu.my",
+    "phone": "+60 5-254 5122"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://ipoh.wms.edu.my",
+      "title": "Wesley Methodist School Ipoh (International) Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://ipoh.wms.edu.my/fee-structure/",
+      "title": "WMS Ipoh Fee Structure",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "http://ipoh.wms.edu.my/wp-content/uploads/2025/10/Fees-Non-Malaysian-latest.pdf",
+      "title": "Official Fees Structure Non-Malaysian (WMSII)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-09",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/wesley-methodist-school-ipoh-international.png",
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 11100,
+    "tuitionMaxAnnual": 20190,
+    "tuitionDisplay": "RM 11,100 – RM 20,190 / 年",
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,600 – RM 7,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜20目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 300,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時選考料（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学登録料（留学生料金、返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 13350,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 11,100〜15,600/年（3学期分割納入）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 18500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 16,800〜20,190/年（3学期分割納入）"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "fairview-international-school-penang",
+  "slug": "fairview-international-school-penang",
+  "name": "Fairview International School Penang",
+  "officialName": "Fairview International School Penang (FISP)",
+  "shortDescription": "ペナン島ブキッ・ジャンブルの緑豊かな丘に位置するIB World School。初等（PYP）および中等（MYP）の国際バカロレア一貫教育。",
+  "overview": "Fairview International School Penang（フェアビュー・インターナショナルスクール: ペナン校）は、ペナン州バヤン・レパス近郊の緑豊かな丘陵地帯「Bukit Jambul」にキャンパスを構える国際バカロレア（IB）公認の国際認可校です。マレーシア国内で最大のIBネットワークを誇るFairviewグループの一角として、初等教育（IB PYP）および中等教育（IB MYP）を提供。自然と調和した学習環境の中で、探究主導型の深い学びと多文化理解、国際的視野を養います。ペナン島内の国際空港や主要フリー工業地帯（FTZ）からのアクセスも良好で、多国籍企業のエクスパットファミリーから広く選ばれています。",
+  "establishedYear": 2007,
+  "location": {
+    "country": "Malaysia",
+    "state": "Penang",
+    "city": "Bayan Lepas",
+    "area": "Bukit Jambul",
+    "address": "Tingkat Bukit Jambul 1, Bukit Jambul, 11900 Bayan Lepas, Penang, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Fairview+International+School+Penang"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 16,
+    "display": "3–16"
+  },
+  "curricula": [
+    "IB"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語および第二言語（中国語等）の指導環境が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を母国語としない生徒に向けたEAL集中語学サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "George Town、Tanjung Bungah、Bayan Lepas、Gelugor各方面を結ぶスクールバス運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて栄養バランスのとれた給食を提供（カフェテリア都度払い・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、音楽、アート、ロボティクス等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "2学期制（Term 1: 8月〜12月 / Term 2: 1月〜6月）"
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "最新サイエンス実験室",
+    "コンピュータICT室",
+    "屋内体育スペース",
+    "多目的ホール",
+    "図書館 & メディアリソースセンター",
+    "アート＆音楽スタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 24000,
+    "tuitionMaxAnnual": 55000,
+    "tuitionDisplay": "RM 24,000 – RM 55,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 5000,
+    "deposit": 8000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 8000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 24000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "学期納入（年2期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Tuition / IB PYP (Annual)",
+        "amount": 38000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - Grade 6)",
+        "notes": "RM 28,000〜RM 44,000。学期納入（年2期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Middle Years Tuition / IB MYP (Annual)",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Grade 7 - Grade 11)",
+        "notes": "RM 46,000〜RM 55,000。学期納入（年2期）"
+      }
+    ]
+  },
+  "contact": {
+    "email": "enquiries.penang@fairview.edu.my",
+    "phone": "+604-640 6633"
+  },
+  "websiteUrl": "https://fairview.edu.my/our-campuses/location-penang/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Fairview International School Penang Admission & Fees",
+      "url": "https://fairview.edu.my/school-admission/admission-information/#penang",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09",
+  "logoUrl": "/img/schools/logos/fairview-international-school-penang.png"
+}

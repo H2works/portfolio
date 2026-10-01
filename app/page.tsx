@@ -68,7 +68,7 @@ export default function Home() {
           </div>
           <div className="flex-grow-1">
             <h3 className="h5">
-              <a href="https://casinoasobi.h2works.xyz/" className={`${darkMode ? 'link-light' : 'link-dark'} link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-100-hover link-underline-dark`} target="_blank" rel="noopener noreferrer">
+              <a href="https://casinoasobi.com/" className={`${darkMode ? 'link-light' : 'link-dark'} link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-100-hover link-underline-dark`} target="_blank" rel="noopener noreferrer">
                 casinoasobi
               </a>
             </h3>

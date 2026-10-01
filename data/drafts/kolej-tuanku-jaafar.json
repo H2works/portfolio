@@ -1,0 +1,221 @@
+{
+  "id": "kolej-tuanku-jaafar",
+  "slug": "kolej-tuanku-jaafar",
+  "name": "Kolej Tuanku Ja'afar",
+  "officialName": "Kolej Tuanku Ja'afar (KTJ)",
+  "shortDescription": "森美蘭州マンティンに80エーカーの広大なキャンパスを構えるマレーシア屈指の名門英国式ボーディングスクール。オックスブリッジ等の世界トップ大学進学実績多数。",
+  "overview": "1991年に創立されたKolej Tuanku Ja'afar (KTJ) は、森美蘭州マンティン（クアラルンプールから南へ約1時間）の緑豊かな丘陵地に80エーカーの広大な専用キャンパスを有する、マレーシアを代表する共学英国式ボーディング＆デイスクールです。森美蘭州王室メンバーらによって設立され、名門パブリックスクールの伝統と教育水準を受け継いでいます。幼児部・初等部（Early Years〜Year 6）および中等部・シックスフォーム（Year 7〜Year 13 / A-Levels）までの一貫教育を提供し、オックスフォード、ケンブリッジ、インペリアル・カレッジをはじめとする英米トップ大学への抜群の進学実績を誇ります。広大なスポーツ施設、音楽・芸術設備、そして充実した寮生活を通じた全人教育が最大の特徴です。",
+  "establishedYear": 1991,
+  "location": {
+    "country": "Malaysia",
+    "state": "Negeri Sembilan",
+    "city": "Mantin",
+    "area": "Mantin",
+    "address": "Kolej Tuanku Ja'afar, 71700 Mantin, Negeri Sembilan, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Kolej+Tuanku+Jaafar"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 19,
+    "display": "3–19"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "A-Levels"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、留学生向けのきめ細やかなEAL（英語追加指導）サポートプログラムが整備されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "専門教員による集中的な英語学習サポート（EAL: English as an Additional Language）プログラムが整備されています。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "クアラルンプール都心部、セランゴール州主要エリア（バンサー、モントキアラ、スバン等）およびスレンバン方面からの通学用スクールバスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "全生徒向けに栄養士監修のホットミールを提供（Primaryは朝のスナックと昼食、Secondaryは朝食・昼食・アフタヌーンティー・夕食が利用可能で授業料に含まれる）。",
+    "boardingAvailable": true,
+    "boardingDetail": "Year 7以上の生徒を対象にフルボーディング（全寮制）およびウィークリーボーディングを提供。ハウスマスター/ハウスミストレス常駐。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、音楽、ディベート、モデル国連、STEM、各種文化クラブなど100種類以上のアフタースクール・コカリキュラー活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "オンライン願書提出、過去の学業成績証明書・推薦状の提出、入学アセスメント試験（英語・数学・CAT4等）および面談を経て合格通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "80エーカーの広大な専用グリーンキャンパス",
+    "ラグビー・サッカー専用天然芝ピッチ群 & 全天候型陸上トラック",
+    "屋内マルチスポーツコンプレックス & 体育館",
+    "水泳用25m競泳プール",
+    "スカッシュコート & テニスコート群",
+    "最先端サイエンス・ラボラトリー群 & ICTスイート",
+    "パフォーミングアーツ・オーディトリアム（大劇場）",
+    "男子寮・女子寮専用ボーディングハウス群",
+    "セントラルダイニングホール（カフェテリア）"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 23520,
+    "tuitionMaxAnnual": 92637,
+    "tuitionDisplay": "RM 23,520 – RM 92,637 / 年（Day生）",
+    "applicationFee": 500,
+    "registrationFee": 5000,
+    "deposit": 25000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 4,200 – RM 7,500 / 年）",
+    "lunchFeeEstimate": "授業料に含む（Primary: モーニングスナック＆昼食 / Secondary: 朝食・昼食・夕食込）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Registration Fee (Upon Application)",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Admittance Fee (Upon Offer)",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "合格受諾時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Refundable Deposit (Secondary)",
+        "amount": 25000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "中高等部1学期分のデポジット。所定の退学通知手続きにより返金対象（Primaryは1学期分・上限RM 13,000）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary: Early Years Tuition (Annual)",
+        "amount": 23520,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years (Nursery / Reception)",
+        "notes": "学期RM 7,840×3学期。昼食・教材費等込"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary: Years 1 and 2 Tuition (Annual)",
+        "amount": 40560,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Years 1 - 2)",
+        "notes": "学期RM 13,520×3学期。昼食・教材費等込"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary: Years 3 and 4 Tuition (Annual)",
+        "amount": 47415,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Years 3 - 4)",
+        "notes": "学期RM 15,805×3学期。年1回の宿泊体験旅行を含む"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary: Years 5 and 6 Tuition (Annual)",
+        "amount": 55275,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Years 5 - 6)",
+        "notes": "学期RM 18,425×3学期。年1回の宿泊体験旅行を含む"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary: Years 7 and 8 Day Tuition (Annual)",
+        "amount": 85752,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Years 7 - 8)",
+        "notes": "学期RM 28,584×3学期（Day生）。全食事・年1回の宿泊体験旅行を含む"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary: Years 9 to 11 IGCSE Day Tuition (Annual)",
+        "amount": 89892,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Years 9 - 11)",
+        "notes": "学期RM 29,964×3学期（Day生）。全食事込"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Sixth Form: Years 12 and 13 A-Levels Day Tuition (Annual)",
+        "amount": 92637,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Years 12 - 13)",
+        "notes": "学期RM 30,879×3学期（Day生）。全食事込（※Boarding生は寮費込RM 135,765/年）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 22400,
+      "tuitionMaxAnnual": 88200,
+      "tuitionDisplay": "RM 22,400 – RM 88,200 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.ktj.edu.my",
+  "contact": {
+    "email": "registrar@ktj.edu.my",
+    "phone": "+60 6-850 5555"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://www.ktj.edu.my",
+      "title": "Kolej Tuanku Ja'afar Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.ktj.edu.my/admissions/fees",
+      "title": "Kolej Tuanku Ja'afar Official Term Fees Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/kolej-tuanku-jaafar.png"
+}

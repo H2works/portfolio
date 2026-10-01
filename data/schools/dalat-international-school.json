@@ -1,0 +1,237 @@
+{
+  "id": "dalat-international-school",
+  "slug": "dalat-international-school",
+  "name": "Dalat International School",
+  "officialName": "Dalat International School",
+  "shortDescription": "ペナン島タンジュンブンガの美しい海岸沿いに位置する1929年創立の老舗米国式ボーディングスクール。キリスト教的精神に基づく全人教育と高い大学進学実績。",
+  "overview": "Dalat International School（ダラット・インターナショナルスクール）は、1929年にベトナムのダラットで設立され、1965年にマレーシアのペナン島へ移転した、東南アジア屈指の長い歴史を誇るキリスト教系インターナショナルスクールです。タンジュンブンガの海を見渡す絶好のロケーションに位置し、幼児教育（Pre-School）から高校（Grade 12）まで、米国式カリキュラムおよびアドバンスト・プレイスメント（APプログラム）を提供しています。少人数制の手厚い指導、温かい家族的な寮生活、充実したスポーツ・芸術活動が魅力で、アメリカをはじめとする世界各国の大学への進学準備教育において高い評価を得ています。",
+  "establishedYear": 1929,
+  "location": {
+    "country": "Malaysia",
+    "state": "Penang",
+    "city": "Tanjung Bunga",
+    "area": "Tanjung Bunga",
+    "address": "Tanjung Bunga, 11200 Penang, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Dalat+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "American",
+    "AP"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Kindergarten",
+    "Elementary",
+    "Middle School",
+    "High School"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けの集中EALサポート体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による集中的なEAL（English as an Additional Language）プログラムを提供（学年別サポート枠あり）。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "タンジュンブンガ、ジョージタウン、バトゥフェリンギ等、ペナン島内各エリアを結ぶ通学バス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "キャンパス内のギャレー（カフェテリア）にて栄養バランスの整った温かいランチ・モーニングスナックを提供（選択制・年間プランあり）。",
+    "boardingAvailable": true,
+    "boardingDetail": "中高等部生徒を対象にキャンパス内の寮にてボーディング（Room & Board）を提供（専任スタッフによるファミリーライクな管理）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "多彩なスポーツ競技（バスケ、バレー、サッカー、陸上）、パフォーミングアーツ、ロボティクス、奉仕活動などの放課後課外活動。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "2学期制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
+    "applicationProcess": "オンライン出願、過去の成績証明書提出、プレイスメントテスト（Kindergarten〜Grade 12）および面談。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "オーシャンフロント・ビーチアクセス専用キャンパス",
+    "屋外競泳プール",
+    "フルサイズ体育館 & インドアスポーツコート",
+    "サッカー場 & 屋外スポーツグラウンド",
+    "サイエンスラボ & コンピュータ・テクノロジーラボ",
+    "パフォーミングアーツホール & 音楽練習室",
+    "総合図書室 & メディアセンター",
+    "スクールギャレー（カフェテリア）",
+    "学生寮（ボーディングハウス）"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 22000,
+    "tuitionMaxAnnual": 59000,
+    "tuitionDisplay": "RM 22,000 – RM 59,000 / 年（Day生）",
+    "applicationFee": 800,
+    "registrationFee": 5000,
+    "deposit": 1500,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,800 / 年）",
+    "lunchFeeEstimate": "年間ランチプラン: Grade K–4 RM 1,980 / 年、Grade 5–12 RM 2,430 / 年（選択制）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 800,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "other",
+        "label": "Placement Test Fee (Kindergarten to Grade 12)",
+        "amount": 300,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学選考テスト費用（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (Grades 1 to 12)",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時に支払い（Pre-School/KindergartenはRM 2,000）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Position Holding Deposit",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "在籍保証デポジット。所定の期日までに退学通知を行った場合に返金"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Pre-School 3-4 Tuition (Annual)",
+        "amount": 22000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Pre-School",
+        "notes": "学期RM 11,000×2学期"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Kindergarten Tuition (Annual)",
+        "amount": 27000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten",
+        "notes": "学期RM 13,500×2学期"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Elementary: Grades 1 to 2 Tuition (Annual)",
+        "amount": 31800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Grades 1 - 2",
+        "notes": "学期RM 15,900×2学期"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Elementary: Grades 3 to 4 Tuition (Annual)",
+        "amount": 42000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Grades 3 - 4",
+        "notes": "学期RM 21,000×2学期"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Middle School: Grades 5 to 6 Tuition (Annual)",
+        "amount": 51500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Grades 5 - 6",
+        "notes": "学期RM 25,750×2学期"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Middle School: Grades 7 to 8 Tuition (Annual)",
+        "amount": 57200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Grades 7 - 8",
+        "notes": "学期RM 28,600×2学期"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "High School: Grades 9 to 12 Tuition (Annual)",
+        "amount": 59000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "High School (Grades 9 - 12)",
+        "notes": "学期RM 29,500×2学期（※Boarding生は寮費 RM 45,200/年が別途加算）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 21000,
+      "tuitionMaxAnnual": 57200,
+      "tuitionDisplay": "RM 21,000 – RM 57,200 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.dalat.org",
+  "contact": {
+    "email": "admissions@dalat.org",
+    "phone": "+60 4-375 1100"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://www.dalat.org",
+      "title": "Dalat International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.dalat.org/admissions/fee-structure",
+      "title": "Dalat International School Official Fee Structure",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://resources.finalsite.net/images/v1770702818/dalatorg/of3jobijtb7cudkiuscc/AdmissionsGuideUpdated2025_compressed.pdf",
+      "title": "Dalat Admissions Guide PDF",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/dalat-international-school.png"
+}

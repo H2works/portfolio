@@ -1,0 +1,163 @@
+{
+  "id": "idrissi-international-school-educity",
+  "slug": "idrissi-international-school-educity",
+  "name": "IDRISSI International School EduCity",
+  "officialName": "IDRISSI International School EduCity (Johor)",
+  "shortDescription": "ジョホール州EduCityに位置する自然共生型エコ・Cambridge認定校。イスラム徳育と充実したボーディング設備。",
+  "overview": "IDRISSI International School EduCity（イドリッシ・インターナショナルスクール: エデュシティ校）は、ジョホール州イスカンダル・プテリの国際教育都市「EduCity」に2022年に開校した、エコ・自然共生型（Nature-based）の国際認可校です。セランゴール州セティア・アラム本校の教育モデルを受け継ぎ、英国ケンブリッジ国際カリキュラム（Preschool、Primary、Secondary IGCSE）とイスラムの道徳・価値観教育を高度に統合。広大なEduCityスポーツスタジアムや複合教育施設と連携し、ボーディング（学生寮）も完備。持続可能性（Sustainability）と高い学力を兼ね備えた教育を実践しています。",
+  "establishedYear": 2022,
+  "location": {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Iskandar Puteri",
+    "area": "EduCity",
+    "address": "Block A, EduCity Complex 2, Persiaran Canselor 1, EduCity Iskandar, 79200 Iskandar Puteri, Johor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=IDRISSI+International+School+EduCity"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Arabic",
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語・アラビア語等の多言語環境が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語集中語学サポートプログラム（ELL）を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Iskandar Puteri、Johor Bahru市内、Medini方面を結ぶ通学バス運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにてオーガニック＆ハラール対応給食を提供（注文制・持参可）。",
+    "boardingAvailable": true,
+    "boardingDetail": "安全でアットホームな学生寮（ボーディング）設備を完備。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "アーチェリー、乗馬、エコファーミング、ロボティクス等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "出願、書類選考、診断テストおよび面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "最新サイエンス実験室",
+    "ITコンピュータ室",
+    "エコファーム & 屋外環境学習エリア",
+    "多目的アクティビティホール",
+    "図書館 & リソースセンター",
+    "EduCity提携スポーツ複合施設",
+    "スクールカフェテリア",
+    "学生寮（ボーディング）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 16000,
+    "tuitionMaxAnnual": 36000,
+    "tuitionDisplay": "RM 16,000 – RM 36,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 3000,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Preschool Tuition (Annual)",
+        "amount": 16000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Annual)",
+        "amount": 25000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 20,000〜RM 29,000。学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School Tuition (Annual)",
+        "amount": 33000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "RM 29,000〜RM 36,000。学期納入（年3期）"
+      }
+    ]
+  },
+  "contact": {
+    "email": "enquiry.johor@idrissischool.edu.my",
+    "phone": "+607-595 0700"
+  },
+  "websiteUrl": "https://www.idrissischool.edu.my/johorbahru/international-school-in-johor/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "IDRISSI International School EduCity Official Portal",
+      "url": "https://www.idrissischool.edu.my/johorbahru/international-school-in-johor/",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09",
+  "logoUrl": "/img/schools/logos/idrissi-international-school-educity.png"
+}

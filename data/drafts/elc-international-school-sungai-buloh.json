@@ -1,0 +1,162 @@
+{
+  "id": "elc-international-school-sungai-buloh",
+  "slug": "elc-international-school-sungai-buloh",
+  "name": "elc International School",
+  "officialName": "elc International School (Sungai Buloh Campus)",
+  "shortDescription": "1987年創設、マレーシア屈指の名門老舗インター校。シエラマスの美しいキャンパスで伝統ある英国式教育と高い学術実績を誇る。",
+  "overview": "elc International School（イー・エル・シー・インターナショナルスクール: スンガイ・ブロ校）は、セランゴール州スンガイ・ブロの高級ゲーテッドコミュニティ「Sierramas」に広大なキャンパスを構える、マレーシア屈指の歴史を誇る名門英国式校（1987年創設）です。校名の由来である「Excellence in Loyalty and Courtesy（誠実と礼儀の卓越）」を教育理念に掲げ、英国ナショナルカリキュラムおよびケンブリッジ（IGCSE）に基づく厳格で質の高い学術指導を実践。毎年のIGCSE試験で世界トップクラスの成績（Outstanding Cambridge Learner Awards等）を多数輩出しており、高い品格と学力を育む伝統校として国内外から極めて高い名声を誇ります。",
+  "establishedYear": 1987,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Sungai Buloh",
+    "area": "Sierramas",
+    "address": "Jalan Sierramas Barat, Sierramas, 47000 Sungai Buloh, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=elc+International+School+Sungai+Buloh"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語および多彩な第二言語指導が充実しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "入学校水準に合わせた基礎英語力強化および語学サポートを用意。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Kota Damansara、Mont Kiara、Petaling Jaya、Sungai Buloh方面を結ぶ通学バス運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内ダイニングにて衛生管理の徹底された給食を提供（注文制・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、音楽、演劇、科学、ディベート等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "出願、書類審査、学力診断テストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備の普通教室群",
+    "最新サイエンス実験棟（物理・化学・生物）",
+    "ICTコンピュータ室",
+    "スイミングプール",
+    "屋内スポーツホール & バスケットボールコート",
+    "広大な天然芝サッカーグラウンド",
+    "大型図書館 & メディアセンター",
+    "アート＆音楽スタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 18000,
+    "tuitionMaxAnnual": 51000,
+    "tuitionDisplay": "RM 18,000 – RM 51,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 750,
+    "deposit": 8000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,600 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 750,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 8000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分の授業料相当（退学時返金規定あり）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 19500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Annual)",
+        "amount": 31500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 24,000〜RM 39,000。学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School Tuition (Annual)",
+        "amount": 46500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "RM 42,000〜RM 51,000。学期納入（年3期）"
+      }
+    ]
+  },
+  "contact": {
+    "email": "admissions_sb@elc.edu.my",
+    "phone": "+603-6156 5001"
+  },
+  "websiteUrl": "https://www.elc.edu.my/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "elc International School Official Fee Structure",
+      "url": "https://www.elc.edu.my/fee-structure/",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09"
+}

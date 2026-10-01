@@ -1,0 +1,157 @@
+{
+  "id": "spectrum-international-school",
+  "slug": "spectrum-international-school",
+  "name": "Spectrum International School",
+  "officialName": "Spectrum International School (Putrajaya / Seri Kembangan)",
+  "shortDescription": "プトラジャヤ近郊に位置するCambridge認定校。現代的STEAM教育と確かなイスラム価値観教育を融合。",
+  "overview": "Spectrum International School（スペクトラム・インターナショナルスクール: Spectrum IIS）は、セランゴール州スリ・クンバンガン（Seri Kembangan: プトラジャヤ近郊）にキャンパスを構える英国ケンブリッジ認定校です。幼児教育（Early Childhood）から初等・中等（IGCSE）までの一貫教育を提供し、英国式カリキュラムに沿った高水準な学術指導に加え、実践型STEAM教育やコーディング、そして普遍的なイスラムの道徳観・人格教育を融合させています。世界各国からの留学生を受け入れる多国籍なコミュニティが形成されています。",
+  "establishedYear": 2013,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Seri Kembangan",
+    "area": "Seri Kembangan / Putrajaya",
+    "address": "No 2, Jalan Makmur 1, Taman Makmur, 43300 Seri Kembangan, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Spectrum+International+School+Putrajaya"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Arabic",
+      "Malay",
+      "Mandarin"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語・アラビア語等の手厚い言語サポート体制があります。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を母国語としない生徒のためのEAL集中補習クラスを用意。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Putrajaya、Cyberjaya、Seri Kembangan、Kajang方面を結ぶ通学バスを運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて栄養バランスのとれたハラール給食を提供（カフェテリア都度払い・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "STEAMクラブ、コーディング、ロボティクス、アーチェリー、フットサル等のCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 5月〜7月）",
+    "applicationProcess": "願書提出、書類選考、診断テストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備の普通教室群",
+    "サイエンス理科実験室",
+    "コンピュータICTラボ & STEAMルーム",
+    "屋内体育スペース",
+    "屋外スポーツグラウンド",
+    "図書館 & リソースセンター",
+    "プレイルーム",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 14100,
+    "tuitionMaxAnnual": 33250,
+    "tuitionDisplay": "RM 14,100 – RM 33,250 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2500,
+    "deposit": 4000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,600 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "学年によりRM 4,000〜RM 8,000（退学時返金規定あり）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 14100,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Annual)",
+        "amount": 22500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 18,000〜RM 25,000。学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School Tuition (Annual)",
+        "amount": 30000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "RM 26,000〜RM 33,250。学期納入（年3期）"
+      }
+    ]
+  },
+  "websiteUrl": "https://spectrumiis.edu.my/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Spectrum International School Official Fee Structure",
+      "url": "https://spectrumiis.edu.my/fee-structure/",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09"
+}

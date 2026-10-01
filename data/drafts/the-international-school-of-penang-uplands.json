@@ -1,0 +1,222 @@
+{
+  "id": "the-international-school-of-penang-uplands",
+  "slug": "the-international-school-of-penang-uplands",
+  "name": "The International School of Penang (Uplands)",
+  "officialName": "The International School of Penang (Uplands)",
+  "shortDescription": "ペナン島バトゥフェリンギの風光明媚な地に位置する1955年創立の名門非営利校。国際バカロレア（IB PYP & DP）とケンブリッジIGCSEを融合した国際教育。",
+  "overview": "The International School of Penang (Uplands) は、1955年に設立されたペナン州で最も歴史ある非営利のインターナショナルスクールです。バトゥフェリンギの丘陵と海に面した緑豊かなキャンパスで、Reception（4歳）からYear 13（18歳）までの生徒を対象に世界標準の教育を提供しています。初等部では国際バカロレア初等教育プログラム（IB PYP）、中等部では英国ケンブリッジ（IGCSE）、高等部では国際バカロレア・ディプロマ（IB DP）を採用。多国籍でオープンなスクールコミュニティのもと、学術的な探究力と全人教育を重視し、世界各国の名門大学への進学実績を築いています。",
+  "establishedYear": 1955,
+  "location": {
+    "country": "Malaysia",
+    "state": "Penang",
+    "city": "Batu Ferringhi",
+    "area": "Batu Ferringhi",
+    "address": "Jalan Sungai Satu, 11100 Batu Ferringhi, Penang, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=The+International+School+of+Penang+(Uplands)"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 18,
+    "display": "4–18"
+  },
+  "curricula": [
+    "IB",
+    "IB PYP",
+    "Cambridge",
+    "IB DP"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish",
+      "French",
+      "German"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けのEAL語学支援体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "専門教員による集中的な英語学習サポート（EAL: English as an Additional Language）プログラムが整備されています。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "ペナン島内広域（バトゥフェリンギ、タンジュンブンガ、ジョージタウン、バヤンレパス方面等）を結ぶスクールバス運行あり。",
+    "lunchProvided": true,
+    "lunchDetail": "キャンパス内のカフェテリアにて温かい日替わりランチ・スナックを提供（プリペイドカード利用・お弁当持参可）。",
+    "boardingAvailable": true,
+    "boardingDetail": "Year 7以上の生徒を対象にスクール近隣のボーディングハウスにてボーディング（全寮制・週寮制）を提供。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、セーリング、各種スポーツ、音楽、演劇、ロボティクス、環境保護クラブ等多彩な放課後アクティビティ（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（2回分納: August & December）",
+    "applicationProcess": "オンライン出願、過去の成績証明書提出、英語・学力アセスメントテストおよび面談。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "25mスイミングプール",
+    "フルサイズ人工芝アストロターフ・サッカーグラウンド",
+    "多目的インドアスポーツホール & 体育館",
+    "パフォーミングアーツ劇場 & ドラマスタジオ",
+    "最新サイエンス実験室 & デザインテクノロジー室",
+    "初等部・中等部専用図書館",
+    "屋外クライミングウォール & プレイグラウンド",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 26000,
+    "tuitionMaxAnnual": 74400,
+    "tuitionDisplay": "RM 26,000 – RM 74,400 / 年",
+    "applicationFee": 800,
+    "registrationFee": 7000,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 14〜20目安 / プリペイド利用 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee (Primary / Secondary)",
+        "amount": 800,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時に支払い（Primary: RM 800 / Secondary: RM 848・返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Entrance Fee",
+        "amount": 7000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Enrolment Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Early Years: Reception Tuition (Annual)",
+        "amount": 26000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Reception",
+        "notes": "年2回分納。早期納入割引制度あり"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary: Year 1 Tuition (Annual)",
+        "amount": 31800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1)",
+        "notes": "年2回分納"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary: Year 2 Tuition (Annual)",
+        "amount": 39000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 2)",
+        "notes": "年2回分納"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary: Years 3 to 4 Tuition (Annual)",
+        "amount": 46400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Years 3 - 4)",
+        "notes": "年2回分納"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary: Years 5 to 6 Tuition (Annual)",
+        "amount": 55600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Years 5 - 6)",
+        "notes": "年2回分納"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary: Years 7 to 11 IGCSE Tuition (Annual)",
+        "amount": 71400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Years 7 - 11)",
+        "notes": "年2回分納（※6% SST対象学年）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Sixth Form: Years 12 to 13 IB Diploma Tuition (Annual)",
+        "amount": 74400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Years 12 - 13)",
+        "notes": "年2回分納（※6% SST対象学年）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 24800,
+      "tuitionMaxAnnual": 70800,
+      "tuitionDisplay": "RM 24,800 – RM 70,800 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.uplands.org",
+  "contact": {
+    "email": "admissions@uplands.org",
+    "phone": "+60 4-881 9777"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://www.uplands.org",
+      "title": "The International School of Penang (Uplands) Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.uplands.org/school-fees",
+      "title": "The International School of Penang (Uplands) Official Fee Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/the-international-school-of-penang-uplands.png"
+}

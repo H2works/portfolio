@@ -1,0 +1,200 @@
+{
+  "id": "raffles-american-school",
+  "slug": "raffles-american-school",
+  "name": "Raffles American School",
+  "officialName": "Raffles American School (RAS)",
+  "shortDescription": "ジョホール州イスカンダルプテリに46エーカーの広大な最新鋭キャンパスを擁するフルアメリカン・ボーディングスクール。全日制給食付きで手厚いケアを提供。",
+  "overview": "Raffles American School (RAS) は、シンガポール国境に近いジョホール州イスカンダルプテリの46エーカーに及ぶ広大な傾斜地に位置する、プレK（3歳）から高校（Grade 12）までの一貫アメリカンスクールです。米国の教育基準（Common Core）に準拠した総合的なカリキュラムと、高校でのアドバンスト・プレイスメント（APコース）を提供。全米西部学校大学協会（WASC）の認定校であり、最新のプラネタリウム、オリンピック規格プール、パフォーミングアーツセンターなどマレーシア屈指の設備を誇ります。授業料にモーニングスナック、温かい昼食、放課後スナックが含まれており、デイ生・寮生ともにきめ細やかな学習環境が整っています。",
+  "establishedYear": 2012,
+  "location": {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Iskandar Puteri",
+    "area": "Kota Iskandar",
+    "address": "Jalan Raffles, 79050 Iskandar Puteri, Johor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Raffles+American+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "American",
+    "AP"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Kindergarten",
+    "Elementary",
+    "Middle School",
+    "High School"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Spanish"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任スタッフはいませんが、英語非母語者のための手厚いEAL（英語指導）体制が完備されています。",
+    "ellSupport": true,
+    "ellSupportDetail": "専門教員による集中的な英語学習サポート（ELL/EALプログラム）が整備されています。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "イスカンダルプテリ、ジョホールバル市内各所およびシンガポールからの国境越え通学バスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "授業料にモーニングスナック、温かいビュッフェランチ、放課後スナックの全食事代が含まれています。",
+    "boardingAvailable": true,
+    "boardingDetail": "Grade 5以上の生徒を対象にキャンパス内の最新ボーディングハウスにてボーディング（寮生活）を提供（セナイ空港送迎対応）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、テニス、バスケットボール、演劇、ロボティクス、ディベートなど多彩なコカリキュラー活動（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "August",
+      "January"
+    ],
+    "academicYearSchedule": "2学期制（Semester 1: 8月〜12月 / Semester 2: 1月〜6月）",
+    "applicationProcess": "オンライン願書提出、過去の学業成績表提出、面談およびプレイスメント・アセスメント。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "46エーカーの広大な専用キャンパス",
+    "校内プラネタリウム",
+    "オリンピック規格50m競泳プール & 屋内トレーニングプール",
+    "800名収容パフォーミングアーツ大劇場 & ブラックボックスシアター",
+    "全天候型400m陸上トラック & サッカーピッチ",
+    "インドア体育館（テニス・バレー・バスケ）",
+    "サイエンス・メイカースペース & イノベーションラボ",
+    "キャンパス内カフェテリア & ダイニングホール",
+    "最新ボーディングレジデンス（学生寮）"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 40500,
+    "tuitionMaxAnnual": 106500,
+    "tuitionDisplay": "RM 40,500 – RM 106,500 / 年（食事代込）",
+    "applicationFee": 1000,
+    "registrationFee": 15000,
+    "deposit": 10000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（JB市内: 約RM 4,500 – RM 7,500 / 年、シンガポール越境は別体系）",
+    "lunchFeeEstimate": "授業料に全食事を含む（朝スナック・昼食・午後スナック込）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時・アセスメント前に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "other",
+        "label": "Placement Fee",
+        "amount": 10000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学決定時に支払い（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee (1st Year Only)",
+        "amount": 15000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "初年度のみ・1家族あたり（Pre-K3開始時はRM 7,500、Pre-K4進級時に追加RM 7,500）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Pre-Kindergarten 3 (Half Day) Tuition (Annual)",
+        "amount": 40500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Pre-K 3 (Half Day)",
+        "notes": "年間学費。食事代込（Full DayはRM 66,500）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Pre-Kindergarten 4 Tuition (Annual)",
+        "amount": 66500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Pre-K 4",
+        "notes": "年間学費。食事代込"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Kindergarten to Grade 4 Elementary Tuition (Annual)",
+        "amount": 74500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten - Grade 4",
+        "notes": "年間学費。全食事代込"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Grades 5 to 8 Middle School Tuition (Annual)",
+        "amount": 98500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Grades 5 - 8",
+        "notes": "年間学費。全食事代込（MacBook必携）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Grades 9 to 12 High School Tuition (Annual)",
+        "amount": 106500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Grades 9 - 12",
+        "notes": "年間学費。全食事代込（※Boarding生は寮費 RM 47,000〜62,000/年が別途加算）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2025/2026",
+      "tuitionMinAnnual": 38500,
+      "tuitionMaxAnnual": 101500,
+      "tuitionDisplay": "RM 38,500 – RM 101,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://raffles-american-school.edu.my",
+  "contact": {
+    "email": "inquiry@raffles-american-school.edu.my",
+    "phone": "+60 7-509 8888"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://raffles-american-school.edu.my",
+      "title": "Raffles American School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://raffles-american-school.edu.my/fee-structure/",
+      "title": "Raffles American School Official Fee Structure",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/raffles-american-school.png"
+}

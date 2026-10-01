@@ -1,0 +1,170 @@
+{
+  "id": "sunway-international-school-iskandar-puteri",
+  "slug": "sunway-international-school-iskandar-puteri",
+  "name": "Sunway International School Iskandar Puteri",
+  "officialName": "Sunway International School (Iskandar Puteri, Johor)",
+  "shortDescription": "ジョホール州イスカンダル・プテリに位置するサンウェイの最新メガキャンパス。カナダ（オンタリオ州）教育およびIB一貫教育。",
+  "overview": "Sunway International School Iskandar Puteri（サンウェイ・インターナショナルスクール: イスカンダル・プテリ校 / SISJ）は、ジョホール州の国際開発特区「Sunway City Iskandar Puteri」に建設された超近代的な国際認可校です。マレーシアで唯一、世界的に高評価を受けるカナダ・オンタリオ州教育省公認カリキュラム（OSSD）と国際バカロレア（IB PYP, MYP, DP, CP）の両方をフルに提供。教師陣の多くがカナダ本国認定教員で構成され、プロジェクト主導型のアクティブラーニングを実践しています。最新のSTEAM実験棟、FIFA規格サッカー場、広大なオリンピックプール、最新鋭の全寮制（SIS House）を備え、シンガポール近接の立地から世界中から生徒が集まる国際教育ハブです。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Iskandar Puteri",
+    "area": "Medini / Sunway City",
+    "address": "Jalan Persiaran Medini 3, Sunway City Iskandar Puteri, 79250 Iskandar Puteri, Johor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Sunway+International+School+Iskandar+Puteri"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "Canadian",
+    "IB"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Middle School",
+    "High School"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "French",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、多様な国籍の生徒を受け入れる手厚い語学フォロー体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語を第一言語としない生徒のための集中的なEAL/ESL語学サポート体制を完備。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Iskandar Puteri、Johor Bahru市内、Mount Austin、シンガポール国境方面を結ぶスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内ダイニングにて衛生・栄養管理された多国籍ビュッフェ給食を提供（事前注文制・持参可）。",
+    "boardingAvailable": true,
+    "boardingDetail": "安全で快適な最新鋭の学生寮「SIS House」を完備（フルボーディング／ウィークリー対応）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、音楽、アート、STEM、模擬国連等の多彩な課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "July"
+    ],
+    "academicYearSchedule": "2学期制（Semester 1: 1月〜6月 / Semester 2: 7月〜12月）",
+    "applicationProcess": "オンライン出願、書類審査、学力診断テストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室棟",
+    "最新鋭サイエンス実験棟",
+    "デザイン＆テクノロジー・STEAMラボ",
+    "オリンピック規格スイミングプール",
+    "FIFA公認規格サッカーグラウンド",
+    "全天候型陸上トラック & テニスコート",
+    "大型ブラックボックスシアター & パフォーミングアーツホール",
+    "多層構造の中央図書館 & メディアセンター",
+    "全寮制レジデンス（SIS House）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 40000,
+    "tuitionMaxAnnual": 95000,
+    "tuitionDisplay": "RM 40,000 – RM 95,000 / 年",
+    "applicationFee": 1500,
+    "registrationFee": 9000,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500 – RM 6,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1学期 約RM 2,500〜RM 3,000 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Admissions Fee",
+        "amount": 9000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Preschool Tuition (Annual)",
+        "amount": 40000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Preschool / Kindergarten",
+        "notes": "学期納入（年2期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition / Grades 1-5 (Annual)",
+        "amount": 52000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - Grade 5)",
+        "notes": "学期納入（年2期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Middle & High School Tuition / Grades 6-12 (Annual)",
+        "amount": 82000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary & High School (Grade 6 - Grade 12)",
+        "notes": "RM 69,000〜RM 95,000。学期納入（年2期）"
+      }
+    ]
+  },
+  "contact": {
+    "email": "infosisj@sunway.edu.my",
+    "phone": "+607-533 8070"
+  },
+  "websiteUrl": "https://sunwayschools.edu.my/sisj",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Sunway International School Iskandar Puteri Official Overview",
+      "url": "https://sunwayschools.edu.my/sisj/admissions/admission-overview",
+      "retrievedAt": "2026-09"
+    },
+    {
+      "sourceType": "official",
+      "name": "Sunway International School Iskandar Booklet PDF",
+      "url": "https://sunwayschools.edu.my/sites/default/files/pdf/sisj_booklet_final_0412.pdf",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09",
+  "logoUrl": "/img/schools/logos/sunway-international-school-iskandar-puteri.png"
+}

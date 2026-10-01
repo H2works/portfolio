@@ -1,0 +1,148 @@
+{
+  "id": "heritage-international-school",
+  "slug": "heritage-international-school",
+  "name": "Heritage International School",
+  "officialName": "Heritage International School (Petaling Jaya)",
+  "shortDescription": "ペタリンジャヤ中心部に位置する英国Cambridge認定校。良心的な学費設定と少人数制による手厚い学力・進路指導。",
+  "overview": "Heritage International School（ヘリテージ・インターナショナルスクール）は、セランゴール州ペタリンジャヤ（Seksyen 19）の閑静なエリアに位置する英国ケンブリッジ認定校です。Foundation（幼児部）から初等（Primary）、中等（Secondary IGCSE）までの一貫教育を提供しています。1クラスあたりの生徒数を抑えた少人数ゼミ形式を採用し、生徒一人ひとりの理解度に寄り添った個別学習指導を徹底。良心的な学費水準（年間RM 15,000〜）で確かな英国式アカデミック教育を受けられる学校として、PJ地域の保護者から厚い信頼を得ています。",
+  "establishedYear": 2014,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "Seksyen 19",
+    "address": "Heritage House, No. 3, Jalan 19/1, Seksyen 19, 46300 Petaling Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Heritage+International+School+Petaling+Jaya"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 17,
+    "display": "4–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、少人数制を生かした手厚い英語フォローが整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "少人数クラスでの手厚い英語フォローアップと個別サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Petaling Jaya各エリア、Subang Jaya、Damansara方面を結ぶ通学バスを運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて温かい給食を提供（カフェテリア都度払い・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、音楽、アート、ロボティクス等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "出願、書類選考、アセスメントテストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス理科実験室",
+    "コンピュータICT室",
+    "多目的アクティビティホール",
+    "図書館 & メディアセンター",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 15000,
+    "tuitionMaxAnnual": 32000,
+    "tuitionDisplay": "RM 15,000 – RM 32,000 / 年",
+    "registrationFee": 1000,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 15000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "四半期納入（Quarterly）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Annual)",
+        "amount": 21000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 18,000〜RM 24,000。四半期納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School Tuition (Annual)",
+        "amount": 28000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "RM 25,000〜RM 32,000。四半期納入"
+      }
+    ]
+  },
+  "contact": {
+    "email": "info@heritage.edu.my",
+    "phone": "+603-7932 0803"
+  },
+  "websiteUrl": "https://heritage.edu.my/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Heritage International School Official Fee Structure",
+      "url": "https://heritage.edu.my/admission/fee-structure/",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09",
+  "logoUrl": "/img/schools/logos/heritage-international-school.png"
+}

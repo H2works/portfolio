@@ -1,0 +1,167 @@
+{
+  "id": "straits-international-school-penang",
+  "slug": "straits-international-school-penang",
+  "name": "Straits International School Penang",
+  "officialName": "Straits International School Penang",
+  "shortDescription": "ペナン国際空港近郊（バヤン・レパス）に位置する英国Cambridge認定校。確かな進路実績と手厚い語学サポート。",
+  "overview": "Straits International School Penang（ストレイツ・インターナショナルスクール: ペナン校）は、ペナン州バヤン・レパス（Bayan Lepas: ペナン国際空港至近）に位置する教育省認可の英国式国際校です。英国ナショナルカリキュラムおよびケンブリッジ（Primary、Secondary IGCSE）を採用し、「Non Mihi, Non Tibi, Sed Nobis（私のためでなく、あなたのためでなく、私たちのために）」をモットーに協調性と高い学術達成を追求。近代的で清潔な校舎、充実したサイエンスラボ、屋内スポーツホールを備え、ペナン島南部のハイテク産業地域に勤める国際的なファミリーから高い支持を得ています。",
+  "establishedYear": 2012,
+  "location": {
+    "country": "Malaysia",
+    "state": "Penang",
+    "city": "Bayan Lepas",
+    "area": "Bayan Lepas",
+    "address": "2, Jalan Bayan Lepas, 11900 Bayan Lepas, Penang, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Straits+International+School+Penang"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語力に不安がある生徒のための手厚い補習体制が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上を支援するEAL集中補習サポートを提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "George Town、Gelugor、Bayan Lepas、Batu Maung方面を結ぶ通学バス運行（個別見積）。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて栄養バランスのとれた給食を提供（カフェテリア都度払い・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、音楽、アート、ロボティクス等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "出願、書類選考、診断テストおよび面談を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "最新サイエンス実験室",
+    "コンピュータICT室",
+    "屋内体育館 & バスケットボールコート",
+    "スイミングプール",
+    "図書館 & メディアセンター",
+    "アート＆音楽スタジオ",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 15000,
+    "tuitionMaxAnnual": 34000,
+    "tuitionDisplay": "RM 15,000 – RM 34,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 3500,
+    "deposit": 3500,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,000 – RM 5,200 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 15000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "学期納入（年3期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary School Tuition (Annual)",
+        "amount": 22000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - Year 6)",
+        "notes": "RM 18,000〜RM 26,000。学期納入（年3期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary School Tuition (Annual)",
+        "amount": 30000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "notes": "RM 26,000〜RM 34,000。学期納入（年3期）"
+      }
+    ]
+  },
+  "contact": {
+    "email": "info@penang.sisgroup.edu.my",
+    "phone": "+604-643 1818"
+  },
+  "websiteUrl": "https://www.penangsisgroup.edu.my/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "Straits International School Penang Tuition Fees",
+      "url": "https://www.penangsisgroup.edu.my/admissions/tuition-fees",
+      "retrievedAt": "2026-09"
+    },
+    {
+      "sourceType": "official",
+      "name": "Straits International School Penang Fee Schedule PDF",
+      "url": "https://www.penangsisgroup.edu.my/MY%20-%20Straits%20Penang/Tuition%20fees/Straits%20Schools%20Fee%202026-2027%28NEW%29.pdf",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09"
+}

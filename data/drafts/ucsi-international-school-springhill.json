@@ -1,0 +1,164 @@
+{
+  "id": "ucsi-international-school-springhill",
+  "slug": "ucsi-international-school-springhill",
+  "name": "UCSI International School Springhill",
+  "officialName": "UCSI International School Springhill",
+  "shortDescription": "KLIA近郊・20エーカーの緑豊かな最新キャンパス。国際バカロレア（IB）一貫教育と最高峰の全寮制（ボーディング）設備を完備。",
+  "overview": "UCSI International School Springhill（ユー・シー・エス・アイ・インターナショナルスクール: スプリングヒル校）は、ヌグリ・スンビラン州バンダール・スプリングヒル（KLIA・クアラルンプール国際空港から約30分）の広大な20エーカーの敷地に建設された、マレーシア屈指の大規模国際認可校です。国際バカロレア（IB PYP, MYP, DP）および英国ケンブリッジ（IGCSE）双方の認証を受け、探究心と国際的視野を養う最先端の教育を提供しています。最新のサイエンスラボ、オリンピック規格プール、ゴルフ練習施設、プロ仕様のパフォーミングアーツ劇場、そして安全で充実した男女別の全寮制（ボーディングスクール）レジデンスを備え、国内外から多くの留学生を受け入れています。",
+  "establishedYear": 2013,
+  "location": {
+    "country": "Malaysia",
+    "state": "Negeri Sembilan",
+    "city": "Port Dickson / Seremban近郊",
+    "area": "Bandar Springhill",
+    "address": "No. 1, Persiaran UCSI, Bandar Springhill, 71010 Port Dickson, Negeri Sembilan, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=UCSI+International+School+Springhill"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "IB",
+    "Cambridge",
+    "British"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Middle School",
+    "High School"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、留学生のための手厚い英語サポートが整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語集中強化コース（ELL / EAL）を設置し、留学生の学力向上を徹底支援。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Seremban、Port Dickson、Nilai、KLIA、クアラルンプール方面への通学バス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内ダイニングホールにて栄養士監修のハラール対応ビュッフェ給食を提供（寮生は3食込）。",
+    "boardingAvailable": true,
+    "boardingDetail": "フルボーディング（全寮制）およびウィークリーボーディング（週5日寮制）を完備。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、ゴルフ、フェンシング、ロボティクス、オーケストラ等の多彩なCCAs。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "出願、書類審査、学力診断テストおよび面接を経て入学許可。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室棟",
+    "最新鋭サイエンス物理・化学・生物ラボ",
+    "ITコンピュータ・STEAMラボ",
+    "オリンピック規格50mスイミングプール",
+    "全天候型多目的スポーツアリーナ",
+    "天然芝サッカー場 & テニスコート",
+    "500席パフォーミングアーツ講堂",
+    "大規模図書館 & メディアセンター",
+    "最高水準の学生寮（レジデンス棟）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 22000,
+    "tuitionMaxAnnual": 52000,
+    "tuitionDisplay": "RM 22,000 – RM 52,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 5000,
+    "deposit": 6000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,800 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / 寮生は寮費に3食含む）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 6000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "退学時返金規定あり"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years Tuition (Annual)",
+        "amount": 22000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School Tuition / IB PYP (Annual)",
+        "amount": 35000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - Grade 5)",
+        "notes": "RM 28,000〜RM 42,000。学期納入（年3期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Middle & High School Tuition / MYP & DP (Annual)",
+        "amount": 48000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary & High School (Grade 6 - Grade 12)",
+        "notes": "RM 44,000〜RM 52,000。学期納入（年3期）"
+      }
+    ]
+  },
+  "contact": {
+    "email": "enquiry.sh@ucsiinternationalschool.edu.my",
+    "phone": "+606-653 6888"
+  },
+  "websiteUrl": "https://www.ucsiinternationalschool.edu.my/sh/",
+  "sources": [
+    {
+      "sourceType": "official",
+      "name": "UCSI International School Springhill Fee Schedule PDF",
+      "url": "https://www.ucsiinternationalschool.edu.my/sh/wp-content/uploads/sites/6/2026/09/UISSH-Fees-Structure.pdf",
+      "retrievedAt": "2026-09"
+    }
+  ],
+  "status": "approved",
+  "verifiedBy": "Human-in-the-Loop",
+  "verifiedAt": "2026-09"
+}
