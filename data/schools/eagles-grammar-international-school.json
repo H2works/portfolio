@@ -1,0 +1,158 @@
+{
+  "id": "eagles-grammar-international-school",
+  "slug": "eagles-grammar-international-school",
+  "name": "Eagles Grammar International School",
+  "officialName": "Eagles Grammar International School",
+  "shortDescription": "スバンジャヤ（USJ）に位置する少人数制Cambridge認可校。温かな家族的コミュニティときめ細やかな学力・人格育成指導。",
+  "overview": "Eagles Grammar International School（イーグルス・グラマー・インターナショナルスクール: EGIS）は、セランゴール州スバンジャヤ（USJ / Taman Perindustrian UEP）に位置する認可インターナショナルスクールです。英国ケンブリッジ（Primary、Secondary IGCSE）カリキュラムに基づき、学術指導とともにキリスト教的価値観に基づく人格育成・モラル教育を実践。1クラスあたりの生徒数を厳格に抑えた少人数制を採用し、生徒一人ひとりの学力到達度や個性に合わせたきめ細やかな個別ケアが特徴です。アットホームで安全なコミュニティ環境を提供しています。",
+  "establishedYear": 2016,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Subang Jaya",
+    "area": "USJ",
+    "address": "No. 20, Jalan TP 5, Taman Perindustrian UEP, 47520 Subang Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Eagles+Grammar+International+School"
+  },
+  "ageRange": {
+    "minAge": 6,
+    "maxAge": 17,
+    "display": "6–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、少人数制を活かした親身な英語補習サポートを提供しています。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による個別EAL語学支援と学習フォロー体制を整備。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Subang Jaya、USJ、Puchong、Shah Alam方面を結ぶ通学バスを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・清潔な学内カフェテリアにてバランスのとれた給食を提供（注文・持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "バドミントン、バスケットボール、音楽、アート、STEM等の課外活動（CCAs）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 1月〜4月 / Term 2: 5月〜8月 / Term 3: 9月〜11月）",
+    "applicationProcess": "願書出願、入学アセスメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス実験室 & コンピュータラボ",
+    "多目的屋内ホール",
+    "図書コーナー",
+    "音楽スタジオ & アート室",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 13500,
+    "tuitionMaxAnnual": 24000,
+    "tuitionDisplay": "RM 13,500 – RM 24,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 1000,
+    "deposit": 1000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application & Assessment Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Enrolment / Registration Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 14500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "学年によりRM 13,500〜16,500/年"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 19500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "学年によりRM 17,500〜24,000/年"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 12800,
+      "tuitionMaxAnnual": 22500,
+      "tuitionDisplay": "RM 12,800 – RM 22,500 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://egis.edu.my",
+  "contact": {
+    "email": "info@egis.edu.my",
+    "phone": "+60 3-8021 7965"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://egis.edu.my",
+      "title": "Eagles Grammar International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/eagles-grammar-international-school.png"
+}

@@ -1,0 +1,173 @@
+{
+  "id": "austin-heights-international-school",
+  "slug": "austin-heights-international-school",
+  "name": "Austin Heights International School",
+  "officialName": "Austin Heights International School (AHIS)",
+  "shortDescription": "ジョホールバル（マウントオースティン）に位置する定評あるケンブリッジ認定校。IPC・IGCSEカリキュラムと充実した設備・課外活動を手頃な学費で提供。",
+  "overview": "Austin Heights International School（オースティン・ハイツ・インターナショナルスクール: AHIS）は、2011年にジョホール州ジョホールバルの人気居住・商業エリアであるタマン・マウントオースティン（Taman Mount Austin）に設立された総合インターナショナルスクールです。初等部では国際初等カリキュラム（IPC: International Primary Curriculum）およびケンブリッジ・プライマリー、中等部では英国ケンブリッジ（IGCSE）を導入し、確かな学力育成とグローバルな視野を養う教育を実践しています。充実した近代的なスポーツ施設・多目的ホール・理科実験室・ICT設備を備え、手頃で透明性の高い学費体系により、地元家庭および海外移住ファミリーから高い支持を得ています。",
+  "establishedYear": 2011,
+  "location": {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Johor Bahru",
+    "area": "Mount Austin",
+    "address": "No. 2, Jalan Austin Heights 3/1, Taman Mount Austin, 81100 Johor Bahru, Johor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Austin+Heights+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "IPC"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任教員は常駐していませんが、英語非母語者向けの手厚い語学サポート体制（EAL）が整っています。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による個別EAL（English as an Additional Language）英語補習指導を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Mount Austin、Tebrau、Molek、Johor Bahru中心部方面への通学バス運行ルートあり。",
+    "lunchProvided": true,
+    "lunchDetail": "安全・衛生的な学内カフェテリアにてバランスのとれた温かい給食を提供（プリペイドカード利用・お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "通学制（デイスクール）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "各種スポーツ、ロボティクス、中国語・英語ディベート、パフォーミングアーツ、STEMなど多彩な放課後アクティビティ（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、成績証明書提出、アセスメントテスト（英語・算数）および面談を経て合否通知発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "冷暖房完備の普通教室群",
+    "サイエンス理科実験室（物理・化学・生物）",
+    "コンピュータICTスイート",
+    "多目的屋内スポーツホール & 体育館",
+    "屋外スポーツコート & プレイグラウンド",
+    "パフォーミングアーツ & 音楽室",
+    "図書室 & リサーチメディアセンター",
+    "スクールカフェテリア"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 12000,
+    "tuitionMaxAnnual": 24900,
+    "tuitionDisplay": "RM 12,000 – RM 24,900 / 年",
+    "applicationFee": 200,
+    "registrationFee": 1000,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,200 – RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜16目安 / プリペイド利用 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願受付時納入（返金不可）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知手続きにより返金対象"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery / Reception) Tuition",
+        "amount": 12000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Preschool",
+        "notes": "幼児部年間学費（約RM 12,000〜13,800/年）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary School (Years 1–6) Tuition",
+        "amount": 15500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Primary",
+        "notes": "初等部年間学費（学年により約RM 13,800〜18,500/年）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary School (Years 7–11 IGCSE) Tuition",
+        "amount": 21500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "isRefundable": false,
+        "gradeLevel": "Secondary",
+        "notes": "中等部年間学費（学年により約RM 19,000〜24,900/年）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 11500,
+      "tuitionMaxAnnual": 23800,
+      "tuitionDisplay": "RM 11,500 – RM 23,800 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://austinheights.edu.my",
+  "contact": {
+    "email": "enquiry@austinheights.edu.my",
+    "phone": "+60 7-351 5000"
+  },
+  "lastVerified": "September 2026",
+  "sources": [
+    {
+      "url": "https://austinheights.edu.my",
+      "title": "Austin Heights International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-09",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/austin-heights-international-school.png"
+}

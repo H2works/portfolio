@@ -343,6 +343,8 @@
 
 // School Card
 .school-card {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 280px;
   background: #ffffff;
   border: 1px solid #e2e8f0;
   border-radius: 14px;

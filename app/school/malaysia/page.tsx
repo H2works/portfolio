@@ -1,5 +1,4 @@
 import type { Metadata } from 'next';
-import { Suspense } from 'react';
 import Link from 'next/link';
 import SchoolLayout from '@/components/school/SchoolLayout';
 import SchoolSearchClient from './SchoolSearchClient';
@@ -53,10 +52,8 @@ export default function MalaysiaSchoolsPage() {
           </div>
         </div>
 
-        {/* Search & Filter Interface (wrapped in Suspense for useSearchParams) */}
-        <Suspense fallback={<div className="py-5 text-center text-muted">読み込み中...</div>}>
-          <SchoolSearchClient allSchools={allSchools} />
-        </Suspense>
+        {/* Search & Filter Interface */}
+        <SchoolSearchClient allSchools={allSchools} />
       </div>
     </SchoolLayout>
   );

@@ -1,11 +1,12 @@
 'use client';
 
-import { useState, useMemo, useEffect } from 'react';
-import { useSearchParams, useRouter } from 'next/navigation';
-import { School, SearchFilterParams, CurriculumType, GradeLevel } from '@/types/school';
+import { useState, useMemo, useCallback, Suspense } from 'react';
+import { useRouter } from 'next/navigation';
+import { School, SearchFilterParams } from '@/types/school';
 import SchoolFilter from '@/components/school/SchoolFilter';
 import SchoolCard from '@/components/school/SchoolCard';
 import SchoolSearchBar from '@/components/school/SchoolSearchBar';
+import SearchParamsSync from './SearchParamsSync';
 import { filterSchools } from '@/lib/schoolFilter';
 
 interface SchoolSearchClientProps {
@@ -13,30 +14,9 @@ interface SchoolSearchClientProps {
 }
 
 export default function SchoolSearchClient({ allSchools }: SchoolSearchClientProps) {
-  const searchParams = useSearchParams();
   const router = useRouter();
   const [isMobileFilterOpen, setIsMobileFilterOpen] = useState(false);
-
-  // Initialize filters from search params
-  const [filters, setFilters] = useState<SearchFilterParams>(() => {
-    const stateParam = searchParams.get('state');
-    const areaParam = searchParams.get('area');
-    const curriculumParam = searchParams.get('curriculum') as CurriculumType | null;
-    const ageParam = searchParams.get('age');
-    const maxBudgetParam = searchParams.get('maxBudget');
-    const keywordParam = searchParams.get('q');
-    const sortByParam = searchParams.get('sort') as 'tuition_asc' | 'tuition_desc' | 'name_asc' | null;
-
-    return {
-      state: stateParam || undefined,
-      area: areaParam || undefined,
-      curricula: curriculumParam ? [curriculumParam] : undefined,
-      age: ageParam ? parseInt(ageParam, 10) : undefined,
-      maxBudget: maxBudgetParam ? parseInt(maxBudgetParam, 10) : undefined,
-      keyword: keywordParam || undefined,
-      sortBy: sortByParam || 'name_asc',
-    };
-  });
+  const [filters, setFilters] = useState<SearchFilterParams>({ sortBy: 'name_asc' });
 
   // Calculate filtered schools
   const filteredSchools = useMemo(() => {
@@ -60,9 +40,9 @@ export default function SchoolSearchClient({ allSchools }: SchoolSearchClientPro
     return count;
   }, [filters]);
 
-  const handleFilterChange = (updated: SearchFilterParams) => {
+  const handleFilterChange = useCallback((updated: SearchFilterParams) => {
     setFilters(updated);
-  };
+  }, []);
 
   const handleReset = () => {
     setFilters({ sortBy: 'name_asc' });
@@ -114,6 +94,11 @@ export default function SchoolSearchClient({ allSchools }: SchoolSearchClientPro
             onChange={(kw) => handleFilterChange({ ...filters, keyword: kw || undefined })}
             className="mb-3"
           />
+
+          {/* Sync URL Search Params safely inside Suspense boundary */}
+          <Suspense fallback={null}>
+            <SearchParamsSync onSync={handleFilterChange} />
+          </Suspense>
 
           {/* Top Controls Bar */}
           <div className="bg-white border rounded-3 p-3 mb-3 d-flex flex-wrap align-items-center justify-content-between gap-3 shadow-sm">
