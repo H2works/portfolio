@@ -1,0 +1,206 @@
+{
+  "id": "valley-international-school",
+  "slug": "valley-international-school",
+  "name": "Valley International School",
+  "officialName": "Valley International School (Kuala Lumpur)",
+  "shortDescription": "KLセントラル至近のブリックフィールズに位置するケンブリッジ認定校。モンテッソーリ幼児教育からIGCSEまで、手頃な学費と手厚い少人数指導を提供。",
+  "overview": "Valley International School (VIS)は、クアラルンプールの中心街KLセントラル駅近くのブリックフィールズ（Brickfields）に校舎を構える英国式インターナショナルスクールです。幼児期にはモンテッソーリ教育アプローチを取り入れた幼児基礎プログラムを展開し、初等部・中等部ではCambridge Primary、Cambridge Lower Secondary、Cambridge IGCSEカリキュラムを提供しています。生徒一人ひとりの個性に寄り添う少人数クラス編成を採用し、批判的思考力、問題解決能力、多文化共生マインドを育む全人教育（Holistic Education）を重視。都心立地でありながら、年間学費RM 15,000〜RM 30,000という極めてアクセシブルな費用設定が特徴です。",
+  "establishedYear": 2018,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Brickfields",
+    "address": "55, Jalan Thamby Abdullah, Brickfields, 50470 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Valley+International+School+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "Cambridge",
+    "British"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Tamil",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、少人数クラスと英語サポート（ESL）により個別フォローが行き届いています。",
+    "ellSupport": true,
+    "ellSupportDetail": "非英語ネイティブ生徒向けの英語集中補強プログラム（ESL）を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内（Mont Kiara, Bangsar, Seputeh等）およびPetaling Jaya方面への通学バス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて温かいランチを提供（お弁当持参可能）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "ロボティクス、チェス、バドミントン、パフォーミングアーツ、宿題クラブ等の課外活動（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、学力アセスメントテスト（英語・算数）、面接、入学手続き。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備スマートクラスルーム",
+    "サイエンスラボ",
+    "ICTコンピュータ室",
+    "図書室 & リーディングコーナー",
+    "屋内アクティビティホール",
+    "屋外プレイグラウンド",
+    "カフェテリア",
+    "アート & 音楽ルーム"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 15000,
+    "tuitionMaxAnnual": 30000,
+    "tuitionDisplay": "RM 15,000 – RM 30,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 5000,
+    "deposit": 5000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,000〜RM 5,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期前退学通知により返金"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 1",
+        "amount": 15000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1)",
+        "notes": "年間授業料（3学期分割納入: RM 5,000/学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 2 - 4",
+        "amount": 18900,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 2 - 4)",
+        "notes": "年間授業料（3学期分割納入: RM 6,300/学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary Year 5 - 6",
+        "amount": 19800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 5 - 6)",
+        "notes": "年間授業料（3学期分割納入: RM 6,600/学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Lower Secondary (Year 7 - 9)",
+        "amount": 22500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Lower Secondary (Year 7 - 9)",
+        "notes": "年間授業料（3学期分割納入: RM 7,500/学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Upper Secondary (Year 10 - 11 / IGCSE)",
+        "amount": 30000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Upper Secondary (Year 10 - 11)",
+        "notes": "年間授業料（3学期分割納入: RM 10,000/学期）。IGCSE試験料別途"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 14000,
+      "tuitionMaxAnnual": 28000,
+      "tuitionDisplay": "RM 14,000 – RM 28,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.valley.edu.my",
+  "contact": {
+    "email": "info@valley.edu.my",
+    "phone": "+60 11-2815 5509"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://www.valley.edu.my",
+      "title": "Valley International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.valley.edu.my/fees/",
+      "title": "Valley International School Fee Structure",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.valley.edu.my/wp-content/uploads/2026/08/Secondary_Fee-V8.docx.pdf",
+      "title": "VIS Secondary Fee Structure AY 2026/2027 (PDF)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/valley-international-school.png"
+}

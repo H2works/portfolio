@@ -1,0 +1,199 @@
+{
+  "id": "international-islamic-school-malaysia",
+  "slug": "international-islamic-school-malaysia",
+  "name": "International Islamic School Malaysia",
+  "officialName": "International Islamic School Malaysia (IISM)",
+  "shortDescription": "マレーシア国際イスラム大学（IIUM）直営の伝統ある国際校。ケンブリッジカリキュラムとイスラム倫理教育を高次元で融合し、A-Levelsまで対応。",
+  "overview": "International Islamic School Malaysia (IISM)は、1998年にマレーシア国際イスラム大学（IIUM）傘下の教育機関（IIUM Schools）としてクアラルンプール・ゴンバ（Gombak）に設立された名門インターナショナルスクールです。英国ケンブリッジ国際カリキュラム（Cambridge Primary, Secondary, IGCSE, Cambridge International A-Levels）を採用し、高い学術水準とイスラムの倫理観・人格教育をバランスよく提供しています。広大な緑豊かなキャンパスには充実した理科実験室、スポーツ複合施設、ハラール対応カフェテリア、学生寮（Boarding）が整備されており、世界各国からの留学生を受け入れています。中等部以上では男女別学クラス編成を導入し、安心・集中できる学習環境が特徴です。",
+  "establishedYear": 1998,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Gombak",
+    "address": "Batu 8, Jalan Sungai Pusu, Off Jalan Gombak, 53100 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=International+Islamic+School+Malaysia+Gombak"
+  },
+  "ageRange": {
+    "minAge": 6,
+    "maxAge": 19,
+    "display": "6–19"
+  },
+  "curricula": [
+    "British",
+    "Cambridge",
+    "Islamic Integrated"
+  ],
+  "gradeLevels": [
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Arabic",
+      "Malay",
+      "Mandarin"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、英語サポート（ESL）により非英語ネイティブの学習をバックアップします。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力補強が必要な生徒向けに英語言語サポート（ESL）を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "クランバレーおよびKL周辺エリアへの通学バスルートを運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて厳格なハラール給食を提供（Grade 1は給食プログラム提供、Grade 2以降はカフェテリア利用）。",
+    "boardingAvailable": true,
+    "boardingDetail": "キャンパス内に女子・男子別の学生寮（Hostel / Boarding）を完備。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "スポーツ、武術（シラット等）、クルアーン朗誦、ディベート、クラブ活動などの課外活動（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "2学期制（Semester 1: 9月〜1月 / Semester 2: 2月〜7月）",
+    "applicationProcess": "オンライン事前登録（Pre-Registration）、学力診断テスト（英語・算数/数学）、面談審査、入学手続き。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "サイエンスラボ（物理・化学・生物）",
+    "コンピュータールーム（ICT Suites）",
+    "大型図書室 & メディアセンター",
+    "スイミングプール",
+    "多目的体育館 & バスケットボールコート",
+    "屋外サッカースタジアム & 陸上グラウンド",
+    "ハラールカフェテリア",
+    "マスジド / 礼拝ホール",
+    "学生寮（Boarding Facilities）"
+  ],
+  "currentFees": {
+    "academicYear": "2026",
+    "tuitionMinAnnual": 14400,
+    "tuitionMaxAnnual": 18800,
+    "tuitionDisplay": "RM 14,400 – RM 18,800 / 年",
+    "applicationFee": 200,
+    "registrationFee": 2000,
+    "deposit": 4000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 3,500〜RM 6,000 / 年）",
+    "lunchFeeEstimate": "Grade 1: 給食代年間RM 1,900 / Grade 2以降: カフェテリア都度払い（1食 約RM 10〜15目安）",
+    "items": [
+      {
+        "academicYear": "2026",
+        "feeType": "application_fee",
+        "label": "Pre-Registration Fee",
+        "amount": 200,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 4000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "返金可能デポジット"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Primary (Grade 1 - 3)",
+        "amount": 14400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - 3)",
+        "notes": "年間授業料（2学期分割納入: RM 7,200/学期、Yearly Fee RM 700別途）。Grade 1は別途給食費RM 1,900/年"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Primary (Grade 4 - 6)",
+        "amount": 16050,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 4 - 6)",
+        "notes": "年間授業料（2学期分割納入: RM 8,025/学期、Yearly Fee RM 700別途）"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Secondary (Grade 7 - 9)",
+        "amount": 17700,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Grade 7 - 9)",
+        "notes": "年間授業料（2学期分割納入: RM 8,850/学期、Yearly Fee RM 700別途）"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Secondary (Grade 10 - 11 / IGCSE)",
+        "amount": 18800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Grade 10 - 11)",
+        "notes": "年間授業料（2学期分割納入: RM 9,400/学期、Yearly Fee RM 700別途）。IGCSE試験料別途"
+      },
+      {
+        "academicYear": "2026",
+        "feeType": "tuition",
+        "label": "Sixth Form (A-Levels / Grade 12 - 13)",
+        "amount": 18800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Grade 12 - 13)",
+        "notes": "年間授業料（2学期分割納入: RM 9,400/学期、Yearly Fee RM 700別途）。A-Level試験料別途（RM 6,000）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 13800,
+      "tuitionMaxAnnual": 18000,
+      "tuitionDisplay": "RM 13,800 – RM 18,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://iium-schools.edu.my",
+  "contact": {
+    "email": "info@iis.edu.my",
+    "phone": "+60 3-6188 4400"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://iium-schools.edu.my",
+      "title": "IISM Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026"
+    },
+    {
+      "url": "https://iium-schools.edu.my/v3/wp-content/uploads/2026/07/13072026-A4-NEW-Fees-IISM-Primary-Secondary-A-LEVELS.pdf",
+      "title": "IISM Official Fee Schedule 2026 (PDF)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-10",
+      "academicYear": "2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/international-islamic-school-malaysia.png"
+}

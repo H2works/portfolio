@@ -1,0 +1,202 @@
+{
+  "id": "global-indian-international-school-kuala-lumpur",
+  "slug": "global-indian-international-school-kuala-lumpur",
+  "name": "Global Indian International School Kuala Lumpur",
+  "officialName": "Global Indian International School (GIIS) Kuala Lumpur Campus",
+  "shortDescription": "KLセントラル・ブリックフィールズに位置する国際校。ケンブリッジ式とインドCBSEカリキュラムの2つの学習経路を提供し、STEM教育と高い学力実績が定評。",
+  "overview": "Global Indian International School (GIIS) Kuala Lumpurは、クアラルンプールの主要交通ハブであるKLセントラル駅至近（Brickfields）に位置する国際校です。世界7カ国で20以上のキャンパスを展開する世界的教育グループ「GIIS」のマレーシア校として2006年に設立されました。英国ケンブリッジ国際カリキュラム（Cambridge Primary, Secondary, IGCSE）とインドのCBSE（Central Board of Secondary Education）の両方の教育プログラムを提供しており、家庭の進路や将来の大学進学希望に応じた柔軟な選択が可能です。9つのGEMS教育フレームワーク（学術・スポーツ・芸術・リーダーシップ等）に基づき、STEM教育や最新ICT設備を整えたスマートスクールとして運営されています。",
+  "establishedYear": 2006,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Brickfields",
+    "address": "242, Lorong Abdul Samad, Off Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Global+Indian+International+School+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "Cambridge",
+    "British",
+    "CBSE"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "High School"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French",
+      "Hindi",
+      "Tamil"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任スタッフはいませんが、英語サポート（ESL）により多国籍生徒への指導実績が豊富です。",
+    "ellSupport": true,
+    "ellSupportDetail": "非英語ネイティブ生徒向けに英語言語支援プログラム（ESL）を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内（Mont Kiara, Bangsar, Ampang等）およびPetaling Jaya各方面へのスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにてベジタリアンおよびノンベジタリアンの温かい食事を提供。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "ロボティクス、チェス、クリケット、バドミントン、パフォーミングアーツ等の課外活動（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "April",
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（CBSE: 4月開始 / Cambridge: 9月開始）",
+    "applicationProcess": "オンライン願書提出、学力診断テスト、面接、入学手続き。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "スマートクラスルーム（ICT設備完備）",
+    "理科実験室（Physics, Chemistry, Biology）",
+    "コンピュータ・ロボティクスラボ",
+    "図書室 & メディアセンター",
+    "屋内スポーツホール & 多目的ホール",
+    "バドミントンコート & 屋外プレイグラウンド",
+    "カフェテリア（ベジタリアン対応）",
+    "音楽室 & ダンススタジオ"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 16727,
+    "tuitionMaxAnnual": 32540,
+    "tuitionDisplay": "RM 16,727 – RM 32,540 / 年",
+    "applicationFee": 500,
+    "registrationFee": 3500,
+    "deposit": 5000,
+    "busFeeEstimate": "公式ゾーン料金: 約RM 3,600 – RM 6,800 / 年（ルート・距離により変動）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Enrolment / Registration Fee",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学決定時納入"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学規定に基づき返金"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Kindergarten (Global Montessori Plus / GMP)",
+        "amount": 16727,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten",
+        "notes": "年間授業料（3学期分割納入）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "CBSE Primary & Middle School (Grade 1 - 8)",
+        "amount": 18515,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary / Middle School (CBSE)",
+        "notes": "CBSEストリーム年間授業料"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Cambridge Primary & Lower Secondary (Grade 1 - 8)",
+        "amount": 19271,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary / Lower Secondary (Cambridge)",
+        "notes": "Cambridgeストリーム年間授業料"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "CBSE Senior Secondary (Grade 9 - 12)",
+        "amount": 29243,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "High School (CBSE)",
+        "notes": "CBSEストリーム年間授業料"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Cambridge IGCSE (Grade 9 - 11)",
+        "amount": 32540,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (IGCSE)",
+        "notes": "Cambridge IGCSE年間授業料"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 16000,
+      "tuitionMaxAnnual": 31000,
+      "tuitionDisplay": "RM 16,000 – RM 31,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://globalindianschool.org/my/",
+  "contact": {
+    "email": "admissions.my@globalindianschool.org",
+    "phone": "+60 3-2276 7447"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://globalindianschool.org/my/",
+      "title": "GIIS Malaysia Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://globalindianschool.org/my/admissions/fees/",
+      "title": "GIIS Malaysia Fee Structure & Admissions",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": ""
+}

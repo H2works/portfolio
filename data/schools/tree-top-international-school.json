@@ -1,0 +1,206 @@
+{
+  "id": "tree-top-international-school",
+  "slug": "tree-top-international-school",
+  "name": "Tree Top International School",
+  "officialName": "Tree Top International School (TTIS)",
+  "shortDescription": "KL北西部スガンブに位置するケンブリッジ認定校。モンテッソーリ幼児教育とインクルーシブな少人数教育、手頃な学費体系が魅力。",
+  "overview": "Tree Top International School (TTIS)は、クアラルンプール北西部のタマン・スリ・スガンブ（Taman Sri Segambut）に位置する私立インターナショナルスクールです（マレーシア教育省認可番号: WUB0024）。幼児部（Preschool）ではモンテッソーリアプローチを取り入れ、初等部から中等部にかけてはCambridge International Curriculum（Primary, Lower Secondary, IGCSE）を提供しています。「Relationship, Reality, Responsibility」の3R哲学を掲げ、学術的な探究だけでなく、情操教育、プロジェクト学習、インクルーシブ教育に注力。生徒一人ひとりに寄り添うアットホームな学習環境と、年間学費約RM 16,200〜RM 28,800という良心的な価格設定で支持を集めています。",
+  "establishedYear": 2009,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Segambut",
+    "address": "16, Jalan Udang Siar 1, Taman Sri Segambut, 52000 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Tree+Top+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "Cambridge",
+    "British"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、専任のラーニングサポート（Learning Support）体制により個別フォローが行き届いています。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任教員による個別学習支援（Learning Support / ESL）を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Segambut, Kepong, Mont Kiara, Desa ParkCity各方面への通学バス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内ケータリングによる温かい昼食サービス（1食 RM 10の事前学期請求 / お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "アート、音楽、スポーツ、エコ活動、宿題サポート等の放課後アクティビティ。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "January",
+      "July"
+    ],
+    "academicYearSchedule": "2学期制（Term 1: 1月〜6月 / Term 2: 7月〜12月）",
+    "applicationProcess": "願書出願（RM 300）、学力・発達アセスメント、面接、入学手続き。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備クラスルーム",
+    "サイエンスラボ",
+    "コンピュータ・ICTルーム",
+    "図書室 & 読書スペース",
+    "多目的アクティビティホール",
+    "屋外プレイグラウンド & 運動スペース",
+    "カフェテリア / ランチエリア",
+    "アートスタジオ"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 16200,
+    "tuitionMaxAnnual": 28800,
+    "tuitionDisplay": "RM 16,200 – RM 28,800 / 年",
+    "applicationFee": 300,
+    "registrationFee": 3000,
+    "deposit": 5000,
+    "busFeeEstimate": "個別見積もり（Kepong, Segambut, Mont Kiara等 / 相場目安: 約RM 2,800〜RM 5,000 / 年）",
+    "lunchFeeEstimate": "給食ケータリング（1食 RM 10目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 300,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入（PreschoolはRM 1,500）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 5000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学規定により返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 1",
+        "amount": 16200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1)",
+        "notes": "年間授業料（2学期分割納入: RM 8,100/学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 2",
+        "amount": 17400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 2)",
+        "notes": "年間授業料（2学期分割納入: RM 8,700/学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 3 - 4",
+        "amount": 20400,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 3 - 4)",
+        "notes": "年間授業料（2学期分割納入: RM 10,200/学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary Year 5 - 6",
+        "amount": 22800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 5 - 6)",
+        "notes": "年間授業料（2学期分割納入: RM 11,400/学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 7 - 9",
+        "amount": 25200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 9)",
+        "notes": "年間授業料（2学期分割納入: RM 12,600/学期）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary Year 10 - 11 (IGCSE)",
+        "amount": 28800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 10 - 11)",
+        "notes": "年間授業料（2学期分割納入: RM 14,400/学期）。IGCSE試験料別途"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 15000,
+      "tuitionMaxAnnual": 27000,
+      "tuitionDisplay": "RM 15,000 – RM 27,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://treetop.edu.my",
+  "contact": {
+    "email": "treetopedu@treetophouse.edu.my",
+    "phone": "+60 3-6241 9777"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://treetop.edu.my",
+      "title": "Tree Top International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://treetop.edu.my/tuition-fees/",
+      "title": "TTIS Official Tuition & Fees Schedule",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/tree-top-international-school.png"
+}

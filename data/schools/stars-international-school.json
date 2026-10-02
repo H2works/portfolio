@@ -1,0 +1,178 @@
+{
+  "id": "stars-international-school",
+  "slug": "stars-international-school",
+  "name": "STARS International School",
+  "officialName": "STARS International School (Petaling Jaya)",
+  "shortDescription": "ペタリンジャヤ中心部に位置するケンブリッジ認定校。教材費込みの透明な学費体系（No Hidden Charges）と少人数アットホーム教育が特徴。",
+  "overview": "STARS International Schoolは、スランゴール州ペタリンジャヤ（Seksyen 51A）の交通至便なロケーションに位置する英国式インターナショナルスクールです。4歳からの幼稚園プログラム（PATHWAYS Preschool）から、初等部（Cambridge Primary）、中等部（Lower Secondary & IGCSE）、そして大学進学課程（Cambridge International A Level）までの一貫教育を提供しています。「No Hidden Charges（不透明な追加費用の排除）」という親身な料金ポリシーを掲げ、年間学費約RM 10,800〜RM 22,800という極めて明瞭で良心的な学費設定を実現。少人数制クラスによるきめ細やかな学習サポートと、生徒主体の主体的な探究学習・リーダーシップ育成に定評があります。",
+  "establishedYear": 2018,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Petaling Jaya",
+    "area": "Seksyen 51A",
+    "address": "Lot 7A, Jalan 51A/223, Seksyen 51A, 46100 Petaling Jaya, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=STARS+International+School+Petaling+Jaya"
+  },
+  "ageRange": {
+    "minAge": 4,
+    "maxAge": 18,
+    "display": "4–18"
+  },
+  "curricula": [
+    "Cambridge",
+    "British"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語専任スタッフはいませんが、少人数クラスによる手厚い英語サポート（ESL）が行われています。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語補強が必要な生徒向けに英語言語支援プログラム（ESL）を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Petaling Jaya, Subang Jaya, Kuala Lumpur各方面への通学バス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて栄養バランスに配慮したランチを提供（お弁当持参可）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "ロボティクス、プログラミング、バドミントン、バスケットボール、アート等の課外活動（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "May"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 5月〜8月）",
+    "applicationProcess": "願書出願、学力アセスメント（英語・算数）、面談審査、入学手続き。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備スマートクラスルーム",
+    "サイエンスラボ",
+    "コンピュータ & ICTラボ",
+    "図書室 & リソースセンター",
+    "屋内多目的スポーツホール",
+    "バドミントンコート",
+    "カフェテリア",
+    "パフォーミングアーツ & 音楽ルーム"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 10800,
+    "tuitionMaxAnnual": 22800,
+    "tuitionDisplay": "RM 10,800 – RM 22,800 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2000,
+    "deposit": 3600,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 2,800〜RM 5,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜14目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3600,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期前退学通知により返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary (Year 1 - Year 6)",
+        "amount": 10800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料目安（3学期分割納入: 約RM 3,600/学期〜）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "amount": 19200,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年間授業料目安（3学期分割納入: 約RM 6,400/学期〜）。IGCSE試験料別途"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form (Cambridge International A Level)",
+        "amount": 22800,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form",
+        "notes": "年間授業料目安（3学期分割納入: 約RM 7,600/学期）。外部試験料別途"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 9600,
+      "tuitionMaxAnnual": 21600,
+      "tuitionDisplay": "RM 9,600 – RM 21,600 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://stars.edu.my",
+  "contact": {
+    "email": "enquiry@stars.edu.my",
+    "phone": "+60 3-7932 2127"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://stars.edu.my",
+      "title": "STARS International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://stars.edu.my/fee-structure/",
+      "title": "STARS International School Fee Terms & Structure",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/stars-international-school.png"
+}

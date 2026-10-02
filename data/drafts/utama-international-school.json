@@ -1,0 +1,159 @@
+{
+  "id": "utama-international-school",
+  "slug": "utama-international-school",
+  "name": "Utama International School",
+  "officialName": "Utama International School (Sri Utama Kuala Lumpur)",
+  "shortDescription": "KL北東部ワンサ・マジュ近郊に位置する1993年設立の私立国際校。ケンブリッジ式カリキュラムと実践的スキル教育を組み合わせた手頃な教育環境。",
+  "overview": "Utama International School（Sri Utama Schools）は、1993年にクアラルンプール（Setapak / Rampai Business Park South）に創設された歴史ある私立インターナショナルスクールです。幼稚園から初等部、中等部（Cambridge IGCSE）までの一貫教育を提供し、公式IGCSE認定試験会場としても登録されています。学術教育のみならず、職業体験・生活実用スキル（Vocational & Culinary Arts）や多文化共生を育むホリスティックな学習アプローチが特徴。都心近郊に位置しながら、年間学費約RM 10,000〜RM 25,000という手の届きやすい費用設定で、多国籍な生徒たちに親しまれています。",
+  "establishedYear": 1993,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Setapak",
+    "address": "No. 1, Jalan Seri Rejang, Rampai Business Park South, 53300 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Utama+International+School+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 17,
+    "display": "3–17"
+  },
+  "curricula": [
+    "Cambridge",
+    "British"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、英語サポート（ESL）により非英語ネイティブ生徒へのフォローを実施。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力向上が必要な生徒向けに英語言語支援プログラム（ESL）を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Wangsa Maju, Setapak, Ampang, KL市内各方面へのスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて温かい食事を提供（お弁当持参可能）。",
+    "boardingAvailable": true,
+    "boardingDetail": "遠方および留学生向けの学生寮（Hostel）設備を完備。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "サッカー、バスケットボール、スカウト、音楽、料理クラブ等の課外活動（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、学力アセスメントテスト（英語・算数/数学）、面談審査、入学手続き。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備クラスルーム",
+    "理科実験室（Science Labs）",
+    "コンピュータ & ICTラボ",
+    "図書室",
+    "スイミングプール",
+    "屋外サッカーグラウンド & バスケットボールコート",
+    "カフェテリア",
+    "学生寮（Hostel Accommodation）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 10000,
+    "tuitionMaxAnnual": 25000,
+    "tuitionDisplay": "RM 10,000 – RM 25,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 2000,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 2,800〜RM 5,000 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜15目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知規定に基づき返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary (Year 1 - Year 6)",
+        "amount": 14000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料目安（3学期分割納入: 約RM 10,000〜RM 16,000/年）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "amount": 22000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年間授業料目安（3学期分割納入: 約RM 18,000〜RM 25,000/年）。IGCSE試験料別途"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 9500,
+      "tuitionMaxAnnual": 24000,
+      "tuitionDisplay": "RM 9,500 – RM 24,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://utama.edu.my",
+  "contact": {
+    "email": "info@sriutama.edu.my",
+    "phone": "+60 3-4131 0093"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://utama.edu.my",
+      "title": "Utama International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": ""
+}

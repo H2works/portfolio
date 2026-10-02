@@ -1,0 +1,209 @@
+{
+  "id": "vikas-international-school",
+  "slug": "vikas-international-school",
+  "name": "Vikas International School",
+  "officialName": "Vikas International School (Kuala Lumpur)",
+  "shortDescription": "オールド・クラン・ロードに位置する1996年設立のインド系私立国際校。CBSEカリキュラムを採用し、約20名の少人数制と手頃な学費が特徴。",
+  "overview": "Vikas International School (VIS)は、1996年にクアラルンプールのオールド・クラン・ロード（Jalan Klang Lama）沿いに設立された私立国際校です。インドの権威ある教育評議会CBSE（Central Board of Secondary Education, New Delhi）認定カリキュラムを採用し、幼稚園（Pre-KG）から高校卒業課程（Grade 12）までの一貫教育を提供しています。クラスあたりの生徒数を約20名に抑えたアットホームな少人数指導体制を徹底し、一人ひとりの理解度に寄り添った丁寧な指導が強み。初等部から人工知能（AI）教育やSTEM基礎（JEE / NEETファンデーション）を取り入れた進学指導を行いながら、年間授業料RM 6,500〜RM 16,000という極めて高いコストパフォーマンスを維持しています。",
+  "establishedYear": 1996,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Old Klang Road",
+    "address": "No. 168, Jalan Klang Lama, Batu 3 1/2, 58000 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Vikas+International+School+Kuala+Lumpur"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "CBSE"
+  ],
+  "gradeLevels": [
+    "Kindergarten",
+    "Primary",
+    "Secondary",
+    "High School"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Hindi",
+      "Tamil",
+      "Malay",
+      "French",
+      "Mandarin"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、少人数制クラスによる手厚い学習サポートが受けられます。",
+    "ellSupport": true,
+    "ellSupportDetail": "非英語ネイティブ生徒への個別補習および英語サポートを実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内（Brickfields, Bangsar, Seputeh）およびPetaling Jaya各方面へのスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて温かいベジタリアン・多国籍ランチを提供（お弁当持参可）。",
+    "boardingAvailable": true,
+    "boardingDetail": "遠方生徒向けのウィークリーおよびフルタイム学生寮（Hostel）設備を完備。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "ヨガ、空手、チェス、クリケット、バドミントン、パフォーミングアーツ等の課外活動。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "April",
+      "September"
+    ],
+    "academicYearSchedule": "3学期制（4月開始・翌年3月終了）",
+    "applicationProcess": "願書出願（RM 300）、入学試験（Entrance Exam RM 50）、面接、入学手続き。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備スマートクラスルーム",
+    "サイエンスラボ（物理・化学・生物）",
+    "コンピュータ & ICTラボ",
+    "図書室",
+    "多目的屋内ホール",
+    "バドミントン & スポーツコート",
+    "カフェテリア",
+    "学生寮（Hostel Facilities）"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 6500,
+    "tuitionMaxAnnual": 16000,
+    "tuitionDisplay": "RM 6,500 – RM 16,000 / 年",
+    "applicationFee": 350,
+    "registrationFee": 3500,
+    "deposit": 2000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 2,400〜RM 4,500 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 8〜12目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Registration & Entrance Exam Fee",
+        "amount": 350,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願・試験時納入（Registration RM 300 + Exam RM 50）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Enrolment Fee (Primary / Secondary)",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学決定時納入（Pre-KGはRM 1,500、Grade 9-10はRM 4,500）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 2000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学規定により返金（Grade 6以上はRM 2,500〜RM 4,000）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Pre-Primary (Pre-KG)",
+        "amount": 6500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten (Pre-KG)",
+        "notes": "年間授業料（別途Special Fees RM 2,500/年）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Kindergarten (KG1 - KG2)",
+        "amount": 7000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Kindergarten (KG1 - KG2)",
+        "notes": "年間授業料（別途Special Fees RM 3,500/年）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary (Grade 1 - 5)",
+        "amount": 10600,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Grade 1 - 5)",
+        "notes": "年間授業料（別途Special Fees RM 3,500/年）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary (Grade 6 - 8)",
+        "amount": 13000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Grade 6 - 8)",
+        "notes": "年間授業料（別途Special Fees RM 3,500/年）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary (Grade 9 - 10)",
+        "amount": 13500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Grade 9 - 10)",
+        "notes": "年間授業料（別途Special Fees RM 4,500/年）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Higher Secondary (Grade 11 - 12)",
+        "amount": 16000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "High School (Grade 11 - 12)",
+        "notes": "年間授業料（別途Special Fees RM 4,500/年、Lab RM 1,000/年）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 6000,
+      "tuitionMaxAnnual": 15000,
+      "tuitionDisplay": "RM 6,000 – RM 15,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "http://www.vikas.edu.my",
+  "contact": {
+    "email": "vis@vikas.edu.my",
+    "phone": "+60 3-7982 2992"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "http://www.vikas.edu.my",
+      "title": "Vikas International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "http://www.vikas.edu.my/fee%20structure/pre.kg-xii%20fees%20structure.pdf",
+      "title": "VIS Official Fee Structure Schedule (PDF)",
+      "sourceType": "official_pdf",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/vikas-international-school.jpg"
+}

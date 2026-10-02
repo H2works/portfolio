@@ -1,0 +1,181 @@
+{
+  "id": "marefat-international-school",
+  "slug": "marefat-international-school",
+  "name": "Marefat International School",
+  "officialName": "Marefat International School (MIS)",
+  "shortDescription": "KL北東部デサ・メラワティに位置する国際校。ケンブリッジ式カリキュラムとカナダ式大学進学準備（CPU）を提供し、低水準の学費が特徴。",
+  "overview": "Marefat International School (MIS)は、クアラルンプール北東部のデサ・メラワティ（Desa Melawati）にメインキャンパスを構える私立インターナショナルスクールです。幼児期から初等・中等（Cambridge IGCSE）、そしてA-Levelsおよびカナダ式大学進学準備課程（Canadian Pre-University: CPU）まで幅広い進路プログラムを提供しています。英語、マレー語、中国語のマルチリンガル環境を整え、少人数指導により生徒の自己肯定感と学問的達成をサポート。都心アクセスが良好な立地にありながら、年間学費約RM 13,500〜RM 32,000という極めてリーズナブルな教育費で学べる点が選ばれています。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "area": "Desa Melawati",
+    "address": "Lot 30088, Jalan 6/4, Taman Desa Melawati, 53100 Kuala Lumpur, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=Marefat+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "Cambridge",
+    "British",
+    "Canadian"
+  ],
+  "gradeLevels": [
+    "Preschool",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "Arabic",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、英語集中コース（ESL）により基礎英語力から指導します。",
+    "ellSupport": true,
+    "ellSupportDetail": "英語力補強が必要な生徒向けに英語言語支援プログラム（ESL）を提供。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "KL市内（Wangsa Maju, Setapak, Ampang, KLCC各方面）へのスクールバス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて温かいランチを提供（お弁当持参可能）。",
+    "boardingAvailable": false,
+    "boardingDetail": "",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "サッカー、バスケットボール、アート、プログラミング、言語クラブ等の課外活動（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、学力診断テスト、面接、入学手続き。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "エアコン完備クラスルーム",
+    "サイエンスラボ",
+    "コンピュータ・ITラボ",
+    "図書室",
+    "多目的ホール",
+    "屋外スポーツグラウンド",
+    "カフェテリア",
+    "アート & 音楽室"
+  ],
+  "currentFees": {
+    "academicYear": "2025/2026",
+    "tuitionMinAnnual": 13500,
+    "tuitionMaxAnnual": 32000,
+    "tuitionDisplay": "RM 13,500 – RM 32,000 / 年",
+    "applicationFee": 500,
+    "registrationFee": 1500,
+    "deposit": 3000,
+    "busFeeEstimate": "ルート・距離に応じて別見積（相場目安: 約RM 2,800〜RM 5,200 / 年）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 10〜14目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2025/2026",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 1500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学承諾時納入"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "deposit",
+        "label": "Security Deposit",
+        "amount": 3000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "所定の退学通知規定に基づき返金"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Primary (Year 1 - Year 6)",
+        "amount": 13500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料（3学期分割納入）"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "amount": 22000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年間授業料（3学期分割納入）。外部試験料別途"
+      },
+      {
+        "academicYear": "2025/2026",
+        "feeType": "tuition",
+        "label": "Sixth Form (A-Levels / Canadian Pre-University)",
+        "amount": 32000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form",
+        "notes": "年間授業料（3学期分割納入）"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 12500,
+      "tuitionMaxAnnual": 30000,
+      "tuitionDisplay": "RM 12,500 – RM 30,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://marefat.edu.my",
+  "contact": {
+    "email": "info@marefat.edu.my",
+    "phone": "+60 3-4041 4184"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://marefat.edu.my",
+      "title": "Marefat International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    },
+    {
+      "url": "https://marefat.edu.my/main",
+      "title": "Marefat International School Main Portal",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2025/2026"
+    }
+  ],
+  "logoUrl": ""
+}

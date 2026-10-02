@@ -1,0 +1,190 @@
+{
+  "id": "mahsa-international-school",
+  "slug": "mahsa-international-school",
+  "name": "MAHSA International School",
+  "officialName": "MAHSA International School (MISKL)",
+  "shortDescription": "MAHSA大学の広大なキャンパスに隣接する英国式国際校。ケンブリッジ式カリキュラムと充実した英語サポート（MESH）、大学連携の本格施設が魅力。",
+  "overview": "MAHSA International School (MISKL)は、マレーシア屈指の医療・総合私立大学であるMAHSA UniversityのBandar Saujana Putraキャンパスに2017年に設立された英国式インターナショナルスクールです。英国ナショナルカリキュラムおよびCambridge IGCSE・A-Levelsを採用し、幼稚園（Early Years）から高校・大学進学課程までの一貫教育を提供しています。大学キャンパスに隣接している強みを活かし、本格的なスポーツスタジアム、オリンピック規格のプール、充実した理科・医療系実験設備を活用できる環境が整っています。また、英語集中支援ハブ「MESH（MAHSA English Support Hub）」を導入しており、英語初学者の生徒も安心してキャッチアップできる体制が評価されています。",
+  "establishedYear": 2017,
+  "location": {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Jenjarom",
+    "area": "Bandar Saujana Putra",
+    "address": "Jalan SP 2, Bandar Saujana Putra, 42610 Jenjarom, Selangor, Malaysia",
+    "googleMapsUrl": "https://maps.google.com/?q=MAHSA+International+School"
+  },
+  "ageRange": {
+    "minAge": 3,
+    "maxAge": 18,
+    "display": "3–18"
+  },
+  "curricula": [
+    "British",
+    "Cambridge"
+  ],
+  "gradeLevels": [
+    "Early Years",
+    "Primary",
+    "Secondary",
+    "Sixth Form"
+  ],
+  "languages": {
+    "instructionLanguage": "English",
+    "secondLanguages": [
+      "Mandarin",
+      "Malay",
+      "French"
+    ],
+    "japaneseSupport": false,
+    "japaneseSupportDetail": "日本語対応スタッフはいませんが、専任の英語支援ハブ（MESH）による個別英語指導が受けられます。",
+    "ellSupport": true,
+    "ellSupportDetail": "専任の英語サポートハブ（MESH: MAHSA English Support Hub）により、非英語ネイティブ生徒への手厚い段階的指導を実施。"
+  },
+  "features": {
+    "schoolBus": true,
+    "busDetail": "Subang Jaya, Puchong, Cyberjaya, Putrajaya, Shah Alam各方面への通学バス運行。",
+    "lunchProvided": true,
+    "lunchDetail": "学内カフェテリアにて温かい栄養バランスの取れた多国籍料理およびハラール食を提供。",
+    "boardingAvailable": true,
+    "boardingDetail": "MAHSA Universityキャンパス内の学生寮・レジデンス施設を利用可能（セカンダリー以上）。",
+    "afterSchoolCare": true,
+    "afterSchoolCareDetail": "水泳、サッカー、バスケットボール、バドミントン、ロボティクス、演劇、音楽等の課外活動（CCA）。"
+  },
+  "admissions": {
+    "intakeMonths": [
+      "September",
+      "January",
+      "April"
+    ],
+    "academicYearSchedule": "3学期制（Term 1: 9月〜12月 / Term 2: 1月〜4月 / Term 3: 4月〜7月）",
+    "applicationProcess": "願書出願、CAT4または英語・算数学力診断アセスメント、面接、入学許可証発行。",
+    "assessmentRequired": true
+  },
+  "facilities": [
+    "最新サイエンスラボ（物理・化学・生物）",
+    "ICTスイート & コンピュータラボ",
+    "図書館 & メディアリソースセンター",
+    "オリンピック規格スイミングプール",
+    "全天候型スポーツスタジアム & サッカー場",
+    "屋内多目的体育館（バスケットボール・バドミントン）",
+    "パフォーミングアーツスタジオ & 音楽室",
+    "カフェテリア",
+    "学生寮（Boarding Residence）"
+  ],
+  "currentFees": {
+    "academicYear": "2026/2027",
+    "tuitionMinAnnual": 16500,
+    "tuitionMaxAnnual": 39000,
+    "tuitionDisplay": "RM 16,500 – RM 39,000 / 年",
+    "applicationFee": 1000,
+    "registrationFee": 3500,
+    "deposit": 5500,
+    "busFeeEstimate": "公式ゾーン料金: 約RM 3,500 – RM 6,500 / 年（距離・エリアにより変動）",
+    "lunchFeeEstimate": "カフェテリア都度払い（1食 約RM 12〜16目安 / お弁当持参可）",
+    "items": [
+      {
+        "academicYear": "2026/2027",
+        "feeType": "application_fee",
+        "label": "Application Fee",
+        "amount": 1000,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "出願時納入"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "registration_fee",
+        "label": "Registration Fee",
+        "amount": 3500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": false,
+        "notes": "入学決定時納入"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "deposit",
+        "label": "Refundable Deposit",
+        "amount": 5500,
+        "currency": "MYR",
+        "frequency": "one-time",
+        "isRefundable": true,
+        "notes": "1学期分相当額（所定の退学通知手続きにより返金）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Early Years (Nursery & Reception)",
+        "amount": 12000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Early Years",
+        "notes": "年間授業料（3学期分割納入: 約RM 4,000/学期）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Primary (Year 1 - Year 6)",
+        "amount": 16500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Primary (Year 1 - 6)",
+        "notes": "年間授業料（3学期分割納入: 約RM 5,500/学期〜）"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Secondary (Year 7 - Year 11 / IGCSE)",
+        "amount": 31500,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Secondary (Year 7 - 11)",
+        "notes": "年間授業料（3学期分割納入: 約RM 10,500/学期〜）。ラボ費・試験料別途"
+      },
+      {
+        "academicYear": "2026/2027",
+        "feeType": "tuition",
+        "label": "Sixth Form (A-Levels / Year 12 - Year 13)",
+        "amount": 39000,
+        "currency": "MYR",
+        "frequency": "annual",
+        "applicableGrade": "Sixth Form (Year 12 - 13)",
+        "notes": "年間授業料（3学期分割納入）。外部試験料別途"
+      }
+    ]
+  },
+  "historicalFees": [
+    {
+      "academicYear": "2024/2025",
+      "tuitionMinAnnual": 15000,
+      "tuitionMaxAnnual": 36000,
+      "tuitionDisplay": "RM 15,000 – RM 36,000 / 年",
+      "items": []
+    }
+  ],
+  "websiteUrl": "https://www.miskl.edu.my",
+  "contact": {
+    "email": "marketing@miskl.edu.my",
+    "phone": "+60 3-5102 2200"
+  },
+  "lastVerified": "October 2026",
+  "sources": [
+    {
+      "url": "https://www.miskl.edu.my",
+      "title": "MAHSA International School Official Website",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    },
+    {
+      "url": "https://www.miskl.edu.my/admission.php",
+      "title": "MISKL Admissions & Fee Application Information",
+      "sourceType": "official",
+      "checkedAt": "2026-10",
+      "academicYear": "2026/2027"
+    }
+  ],
+  "logoUrl": "/img/schools/logos/mahsa-international-school.jpg"
+}
