@@ -7,10 +7,14 @@ import { getAllSchools } from '@/lib/schools';
 export const metadata: Metadata = {
   title: 'アジア各国のインターナショナルスクール検索・比較ポータル | H2works School Finder',
   description: 'マレーシアをはじめとするアジア各国のインターナショナルスクールを、学費、カリキュラム（英国式・IB・アメリカ式等）、対象年齢、スクールバス、日本語サポートなどの条件から横断検索・比較できる保護者向け教育データベースポータル。',
+  alternates: {
+    canonical: '/school',
+  },
   openGraph: {
     title: 'International School Finder | H2works',
     description: 'アジア各国のインターナショナルスクールを条件検索・詳細比較できる公式エビデンス型データベースポータル。',
     type: 'website',
+    url: 'https://www.h2works.xyz/school',
   },
 };
 

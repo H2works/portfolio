@@ -7,10 +7,14 @@ import { getAllSchools } from '@/lib/schools';
 export const metadata: Metadata = {
   title: 'マレーシア インターナショナルスクール一覧・検索 | H2works School Finder',
   description: 'マレーシア（クアラルンプール・セランゴール）のインターナショナルスクール一覧。カリキュラム、学費上限、対象年齢、スクールバス、日本語サポートなどの条件で即時絞り込み検索。',
+  alternates: {
+    canonical: '/school/malaysia',
+  },
   openGraph: {
     title: 'マレーシア インターナショナルスクール一覧・検索 | H2works',
     description: 'マレーシアのインターナショナルスクール一覧。条件で即時絞り込み検索。',
     type: 'website',
+    url: 'https://www.h2works.xyz/school/malaysia',
   },
 };
 

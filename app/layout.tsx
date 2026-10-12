@@ -3,6 +3,7 @@ import '@/styles/globals.scss';
 import AOSInit from '@/components/AOSInit';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://www.h2works.xyz'),
   title: 'H2works | Portfolio',
   description: 'H2works のポートフォリオサイト。Next.js / TypeScript / microCMS / Cloudflare Pages / Tailwind CSS / React / SEO・パフォーマンス最適化を中心に、Web制作・開発を行っています。',
   authors: [{ name: 'H2works' }],
@@ -14,6 +15,7 @@ export const metadata: Metadata = {
     description: 'H2works のポートフォリオサイト。Next.js / TypeScript / microCMS / Cloudflare Pages / Tailwind CSS / React / SEO・パフォーマンス最適化を中心に、Web制作・開発を行っています。',
     type: 'website',
     locale: 'ja_JP',
+    url: 'https://www.h2works.xyz',
   },
 };
 

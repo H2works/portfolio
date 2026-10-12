@@ -7,7 +7,7 @@ import { EDUCATION_CATEGORIES } from '@/lib/educationCategories';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://h2works.xyz';
+  const baseUrl = 'https://www.h2works.xyz';
 
   // 1. Static Portfolio & Corporate Pages
   const staticRoutes: MetadataRoute.Sitemap = [

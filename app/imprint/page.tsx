@@ -1,5 +1,14 @@
+import type { Metadata } from 'next';
 import MainLayout from '@/components/MainLayout';
 import Link from 'next/link';
+
+export const metadata: Metadata = {
+  title: 'サイト情報・免責事項・プライバシーポリシー | H2works',
+  description: 'H2worksのサイト情報、免責事項、プライバシーポリシーについて記載しています。',
+  alternates: {
+    canonical: '/imprint',
+  },
+};
 
 export default function Imprint() {
   return (

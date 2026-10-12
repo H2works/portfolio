@@ -15,20 +15,20 @@ export default function EducationStructuredData({ post, url }: StructuredDataPro
     },
     headline: post.title,
     description: post.description,
-    image: post.coverImage ? `https://h2works.xyz${post.coverImage}` : undefined,
+    image: post.coverImage ? `https://www.h2works.xyz${post.coverImage}` : undefined,
     datePublished: post.publishedAt,
     dateModified: post.updatedAt || post.publishedAt,
     author: {
       '@type': 'Person',
       name: 'H2works',
-      url: 'https://h2works.xyz/aboutme',
+      url: 'https://www.h2works.xyz/aboutme',
     },
     publisher: {
       '@type': 'Organization',
       name: 'H2works Education',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://h2works.xyz/favicon.svg',
+        url: 'https://www.h2works.xyz/favicon.svg',
       },
     },
   };
@@ -41,13 +41,13 @@ export default function EducationStructuredData({ post, url }: StructuredDataPro
         '@type': 'ListItem',
         position: 1,
         name: 'Education',
-        item: 'https://h2works.xyz/education',
+        item: 'https://www.h2works.xyz/education',
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: post.category,
-        item: `https://h2works.xyz/education/${post.category}`,
+        item: `https://www.h2works.xyz/education/${post.category}`,
       },
       {
         '@type': 'ListItem',

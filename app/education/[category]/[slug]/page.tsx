@@ -37,7 +37,7 @@ export async function generateMetadata({
   }
 
   const categoryInfo = getEducationCategoryBySlug(category);
-  const siteUrl = 'https://h2works.xyz';
+  const siteUrl = 'https://www.h2works.xyz';
   const postUrl = `${siteUrl}/education/${category}/${slug}`;
 
   return {
@@ -71,7 +71,7 @@ export default async function EducationDetailPage({
   }
 
   const category = getEducationCategoryBySlug(categorySlug);
-  const postUrl = `https://h2works.xyz/education/${categorySlug}/${slug}`;
+  const postUrl = `https://www.h2works.xyz/education/${categorySlug}/${slug}`;
 
   return (
     <EducationLayout>

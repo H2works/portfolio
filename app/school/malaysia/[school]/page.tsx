@@ -27,14 +27,19 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const title = `${school.name} 学費・カリキュラム・入学情報 | マレーシア School Finder`;
   const description = `${school.name}（${school.location?.city || ''}・${school.location?.area || ''}）の学費（${school.currentFees?.academicYear || '最新'}度）、カリキュラム（${(school.curricula || []).join('・')}）、対象年齢（${school.ageRange?.display || ''}歳）、バス送迎、日本語対応状況の詳細情報。`;
+  const pageUrl = `/school/malaysia/${school.slug}`;
 
   return {
     title,
     description,
+    alternates: {
+      canonical: pageUrl,
+    },
     openGraph: {
       title,
       description,
       type: 'website',
+      url: `https://www.h2works.xyz${pageUrl}`,
     },
   };
 }
@@ -48,9 +53,9 @@ export default async function SchoolDetailPage({ params }: PageProps) {
   }
 
   const breadcrumbs = [
-    { name: 'School Finder', url: 'https://h2works.xyz/school' },
-    { name: 'Malaysia', url: 'https://h2works.xyz/school/malaysia' },
-    { name: school.name, url: `https://h2works.xyz/school/malaysia/${school.slug}` },
+    { name: 'School Finder', url: 'https://www.h2works.xyz/school' },
+    { name: 'Malaysia', url: 'https://www.h2works.xyz/school/malaysia' },
+    { name: school.name, url: `https://www.h2works.xyz/school/malaysia/${school.slug}` },
   ];
 
   return (

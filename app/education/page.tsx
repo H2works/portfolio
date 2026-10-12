@@ -13,11 +13,15 @@ import { EDUCATION_CATEGORIES } from '@/lib/educationCategories';
 export const metadata: Metadata = {
   title: 'H2works Education | 海外教育・インターナショナルスクール・通信制高校メディア',
   description: 'マレーシア留学、インターナショナルスクール選び、海外在住者の通信制高校活用、大学進学ルートなど、多様化する教育・進路の選択肢をわかりやすく整理して発信する教育情報メディアです。',
+  alternates: {
+    canonical: '/education',
+  },
   openGraph: {
     title: 'H2works Education | 海外教育・進路情報メディア',
     description: 'マレーシア留学、インターナショナルスクール選び、海外在住者の通信制高校活用、大学進学ルートなど、多様化する教育・進路の選択肢をわかりやすく整理して発信する教育情報メディアです。',
     type: 'website',
     locale: 'ja_JP',
+    url: 'https://www.h2works.xyz/education',
   },
 };
 

@@ -1,6 +1,15 @@
+import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import MainLayout from '@/components/MainLayout';
+
+export const metadata: Metadata = {
+  title: 'About Me | H2works',
+  description: 'マレーシア在住のエンジニア、H2worksの経歴・開発実績・活動についての紹介です。',
+  alternates: {
+    canonical: '/aboutme',
+  },
+};
 
 export default function AboutMe() {
   return (

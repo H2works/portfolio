@@ -32,13 +32,19 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
     };
   }
 
+  const pageUrl = `/education/${categorySlug}`;
+
   return {
     title: `${category.name} | H2works Education`,
     description: category.metaDescription,
+    alternates: {
+      canonical: pageUrl,
+    },
     openGraph: {
       title: `${category.name} | H2works Education`,
       description: category.metaDescription,
       type: 'website',
+      url: `https://www.h2works.xyz${pageUrl}`,
       locale: 'ja_JP',
     },
   };

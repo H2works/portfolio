@@ -8,10 +8,14 @@ import { getAllSchools } from '@/lib/schools';
 export const metadata: Metadata = {
   title: 'インターナショナルスクール比較 | H2works School Finder',
   description: 'マレーシアのインターナショナルスクールを最大4校まで横並びで比較。学費、カリキュラム、スクールバス、日本語サポート、設備などの違いをひと目で確認。',
+  alternates: {
+    canonical: '/school/compare',
+  },
   openGraph: {
     title: 'インターナショナルスクール比較 | H2works School Finder',
     description: 'マレーシアのインターナショナルスクールを横並びで比較。',
     type: 'website',
+    url: 'https://www.h2works.xyz/school/compare',
   },
 };
 

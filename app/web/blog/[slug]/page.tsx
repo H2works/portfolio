@@ -22,13 +22,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
 
+  const pageUrl = `/web/blog/${post.slug}`;
+
   return {
     title: `${post.title} | H2works Blog`,
     description: post.description || `${post.title}についての記事です。`,
+    alternates: {
+      canonical: pageUrl,
+    },
     openGraph: {
       title: `${post.title} | H2works Blog`,
       description: post.description || `${post.title}についての記事です。`,
       type: 'article',
+      url: `https://www.h2works.xyz${pageUrl}`,
       publishedTime: post.date,
     },
   };

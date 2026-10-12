@@ -6,10 +6,14 @@ import { getAllPosts } from '@/lib/posts';
 export const metadata: Metadata = {
   title: 'Blog | H2works',
   description: 'Next.js、TypeScript、Web開発、パフォーマンス最適化、SEOなどに関する技術ブログ・開発メモです。',
+  alternates: {
+    canonical: '/web/blog',
+  },
   openGraph: {
     title: 'Blog | H2works',
     description: 'Next.js、TypeScript、Web開発、パフォーマンス最適化、SEOなどに関する技術ブログ・開発メモです。',
     type: 'website',
+    url: 'https://www.h2works.xyz/web/blog',
   },
 };
 
