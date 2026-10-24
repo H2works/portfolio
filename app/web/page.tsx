@@ -3,6 +3,7 @@ import Link from 'next/link';
 import WebServiceHeader from '@/components/web/WebServiceHeader';
 import WebServiceFooter from '@/components/web/WebServiceFooter';
 import WebServiceContactForm from '@/components/web/WebServiceContactForm';
+import { MigrationIllustration } from '@/components/web/WebServiceVisuals';
 
 export const metadata: Metadata = {
   title: '放置WordPress・ノーコードからの静的化乗り換え・Web制作 | H2works',
@@ -30,7 +31,7 @@ export default function WebServicePage() {
         <section className="hero-section">
           <div className="container">
             <div className="row align-items-center">
-              <div className="col-12 col-lg-8" data-aos="fade-up">
+              <div className="col-12 col-lg-7" data-aos="fade-up">
                 <div className="hero-badge">
                   <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" className="bi bi-shield-lock" viewBox="0 0 16 16">
                     <path d="M5.338 1.59a61.44 61.44 0 0 0-2.837.856.481.481 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.725 10.725 0 0 0 2.287 2.233c.346.244.652.42.893.533.12.057.218.095.293.118a.55.55 0 0 0 .101.025.615.615 0 0 0 .1-.025c.076-.023.174-.061.294-.118.24-.113.547-.29.893-.533a10.726 10.726 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.775 11.775 0 0 1-2.517 2.453 7.159 7.159 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7.158 7.158 0 0 1-1.048-.625 11.777 11.777 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 62.456 62.456 0 0 1 5.072.56z"/>
@@ -47,7 +48,7 @@ export default function WebServicePage() {
                 <p className="hero-lead">
                   昔作ったWordPressの脆弱性が怖い…、ノーコードツール（WixやJimdo等）の有料プラン代をなんとなく払い続けている…。
                   H2worksでは、既存サイトを「ただの静的HTML」へ変換してサーバーレス配信。
-                  ハッカーが狙う裏口（管理画面やデータベース）をネット上から完全に無くすため、<strong>放置しても絶対に改ざんされず、一瞬でパッと開き、初期5万円・維持費0円〜</strong>で運用できます。
+                  ハッカーが狙う裏口（管理画面やデータベース）をネット上から完全に無くすため、<strong>放置しても絶対に改ざんされず<sup>※</sup>、一瞬でパッと開き、初期5万円・維持費0円〜</strong>で運用できます。
                 </p>
 
                 <div className="hero-cta-group">
@@ -93,23 +94,8 @@ export default function WebServicePage() {
                 </div>
               </div>
 
-              <div className="col-12 col-lg-4 mt-4 mt-lg-0" data-aos="fade-left">
-                <div className="card border shadow-sm p-4 bg-white rounded-3">
-                  <div className="d-flex align-items-center mb-3">
-                    <span className="badge bg-danger text-white px-2 py-1 small me-2">Warning</span>
-                    <span className="small text-secondary fw-semibold">WordPress放置の危険度</span>
-                  </div>
-                  <p className="small text-secondary mb-3 lh-base">
-                    世界中のハッカーは、更新されていない古いWordPressの「ログイン画面」や「古いプラグイン」を自動巡回で攻撃しています。乗っ取られて詐欺サイトへリダイレクトされる前に、安全な静的サイトへの移行をおすすめします。
-                  </p>
-                  <div className="p-3 bg-light rounded small border">
-                    <div className="fw-semibold text-dark mb-1">現在のサイト、安全ですか？</div>
-                    <div className="text-secondary mb-2">「うちのサイトは大丈夫？」という無料診断だけでもお気軽にどうぞ。</div>
-                    <a href="#contact" className="btn btn-sm btn-dark w-100 fw-semibold">
-                      サイトの無料診断を依頼する
-                    </a>
-                  </div>
-                </div>
+              <div className="col-12 col-lg-5 mt-4 mt-lg-0" data-aos="fade-left">
+                <MigrationIllustration />
               </div>
             </div>
           </div>
@@ -221,7 +207,7 @@ export default function WebServicePage() {
           <div className="container">
             <div className="section-header" data-aos="fade-up">
               <span className="section-eyebrow">Zero Vulnerability</span>
-              <h2 className="section-title">なぜ「静的HTML」なら絶対に攻撃されないのか？</h2>
+              <h2 className="section-title">なぜ「静的HTML」なら絶対に攻撃されないのか？<sup>※</sup></h2>
               <p className="section-subtitle">
                 「セキュリティ対策を頑張る」のではなく、「攻撃できる場所そのものを無くす」という根本的な解決策です。
               </p>
@@ -275,7 +261,7 @@ export default function WebServicePage() {
                         <path d="M5.338 1.59a61.44 61.44 0 0 0-2.837.856.481.481 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.725 10.725 0 0 0 2.287 2.233c.346.244.652.42.893.533.12.057.218.095.293.118a.55.55 0 0 0 .101.025.615.615 0 0 0 .1-.025c.076-.023.174-.061.294-.118.24-.113.547-.29.893-.533a10.726 10.726 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.775 11.775 0 0 1-2.517 2.453 7.159 7.159 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7.158 7.158 0 0 1-1.048-.625 11.777 11.777 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 62.456 62.456 0 0 1 5.072.56z"/>
                         <path d="M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
                       </svg>
-                      <span>侵入できる隙がないため、<strong>放置しても改ざん・乗っ取りのリスクはゼロ</strong>。面倒なセキュリティ更新も不要です。</span>
+                      <span>侵入できる隙がないため、<strong>放置しても改ざん・乗っ取りのリスクは実質ゼロ<sup>※</sup></strong>。面倒なセキュリティ更新も不要です。</span>
                     </li>
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#16a34a" className="bi bi-shield-check" viewBox="0 0 16 16">
@@ -288,6 +274,11 @@ export default function WebServicePage() {
                 </div>
               </div>
             </div>
+
+            {/* 注記 */}
+            <p className="text-secondary mt-3 mb-0" style={{ fontSize: '0.75rem', lineHeight: '1.6' }} data-aos="fade-up">
+              ※Cloudflareで静的配信します。レンタルサーバーを使わないためFTP等の窓もありません。外部JavaScriptの読み込みもしません。攻撃の窓が極端に少ないという意味になります。
+            </p>
           </div>
         </section>
 
