@@ -22,14 +22,14 @@ export default function Home() {
             width={80}
             height={80}
             className="rounded-circle mb-4 shadow-sm mt-2 mt-xxl-4 hoh img-fluid"
-            alt="A image of Jane Doe"
+            alt="H2works 代表"
           />
         </div>
         <h1 className={`fw-lighter ${darkMode ? 'text-white' : 'text-black'}`}>
           マレーシアのIT企業で働くエンジニアです。子育てをしながら、個人でWeb開発やサービス運営をしています。
         </h1>
         <p className="lead py-4">
-          家族と一緒にマレーシアへ移住し、日々の生活や子どもの教育に向き合いながら、Next.js や TypeScript を使ったWebツール・メディアの開発に取り組んでいます。
+          家族と一緒にマレーシアへ移住し、日々の生活や子どもの教育に向き合いながら、Next.js や TypeScript を使ったWeb制作・ツール・メディアの開発に取り組んでいます。
         </p>
         <div className="row d-flex align-items-center mb-2 mb-xxl-4 text-center text-sm-start mx-0">
           <Link
@@ -54,8 +54,30 @@ export default function Home() {
           </Link>
         </div>
       </div>
-      <div className="py-vh-3 overflow-x-hidden">
-        <h2 className="h6 mb-4 px-4" data-aos="fade-left" data-aos-delay="200">Side Projects:</h2>
+
+      <div className="py-vh-2 overflow-x-hidden">
+        <h2 className="h6 mb-3 px-4" data-aos="fade-left" data-aos-delay="200">Services:</h2>
+        <div className="p-4 mx-3 mb-4 rounded border bg-white shadow-sm" data-aos="fade-left" data-aos-delay="200">
+          <div className="d-flex align-items-center gap-2 mb-2">
+            <span className="badge bg-primary text-white" style={{ fontSize: '0.75rem', backgroundColor: '#2563eb' }}>
+              Renewal &amp; Production
+            </span>
+            <span className="small text-secondary fw-semibold">初期5万円〜 / 月額0円〜</span>
+          </div>
+          <h3 className="h5 fw-bold mb-2">
+            <Link href="/web" className={`${darkMode ? 'link-light' : 'link-dark'} text-decoration-none`}>
+              放置WordPress・ノーコード乗り換え・Webサイト静的化サービス
+            </Link>
+          </h3>
+          <p className="small text-secondary mb-3">
+            放置されたWordPressの脆弱性や、毎月払い続けるノーコードツールの固定費にお困りの方へ。既存サイトを「攻撃する場所がない静的HTML」へ初期5万円で移行。月々の運用費0円（都度見積もり）または月額500円で安心運用できます。
+          </p>
+          <Link href="/web" className="btn btn-sm btn-outline-dark fw-semibold">
+            料金プラン・サービス詳細を見る →
+          </Link>
+        </div>
+
+        <h2 className="h6 mb-4 px-4 pt-3" data-aos="fade-left" data-aos-delay="200">Side Projects:</h2>
         <div className="d-flex align-items-center p-4" data-aos="fade-left" data-aos-delay="200">
           <div className="me-4">
             <Image src="/img/webp/school_finder_xs.webp" width={80} height={80} className="rounded-circle shadow-sm" alt="International School Finder" />

@@ -1,0 +1,1008 @@
+// Web制作サービスLP専用スタイル (UI/UXデザイン原則: 絵文字厳禁、単色SVG/クリーンなバッジ採用)
+
+.web-service-lp {
+  color: #1e293b;
+  background-color: #ffffff;
+  font-family: var(--bs-font-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif);
+  line-height: 1.7;
+
+  // カラー定義
+  $primary-color: #2563eb;
+  $primary-dark: #1d4ed8;
+  $dark-color: #0f172a;
+  $slate-color: #334155;
+  $muted-color: #64748b;
+  $light-bg: #f8fafc;
+  $border-color: #e2e8f0;
+
+  // スティッキーヘッダー
+  .lp-header {
+    position: sticky;
+    top: 0;
+    z-index: 1030;
+    background-color: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid $border-color;
+    transition: all 0.2s ease;
+
+    .brand-link {
+      font-weight: 700;
+      font-size: 1.25rem;
+      letter-spacing: -0.02em;
+      color: $dark-color;
+      text-decoration: none;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+
+    .nav-link {
+      font-size: 0.925rem;
+      font-weight: 500;
+      color: $slate-color;
+      padding: 0.5rem 0.85rem;
+      transition: color 0.15s ease;
+
+      &:hover {
+        color: $primary-color;
+      }
+    }
+
+    .btn-header-cta {
+      background-color: $dark-color;
+      color: #ffffff;
+      font-size: 0.875rem;
+      font-weight: 600;
+      padding: 0.5rem 1.15rem;
+      border-radius: 6px;
+      transition: all 0.15s ease;
+      text-decoration: none;
+
+      &:hover {
+        background-color: $primary-color;
+        color: #ffffff;
+      }
+    }
+  }
+
+  // ヒーローセクション
+  .hero-section {
+    padding: 4.5rem 0 3.5rem;
+    background: linear-gradient(180deg, #ffffff 0%, $light-bg 100%);
+    border-bottom: 1px solid $border-color;
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.35rem 0.85rem;
+      background-color: #eff6ff;
+      border: 1px solid #bfdbfe;
+      color: $primary-color;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      border-radius: 9999px;
+      margin-bottom: 1.5rem;
+    }
+
+    .hero-title {
+      font-size: 2.1rem;
+      font-weight: 800;
+      line-height: 1.35;
+      letter-spacing: -0.03em;
+      color: $dark-color;
+      margin-bottom: 1.5rem;
+
+      @media (min-width: 768px) {
+        font-size: 2.85rem;
+      }
+
+      .text-highlight {
+        color: $primary-color;
+        display: block;
+      }
+    }
+
+    .hero-lead {
+      font-size: 1.1rem;
+      color: $slate-color;
+      line-height: 1.85;
+      max-width: 44rem;
+      margin-bottom: 2rem;
+    }
+
+    .hero-cta-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+      margin-bottom: 2.5rem;
+    }
+
+    .hero-features {
+      border-top: 1px solid $border-color;
+      padding-top: 1.75rem;
+
+      .feature-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-size: 0.875rem;
+        font-weight: 600;
+        color: $slate-color;
+        margin-right: 1.75rem;
+        margin-bottom: 0.5rem;
+
+        svg {
+          color: $primary-color;
+          flex-shrink: 0;
+        }
+      }
+    }
+  }
+
+  // セクション共通
+  .section-padding {
+    padding: 5rem 0;
+  }
+
+  .section-header {
+    text-align: center;
+    max-width: 46rem;
+    margin: 0 auto 3.5rem;
+
+    .section-eyebrow {
+      display: inline-block;
+      font-size: 0.8125rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: $primary-color;
+      margin-bottom: 0.5rem;
+    }
+
+    .section-title {
+      font-size: 1.875rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      color: $dark-color;
+      margin-bottom: 1rem;
+
+      @media (min-width: 768px) {
+        font-size: 2.25rem;
+      }
+    }
+
+    .section-subtitle {
+      font-size: 1rem;
+      color: $muted-color;
+      line-height: 1.7;
+    }
+  }
+
+  // お悩みセクション
+  .problem-section {
+    background-color: $light-bg;
+    border-bottom: 1px solid $border-color;
+
+    .problem-card {
+      background-color: #ffffff;
+      border: 1px solid $border-color;
+      border-left: 3px solid #ef4444;
+      border-radius: 8px;
+      padding: 1.25rem 1.5rem;
+      height: 100%;
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+
+      .problem-icon {
+        color: #ef4444;
+        flex-shrink: 0;
+        margin-top: 0.2rem;
+      }
+
+      .problem-text {
+        font-size: 0.95rem;
+        font-weight: 600;
+        color: $slate-color;
+        line-height: 1.6;
+        margin: 0;
+      }
+    }
+
+    .solution-banner {
+      background-color: $dark-color;
+      color: #ffffff;
+      border-radius: 12px;
+      padding: 2.25rem 2.5rem;
+      margin-top: 3rem;
+      text-align: center;
+
+      .solution-title {
+        font-size: 1.35rem;
+        font-weight: 700;
+        margin-bottom: 0.75rem;
+        color: #ffffff;
+      }
+
+      .solution-desc {
+        color: #cbd5e1;
+        font-size: 0.975rem;
+        margin: 0;
+        line-height: 1.7;
+      }
+    }
+  }
+
+  // なぜ静的HTMLが安全なのか（仕組み解説セクション）
+  .mechanism-section {
+    background-color: #ffffff;
+    border-bottom: 1px solid $border-color;
+
+    .mechanism-box {
+      border: 1px solid $border-color;
+      border-radius: 12px;
+      padding: 2rem;
+      height: 100%;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+
+      &.danger-side {
+        background-color: #fffaf0;
+        border-color: #fed7aa;
+        border-top: 4px solid #ea580c;
+
+        .mechanism-badge {
+          background-color: #ffedd5;
+          color: #c2410c;
+        }
+      }
+
+      &.safe-side {
+        background-color: #f0fdf4;
+        border-color: #bbf7d0;
+        border-top: 4px solid #16a34a;
+
+        .mechanism-badge {
+          background-color: #dcfce7;
+          color: #15803d;
+        }
+      }
+
+      .mechanism-badge {
+        display: inline-block;
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 0.25rem 0.65rem;
+        border-radius: 4px;
+        margin-bottom: 1rem;
+      }
+
+      .mechanism-title {
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: $dark-color;
+        margin-bottom: 1rem;
+      }
+
+      .mechanism-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        li {
+          font-size: 0.9rem;
+          color: $slate-color;
+          line-height: 1.65;
+          margin-bottom: 0.75rem;
+          display: flex;
+          align-items: flex-start;
+          gap: 0.6rem;
+
+          svg {
+            flex-shrink: 0;
+            margin-top: 0.25rem;
+          }
+        }
+      }
+    }
+  }
+
+  // 比較表セクション
+  .comparison-section {
+    background-color: $light-bg;
+    border-bottom: 1px solid $border-color;
+
+    .comparison-table-wrapper {
+      background-color: #ffffff;
+      border: 1px solid $border-color;
+      border-radius: 12px;
+      overflow-x: auto;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+
+      table {
+        width: 100%;
+        margin-bottom: 0;
+        border-collapse: collapse;
+
+        th, td {
+          padding: 1.15rem 1.25rem;
+          vertical-align: middle;
+          border-bottom: 1px solid $border-color;
+          font-size: 0.925rem;
+        }
+
+        th {
+          background-color: #f1f5f9;
+          font-weight: 700;
+          color: $dark-color;
+          text-align: left;
+        }
+
+        .highlight-col {
+          background-color: #eff6ff !important;
+          border-left: 2px solid $primary-color;
+          border-right: 2px solid $primary-color;
+          font-weight: 600;
+          color: $dark-color;
+        }
+
+        tr:last-child td {
+          border-bottom: none;
+        }
+      }
+    }
+  }
+
+  // 特徴セクション
+  .features-section {
+    border-bottom: 1px solid $border-color;
+
+    .feature-box {
+      background-color: #ffffff;
+      border: 1px solid $border-color;
+      border-radius: 12px;
+      padding: 2.25rem 2rem;
+      height: 100%;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+
+      &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+      }
+
+      .feature-icon-wrapper {
+        width: 48px;
+        height: 48px;
+        border-radius: 10px;
+        background-color: #eff6ff;
+        color: $primary-color;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 1.25rem;
+      }
+
+      .feature-number {
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        color: $primary-color;
+        text-transform: uppercase;
+        margin-bottom: 0.5rem;
+      }
+
+      .feature-title {
+        font-size: 1.25rem;
+        font-weight: 700;
+        color: $dark-color;
+        margin-bottom: 0.85rem;
+        letter-spacing: -0.01em;
+      }
+
+      .feature-desc {
+        font-size: 0.925rem;
+        color: $slate-color;
+        line-height: 1.7;
+        margin: 0;
+      }
+    }
+  }
+
+  // 制作実績セクション
+  .works-section {
+    background-color: $light-bg;
+    border-bottom: 1px solid $border-color;
+
+    .work-card {
+      background-color: #ffffff;
+      border: 1px solid $border-color;
+      border-radius: 12px;
+      overflow: hidden;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+      &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+      }
+
+      .work-header {
+        background-color: #f1f5f9;
+        border-bottom: 1px solid $border-color;
+        padding: 1rem 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        .work-tag {
+          font-size: 0.75rem;
+          font-weight: 600;
+          padding: 0.2rem 0.6rem;
+          background-color: #ffffff;
+          border: 1px solid #cbd5e1;
+          border-radius: 4px;
+          color: $slate-color;
+        }
+
+        .work-tech {
+          font-size: 0.75rem;
+          font-weight: 600;
+          color: $primary-color;
+        }
+      }
+
+      .work-body {
+        padding: 1.5rem;
+        flex-grow: 1;
+
+        .work-title {
+          font-size: 1.15rem;
+          font-weight: 700;
+          color: $dark-color;
+          margin-bottom: 0.75rem;
+
+          a {
+            color: inherit;
+            text-decoration: none;
+
+            &:hover {
+              color: $primary-color;
+            }
+          }
+        }
+
+        .work-desc {
+          font-size: 0.875rem;
+          color: $slate-color;
+          line-height: 1.65;
+          margin-bottom: 1rem;
+        }
+
+        .work-points {
+          list-style: none;
+          padding: 0;
+          margin: 0;
+          font-size: 0.8125rem;
+          color: $muted-color;
+
+          li {
+            position: relative;
+            padding-left: 1.25rem;
+            margin-bottom: 0.35rem;
+
+            &::before {
+              content: "•";
+              position: absolute;
+              left: 0.25rem;
+              color: $primary-color;
+              font-weight: bold;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  // 料金プランセクション
+  .pricing-section {
+    border-bottom: 1px solid $border-color;
+
+    .pricing-category-title {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: $dark-color;
+      margin-bottom: 1.5rem;
+
+      .badge-category {
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 0.25rem 0.65rem;
+        border-radius: 4px;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+
+        &.badge-initial {
+          background-color: #eff6ff;
+          color: $primary-color;
+          border: 1px solid #bfdbfe;
+        }
+
+        &.badge-running {
+          background-color: #f0fdf4;
+          color: #16a34a;
+          border: 1px solid #bbf7d0;
+        }
+      }
+    }
+
+    // 基本初期費用カード
+    .main-initial-card {
+      background-color: #ffffff;
+      border: 2px solid $primary-color;
+      border-radius: 12px;
+      padding: 2.25rem 2rem;
+      box-shadow: 0 4px 20px rgba(37, 99, 235, 0.08);
+      position: relative;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+
+      .plan-badge {
+        position: absolute;
+        top: -12px;
+        left: 2rem;
+        background-color: $primary-color;
+        color: #ffffff;
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 0.25rem 0.85rem;
+        border-radius: 9999px;
+      }
+
+      .plan-name {
+        font-size: 1.4rem;
+        font-weight: 800;
+        color: $dark-color;
+        margin-bottom: 0.5rem;
+      }
+
+      .plan-summary {
+        font-size: 0.9rem;
+        color: $slate-color;
+        margin-bottom: 1.25rem;
+        line-height: 1.6;
+      }
+
+      .plan-price-wrapper {
+        border-top: 1px solid $border-color;
+        border-bottom: 1px solid $border-color;
+        padding: 1.25rem 0;
+        margin-bottom: 1.5rem;
+
+        .plan-price {
+          font-size: 2.5rem;
+          font-weight: 800;
+          color: $dark-color;
+          line-height: 1;
+
+          .tax-note {
+            font-size: 0.85rem;
+            font-weight: normal;
+            color: $muted-color;
+            margin-left: 0.35rem;
+          }
+        }
+
+        .plan-period {
+          font-size: 0.8125rem;
+          color: $muted-color;
+          margin-top: 0.5rem;
+        }
+      }
+
+      .plan-features {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 1.75rem;
+        flex-grow: 1;
+
+        li {
+          display: flex;
+          align-items: flex-start;
+          gap: 0.6rem;
+          font-size: 0.9rem;
+          color: $slate-color;
+          margin-bottom: 0.75rem;
+          line-height: 1.55;
+
+          svg {
+            color: $primary-color;
+            flex-shrink: 0;
+            margin-top: 0.2rem;
+          }
+        }
+      }
+
+      .plan-disclaimer {
+        font-size: 0.8rem;
+        color: #dc2626;
+        background-color: #fef2f2;
+        padding: 0.6rem 0.85rem;
+        border-radius: 6px;
+        margin-bottom: 1.5rem;
+        line-height: 1.5;
+      }
+    }
+
+    // オプションカード
+    .option-card {
+      background-color: #ffffff;
+      border: 1px solid $border-color;
+      border-radius: 12px;
+      padding: 1.75rem;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+      &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+      }
+
+      .option-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 0.75rem;
+
+        .option-tag {
+          font-size: 0.75rem;
+          font-weight: 700;
+          color: #d97706;
+          background-color: #fef3c7;
+          padding: 0.2rem 0.55rem;
+          border-radius: 4px;
+        }
+
+        .option-price {
+          font-size: 1.35rem;
+          font-weight: 800;
+          color: $dark-color;
+        }
+      }
+
+      .option-title {
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: $dark-color;
+        margin-bottom: 0.5rem;
+      }
+
+      .option-desc {
+        font-size: 0.875rem;
+        color: $slate-color;
+        line-height: 1.6;
+        margin-bottom: 0.75rem;
+        flex-grow: 1;
+      }
+
+      .option-note {
+        font-size: 0.775rem;
+        color: $muted-color;
+        line-height: 1.5;
+        border-top: 1px dashed $border-color;
+        padding-top: 0.6rem;
+      }
+    }
+
+    // ランニングコストカード
+    .running-card {
+      background-color: #ffffff;
+      border: 1px solid $border-color;
+      border-radius: 12px;
+      padding: 2rem;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+
+      &.highlight-running {
+        border: 2px solid #16a34a;
+        background-color: #f0fdf4;
+      }
+
+      .running-badge {
+        display: inline-block;
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 0.2rem 0.65rem;
+        border-radius: 4px;
+        margin-bottom: 0.75rem;
+        align-self: flex-start;
+
+        &.badge-zero {
+          background-color: #e2e8f0;
+          color: $slate-color;
+        }
+
+        &.badge-support {
+          background-color: #dcfce7;
+          color: #15803d;
+        }
+      }
+
+      .running-title {
+        font-size: 1.25rem;
+        font-weight: 800;
+        color: $dark-color;
+        margin-bottom: 0.5rem;
+      }
+
+      .running-price-wrap {
+        border-top: 1px solid $border-color;
+        border-bottom: 1px solid $border-color;
+        padding: 1rem 0;
+        margin-bottom: 1.25rem;
+
+        .running-price {
+          font-size: 2.25rem;
+          font-weight: 800;
+          color: $dark-color;
+          line-height: 1;
+
+          .tax-note {
+            font-size: 0.85rem;
+            font-weight: normal;
+            color: $muted-color;
+          }
+        }
+      }
+
+      .running-desc {
+        font-size: 0.9rem;
+        color: $slate-color;
+        line-height: 1.65;
+        flex-grow: 1;
+        margin-bottom: 0;
+      }
+    }
+
+    .pricing-notes {
+      margin-top: 2.5rem;
+      padding: 1.25rem 1.5rem;
+      background-color: $light-bg;
+      border: 1px solid $border-color;
+      border-radius: 8px;
+      font-size: 0.8125rem;
+      color: $muted-color;
+      line-height: 1.7;
+    }
+  }
+
+  // 制作の流れセクション
+  .flow-section {
+    background-color: $light-bg;
+    border-bottom: 1px solid $border-color;
+
+    .flow-step-card {
+      background-color: #ffffff;
+      border: 1px solid $border-color;
+      border-radius: 10px;
+      padding: 1.75rem 1.5rem;
+      height: 100%;
+      position: relative;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+
+      .step-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 1rem;
+
+        .step-num {
+          font-size: 0.8125rem;
+          font-weight: 800;
+          letter-spacing: 0.05em;
+          color: #ffffff;
+          background-color: $dark-color;
+          padding: 0.25rem 0.65rem;
+          border-radius: 4px;
+        }
+
+        .step-time {
+          font-size: 0.75rem;
+          color: $muted-color;
+          font-weight: 500;
+        }
+      }
+
+      .step-title {
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: $dark-color;
+        margin-bottom: 0.75rem;
+      }
+
+      .step-desc {
+        font-size: 0.875rem;
+        color: $slate-color;
+        line-height: 1.65;
+        margin: 0;
+      }
+    }
+  }
+
+  // プロフィールセクション
+  .about-section {
+    border-bottom: 1px solid $border-color;
+
+    .profile-card {
+      background-color: $light-bg;
+      border: 1px solid $border-color;
+      border-radius: 12px;
+      padding: 2.5rem;
+
+      .profile-header {
+        display: flex;
+        align-items: center;
+        gap: 1.5rem;
+        margin-bottom: 1.75rem;
+
+        .profile-img {
+          width: 80px;
+          height: 80px;
+          border-radius: 50%;
+          object-fit: cover;
+          border: 2px solid #ffffff;
+          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+        }
+
+        .profile-title-block {
+          .profile-name {
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: $dark-color;
+            margin-bottom: 0.25rem;
+          }
+
+          .profile-role {
+            font-size: 0.875rem;
+            color: $muted-color;
+            font-weight: 500;
+          }
+        }
+      }
+
+      .profile-text {
+        font-size: 0.95rem;
+        color: $slate-color;
+        line-height: 1.8;
+        margin-bottom: 1.5rem;
+      }
+
+      .profile-meta-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid $border-color;
+
+        .meta-item {
+          .meta-label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: $muted-color;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.25rem;
+          }
+
+          .meta-value {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: $dark-color;
+          }
+        }
+      }
+    }
+  }
+
+  // FAQセクション
+  .faq-section {
+    background-color: $light-bg;
+    border-bottom: 1px solid $border-color;
+
+    .faq-card {
+      background-color: #ffffff;
+      border: 1px solid $border-color;
+      border-radius: 10px;
+      padding: 1.5rem 1.75rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+
+      .faq-question {
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: $dark-color;
+        margin-bottom: 0.75rem;
+        display: flex;
+        align-items: flex-start;
+        gap: 0.75rem;
+
+        .q-badge {
+          background-color: #eff6ff;
+          color: $primary-color;
+          font-size: 0.8125rem;
+          font-weight: 800;
+          padding: 0.15rem 0.5rem;
+          border-radius: 4px;
+          flex-shrink: 0;
+          margin-top: 0.1rem;
+        }
+      }
+
+      .faq-answer {
+        font-size: 0.925rem;
+        color: $slate-color;
+        line-height: 1.7;
+        margin: 0;
+        padding-left: 2.25rem;
+      }
+    }
+  }
+
+  // お問い合わせフォームセクション
+  .contact-section {
+    background-color: #ffffff;
+
+    .contact-container {
+      max-width: 44rem;
+      margin: 0 auto;
+    }
+
+    .contact-card {
+      background-color: $light-bg;
+      border: 1px solid $border-color;
+      border-radius: 12px;
+      padding: 2.5rem 2rem;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+    }
+  }
+
+  // フッター
+  .lp-footer {
+    background-color: $dark-color;
+    color: #94a3b8;
+    padding: 3rem 0 2rem;
+    font-size: 0.875rem;
+
+    a {
+      color: #cbd5e1;
+      text-decoration: none;
+      transition: color 0.15s ease;
+
+      &:hover {
+        color: #ffffff;
+      }
+    }
+
+    .footer-divider {
+      border-color: #334155;
+      margin: 2rem 0 1.5rem;
+    }
+  }
+}
