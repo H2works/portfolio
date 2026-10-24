@@ -1,10 +1,13 @@
-// Web制作サービスLP専用スタイル (UI/UXデザイン原則: 絵文字厳禁、単色SVG/クリーンなバッジ採用)
+// Web制作サービスLP専用スタイル (UI/UXデザイン原則: 絵文字厳禁、洗練されたカードデザイン、モダンタイポグラフィ)
 
 .web-service-lp {
   color: #1e293b;
   background-color: #ffffff;
   font-family: var(--bs-font-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif);
-  line-height: 1.7;
+  line-height: 1.75;
+  font-size: 1rem;
+  overflow-x: hidden;
+  width: 100%;
 
   // カラー定義
   $primary-color: #2563eb;
@@ -15,12 +18,22 @@
   $light-bg: #f8fafc;
   $border-color: #e2e8f0;
 
+  // ボタンの丸み（ユーザー要望：丸みを帯びたスタイル）
+  .btn {
+    border-radius: 8px;
+    transition: all 0.2s ease;
+
+    &:hover {
+      transform: translateY(-1px);
+    }
+  }
+
   // スティッキーヘッダー
   .lp-header {
     position: sticky;
     top: 0;
     z-index: 1030;
-    background-color: rgba(255, 255, 255, 0.95);
+    background-color: rgba(255, 255, 255, 0.98);
     backdrop-filter: blur(8px);
     border-bottom: 1px solid $border-color;
     transition: all 0.2s ease;
@@ -55,7 +68,7 @@
       font-size: 0.875rem;
       font-weight: 600;
       padding: 0.5rem 1.15rem;
-      border-radius: 6px;
+      border-radius: 8px;
       transition: all 0.15s ease;
       text-decoration: none;
 
@@ -68,25 +81,9 @@
 
   // ヒーローセクション
   .hero-section {
-    padding: 4.5rem 0 3.5rem;
-    background: linear-gradient(180deg, #ffffff 0%, $light-bg 100%);
+    padding: 5.5rem 0 4.5rem;
+    background-color: #ffffff;
     border-bottom: 1px solid $border-color;
-
-    .hero-badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.5rem;
-      padding: 0.35rem 0.85rem;
-      background-color: #eff6ff;
-      border: 1px solid #bfdbfe;
-      color: $primary-color;
-      font-size: 0.8125rem;
-      font-weight: 600;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      border-radius: 9999px;
-      margin-bottom: 1.5rem;
-    }
 
     .hero-title {
       font-size: 2.1rem;
@@ -107,7 +104,7 @@
     }
 
     .hero-lead {
-      font-size: 1.1rem;
+      font-size: 1.05rem;
       color: $slate-color;
       line-height: 1.85;
       max-width: 44rem;
@@ -122,47 +119,66 @@
       margin-bottom: 2.5rem;
     }
 
-    .hero-features {
+    .hero-guarantees {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
       border-top: 1px solid $border-color;
       padding-top: 1.75rem;
 
-      .feature-pill {
+      .guarantee-item {
         display: inline-flex;
         align-items: center;
-        gap: 0.5rem;
-        font-size: 0.875rem;
+        font-size: 0.9375rem;
         font-weight: 600;
         color: $slate-color;
-        margin-right: 1.75rem;
-        margin-bottom: 0.5rem;
 
         svg {
-          color: $primary-color;
           flex-shrink: 0;
         }
       }
     }
   }
 
+  .migration-visual {
+    width: 100%;
+    max-width: 560px;
+    margin-inline: auto;
+
+    svg {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  @media (max-width: 767.98px) {
+    .hero-section {
+      padding-top: 3.5rem;
+
+      .hero-title {
+        font-size: 1.85rem;
+      }
+    }
+
+    .migration-visual {
+      max-width: 460px;
+    }
+  }
+
   // セクション共通
   .section-padding {
-    padding: 5rem 0;
+    padding: 5.5rem 0;
+
+    @media (max-width: 767.98px) {
+      padding: 4rem 0;
+    }
   }
 
   .section-header {
     text-align: center;
     max-width: 46rem;
     margin: 0 auto 3.5rem;
-
-    .section-eyebrow {
-      display: inline-block;
-      font-size: 0.8125rem;
-      font-weight: 700;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: $primary-color;
-      margin-bottom: 0.5rem;
-    }
 
     .section-title {
       font-size: 1.875rem;
@@ -183,34 +199,34 @@
     }
   }
 
-  // お悩みセクション
+  // お悩みセクション（洗練されたモダンカード）
   .problem-section {
     background-color: $light-bg;
     border-bottom: 1px solid $border-color;
 
     .problem-card {
       background-color: #ffffff;
-      border: 1px solid $border-color;
-      border-left: 3px solid #ef4444;
-      border-radius: 8px;
-      padding: 1.25rem 1.5rem;
+      border-radius: 10px;
+      padding: 1.75rem;
       height: 100%;
-      display: flex;
-      align-items: flex-start;
-      gap: 1rem;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+      border: 1px solid $border-color;
+      transition: transform 0.15s ease;
 
-      .problem-icon {
-        color: #ef4444;
-        flex-shrink: 0;
-        margin-top: 0.2rem;
+      &:hover {
+        transform: translateY(-2px);
+      }
+
+      .problem-heading {
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: $dark-color;
+        margin-bottom: 0.65rem;
       }
 
       .problem-text {
-        font-size: 0.95rem;
-        font-weight: 600;
+        font-size: 0.9375rem;
         color: $slate-color;
-        line-height: 1.6;
+        line-height: 1.65;
         margin: 0;
       }
     }
@@ -219,8 +235,7 @@
       background-color: $dark-color;
       color: #ffffff;
       border-radius: 12px;
-      padding: 2.25rem 2.5rem;
-      margin-top: 3rem;
+      padding: 2.75rem 2.5rem;
       text-align: center;
 
       .solution-title {
@@ -235,6 +250,8 @@
         font-size: 0.975rem;
         margin: 0;
         line-height: 1.7;
+        max-width: 44rem;
+        margin-inline: auto;
       }
     }
   }
@@ -245,19 +262,16 @@
     border-bottom: 1px solid $border-color;
 
     .mechanism-box {
-      border: 1px solid $border-color;
       border-radius: 12px;
-      padding: 2rem;
+      padding: 2.25rem 2rem;
       height: 100%;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+      border: 1px solid $border-color;
 
       &.danger-side {
-        background-color: #fffaf0;
+        background-color: #fff7ed;
         border-color: #fed7aa;
-        border-top: 4px solid #ea580c;
 
         .mechanism-badge {
-          background-color: #ffedd5;
           color: #c2410c;
         }
       }
@@ -265,28 +279,23 @@
       &.safe-side {
         background-color: #f0fdf4;
         border-color: #bbf7d0;
-        border-top: 4px solid #16a34a;
 
         .mechanism-badge {
-          background-color: #dcfce7;
           color: #15803d;
         }
       }
 
       .mechanism-badge {
-        display: inline-block;
-        font-size: 0.75rem;
+        font-size: 0.875rem;
         font-weight: 700;
-        padding: 0.25rem 0.65rem;
-        border-radius: 4px;
-        margin-bottom: 1rem;
+        margin-bottom: 0.85rem;
       }
 
       .mechanism-title {
-        font-size: 1.2rem;
+        font-size: 1.25rem;
         font-weight: 700;
         color: $dark-color;
-        margin-bottom: 1rem;
+        margin-bottom: 1.25rem;
       }
 
       .mechanism-list {
@@ -295,17 +304,18 @@
         margin: 0;
 
         li {
-          font-size: 0.9rem;
+          font-size: 0.9375rem;
           color: $slate-color;
-          line-height: 1.65;
-          margin-bottom: 0.75rem;
+          line-height: 1.7;
+          margin-bottom: 1rem;
           display: flex;
           align-items: flex-start;
-          gap: 0.6rem;
+          gap: 0.65rem;
 
-          svg {
+          .bullet {
+            font-size: 1.2rem;
+            line-height: 1.4;
             flex-shrink: 0;
-            margin-top: 0.25rem;
           }
         }
       }
@@ -322,7 +332,6 @@
       border: 1px solid $border-color;
       border-radius: 12px;
       overflow-x: auto;
-      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
 
       table {
         width: 100%;
@@ -343,10 +352,11 @@
           text-align: left;
         }
 
+        // H2worksの静的Webの表の枠線
         .highlight-col {
           background-color: #eff6ff !important;
-          border-left: 2px solid $primary-color;
-          border-right: 2px solid $primary-color;
+          border-left: 2px solid $primary-color !important;
+          border-right: 2px solid $primary-color !important;
           font-weight: 600;
           color: $dark-color;
         }
@@ -354,47 +364,32 @@
         tr:last-child td {
           border-bottom: none;
         }
+
+        tr:last-child td.highlight-col {
+          border-bottom: 2px solid $primary-color !important;
+        }
+
+        thead tr th.highlight-col {
+          border-top: 2px solid $primary-color !important;
+        }
       }
     }
   }
 
-  // 特徴セクション
+  // 特徴セクション（洗練されたモダンカード）
   .features-section {
     border-bottom: 1px solid $border-color;
 
-    .feature-box {
-      background-color: #ffffff;
-      border: 1px solid $border-color;
+    .feature-card {
+      background-color: $light-bg;
       border-radius: 12px;
       padding: 2.25rem 2rem;
       height: 100%;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+      border: 1px solid $border-color;
+      transition: transform 0.2s ease;
 
       &:hover {
         transform: translateY(-3px);
-        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
-      }
-
-      .feature-icon-wrapper {
-        width: 48px;
-        height: 48px;
-        border-radius: 10px;
-        background-color: #eff6ff;
-        color: $primary-color;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-bottom: 1.25rem;
-      }
-
-      .feature-number {
-        font-size: 0.75rem;
-        font-weight: 700;
-        letter-spacing: 0.1em;
-        color: $primary-color;
-        text-transform: uppercase;
-        margin-bottom: 0.5rem;
       }
 
       .feature-title {
@@ -406,7 +401,7 @@
       }
 
       .feature-desc {
-        font-size: 0.925rem;
+        font-size: 0.9375rem;
         color: $slate-color;
         line-height: 1.7;
         margin: 0;
@@ -414,7 +409,7 @@
     }
   }
 
-  // 制作実績セクション
+  // 制作実績セクション（モダンカード）
   .works-section {
     background-color: $light-bg;
     border-bottom: 1px solid $border-color;
@@ -423,91 +418,55 @@
       background-color: #ffffff;
       border: 1px solid $border-color;
       border-radius: 12px;
-      overflow: hidden;
+      padding: 2rem;
       height: 100%;
       display: flex;
       flex-direction: column;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      transition: transform 0.2s ease;
 
       &:hover {
         transform: translateY(-3px);
-        box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
       }
 
-      .work-header {
-        background-color: #f1f5f9;
-        border-bottom: 1px solid $border-color;
-        padding: 1rem 1.5rem;
+      .work-category {
+        font-size: 0.8125rem;
+        font-weight: 700;
+        color: $primary-color;
+        margin-bottom: 0.65rem;
+      }
+
+      .work-title {
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: $dark-color;
+        margin-bottom: 0.75rem;
+
+        a {
+          color: inherit;
+          text-decoration: none;
+
+          &:hover {
+            color: $primary-color;
+          }
+        }
+      }
+
+      .work-desc {
+        font-size: 0.9375rem;
+        color: $slate-color;
+        line-height: 1.7;
+        margin-bottom: 1.25rem;
+      }
+
+      .work-points {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        font-size: 0.875rem;
+        color: $muted-color;
         display: flex;
-        align-items: center;
-        justify-content: space-between;
-
-        .work-tag {
-          font-size: 0.75rem;
-          font-weight: 600;
-          padding: 0.2rem 0.6rem;
-          background-color: #ffffff;
-          border: 1px solid #cbd5e1;
-          border-radius: 4px;
-          color: $slate-color;
-        }
-
-        .work-tech {
-          font-size: 0.75rem;
-          font-weight: 600;
-          color: $primary-color;
-        }
-      }
-
-      .work-body {
-        padding: 1.5rem;
-        flex-grow: 1;
-
-        .work-title {
-          font-size: 1.15rem;
-          font-weight: 700;
-          color: $dark-color;
-          margin-bottom: 0.75rem;
-
-          a {
-            color: inherit;
-            text-decoration: none;
-
-            &:hover {
-              color: $primary-color;
-            }
-          }
-        }
-
-        .work-desc {
-          font-size: 0.875rem;
-          color: $slate-color;
-          line-height: 1.65;
-          margin-bottom: 1rem;
-        }
-
-        .work-points {
-          list-style: none;
-          padding: 0;
-          margin: 0;
-          font-size: 0.8125rem;
-          color: $muted-color;
-
-          li {
-            position: relative;
-            padding-left: 1.25rem;
-            margin-bottom: 0.35rem;
-
-            &::before {
-              content: "•";
-              position: absolute;
-              left: 0.25rem;
-              color: $primary-color;
-              font-weight: bold;
-            }
-          }
-        }
+        flex-direction: column;
+        gap: 0.5rem;
       }
     }
   }
@@ -516,73 +475,28 @@
   .pricing-section {
     border-bottom: 1px solid $border-color;
 
-    .pricing-category-title {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      font-size: 1.35rem;
-      font-weight: 800;
-      color: $dark-color;
-      margin-bottom: 1.5rem;
-
-      .badge-category {
-        font-size: 0.75rem;
-        font-weight: 700;
-        padding: 0.25rem 0.65rem;
-        border-radius: 4px;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-
-        &.badge-initial {
-          background-color: #eff6ff;
-          color: $primary-color;
-          border: 1px solid #bfdbfe;
-        }
-
-        &.badge-running {
-          background-color: #f0fdf4;
-          color: #16a34a;
-          border: 1px solid #bbf7d0;
-        }
-      }
-    }
-
-    // 基本初期費用カード
     .main-initial-card {
       background-color: #ffffff;
       border: 2px solid $primary-color;
       border-radius: 12px;
       padding: 2.25rem 2rem;
-      box-shadow: 0 4px 20px rgba(37, 99, 235, 0.08);
       position: relative;
       height: 100%;
       display: flex;
       flex-direction: column;
 
-      .plan-badge {
-        position: absolute;
-        top: -12px;
-        left: 2rem;
-        background-color: $primary-color;
-        color: #ffffff;
-        font-size: 0.75rem;
-        font-weight: 700;
-        padding: 0.25rem 0.85rem;
-        border-radius: 9999px;
-      }
-
       .plan-name {
-        font-size: 1.4rem;
+        font-size: 1.35rem;
         font-weight: 800;
         color: $dark-color;
         margin-bottom: 0.5rem;
       }
 
       .plan-summary {
-        font-size: 0.9rem;
+        font-size: 0.925rem;
         color: $slate-color;
         margin-bottom: 1.25rem;
-        line-height: 1.6;
+        line-height: 1.65;
       }
 
       .plan-price-wrapper {
@@ -598,7 +512,7 @@
           line-height: 1;
 
           .tax-note {
-            font-size: 0.85rem;
+            font-size: 0.875rem;
             font-weight: normal;
             color: $muted-color;
             margin-left: 0.35rem;
@@ -606,7 +520,7 @@
         }
 
         .plan-period {
-          font-size: 0.8125rem;
+          font-size: 0.875rem;
           color: $muted-color;
           margin-top: 0.5rem;
         }
@@ -622,7 +536,7 @@
           display: flex;
           align-items: flex-start;
           gap: 0.6rem;
-          font-size: 0.9rem;
+          font-size: 0.925rem;
           color: $slate-color;
           margin-bottom: 0.75rem;
           line-height: 1.55;
@@ -636,7 +550,7 @@
       }
 
       .plan-disclaimer {
-        font-size: 0.8rem;
+        font-size: 0.8125rem;
         color: #dc2626;
         background-color: #fef2f2;
         padding: 0.6rem 0.85rem;
@@ -646,7 +560,6 @@
       }
     }
 
-    // オプションカード
     .option-card {
       background-color: #ffffff;
       border: 1px solid $border-color;
@@ -655,12 +568,10 @@
       height: 100%;
       display: flex;
       flex-direction: column;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      transition: transform 0.2s ease;
 
       &:hover {
         transform: translateY(-2px);
-        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
       }
 
       .option-header {
@@ -670,7 +581,7 @@
         margin-bottom: 0.75rem;
 
         .option-tag {
-          font-size: 0.75rem;
+          font-size: 0.8125rem;
           font-weight: 700;
           color: #d97706;
           background-color: #fef3c7;
@@ -682,6 +593,13 @@
           font-size: 1.35rem;
           font-weight: 800;
           color: $dark-color;
+
+          .tax-note {
+            font-size: 0.875rem;
+            font-weight: normal;
+            color: $muted-color;
+            margin-left: 0.25rem;
+          }
         }
       }
 
@@ -693,23 +611,22 @@
       }
 
       .option-desc {
-        font-size: 0.875rem;
+        font-size: 0.9rem;
         color: $slate-color;
-        line-height: 1.6;
+        line-height: 1.65;
         margin-bottom: 0.75rem;
         flex-grow: 1;
       }
 
       .option-note {
-        font-size: 0.775rem;
+        font-size: 0.8125rem;
         color: $muted-color;
         line-height: 1.5;
-        border-top: 1px dashed $border-color;
+        border-top: 1px solid $border-color;
         padding-top: 0.6rem;
       }
     }
 
-    // ランニングコストカード
     .running-card {
       background-color: #ffffff;
       border: 1px solid $border-color;
@@ -718,31 +635,10 @@
       height: 100%;
       display: flex;
       flex-direction: column;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 
       &.highlight-running {
         border: 2px solid #16a34a;
         background-color: #f0fdf4;
-      }
-
-      .running-badge {
-        display: inline-block;
-        font-size: 0.75rem;
-        font-weight: 700;
-        padding: 0.2rem 0.65rem;
-        border-radius: 4px;
-        margin-bottom: 0.75rem;
-        align-self: flex-start;
-
-        &.badge-zero {
-          background-color: #e2e8f0;
-          color: $slate-color;
-        }
-
-        &.badge-support {
-          background-color: #dcfce7;
-          color: #15803d;
-        }
       }
 
       .running-title {
@@ -765,7 +661,7 @@
           line-height: 1;
 
           .tax-note {
-            font-size: 0.85rem;
+            font-size: 0.875rem;
             font-weight: normal;
             color: $muted-color;
           }
@@ -773,7 +669,7 @@
       }
 
       .running-desc {
-        font-size: 0.9rem;
+        font-size: 0.925rem;
         color: $slate-color;
         line-height: 1.65;
         flex-grow: 1;
@@ -783,11 +679,11 @@
 
     .pricing-notes {
       margin-top: 2.5rem;
-      padding: 1.25rem 1.5rem;
+      padding: 1.5rem;
       background-color: $light-bg;
       border: 1px solid $border-color;
       border-radius: 8px;
-      font-size: 0.8125rem;
+      font-size: 0.875rem;
       color: $muted-color;
       line-height: 1.7;
     }
@@ -805,7 +701,6 @@
       padding: 1.75rem 1.5rem;
       height: 100%;
       position: relative;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 
       .step-header {
         display: flex;
@@ -813,20 +708,10 @@
         justify-content: space-between;
         margin-bottom: 1rem;
 
-        .step-num {
-          font-size: 0.8125rem;
-          font-weight: 800;
-          letter-spacing: 0.05em;
-          color: #ffffff;
-          background-color: $dark-color;
-          padding: 0.25rem 0.65rem;
-          border-radius: 4px;
-        }
-
         .step-time {
-          font-size: 0.75rem;
+          font-size: 0.8125rem;
           color: $muted-color;
-          font-weight: 500;
+          font-weight: 600;
         }
       }
 
@@ -846,128 +731,37 @@
     }
   }
 
-  // プロフィールセクション
-  .about-section {
-    border-bottom: 1px solid $border-color;
-
-    .profile-card {
-      background-color: $light-bg;
-      border: 1px solid $border-color;
-      border-radius: 12px;
-      padding: 2.5rem;
-
-      .profile-header {
-        display: flex;
-        align-items: center;
-        gap: 1.5rem;
-        margin-bottom: 1.75rem;
-
-        .profile-img {
-          width: 80px;
-          height: 80px;
-          border-radius: 50%;
-          object-fit: cover;
-          border: 2px solid #ffffff;
-          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-        }
-
-        .profile-title-block {
-          .profile-name {
-            font-size: 1.35rem;
-            font-weight: 700;
-            color: $dark-color;
-            margin-bottom: 0.25rem;
-          }
-
-          .profile-role {
-            font-size: 0.875rem;
-            color: $muted-color;
-            font-weight: 500;
-          }
-        }
-      }
-
-      .profile-text {
-        font-size: 0.95rem;
-        color: $slate-color;
-        line-height: 1.8;
-        margin-bottom: 1.5rem;
-      }
-
-      .profile-meta-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 1rem;
-        padding-top: 1.5rem;
-        border-top: 1px solid $border-color;
-
-        .meta-item {
-          .meta-label {
-            font-size: 0.75rem;
-            font-weight: 600;
-            color: $muted-color;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            margin-bottom: 0.25rem;
-          }
-
-          .meta-value {
-            font-size: 0.9rem;
-            font-weight: 600;
-            color: $dark-color;
-          }
-        }
-      }
-    }
-  }
-
-  // FAQセクション
+  // FAQセクション（Qバッジなしのモダンカード）
   .faq-section {
-    background-color: $light-bg;
+    background-color: #ffffff;
     border-bottom: 1px solid $border-color;
 
     .faq-card {
-      background-color: #ffffff;
+      background-color: $light-bg;
       border: 1px solid $border-color;
       border-radius: 10px;
-      padding: 1.5rem 1.75rem;
-      margin-bottom: 1rem;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+      padding: 1.75rem 2rem;
+      margin-bottom: 1.25rem;
 
       .faq-question {
-        font-size: 1.05rem;
+        font-size: 1.1rem;
         font-weight: 700;
         color: $dark-color;
         margin-bottom: 0.75rem;
-        display: flex;
-        align-items: flex-start;
-        gap: 0.75rem;
-
-        .q-badge {
-          background-color: #eff6ff;
-          color: $primary-color;
-          font-size: 0.8125rem;
-          font-weight: 800;
-          padding: 0.15rem 0.5rem;
-          border-radius: 4px;
-          flex-shrink: 0;
-          margin-top: 0.1rem;
-        }
       }
 
       .faq-answer {
-        font-size: 0.925rem;
+        font-size: 0.95rem;
         color: $slate-color;
-        line-height: 1.7;
+        line-height: 1.75;
         margin: 0;
-        padding-left: 2.25rem;
       }
     }
   }
 
   // お問い合わせフォームセクション
   .contact-section {
-    background-color: #ffffff;
+    background-color: $light-bg;
 
     .contact-container {
       max-width: 44rem;
@@ -975,11 +769,10 @@
     }
 
     .contact-card {
-      background-color: $light-bg;
+      background-color: #ffffff;
       border: 1px solid $border-color;
       border-radius: 12px;
       padding: 2.5rem 2rem;
-      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
     }
   }
 
@@ -987,8 +780,8 @@
   .lp-footer {
     background-color: $dark-color;
     color: #94a3b8;
-    padding: 3rem 0 2rem;
-    font-size: 0.875rem;
+    padding: 3.5rem 0 2.5rem;
+    font-size: 0.9375rem;
 
     a {
       color: #cbd5e1;
@@ -999,46 +792,5 @@
         color: #ffffff;
       }
     }
-
-    .footer-divider {
-      border-color: #334155;
-      margin: 2rem 0 1.5rem;
-    }
-  }
-
-  .hero-section {
-    position: relative;
-    overflow: hidden;
-    background:
-      radial-gradient(ellipse at 88% 18%, rgba(79, 148, 255, 0.10), transparent 31%),
-      linear-gradient(180deg, #fbfdff 0%, #f2f7fc 100%);
-
-    .container {
-      position: relative;
-      z-index: 1;
-    }
-  }
-
-  .migration-visual {
-    width: 100%;
-    max-width: 560px;
-    margin-inline: auto;
-    filter: drop-shadow(0 28px 36px rgba(20, 41, 73, 0.16));
-
-    svg {
-      display: block;
-      width: 100%;
-      height: auto;
-    }
-  }
-
-  @media (max-width: 767.98px) {
-    .hero-section {
-      padding-top: 3rem;
-
-      .hero-title { font-size: 1.85rem; }
-    }
-
-    .migration-visual { max-width: 460px; }
   }
 }

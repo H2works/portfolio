@@ -1,0 +1,2935 @@
+{
+ "url": "http://localhost:3000/web",
+ "at": "2026-10-24T14:23:01.898Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.43,
+    0.82,
+    0.49,
+    0.72,
+    0.43,
+    0.64,
+    0.93,
+    0.54,
+    0.68,
+    0.5,
+    0.62,
+    0.89
+   ],
+   "motion": {
+    "elements": 51,
+    "css": 0,
+    "transitions": 50,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 11261,
+     "screens": 12.5,
+     "words": 354,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 10,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "balticservers-data-center.jpg",
+      "datacenter-server-racks-22370909788.jpg",
+      "architectural-drawing.jpg",
+      "architectural-drawings-including-the-casino-de-p"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "WordPressを、 壊れない静的Webへ。",
+     "words": 2,
+     "chars": 23,
+     "lines": 2,
+     "size": 56,
+     "vw": 3.9,
+     "font": "Inter",
+     "weight": 800,
+     "tracking": -0.03,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.45,
+     "top": 275,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "WordPressを、 壊れない静的Webへ。",
+     "words": 2,
+     "lines": 2,
+     "size": 56,
+     "font": "Inter"
+    },
+    "headings": [
+     {
+      "text": "WordPressを、 壊れない静的Webへ。",
+      "words": 2,
+      "chars": 23,
+      "lines": 2,
+      "size": 56,
+      "vw": 3.9,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 275,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "こんなモヤモヤ、放置していませんか？",
+      "words": 1,
+      "chars": 18,
+      "lines": 2,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 1013,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "なぜ静的HTMLなら、攻撃の余地がないのか",
+      "words": 1,
+      "chars": 21,
+      "lines": 2,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 2079,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "WordPress・ノーコードツールとの違い",
+      "words": 1,
+      "chars": 22,
+      "lines": 2,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 3241,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "H2worksが選ばれる理由",
+      "words": 1,
+      "chars": 14,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 4165,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "自社プロダクトでの開発・運用実績",
+      "words": 1,
+      "chars": 16,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 5257,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "シンプルな料金体系",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 6395,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "¥50,000（税抜 / 買い切り）",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.75,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 6772,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "¥0 / 月",
+      "words": 3,
+      "chars": 6,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.75,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 7410,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "¥500 / 月（税抜）",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 32,
+      "vw": 2.2,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.75,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 7410,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "ご相談から公開までの流れ",
+      "words": 1,
+      "chars": 12,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 8052,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "よくあるご質問",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 8648,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "現状サイトの無料診断・お見積り",
+      "words": 1,
+      "chars": 15,
+      "lines": 1,
+      "size": 40,
+      "vw": 2.8,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 9964,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 9,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      18,
+      20,
+      24,
+      26,
+      32,
+      40,
+      56
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 15,
+      "leading": 1.7,
+      "weight": 300,
+      "tracking": 0,
+      "contrast": 10.4
+     },
+     "measureChars": 119,
+     "max": {
+      "size": 56,
+      "vw": 3.9,
+      "font": "Inter",
+      "text": "WordPressを、壊れない静的Webへ。"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.09,
+     "centerShare": 0.14,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f8fafc",
+       "top": 838,
+       "hsl": {
+        "h": 210,
+        "s": 0.4,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#f8f9fa",
+       "top": 10178,
+       "hsl": {
+        "h": 210,
+        "s": 0.17,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#0f172a",
+       "top": 10925,
+       "hsl": {
+        "h": 222,
+        "s": 0.47,
+        "l": 0.11
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#6c757d",
+       "share": 0.56
+      },
+      {
+       "color": "#343a40",
+       "share": 0.11
+      },
+      {
+       "color": "#334155",
+       "share": 0.1
+      },
+      {
+       "color": "#475569",
+       "share": 0.07
+      },
+      {
+       "color": "#0f172a",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#1d4ed8",
+      "hsl": {
+       "h": 224,
+       "s": 0.76,
+       "l": 0.48
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "ログイン画面やDBがネット上に存在しない",
+       "ratio": 4.3,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#6c757d",
+       "bg": "#eff6ff"
+      },
+      {
+       "text": "サーバーレス配信のため固定費が激減",
+       "ratio": 4.3,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#6c757d",
+       "bg": "#eff6ff"
+      },
+      {
+       "text": "ただのHTMLだから最高クラスの速さ",
+       "ratio": 4.3,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#6c757d",
+       "bg": "#eff6ff"
+      },
+      {
+       "text": "完全放置でOK。アップデート作業不要",
+       "ratio": 4.3,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#6c757d",
+       "bg": "#eff6ff"
+      },
+      {
+       "text": "管理URL: /wp-login.php（公開中） / DB常時稼働",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 13,
+       "fg": "#6c757d",
+       "bg": "#f8f9fa"
+      },
+      {
+       "text": "一般的なWordPressサイトは、常にWeb上に「ログイン管理画面」と「データ",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 16,
+       "fg": "#6c757d",
+       "bg": "#f8f9fa"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": 4,
+     "height": 58,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "無料相談・サイト診断",
+      "無料相談・サイト診断を依頼する",
+      "料金プランを見る（初期5万円〜）"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 42,
+     "boxRadius": 32,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 32,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 3609
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 3703
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 6634
+      },
+      {
+       "count": 6,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 8806
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.1
+     }
+    ],
+    "nav": {
+     "links": 9,
+     "fixed": true,
+     "height": 74,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 11261,
+    "margins": {
+     "left": 96,
+     "right": 152
+    },
+    "sections": [
+     {
+      "sel": "section.hero-section",
+      "tag": "section",
+      "top": 74,
+      "height": 764,
+      "words": 31,
+      "media": 1,
+      "middle": 60,
+      "heading": {
+       "text": "WordPressを、",
+       "size": 56,
+       "tag": "h1"
+      },
+      "left": 152,
+      "right": 152,
+      "textLeft": 152,
+      "textRight": 176,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#problem.section-padding.problem-section",
+      "tag": "section",
+      "top": 838,
+      "height": 1066,
+      "words": 34,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "こんなモヤモヤ、放置していませんか？",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 184,
+      "right": 184,
+      "textLeft": 184,
+      "textRight": 184,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#security.section-padding.mechanism-section",
+      "tag": "section",
+      "top": 1904,
+      "height": 1163,
+      "words": 44,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "なぜ静的HTMLなら、攻撃の余地がないのか",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 99,
+      "textLeft": 72,
+      "textRight": 99,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#comparison.section-padding.comparison-section",
+      "tag": "section",
+      "top": 3067,
+      "height": 924,
+      "words": 44,
+      "media": 0,
+      "middle": 87,
+      "heading": {
+       "text": "WordPress・ノーコードツールとの違い",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 176,
+      "right": 196,
+      "textLeft": 176,
+      "textRight": 196,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#features.section-padding.features-section",
+      "tag": "section",
+      "top": 3990,
+      "height": 1092,
+      "words": 30,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "H2worksが選ばれる理由",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 96,
+      "right": 72,
+      "textLeft": 96,
+      "textRight": 178,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#works.section-padding.works-section",
+      "tag": "section",
+      "top": 5082,
+      "height": 1139,
+      "words": 46,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "自社プロダクトでの開発・運用実績",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 103,
+      "textLeft": 72,
+      "textRight": 103,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#pricing.section-padding.pricing-section",
+      "tag": "section",
+      "top": 6221,
+      "height": 1657,
+      "words": 97,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "シンプルな料金体系",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 152,
+      "right": 176,
+      "textLeft": 152,
+      "textRight": 176,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#flow.section-padding.flow-section",
+      "tag": "section",
+      "top": 7877,
+      "height": 596,
+      "words": 24,
+      "media": 0,
+      "middle": 76,
+      "heading": {
+       "text": "ご相談から公開までの流れ",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 176,
+      "right": 183,
+      "textLeft": 176,
+      "textRight": 183,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#faq.section-padding.faq-section",
+      "tag": "section",
+      "top": 8473,
+      "height": 1316,
+      "words": 76,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "よくあるご質問",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 274,
+      "right": 275,
+      "textLeft": 274,
+      "textRight": 275,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section-padding.contact-section",
+      "tag": "section",
+      "top": 9789,
+      "height": 1136,
+      "words": 21,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "現状サイトの無料診断・お見積り",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 416,
+      "right": 416,
+      "textLeft": 416,
+      "textRight": 438,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.lp-footer",
+      "tag": "footer",
+      "top": 10925,
+      "height": 335,
+      "words": 46,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 152,
+      "right": 152,
+      "textLeft": 152,
+      "textRight": 152,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "WordPressを、 壊れない静的Webへ。",
+      "size": 56,
+      "top": 275,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 176,
+      "n": 9
+     },
+     {
+      "x": 152,
+      "n": 6
+     },
+     {
+      "x": 274,
+      "n": 6
+     },
+     {
+      "x": 756,
+      "n": 6
+     },
+     {
+      "x": 836,
+      "n": 6
+     },
+     {
+      "x": 949,
+      "n": 4
+     },
+     {
+      "x": 563,
+      "n": 3
+     },
+     {
+      "x": 96,
+      "n": 2
+     },
+     {
+      "x": 408,
+      "n": 1
+     },
+     {
+      "x": 466,
+      "n": 1
+     },
+     {
+      "x": 640,
+      "n": 1
+     },
+     {
+      "x": 872,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 48,
+    "bodySize": 15,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.16,
+    "voidBox": {
+     "x": 0,
+     "y": 660,
+     "w": 840,
+     "h": 240
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.54,
+    0.61,
+    0.66,
+    0.73,
+    0.65,
+    0.65,
+    0.78,
+    1,
+    0.68,
+    0.73,
+    0.83,
+    0.79
+   ],
+   "motion": {
+    "elements": 43,
+    "css": 0,
+    "transitions": 42,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 14903,
+     "screens": 14.6,
+     "words": 346,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 10,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "balticservers-data-center.jpg",
+      "datacenter-server-racks-22370909788.jpg",
+      "architectural-drawing.jpg",
+      "architectural-drawings-including-the-casino-de-p"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "WordPressを、 壊れない静的Webへ。",
+     "words": 2,
+     "chars": 23,
+     "lines": 2,
+     "size": 36,
+     "vw": 4.7,
+     "font": "Inter",
+     "weight": 800,
+     "tracking": -0.03,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.65,
+     "top": 163,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "WordPressを、 壊れない静的Webへ。",
+     "words": 2,
+     "lines": 2,
+     "size": 36,
+     "font": "Inter"
+    },
+    "headings": [
+     {
+      "text": "WordPressを、 壊れない静的Webへ。",
+      "words": 2,
+      "chars": 23,
+      "lines": 2,
+      "size": 36,
+      "vw": 4.7,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.65,
+      "top": 163,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "こんなモヤモヤ、放置していませんか？",
+      "words": 1,
+      "chars": 18,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 1547,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "なぜ静的HTMLなら、攻撃の余地がないのか",
+      "words": 1,
+      "chars": 21,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 2741,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "WordPress・ノーコードツールとの違い",
+      "words": 1,
+      "chars": 22,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 4313,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "H2worksが選ばれる理由",
+      "words": 1,
+      "chars": 14,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 5410,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "自社プロダクトでの開発・運用実績",
+      "words": 1,
+      "chars": 16,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 7012,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "シンプルな料金体系",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 8864,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "¥50,000（税抜 / 買い切り）",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 28.1,
+      "vw": 3.7,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.75,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.85,
+      "top": 9225,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "¥0 / 月",
+      "words": 3,
+      "chars": 6,
+      "lines": 1,
+      "size": 28.1,
+      "vw": 3.7,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.75,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 10472,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "¥500 / 月（税抜）",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 28.1,
+      "vw": 3.7,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.75,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.38,
+      "top": 10472,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "ご相談から公開までの流れ",
+      "words": 1,
+      "chars": 12,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 11238,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "よくあるご質問",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 12185,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "現状サイトの無料診断・お見積り",
+      "words": 1,
+      "chars": 15,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 3.9,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 13602,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 9,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      18,
+      20,
+      23,
+      28,
+      30,
+      36
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 15,
+      "leading": 1.7,
+      "weight": 300,
+      "tracking": 0,
+      "contrast": 10.4
+     },
+     "measureChars": 87,
+     "max": {
+      "size": 36,
+      "vw": 4.7,
+      "font": "Inter",
+      "text": "WordPressを、壊れない静的Webへ。"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.09,
+     "centerShare": 0.14,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f8fafc",
+       "top": 1375,
+       "hsl": {
+        "h": 210,
+        "s": 0.4,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#f8f9fa",
+       "top": 9089,
+       "hsl": {
+        "h": 210,
+        "s": 0.17,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#0f172a",
+       "top": 14521,
+       "hsl": {
+        "h": 222,
+        "s": 0.47,
+        "l": 0.11
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#6c757d",
+       "share": 0.56
+      },
+      {
+       "color": "#343a40",
+       "share": 0.11
+      },
+      {
+       "color": "#334155",
+       "share": 0.1
+      },
+      {
+       "color": "#475569",
+       "share": 0.07
+      },
+      {
+       "color": "#0f172a",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#1d4ed8",
+      "hsl": {
+       "h": 224,
+       "s": 0.76,
+       "l": 0.48
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "ログイン画面やDBがネット上に存在しない",
+       "ratio": 4.3,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#6c757d",
+       "bg": "#eff6ff"
+      },
+      {
+       "text": "サーバーレス配信のため固定費が激減",
+       "ratio": 4.3,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#6c757d",
+       "bg": "#eff6ff"
+      },
+      {
+       "text": "ただのHTMLだから最高クラスの速さ",
+       "ratio": 4.3,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#6c757d",
+       "bg": "#eff6ff"
+      },
+      {
+       "text": "完全放置でOK。アップデート作業不要",
+       "ratio": 4.3,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#6c757d",
+       "bg": "#eff6ff"
+      },
+      {
+       "text": "管理URL: /wp-login.php（公開中） / DB常時稼働",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 13,
+       "fg": "#6c757d",
+       "bg": "#f8f9fa"
+      },
+      {
+       "text": "一般的なWordPressサイトは、常にWeb上に「ログイン管理画面」と「データ",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 16,
+       "fg": "#6c757d",
+       "bg": "#f8f9fa"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 4,
+     "height": 58,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "無料相談・サイト診断を依頼する",
+      "料金プランを見る（初期5万円〜）"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 42,
+     "boxRadius": 32,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 32,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 4458
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 4697
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 4843
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.42
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 67,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 14903,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "section.hero-section",
+      "tag": "section",
+      "top": 67,
+      "height": 1308,
+      "words": 31,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "WordPressを、",
+       "size": 36,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 56,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#problem.section-padding.problem-section",
+      "tag": "section",
+      "top": 1375,
+      "height": 1193,
+      "words": 34,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "こんなモヤモヤ、放置していませんか？",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 64,
+      "right": 68,
+      "textLeft": 64,
+      "textRight": 68,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#security.section-padding.mechanism-section",
+      "tag": "section",
+      "top": 2569,
+      "height": 1572,
+      "words": 44,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "なぜ静的HTMLなら、攻撃の余地がないのか",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": -44,
+      "textRight": -19,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#comparison.section-padding.comparison-section",
+      "tag": "section",
+      "top": 4141,
+      "height": 1097,
+      "words": 44,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "WordPress・ノーコードツールとの違い",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 56,
+      "right": 57,
+      "textLeft": 56,
+      "textRight": 57,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#features.section-padding.features-section",
+      "tag": "section",
+      "top": 5238,
+      "height": 1602,
+      "words": 30,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "H2worksが選ばれる理由",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": -20,
+      "textRight": 62,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#works.section-padding.works-section",
+      "tag": "section",
+      "top": 6840,
+      "height": 1853,
+      "words": 46,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "自社プロダクトでの開発・運用実績",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": -44,
+      "textRight": -15,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#pricing.section-padding.pricing-section",
+      "tag": "section",
+      "top": 8693,
+      "height": 2374,
+      "words": 97,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "シンプルな料金体系",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 56,
+      "textLeft": 32,
+      "textRight": 56,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#flow.section-padding.flow-section",
+      "tag": "section",
+      "top": 11066,
+      "height": 947,
+      "words": 20,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "ご相談から公開までの流れ",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 56,
+      "right": 57,
+      "textLeft": 56,
+      "textRight": 57,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#faq.section-padding.faq-section",
+      "tag": "section",
+      "top": 12014,
+      "height": 1384,
+      "words": 2,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "よくあるご質問",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 162,
+      "right": 162,
+      "textLeft": 162,
+      "textRight": 162,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section-padding.contact-section",
+      "tag": "section",
+      "top": 13398,
+      "height": 1123,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.lp-footer",
+      "tag": "footer",
+      "top": 14521,
+      "height": 382,
+      "words": 46,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "WordPressを、 壊れない静的Webへ。",
+      "size": 36,
+      "top": 163,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 56,
+      "n": 17
+     },
+     {
+      "x": 420,
+      "n": 10
+     },
+     {
+      "x": 32,
+      "n": 6
+     },
+     {
+      "x": 132,
+      "n": 6
+     }
+    ],
+    "leftBlocks": 39,
+    "bodySize": 15,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.2,
+    0.7,
+    0.64,
+    0.61,
+    0.74,
+    0.72,
+    0.65,
+    0.63,
+    0.72,
+    0.88,
+    0.99,
+    0.93
+   ],
+   "motion": {
+    "elements": 32,
+    "css": 0,
+    "transitions": 31,
+    "scripted": 1,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 18378,
+     "screens": 21.8,
+     "words": 345,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 10,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 1,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "balticservers-data-center.jpg",
+      "datacenter-server-racks-22370909788.jpg",
+      "architectural-drawing.jpg",
+      "architectural-drawings-including-the-casino-de-p"
+     ],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "WordPressを、壊れない静的Webへ。",
+     "words": 1,
+     "chars": 22,
+     "lines": 2,
+     "size": 36,
+     "vw": 9.2,
+     "font": "Inter",
+     "weight": 800,
+     "tracking": -0.03,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.88,
+     "top": 163,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "WordPressを、壊れない静的Webへ。",
+     "words": 1,
+     "lines": 2,
+     "size": 36,
+     "font": "Inter"
+    },
+    "headings": [
+     {
+      "text": "WordPressを、壊れない静的Webへ。",
+      "words": 1,
+      "chars": 22,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 163,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "こんなモヤモヤ、放置していませんか？",
+      "words": 1,
+      "chars": 18,
+      "lines": 2,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1481,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "なぜ静的HTMLなら、攻撃の余地がないのか",
+      "words": 1,
+      "chars": 21,
+      "lines": 2,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 3354,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "WordPress・ノーコードツールとの違い",
+      "words": 1,
+      "chars": 22,
+      "lines": 2,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 5205,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "H2worksが選ばれる理由",
+      "words": 1,
+      "chars": 14,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 6329,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "自社プロダクトでの開発・運用実績",
+      "words": 1,
+      "chars": 16,
+      "lines": 2,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 8134,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "シンプルな料金体系",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 10249,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "¥50,000（税抜 / 買い切り）",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 24.7,
+      "vw": 6.3,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.75,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 10660,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "¥0 / 月",
+      "words": 3,
+      "chars": 6,
+      "lines": 1,
+      "size": 24.7,
+      "vw": 6.3,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.75,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 12232,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "¥500 / 月（税抜）",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 24.7,
+      "vw": 6.3,
+      "font": "Inter",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.75,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.75,
+      "top": 12566,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "ご相談から公開までの流れ",
+      "words": 1,
+      "chars": 12,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 13390,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "よくあるご質問",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 14642,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "現状サイトの無料診断・お見積り",
+      "words": 1,
+      "chars": 15,
+      "lines": 2,
+      "size": 29.6,
+      "vw": 7.6,
+      "font": "Inter",
+      "weight": 800,
+      "tracking": -0.02,
+      "leading": 1.25,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 16729,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 13,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 9,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Inter",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      18,
+      20,
+      22,
+      25,
+      30,
+      36
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Inter",
+      "size": 15,
+      "leading": 1.7,
+      "weight": 300,
+      "tracking": 0,
+      "contrast": 10.4
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 36,
+      "vw": 9.2,
+      "font": "Inter",
+      "text": "WordPressを、壊れない静的Webへ。"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.09,
+     "centerShare": 0.15,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f8fafc",
+       "top": 1338,
+       "hsl": {
+        "h": 210,
+        "s": 0.4,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#f8f9fa",
+       "top": 3831,
+       "hsl": {
+        "h": 210,
+        "s": 0.17,
+        "l": 0.98
+       }
+      },
+      {
+       "color": "#fff1f2",
+       "top": 4343,
+       "hsl": {
+        "h": 356,
+        "s": 1,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#f0fdf4",
+       "top": 4673,
+       "hsl": {
+        "h": 138,
+        "s": 0.76,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#0f172a",
+       "top": 17861,
+       "hsl": {
+        "h": 222,
+        "s": 0.47,
+        "l": 0.11
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#6c757d",
+       "share": 0.56
+      },
+      {
+       "color": "#343a40",
+       "share": 0.11
+      },
+      {
+       "color": "#334155",
+       "share": 0.1
+      },
+      {
+       "color": "#475569",
+       "share": 0.07
+      },
+      {
+       "color": "#0f172a",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#1d4ed8",
+      "hsl": {
+       "h": 224,
+       "s": 0.76,
+       "l": 0.48
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": [
+      {
+       "text": "管理URL: /wp-login.php（公開中） / DB常時稼働",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 13,
+       "fg": "#6c757d",
+       "bg": "#f8f9fa"
+      },
+      {
+       "text": "一般的なWordPressサイトは、常にWeb上に「ログイン管理画面」と「データ",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 16,
+       "fg": "#6c757d",
+       "bg": "#f8f9fa"
+      },
+      {
+       "text": "H2worksの静的化では、あらかじめ生成した「完成されたHTMLファイル」のみ",
+       "ratio": 4.4,
+       "need": 4.5,
+       "size": 16,
+       "fg": "#6c757d",
+       "bg": "#f8f9fa"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 4,
+     "height": 58,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "無料相談・サイト診断を依頼する",
+      "料金プランを見る（初期5万円〜）"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 42,
+     "boxRadius": 32,
+     "squareMedia": 0,
+     "roundedMedia": 4,
+     "mediaRadius": 32,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 5415
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 5534
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 5680
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 5826
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 5946
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 11234
+      },
+      {
+       "count": 6,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 14815
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.09
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 67,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "inter"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 18378,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section.hero-section",
+      "tag": "section",
+      "top": 67,
+      "height": 1271,
+      "words": 31,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "WordPressを、",
+       "size": 36,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 0,
+      "textLeft": 24,
+      "textRight": -27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#problem.section-padding.problem-section",
+      "tag": "section",
+      "top": 1338,
+      "height": 1873,
+      "words": 34,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "こんなモヤモヤ、放置していませんか？",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 27,
+      "right": 27,
+      "textLeft": 27,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#security.section-padding.mechanism-section",
+      "tag": "section",
+      "top": 3212,
+      "height": 1851,
+      "words": 44,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "なぜ静的HTMLなら、攻撃の余地がないのか",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": -52,
+      "textRight": -28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#comparison.section-padding.comparison-section",
+      "tag": "section",
+      "top": 5063,
+      "height": 1124,
+      "words": 44,
+      "media": 0,
+      "middle": 132,
+      "heading": {
+       "text": "WordPress・ノーコードツールとの違い",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 27,
+      "right": 0,
+      "textLeft": 27,
+      "textRight": -248,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#features.section-padding.features-section",
+      "tag": "section",
+      "top": 6187,
+      "height": 1805,
+      "words": 30,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "H2worksが選ばれる理由",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": -28,
+      "textRight": -44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#works.section-padding.works-section",
+      "tag": "section",
+      "top": 7992,
+      "height": 2085,
+      "words": 46,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "自社プロダクトでの開発・運用実績",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 0,
+      "right": 0,
+      "textLeft": -52,
+      "textRight": -27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#pricing.section-padding.pricing-section",
+      "tag": "section",
+      "top": 10077,
+      "height": 3141,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#flow.section-padding.flow-section",
+      "tag": "section",
+      "top": 13218,
+      "height": 1252,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#faq.section-padding.faq-section",
+      "tag": "section",
+      "top": 14470,
+      "height": 2087,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#contact.section-padding.contact-section",
+      "tag": "section",
+      "top": 16557,
+      "height": 1304,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.lp-footer",
+      "tag": "footer",
+      "top": 17861,
+      "height": 516,
+      "words": 46,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 27,
+      "textLeft": 24,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "WordPressを、壊れない静的Webへ。",
+      "size": 36,
+      "top": 163,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 48,
+      "n": 17
+     },
+     {
+      "x": 124,
+      "n": 6
+     },
+     {
+      "x": 24,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 27,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "card-rows",
+   "width": 1440,
+   "message": "4 rows of identical boxed cards.",
+   "fix": "Vary the composition; not every section is a card grid.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "contrast",
+   "width": 1440,
+   "message": "Low-contrast text: \"ログイン画面やDBがネット上に存在しない\" 4.3:1 needs 4.5:1; \"サーバーレス配信のため固定費が激減\" 4.3:1 needs 4.5:1; \"ただのHTMLだから最高クラスの速さ\" 4.3:1 needs 4.5:1; \"完全放置でOK。アップデート作業不要\" 4.3:1 needs 4.5:1",
+   "fix": "Darken or lighten the text colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "11 different font sizes (13, 14, 15, 16, 18, 20, 24, 26, 32, 40, 56).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 15px.",
+   "fix": "Body copy 16–20px.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 119 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch)."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 96px on the left, 152px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 1440,
+   "message": "Left-aligned text starts at 12 different lines (176px, 152px, 274px, 756px, 836px, 949px, 563px); the three most used hold only 44% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them."
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 768,
+   "message": "The h1 is a bare name (\"WordPressを、 壊れない静的Webへ。\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "side-scroll",
+   "width": 390,
+   "message": "1 row(s) scroll sideways with content past their edge.",
+   "fix": "Jurors and most visitors read a row cut at the edge as clipped, not as scrollable. Wrap it onto more lines, or end it inside the grid."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\hasey\\Documents\\git\\portfolio\\.taste-skill\\after\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\hasey\\Documents\\git\\portfolio\\.taste-skill\\after\\desktop-page-01.jpg",
+    "C:\\Users\\hasey\\Documents\\git\\portfolio\\.taste-skill\\after\\desktop-page-02.jpg",
+    "C:\\Users\\hasey\\Documents\\git\\portfolio\\.taste-skill\\after\\desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\hasey\\Documents\\git\\portfolio\\.taste-skill\\after\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\hasey\\Documents\\git\\portfolio\\.taste-skill\\after\\tablet-page-01.jpg",
+    "C:\\Users\\hasey\\Documents\\git\\portfolio\\.taste-skill\\after\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\hasey\\Documents\\git\\portfolio\\.taste-skill\\after\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\hasey\\Documents\\git\\portfolio\\.taste-skill\\after\\mobile-page-01.jpg",
+    "C:\\Users\\hasey\\Documents\\git\\portfolio\\.taste-skill\\after\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

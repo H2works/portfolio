@@ -207,7 +207,7 @@ export default function WebServiceContactForm() {
         <div className="col-12 pt-3">
           <button
             type="submit"
-            className="btn btn-primary w-100 py-3 fw-bold shadow-sm d-flex align-items-center justify-content-center"
+            className="btn btn-primary w-100 py-3 fw-bold d-flex align-items-center justify-content-center"
             disabled={isLoading}
             style={{ backgroundColor: '#2563eb', borderColor: '#2563eb' }}
           >

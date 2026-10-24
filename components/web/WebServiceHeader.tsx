@@ -18,9 +18,9 @@ export default function WebServiceHeader() {
     <header className="lp-header py-3">
       <div className="container">
         <div className="d-flex align-items-center justify-content-between">
-          <Link href="/" className="brand-link d-flex align-items-center">
+          <Link href="/" className="brand-link d-flex align-items-baseline">
             <span>H2works</span>
-            <span className="badge bg-light text-secondary border ms-2 small fw-normal" style={{ fontSize: '0.75rem' }}>
+            <span className="text-secondary ms-2 small fw-normal" style={{ fontSize: '0.875rem' }}>
               Web Studio
             </span>
           </Link>

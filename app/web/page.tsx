@@ -32,29 +32,20 @@ export default function WebServicePage() {
           <div className="container">
             <div className="row align-items-center">
               <div className="col-12 col-lg-7" data-aos="fade-up">
-                <div className="hero-badge">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" className="bi bi-shield-lock" viewBox="0 0 16 16">
-                    <path d="M5.338 1.59a61.44 61.44 0 0 0-2.837.856.481.481 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.725 10.725 0 0 0 2.287 2.233c.346.244.652.42.893.533.12.057.218.095.293.118a.55.55 0 0 0 .101.025.615.615 0 0 0 .1-.025c.076-.023.174-.061.294-.118.24-.113.547-.29.893-.533a10.726 10.726 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.775 11.775 0 0 1-2.517 2.453 7.159 7.159 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7.158 7.158 0 0 1-1.048-.625 11.777 11.777 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 62.456 62.456 0 0 1 5.072.56z"/>
-                    <path d="M9.5 6.5a1.5 1.5 0 0 1-1.5 1.5v-1a.5.5 0 0 0-1 0v1A1.5 1.5 0 0 1 5.5 6.5a1.5 1.5 0 0 1 3 0z"/>
-                  </svg>
-                  <span>WordPress / ノーコードツール 乗り換え・刷新</span>
-                </div>
-
                 <h1 className="hero-title">
                   放置したWordPress・毎月高いノーコードツールから、
                   <span className="text-highlight">「攻撃する場所がない・壊れない・安い」Webサイトへ</span>
                 </h1>
 
                 <p className="hero-lead">
-                  昔作ったWordPressの脆弱性が怖い…、ノーコードツール（WixやJimdo等）の有料プラン代をなんとなく払い続けている…。
-                  H2worksでは、既存サイトを「ただの静的HTML」へ変換してサーバーレス配信。
-                  ハッカーが狙う裏口（管理画面やデータベース）をネット上から完全に無くすため、<strong>放置しても絶対に改ざんされず<sup>※</sup>、一瞬でパッと開き、初期5万円・維持費0円〜</strong>で運用できます。
+                  管理画面やデータベースをネット上から完全排除。
+                  改ざんリスクをゼロにし、初期5万円・月額0円から実現する企業の安心運用基盤です。
                 </p>
 
                 <div className="hero-cta-group">
                   <a
                     href="#contact"
-                    className="btn btn-primary px-4 py-3 fw-bold shadow-sm d-inline-flex align-items-center"
+                    className="btn btn-primary px-4 py-3 fw-bold d-inline-flex align-items-center"
                     style={{ backgroundColor: '#2563eb', borderColor: '#2563eb' }}
                   >
                     <span>無料相談・サイト診断を依頼する</span>
@@ -70,26 +61,27 @@ export default function WebServicePage() {
                   </a>
                 </div>
 
-                <div className="hero-features">
-                  <div className="feature-pill">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-shield-check" viewBox="0 0 16 16">
+                <div className="hero-guarantees">
+                  <div className="guarantee-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" className="bi bi-shield-check text-primary me-2 flex-shrink-0" viewBox="0 0 16 16">
                       <path d="M5.338 1.59a61.44 61.44 0 0 0-2.837.856.481.481 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.725 10.725 0 0 0 2.287 2.233c.346.244.652.42.893.533.12.057.218.095.293.118a.55.55 0 0 0 .101.025.615.615 0 0 0 .1-.025c.076-.023.174-.061.294-.118.24-.113.547-.29.893-.533a10.726 10.726 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.775 11.775 0 0 1-2.517 2.453 7.159 7.159 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7.158 7.158 0 0 1-1.048-.625 11.777 11.777 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 62.456 62.456 0 0 1 5.072.56z"/>
                       <path d="M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
                     </svg>
-                    <span>攻撃対象が存在しない（改ざん・乗っ取りゼロ）</span>
+                    <span>改ざん・乗っ取りリスクゼロ</span>
                   </div>
-                  <div className="feature-pill">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-coin" viewBox="0 0 16 16">
-                      <path d="M5.5 9.511c.076.954.83 1.697 2.182 1.785V12h.6v-.709c1.4-.098 2.218-.846 2.218-1.932 0-.987-.626-1.496-1.745-1.76l-.473-.112V5.57c.6.068.982.396 1.074.85h1.052c-.076-.919-.864-1.638-2.126-1.716V4h-.6v.719c-1.195.117-2.01.836-2.01 1.853 0 .9.606 1.472 1.612 1.707l.398.098v2.04c-.602-.073-1.003-.393-1.074-.89H5.5zm1.5-3.328c0-.528.388-.846 1-.926v1.942l-.292-.073c-.456-.112-.708-.415-.708-.943zm1.6 4.316V8.528l.383.098c.504.122.756.419.756.914 0 .54-.427.876-1.139.923z"/>
-                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                  <div className="guarantee-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" className="bi bi-currency-yen text-primary me-2 flex-shrink-0" viewBox="0 0 16 16">
+                      <path d="M8.75 11.5a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2a.5.5 0 0 1 .5-.5z"/>
+                      <path d="M4.5 2a.5.5 0 0 0-.416.777L7.21 7H4.5a.5.5 0 0 0 0 1h3.042l.004.004v1.996H4.5a.5.5 0 0 0 0 1h3.046v1a.5.5 0 0 0 1 0v-1h3.046a.5.5 0 0 0 0-1H8.546V8.004l.004-.004H11.5a.5.5 0 0 0 0-1H8.79l3.126-4.223A.5.5 0 0 0 11.5 2h-7zM8 6.554 5.438 3h5.124L8 6.554z"/>
                     </svg>
-                    <span>初期5万円・月額維持費0円〜で大幅削減</span>
+                    <span>月額維持費 0円〜500円</span>
                   </div>
-                  <div className="feature-pill">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-lightning-charge" viewBox="0 0 16 16">
-                      <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"/>
+                  <div className="guarantee-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" className="bi bi-speedometer2 text-primary me-2 flex-shrink-0" viewBox="0 0 16 16">
+                      <path d="M8 4a.5.5 0 0 1 .5.5V6a.5.5 0 0 1-1 0V4.5A.5.5 0 0 1 8 4zM3.732 5.732a.5.5 0 0 1 .707 0l.915.914a.5.5 0 1 1-.708.708l-.914-.915a.5.5 0 0 1 0-.707zM2 10a.5.5 0 0 1 .5-.5h1.586a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 10zm9.5 0a.5.5 0 0 1 .5-.5h1.5a.5.5 0 0 1 0 1H12a.5.5 0 0 1-.5-.5zm.754-4.246a.389.389 0 0 0-.527-.02L10.02 7.15a.39.39 0 0 0 .527.575l1.706-1.417a.389.389 0 0 0 .02-.554z"/>
+                      <path d="M0 10a8 8 0 1 1 15.547 2.661c-.442 1.253-1.845 1.602-2.932 1.25-1.026-.33-1.666-.826-2.16-1.523-.497-.702-.755-1.57-.755-2.388 0-.276-.224-.5-.5-.5s-.5.224-.5.5c0 .818-.258 1.686-.755 2.388-.494.697-1.134 1.192-2.16 1.523-1.087.352-2.49-.003-2.932-1.25A7.962 7.962 0 0 1 0 10zm8-7a7 7 0 0 0-6.603 9.329c.204.579.629.928 1.053.977.447.052.925-.12 1.377-.439.467-.329.833-.82 1.173-1.399.42-.716.733-1.597.733-2.468a1.5 1.5 0 0 1 3 0c0 .871.313 1.752.733 2.468.34.58.706 1.07 1.173 1.4.452.318.93.489 1.377.438.424-.049.849-.398 1.053-.977A7 7 0 0 0 8 3z"/>
                     </svg>
-                    <span>ただのHTMLだから一瞬でパッと開く</span>
+                    <span>HTML直接配信で瞬時に表示</span>
                   </div>
                 </div>
               </div>
@@ -107,20 +99,16 @@ export default function WebServicePage() {
         <section className="section-padding problem-section" id="problem">
           <div className="container">
             <div className="section-header" data-aos="fade-up">
-              <span className="section-eyebrow">Current Pain Points</span>
               <h2 className="section-title">こんな「モヤモヤ」を抱えていませんか？</h2>
               <p className="section-subtitle">
                 昔作ったまま放置されているサイトや、何となく契約している有料ノーコードツールには、多くのムダと危険が潜んでいます。
               </p>
             </div>
 
-            <div className="row g-3">
+            <div className="row g-4">
               <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
                 <div className="problem-card">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-x-circle problem-icon" viewBox="0 0 16 16">
-                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                    <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
-                  </svg>
+                  <h3 className="problem-heading">更新で画面が壊れる恐怖</h3>
                   <p className="problem-text">
                     何年も前に作ったWordPressを放置しており、アップデートすると画面が真っ白に壊れそうで怖い
                   </p>
@@ -129,10 +117,7 @@ export default function WebServicePage() {
 
               <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
                 <div className="problem-card">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-x-circle problem-icon" viewBox="0 0 16 16">
-                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                    <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
-                  </svg>
+                  <h3 className="problem-heading">セキュリティ知識がない不安</h3>
                   <p className="problem-text">
                     脆弱性やハッキング対策が必要と聞くが、専門知識がないため何をすればいいか分からない
                   </p>
@@ -141,10 +126,7 @@ export default function WebServicePage() {
 
               <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
                 <div className="problem-card">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-x-circle problem-icon" viewBox="0 0 16 16">
-                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                    <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
-                  </svg>
+                  <h3 className="problem-heading">毎月払い続けるサブスク代</h3>
                   <p className="problem-text">
                     WixやJimdoの有料プラン代（月2,000〜4,000円 / 年数万円）をなんとなく払い続けている
                   </p>
@@ -153,10 +135,7 @@ export default function WebServicePage() {
 
               <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="250">
                 <div className="problem-card">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-x-circle problem-icon" viewBox="0 0 16 16">
-                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                    <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
-                  </svg>
+                  <h3 className="problem-heading">スマホで開くとモッサリ重い</h3>
                   <p className="problem-text">
                     WixやJimdoで作ったサイトの表示がモッサリ重く、スマホで開くのに時間がかかる
                   </p>
@@ -165,10 +144,7 @@ export default function WebServicePage() {
 
               <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
                 <div className="problem-card">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-x-circle problem-icon" viewBox="0 0 16 16">
-                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                    <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
-                  </svg>
+                  <h3 className="problem-heading">保守費用が高すぎる見積もり</h3>
                   <p className="problem-text">
                     制作会社に相談したら「月々のWordPress保守費用として1万〜3万円」と言われ高すぎる
                   </p>
@@ -177,10 +153,7 @@ export default function WebServicePage() {
 
               <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="350">
                 <div className="problem-card">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-x-circle problem-icon" viewBox="0 0 16 16">
-                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-                    <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
-                  </svg>
+                  <h3 className="problem-heading">更新頻度とコストの不釣り合い</h3>
                   <p className="problem-text">
                     休業日や営業時間をたまに変える程度なのに、なぜこんなに維持費がかかるのか納得がいかない
                   </p>
@@ -188,7 +161,7 @@ export default function WebServicePage() {
               </div>
             </div>
 
-            <div className="solution-banner" data-aos="fade-up">
+            <div className="solution-banner mt-5" data-aos="fade-up">
               <h3 className="solution-title">
                 その悩み、「静的HTML生成 ＋ サーバーレス配信」ですべて解決します。
               </h3>
@@ -206,7 +179,6 @@ export default function WebServicePage() {
         <section className="section-padding mechanism-section" id="security">
           <div className="container">
             <div className="section-header" data-aos="fade-up">
-              <span className="section-eyebrow">Zero Vulnerability</span>
               <h2 className="section-title">なぜ「静的HTML」なら絶対に攻撃されないのか？<sup>※</sup></h2>
               <p className="section-subtitle">
                 「セキュリティ対策を頑張る」のではなく、「攻撃できる場所そのものを無くす」という根本的な解決策です。
@@ -216,28 +188,19 @@ export default function WebServicePage() {
             <div className="row g-4">
               <div className="col-12 col-md-6" data-aos="fade-up" data-aos-delay="100">
                 <div className="mechanism-box danger-side">
-                  <span className="mechanism-badge">従来のWordPress（放置状態）</span>
+                  <div className="mechanism-badge">従来のWordPress（放置状態）</div>
                   <h3 className="mechanism-title">常にハッカーから狙われる仕組み</h3>
                   <ul className="mechanism-list">
                     <li>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ea580c" className="bi bi-exclamation-triangle" viewBox="0 0 16 16">
-                        <path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/>
-                        <path d="M7.002 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 5.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995z"/>
-                      </svg>
+                      <span className="bullet text-danger">•</span>
                       <span><strong>ネット上にログイン画面とデータベースが常に露出</strong>しており、不正アクセスの標的にされやすい。</span>
                     </li>
                     <li>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ea580c" className="bi bi-exclamation-triangle" viewBox="0 0 16 16">
-                        <path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/>
-                        <path d="M7.002 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 5.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995z"/>
-                      </svg>
+                      <span className="bullet text-danger">•</span>
                       <span>更新をサボると<strong>古いプラグインの脆弱性からサイトを改ざん</strong>され、スパムメールの送信台に悪用される。</span>
                     </li>
                     <li>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#ea580c" className="bi bi-exclamation-triangle" viewBox="0 0 16 16">
-                        <path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/>
-                        <path d="M7.002 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 5.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995z"/>
-                      </svg>
+                      <span className="bullet text-danger">•</span>
                       <span>訪問者がアクセスするたびにサーバー内で重い処理が走り、<strong>表示が遅くサーバーダウンしやすい</strong>。</span>
                     </li>
                   </ul>
@@ -246,28 +209,19 @@ export default function WebServicePage() {
 
               <div className="col-12 col-md-6" data-aos="fade-up" data-aos-delay="200">
                 <div className="mechanism-box safe-side">
-                  <span className="mechanism-badge">H2worksの静的Web（最新Next.js）</span>
+                  <div className="mechanism-badge">H2worksの静的Web（最新Next.js）</div>
                   <h3 className="mechanism-title">攻撃する場所そのものがない仕組み</h3>
                   <ul className="mechanism-list">
                     <li>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#16a34a" className="bi bi-shield-check" viewBox="0 0 16 16">
-                        <path d="M5.338 1.59a61.44 61.44 0 0 0-2.837.856.481.481 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.725 10.725 0 0 0 2.287 2.233c.346.244.652.42.893.533.12.057.218.095.293.118a.55.55 0 0 0 .101.025.615.615 0 0 0 .1-.025c.076-.023.174-.061.294-.118.24-.113.547-.29.893-.533a10.726 10.726 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.775 11.775 0 0 1-2.517 2.453 7.159 7.159 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7.158 7.158 0 0 1-1.048-.625 11.777 11.777 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 62.456 62.456 0 0 1 5.072.56z"/>
-                        <path d="M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
-                      </svg>
+                      <span className="bullet text-success">•</span>
                       <span>ネット上には<strong>「完成したただのHTMLファイル」</strong>を配るだけ。裏口（ログイン画面やDB）が物理的に存在しません。</span>
                     </li>
                     <li>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#16a34a" className="bi bi-shield-check" viewBox="0 0 16 16">
-                        <path d="M5.338 1.59a61.44 61.44 0 0 0-2.837.856.481.481 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.725 10.725 0 0 0 2.287 2.233c.346.244.652.42.893.533.12.057.218.095.293.118a.55.55 0 0 0 .101.025.615.615 0 0 0 .1-.025c.076-.023.174-.061.294-.118.24-.113.547-.29.893-.533a10.726 10.726 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.775 11.775 0 0 1-2.517 2.453 7.159 7.159 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7.158 7.158 0 0 1-1.048-.625 11.777 11.777 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 62.456 62.456 0 0 1 5.072.56z"/>
-                        <path d="M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
-                      </svg>
+                      <span className="bullet text-success">•</span>
                       <span>侵入できる隙がないため、<strong>放置しても改ざん・乗っ取りのリスクは実質ゼロ<sup>※</sup></strong>。面倒なセキュリティ更新も不要です。</span>
                     </li>
                     <li>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#16a34a" className="bi bi-shield-check" viewBox="0 0 16 16">
-                        <path d="M5.338 1.59a61.44 61.44 0 0 0-2.837.856.481.481 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.725 10.725 0 0 0 2.287 2.233c.346.244.652.42.893.533.12.057.218.095.293.118a.55.55 0 0 0 .101.025.615.615 0 0 0 .1-.025c.076-.023.174-.061.294-.118.24-.113.547-.29.893-.533a10.726 10.726 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.775 11.775 0 0 1-2.517 2.453 7.159 7.159 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7.158 7.158 0 0 1-1.048-.625 11.777 11.777 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 62.456 62.456 0 0 1 5.072.56z"/>
-                        <path d="M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
-                      </svg>
+                      <span className="bullet text-success">•</span>
                       <span>サーバー側で計算しないため、<strong>スマホでも一瞬でパッと開く驚異的な軽さ</strong>を実現します。</span>
                     </li>
                   </ul>
@@ -275,9 +229,8 @@ export default function WebServicePage() {
               </div>
             </div>
 
-            {/* 注記 */}
-            <p className="text-secondary mt-3 mb-0" style={{ fontSize: '0.75rem', lineHeight: '1.6' }} data-aos="fade-up">
-              ※Cloudflareで静的配信します。レンタルサーバーを使わないためFTP等の窓もありません。外部JavaScriptの読み込みもしません。攻撃の窓が極端に少ないという意味になります。
+            <p className="text-secondary mt-4 mb-0" style={{ fontSize: '0.8125rem', lineHeight: '1.6' }} data-aos="fade-up">
+              ※Cloudflare等のグローバルCDNで静的配信します。レンタルサーバーを使用しないためFTP等の窓もありません。外部JavaScriptの読み込みもしません。攻撃の窓が極端に少ないという意味になります。
             </p>
           </div>
         </section>
@@ -288,8 +241,7 @@ export default function WebServicePage() {
         <section className="section-padding comparison-section" id="comparison">
           <div className="container">
             <div className="section-header" data-aos="fade-up">
-              <span className="section-eyebrow">Comparison</span>
-              <h2 className="section-title">WordPress・Wix/Jimdo との徹底比較</h2>
+              <h2 className="section-title">WordPress・ノーコードツールとの徹底比較</h2>
               <p className="section-subtitle">
                 「安全性」「月々の固定費」「表示スピード」の違いを一目でご確認ください。
               </p>
@@ -308,27 +260,27 @@ export default function WebServicePage() {
                 <tbody>
                   <tr>
                     <td className="fw-bold">セキュリティ・改ざんリスク</td>
-                    <td className="text-danger fw-semibold">極めて危険<br /><span className="small text-secondary fw-normal">古いプラグイン等から侵入されやすい</span></td>
-                    <td>普通<br /><span className="small text-secondary">運営元任せだが乗っ取りリスクは低め</span></td>
-                    <td className="highlight-col text-primary fw-bold">攻撃場所がないため安全<br /><span className="small text-secondary fw-normal">ログイン画面やDBがネット上に存在しない</span></td>
+                    <td className="fw-semibold" style={{ color: '#c2410c' }}>極めて危険<br /><span className="text-secondary" style={{ fontSize: '0.875rem' }}>古いプラグイン等から侵入されやすい</span></td>
+                    <td>普通<br /><span className="text-secondary" style={{ fontSize: '0.875rem' }}>運営元任せだが乗っ取りリスクは低め</span></td>
+                    <td className="highlight-col text-primary fw-bold">攻撃場所がないため安全<br /><span className="text-secondary fw-normal" style={{ fontSize: '0.875rem' }}>ログイン画面やDBがネット上に存在しない</span></td>
                   </tr>
                   <tr>
                     <td className="fw-bold">毎月の固定費（維持費）</td>
-                    <td>レンタルサーバー代<br /><span className="small text-secondary">月1,000円〜2,000円 ＋ 保守費用</span></td>
-                    <td className="text-danger fw-semibold">月額サブスクが高い<br /><span className="small text-secondary">月2,000〜4,000円（年間2〜5万円）</span></td>
-                    <td className="highlight-col text-primary fw-bold">月額0円 または 月500円<br /><span className="small text-secondary fw-normal">サーバーレス配信のため固定費が激減</span></td>
+                    <td>レンタルサーバー代<br /><span className="text-secondary" style={{ fontSize: '0.875rem' }}>月1,000円〜2,000円 ＋ 保守費用</span></td>
+                    <td className="fw-semibold" style={{ color: '#c2410c' }}>月額サブスクが高い<br /><span className="text-secondary" style={{ fontSize: '0.875rem' }}>月2,000〜4,000円（年間2〜5万円）</span></td>
+                    <td className="highlight-col text-primary fw-bold">月額0円 または 月500円<br /><span className="text-secondary fw-normal" style={{ fontSize: '0.875rem' }}>サーバーレス配信のため固定費が激減</span></td>
                   </tr>
                   <tr>
                     <td className="fw-bold">スマホでの表示スピード</td>
-                    <td>普通〜重い<br /><span className="small text-secondary">プラグイン多数でモッサリしがち</span></td>
-                    <td className="text-danger fw-semibold">重くなりやすい<br /><span className="small text-secondary">ノーコード特有の余分な読込で遅い</span></td>
-                    <td className="highlight-col text-primary fw-bold">一瞬でパッと開く<br /><span className="small text-secondary fw-normal">ただのHTMLだから最高クラスの速さ</span></td>
+                    <td>普通〜重い<br /><span className="text-secondary" style={{ fontSize: '0.875rem' }}>プラグイン多数でモッサリしがち</span></td>
+                    <td className="fw-semibold" style={{ color: '#c2410c' }}>重くなりやすい<br /><span className="text-secondary" style={{ fontSize: '0.875rem' }}>ノーコード特有の余分な読込で遅い</span></td>
+                    <td className="highlight-col text-primary fw-bold">一瞬でパッと開く<br /><span className="text-secondary fw-normal" style={{ fontSize: '0.875rem' }}>ただのHTMLだから最高クラスの速さ</span></td>
                   </tr>
                   <tr>
                     <td className="fw-bold">壊れるリスク・メンテ手間</td>
-                    <td className="text-danger fw-semibold">更新で壊れる恐怖<br /><span className="small text-secondary">アップデートで画面が崩れるリスク</span></td>
-                    <td>仕様変更に左右される<br /><span className="small text-secondary">勝手な値上げやUI変更への対応</span></td>
-                    <td className="highlight-col text-primary fw-bold">壊れる概念がない<br /><span className="small text-secondary fw-normal">完全放置でOK。アップデート作業不要</span></td>
+                    <td className="fw-semibold" style={{ color: '#c2410c' }}>更新で壊れる恐怖<br /><span className="text-secondary" style={{ fontSize: '0.875rem' }}>アップデートで画面が崩れるリスク</span></td>
+                    <td>仕様変更に左右される<br /><span className="text-secondary" style={{ fontSize: '0.875rem' }}>勝手な値上げやUI変更への対応</span></td>
+                    <td className="highlight-col text-primary fw-bold">壊れる概念がない<br /><span className="text-secondary fw-normal" style={{ fontSize: '0.875rem' }}>完全放置でOK。アップデート作業不要</span></td>
                   </tr>
                   <tr>
                     <td className="fw-bold">デザイン・機能の自由度</td>
@@ -348,7 +300,6 @@ export default function WebServicePage() {
         <section className="section-padding features-section" id="features">
           <div className="container">
             <div className="section-header" data-aos="fade-up">
-              <span className="section-eyebrow">H2works Advantage</span>
               <h2 className="section-title">H2worksが選ばれる4つの強み</h2>
               <p className="section-subtitle">
                 「安全・速い・安い」をすべて同時に成立させられる理由があります。
@@ -357,14 +308,7 @@ export default function WebServicePage() {
 
             <div className="row g-4">
               <div className="col-12 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100">
-                <div className="feature-box">
-                  <div className="feature-icon-wrapper">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" className="bi bi-shield-check" viewBox="0 0 16 16">
-                      <path d="M5.338 1.59a61.44 61.44 0 0 0-2.837.856.481.481 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.725 10.725 0 0 0 2.287 2.233c.346.244.652.42.893.533.12.057.218.095.293.118a.55.55 0 0 0 .101.025.615.615 0 0 0 .1-.025c.076-.023.174-.061.294-.118.24-.113.547-.29.893-.533a10.726 10.726 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.775 11.775 0 0 1-2.517 2.453 7.159 7.159 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7.158 7.158 0 0 1-1.048-.625 11.777 11.777 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 62.456 62.456 0 0 1 5.072.56z"/>
-                      <path d="M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
-                    </svg>
-                  </div>
-                  <div className="feature-number">Point 01</div>
+                <div className="feature-card">
                   <h3 className="feature-title">攻撃する場所がない究極の安全性</h3>
                   <p className="feature-desc">
                     WordPressのように侵入できる裏口（管理画面やDB）がネット上に存在しません。ハッカーから狙われる余地がないため、放置していても改ざんや乗っ取りのリスクはゼロです。
@@ -373,14 +317,7 @@ export default function WebServicePage() {
               </div>
 
               <div className="col-12 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
-                <div className="feature-box">
-                  <div className="feature-icon-wrapper">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" className="bi bi-wallet2" viewBox="0 0 16 16">
-                      <path d="M12.136.326A1.5 1.5 0 0 1 14 1.78V3h.5A1.5 1.5 0 0 1 16 4.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 13.5v-9a1.5 1.5 0 0 1 1.432-1.499L12.136.326zM5.562 3H13V1.78a.5.5 0 0 0-.621-.484L5.562 3zM1.5 4a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"/>
-                      <path d="M16 8H9a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h7V8z"/>
-                    </svg>
-                  </div>
-                  <div className="feature-number">Point 02</div>
+                <div className="feature-card">
                   <h3 className="feature-title">毎月の固定費・維持費を激減</h3>
                   <p className="feature-desc">
                     世界最先端のサーバーレス配信（Cloudflare等）を利用するため、サーバー代は実質0円。WixやJimdoに払い続けていた毎月のサブスク代を今すぐ浮かせられます。
@@ -389,13 +326,7 @@ export default function WebServicePage() {
               </div>
 
               <div className="col-12 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
-                <div className="feature-box">
-                  <div className="feature-icon-wrapper">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" className="bi bi-lightning-charge" viewBox="0 0 16 16">
-                      <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"/>
-                    </svg>
-                  </div>
-                  <div className="feature-number">Point 03</div>
+                <div className="feature-card">
                   <h3 className="feature-title">ただのHTMLだから一瞬でパッと開く</h3>
                   <p className="feature-desc">
                     WordPressやノーコードのようにアクセス時にサーバー側で重い計算を行いません。完成済みのHTMLを即座に返すだけなので、スマホでも待たされずに瞬時に画面が表示されます。
@@ -404,14 +335,7 @@ export default function WebServicePage() {
               </div>
 
               <div className="col-12 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
-                <div className="feature-box">
-                  <div className="feature-icon-wrapper">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" className="bi bi-arrow-repeat" viewBox="0 0 16 16">
-                      <path d="M11.534 7h3.932a.25.25 0 0 1 .192.41l-1.966 2.36a.25.25 0 0 1-.384 0l-1.966-2.36a.25.25 0 0 1 .192-.41zm-11 2h3.932a.25.25 0 0 0 .192-.41L2.692 6.23a.25.25 0 0 0-.384 0L.342 8.59A.25.25 0 0 0 .534 9z"/>
-                      <path fillRule="evenodd" d="M8 3c-1.552 0-2.94.707-3.857 1.818a.5.5 0 1 1-.771-.636A6.002 6.002 0 0 1 13.917 7H12.9A5.002 5.002 0 0 0 8 3zM3.1 9a5.002 5.002 0 0 0 8.757 2.182.5.5 0 1 1 .771.636A6.002 6.002 0 0 1 2.083 9H3.1z"/>
-                    </svg>
-                  </div>
-                  <div className="feature-number">Point 04</div>
+                <div className="feature-card">
                   <h3 className="feature-title">既存サイトの文章・画像そのまま移行OK</h3>
                   <p className="feature-desc">
                     「今のWordPressやWixの文章・写真をそのまま活かして静的化したい」「独自ドメインもそのまま引き継ぎたい」というご要望も丸投げOK。エンジニアが安全に移管します。
@@ -428,7 +352,6 @@ export default function WebServicePage() {
         <section className="section-padding works-section" id="works">
           <div className="container">
             <div className="section-header" data-aos="fade-up">
-              <span className="section-eyebrow">Proven Experience</span>
               <h2 className="section-title">自社開発プロダクトの実績・エビデンス</h2>
               <p className="section-subtitle">
                 理論だけでなく、自らサービスを開発し、日夜運用・改善している現役エンジニアだからこそ作れる品質があります。
@@ -438,67 +361,52 @@ export default function WebServicePage() {
             <div className="row g-4">
               <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
                 <div className="work-card">
-                  <div className="work-header">
-                    <span className="work-tag">自社Webポータル</span>
-                    <span className="work-tech">Next.js / サーバーレス</span>
-                  </div>
-                  <div className="work-body">
-                    <h3 className="work-title">
-                      <Link href="/school/malaysia">International School Finder</Link>
-                    </h3>
-                    <p className="work-desc">
-                      マレーシアのインター校検索・比較ポータル。膨大な学校原本データを管理しながら、ミリ秒単位の超高速絞り込みを実現。
-                    </p>
-                    <ul className="work-points">
-                      <li>0msの超高速クライアントサイド絞り込み</li>
-                      <li>URL死活監視・原本PDF自動収集の自動化</li>
-                      <li>スマホ完全最適化・高い操作性</li>
-                    </ul>
-                  </div>
+                  <div className="work-category">自社Webポータル / Next.js</div>
+                  <h3 className="work-title">
+                    <Link href="/school/malaysia">International School Finder</Link>
+                  </h3>
+                  <p className="work-desc">
+                    マレーシアのインター校検索・比較ポータル。膨大な学校原本データを管理しながら、ミリ秒単位の超高速絞り込みを実現。
+                  </p>
+                  <ul className="work-points">
+                    <li>• 0msの超高速クライアントサイド絞り込み</li>
+                    <li>• URL死活監視・原本PDF自動収集の自動化</li>
+                    <li>• スマホ完全最適化・高い操作性</li>
+                  </ul>
                 </div>
               </div>
 
               <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
                 <div className="work-card">
-                  <div className="work-header">
-                    <span className="work-tag">情報メディア</span>
-                    <span className="work-tech">SEO / コンテンツ設計</span>
-                  </div>
-                  <div className="work-body">
-                    <h3 className="work-title">
-                      <a href="https://casinoasobi.com/" target="_blank" rel="noopener noreferrer">casinoasobi</a>
-                    </h3>
-                    <p className="work-desc">
-                      海外実店舗カジノ情報メディア。大量の記事コンテンツを整理し、スマホでの閲覧性と検索上位化を両立。
-                    </p>
-                    <ul className="work-points">
-                      <li>検索上位を獲得するSEO内部構造</li>
-                      <li>読みやすく離脱を防ぐタイポグラフィ</li>
-                      <li>軽快なページ遷移と低データ通信量</li>
-                    </ul>
-                  </div>
+                  <div className="work-category">情報メディア / SEO・コンテンツ設計</div>
+                  <h3 className="work-title">
+                    <a href="https://casinoasobi.com/" target="_blank" rel="noopener noreferrer">casinoasobi</a>
+                  </h3>
+                  <p className="work-desc">
+                    海外実店舗カジノ情報メディア。大量の記事コンテンツを整理し、スマホでの閲覧性と検索上位化を両立。
+                  </p>
+                  <ul className="work-points">
+                    <li>• 検索上位を獲得するSEO内部構造</li>
+                    <li>• 読みやすく離脱を防ぐタイポグラフィ</li>
+                    <li>• 軽快なページ遷移と低データ通信量</li>
+                  </ul>
                 </div>
               </div>
 
               <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
                 <div className="work-card">
-                  <div className="work-header">
-                    <span className="work-tag">UIコンポーネント集</span>
-                    <span className="work-tech">モダンCSS / テンプレート</span>
-                  </div>
-                  <div className="work-body">
-                    <h3 className="work-title">
-                      <a href="https://template-library.h2works.xyz/" target="_blank" rel="noopener noreferrer">Template Library</a>
-                    </h3>
-                    <p className="work-desc">
-                      Web制作のスピードと再現性を高めるためのUIライブラリ。高品質なデザインパターンを体系的に蓄積。
-                    </p>
-                    <ul className="work-points">
-                      <li>短納期でも高い完成度を維持する制作基盤</li>
-                      <li>アクセシビリティを考慮したモダン設計</li>
-                      <li>デバイスを選ばない堅牢なレスポンシブ</li>
-                    </ul>
-                  </div>
+                  <div className="work-category">UIライブラリ / モダンCSS・設計</div>
+                  <h3 className="work-title">
+                    <a href="https://template-library.h2works.xyz/" target="_blank" rel="noopener noreferrer">Template Library</a>
+                  </h3>
+                  <p className="work-desc">
+                    Web制作のスピードと再現性を高めるためのUIライブラリ。高品質なデザインパターンを体系的に蓄積。
+                  </p>
+                  <ul className="work-points">
+                    <li>• 短納期でも高い完成度を維持する制作基盤</li>
+                    <li>• アクセシビリティを考慮したモダン設計</li>
+                    <li>• デバイスを選ばない堅牢なレスポンシブ</li>
+                  </ul>
                 </div>
               </div>
             </div>
@@ -511,28 +419,20 @@ export default function WebServicePage() {
         <section className="section-padding pricing-section" id="pricing">
           <div className="container">
             <div className="section-header" data-aos="fade-up">
-              <span className="section-eyebrow">Clear Pricing</span>
               <h2 className="section-title">明朗会計な料金プラン（初期費用と運用費）</h2>
               <p className="section-subtitle">
                 初期費用と月々のランニングコストを完全に分離し、不要な費用が一切発生しない透明な料金体系をとっています。
               </p>
             </div>
 
-            {/* -------------------------------------------------------- */}
-            {/* 1. 初期費用 (INITIAL COST)                                */}
-            {/* -------------------------------------------------------- */}
+            {/* 1. 初期費用 */}
             <div className="mb-5" data-aos="fade-up">
-              <div className="pricing-category-title">
-                <span className="badge-category badge-initial">Initial Cost</span>
-                <span>初期費用（制作・お引越し費用）</span>
-              </div>
+              <h3 className="fs-4 fw-bold mb-4 text-dark">初期費用（制作・お引越し費用）</h3>
 
               <div className="row g-4 align-items-stretch">
-                {/* 基本プラン: 既存サイトの静的化 */}
                 <div className="col-12 col-lg-6">
                   <div className="main-initial-card">
-                    <div className="plan-badge">基本プラン</div>
-                    <div className="plan-name">既存サイトの静的化</div>
+                    <div className="plan-name">基本プラン：既存サイトの静的化</div>
                     <div className="plan-summary">
                       現在のWordPressやWix、Jimdoなどの既存デザインをベースに、同じ内容・構成で安全な静的HTMLへお引越しします。
                     </div>
@@ -577,14 +477,12 @@ export default function WebServicePage() {
                   </div>
                 </div>
 
-                {/* オプション群 */}
                 <div className="col-12 col-lg-6">
                   <div className="d-flex flex-column gap-3 h-100 justify-content-between">
-                    {/* オプション1: オリジナルデザイン */}
                     <div className="option-card">
                       <div className="option-header">
                         <span className="option-tag">オプション</span>
-                        <div className="option-price">＋¥100,000<span className="small text-muted fw-normal">（税抜）</span></div>
+                        <div className="option-price">＋¥100,000<span className="tax-note">（税抜）</span></div>
                       </div>
                       <div className="option-title">オリジナルデザイン刷新</div>
                       <div className="option-desc">
@@ -595,11 +493,10 @@ export default function WebServicePage() {
                       </div>
                     </div>
 
-                    {/* オプション2: 問い合わせフォーム設定 */}
                     <div className="option-card">
                       <div className="option-header">
                         <span className="option-tag">オプション</span>
-                        <div className="option-price">＋¥50,000<span className="small text-muted fw-normal">（税抜）</span></div>
+                        <div className="option-price">＋¥50,000<span className="tax-note">（税抜）</span></div>
                       </div>
                       <div className="option-title">Web問い合わせフォーム設定</div>
                       <div className="option-desc">
@@ -610,11 +507,10 @@ export default function WebServicePage() {
                       </div>
                     </div>
 
-                    {/* オプション3: お知らせ・News定期更新（ヘッドレスCMS） */}
                     <div className="option-card">
                       <div className="option-header">
                         <span className="option-tag">オプション</span>
-                        <div className="option-price">＋¥200,000〜<span className="small text-muted fw-normal">（税抜）</span></div>
+                        <div className="option-price">＋¥200,000〜<span className="tax-note">（税抜）</span></div>
                       </div>
                       <div className="option-title">お知らせ・News定期更新（ヘッドレスCMS連携）</div>
                       <div className="option-desc">
@@ -629,21 +525,14 @@ export default function WebServicePage() {
               </div>
             </div>
 
-            {/* -------------------------------------------------------- */}
-            {/* 2. ランニングコスト (RUNNING COST)                        */}
-            {/* -------------------------------------------------------- */}
+            {/* 2. ランニングコスト */}
             <div className="pt-4" data-aos="fade-up">
-              <div className="pricing-category-title">
-                <span className="badge-category badge-running">Running Cost</span>
-                <span>ランニングコスト（月々の維持・運用費）</span>
-              </div>
+              <h3 className="fs-4 fw-bold mb-4 text-dark">ランニングコスト（月々の維持・運用費）</h3>
 
               <div className="row g-4 align-items-stretch">
-                {/* 運用プランA: 月額0円 */}
                 <div className="col-12 col-md-6">
                   <div className="running-card">
-                    <span className="running-badge badge-zero">プランA</span>
-                    <div className="running-title">完全無料・月額0円プラン</div>
+                    <div className="running-title">プランA：完全無料・月額0円プラン</div>
                     <div className="running-price-wrap">
                       <div className="running-price">
                         ¥0<span className="tax-note"> / 月</span>
@@ -656,11 +545,9 @@ export default function WebServicePage() {
                   </div>
                 </div>
 
-                {/* 運用プランB: 月額500円 */}
                 <div className="col-12 col-md-6">
                   <div className="running-card highlight-running">
-                    <span className="running-badge badge-support">プランB（おすすめ）</span>
-                    <div className="running-title">安心ライト保守プラン</div>
+                    <div className="running-title">プランB：安心ライト保守プラン（おすすめ）</div>
                     <div className="running-price-wrap">
                       <div className="running-price text-success">
                         ¥500<span className="tax-note text-dark"> / 月（税抜）</span>
@@ -676,7 +563,6 @@ export default function WebServicePage() {
               </div>
             </div>
 
-            {/* 補足・備考 */}
             <div className="pricing-notes" data-aos="fade-up">
               <div className="fw-bold text-dark mb-1">【料金および運用に関する注意事項】</div>
               <div>• 既存サイトのページ数が10ページを超える大規模サイトの場合は、事前診断の上で追加のお見積りをご案内する場合がございます。</div>
@@ -693,7 +579,6 @@ export default function WebServicePage() {
         <section className="section-padding flow-section" id="flow">
           <div className="container">
             <div className="section-header" data-aos="fade-up">
-              <span className="section-eyebrow">Work Flow</span>
               <h2 className="section-title">乗り換え・制作の流れ（5つのステップ）</h2>
               <p className="section-subtitle">
                 現在のサイトのURLをお送りいただくだけでOK。専門知識がなくてもスムーズに進められます。
@@ -704,10 +589,9 @@ export default function WebServicePage() {
               <div className="col-12 col-md-6 col-lg" data-aos="fade-up" data-aos-delay="100">
                 <div className="flow-step-card">
                   <div className="step-header">
-                    <span className="step-num">STEP 1</span>
                     <span className="step-time">初回相談</span>
                   </div>
-                  <h3 className="step-title">無料サイト診断</h3>
+                  <h3 className="step-title">1. 無料サイト診断</h3>
                   <p className="step-desc">
                     現在のWebサイトのURLを拝見し、WordPressの状況や移管の可否、削減できる固定費の目安を無料でお伝えします。
                   </p>
@@ -717,10 +601,9 @@ export default function WebServicePage() {
               <div className="col-12 col-md-6 col-lg" data-aos="fade-up" data-aos-delay="200">
                 <div className="flow-step-card">
                   <div className="step-header">
-                    <span className="step-num">STEP 2</span>
                     <span className="step-time">約2〜3日</span>
                   </div>
-                  <h3 className="step-title">お見積り・ご提案</h3>
+                  <h3 className="step-title">2. お見積り・ご提案</h3>
                   <p className="step-desc">
                     既存コンテンツの引き継ぎ方法、オプションの要否（デザイン刷新やフォーム設置、お知らせCMS）、明細を明記したお見積書をご提示します。
                   </p>
@@ -730,10 +613,9 @@ export default function WebServicePage() {
               <div className="col-12 col-md-6 col-lg" data-aos="fade-up" data-aos-delay="300">
                 <div className="flow-step-card">
                   <div className="step-header">
-                    <span className="step-num">STEP 3</span>
                     <span className="step-time">約1〜2週間</span>
                   </div>
-                  <h3 className="step-title">静的化・テスト構築</h3>
+                  <h3 className="step-title">3. 静的化・テスト構築</h3>
                   <p className="step-desc">
                     最新のNext.jsを用いて静的HTMLサイトを構築します。テスト用URLにて、実際の軽さやスマホ表示をご確認いただけます。
                   </p>
@@ -743,10 +625,9 @@ export default function WebServicePage() {
               <div className="col-12 col-md-6 col-lg" data-aos="fade-up" data-aos-delay="400">
                 <div className="flow-step-card">
                   <div className="step-header">
-                    <span className="step-num">STEP 4</span>
                     <span className="step-time">約数日</span>
                   </div>
-                  <h3 className="step-title">最終チェック・調整</h3>
+                  <h3 className="step-title">4. 最終チェック・調整</h3>
                   <p className="step-desc">
                     文章やリンク、メール連絡先の動作をお客様と一緒に確認し、必要に応じて微調整を行います。
                   </p>
@@ -756,10 +637,9 @@ export default function WebServicePage() {
               <div className="col-12 col-md-6 col-lg" data-aos="fade-up" data-aos-delay="500">
                 <div className="flow-step-card">
                   <div className="step-header">
-                    <span className="step-num">STEP 5</span>
                     <span className="step-time">納品後も安心</span>
                   </div>
-                  <h3 className="step-title">サーバー切り替え・完了</h3>
+                  <h3 className="step-title">5. サーバー切り替え・完了</h3>
                   <p className="step-desc">
                     既存ドメインの向き先を安全なサーバーレス配信へ切り替えて完了。古いサーバーやWixを解約できるようになります。
                   </p>
@@ -775,7 +655,6 @@ export default function WebServicePage() {
         <section className="section-padding faq-section" id="faq">
           <div className="container">
             <div className="section-header" data-aos="fade-up">
-              <span className="section-eyebrow">FAQ</span>
               <h2 className="section-title">よくあるご質問</h2>
               <p className="section-subtitle">
                 WordPressやWixからの乗り換え前によくいただく疑問にお答えします。
@@ -786,8 +665,7 @@ export default function WebServicePage() {
               <div className="col-12 col-lg-10">
                 <div className="faq-card" data-aos="fade-up" data-aos-delay="100">
                   <div className="faq-question">
-                    <span className="q-badge">Q</span>
-                    <span>基本プラン（5万円）の「メールアドレスを公開する形」とはどういう意味ですか？</span>
+                    基本プラン（5万円）の「メールアドレスを公開する形」とはどういう意味ですか？
                   </div>
                   <p className="faq-answer">
                     Webサイト上の入力フォーム（名前・メアド・本文の入力欄）を置かず、「お問い合わせはこちら：info@example.com」のようにリンクやアドレスを記載して、お客様のお使いのメールソフトが直接立ち上がる形式です。Webフォームを設置したい場合は、オプション（＋5万円、月額500円）でAPI転送フォームを追加できます。
@@ -796,8 +674,7 @@ export default function WebServicePage() {
 
                 <div className="faq-card" data-aos="fade-up" data-aos-delay="150">
                   <div className="faq-question">
-                    <span className="q-badge">Q</span>
-                    <span>「まったく同じデザインを保証するものではない」とはどういうことですか？</span>
+                    「まったく同じデザインを保証するものではない」とはどういうことですか？
                   </div>
                   <p className="faq-answer">
                     何年も前のWordPressやWixには、スマホで崩れやすい古いコードや過剰なアニメーションが含まれていることが多いため、それらを整理して最新のブラウザやスマートフォンで綺麗に表示されるように最適化して移行します。文章や画像、全体の構成はそのまま引き継ぎますのでご安心ください。見た目を完全に刷新したい場合は「オリジナルデザイン（＋10万円）」がおすすめです。
@@ -806,8 +683,7 @@ export default function WebServicePage() {
 
                 <div className="faq-card" data-aos="fade-up" data-aos-delay="200">
                   <div className="faq-question">
-                    <span className="q-badge">Q</span>
-                    <span>月額0円プランの場合、本当に維持費は一切かからないのですか？</span>
+                    月額0円プランの場合、本当に維持費は一切かからないのですか？
                   </div>
                   <p className="faq-answer">
                     はい、弊社への月額お支払いは0円です。Cloudflare Pagesなどの最新のサーバーレスインフラを利用するため、一般的な規模の企業・店舗サイトであればサーバー代も実質無料です。文言や写真の変更が必要になった時だけ、都度お見積もり（数千円〜）で修正を承ります。定期的に直したい場合は月額500円の保守プランがお得です。
@@ -816,8 +692,7 @@ export default function WebServicePage() {
 
                 <div className="faq-card" data-aos="fade-up" data-aos-delay="250">
                   <div className="faq-question">
-                    <span className="q-badge">Q</span>
-                    <span>WixやJimdo、WordPressで使っている独自ドメインはそのまま引き継げますか？</span>
+                    WixやJimdo、WordPressで使っている独自ドメインはそのまま引き継げますか？
                   </div>
                   <p className="faq-answer">
                     はい、全く同じドメイン（例: example.com）をそのまま引き継ぐことができます。お名前.comなどのドメイン管理画面の設定を切り替えるだけなので、名刺やパンフレットのURLを変更する必要はありません。切り替え設定も丁寧にサポートします。
@@ -826,8 +701,7 @@ export default function WebServicePage() {
 
                 <div className="faq-card" data-aos="fade-up" data-aos-delay="300">
                   <div className="faq-question">
-                    <span className="q-badge">Q</span>
-                    <span>月額500円プランではどのような修正を依頼できますか？</span>
+                    月額500円プランではどのような修正を依頼できますか？
                   </div>
                   <p className="faq-answer">
                     「営業時間の変更」「定休日の変更」「写真の差し替え」「料金表の数字変更」など、既存固定ページの簡単な文言や画像の修正にいつでも対応いたします。大幅なページ追加やシステム改修、定期的・頻繁なお知らせやブログ記事の新規投稿代行などは対象外となります。
@@ -836,8 +710,7 @@ export default function WebServicePage() {
 
                 <div className="faq-card" data-aos="fade-up" data-aos-delay="350">
                   <div className="faq-question">
-                    <span className="q-badge">Q</span>
-                    <span>お知らせやNewsを自分で定期更新したい場合はどうすればいいですか？</span>
+                    お知らせやNewsを自分で定期更新したい場合はどうすればいいですか？
                   </div>
                   <p className="faq-answer">
                     オプションの「お知らせ・News定期更新（ヘッドレスCMS連携：＋20万円〜）」をご利用いただくことで、安全な専用管理画面からいつでもスマホやPCで手軽にお知らせ記事を投稿・更新できるようになります。
@@ -855,7 +728,6 @@ export default function WebServicePage() {
         <section className="section-padding contact-section" id="contact">
           <div className="container">
             <div className="section-header" data-aos="fade-up">
-              <span className="section-eyebrow">Contact &amp; Free Diagnosis</span>
               <h2 className="section-title">現状サイトの無料診断・お見積り</h2>
               <p className="section-subtitle">
                 「うちのWordPressを5万円で静的化できる？」「Wixから乗り換えたらいくら安くなる？」など、URLを添えてお気軽にご相談ください。通常24時間以内にエンジニアが直接ご返信します。
