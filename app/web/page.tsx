@@ -48,7 +48,7 @@ export default function WebServicePage() {
                     className="btn btn-primary px-4 py-3 fw-bold d-inline-flex align-items-center"
                     style={{ backgroundColor: '#2563eb', borderColor: '#2563eb' }}
                   >
-                    <span>無料相談・サイト診断を依頼する</span>
+                    <span>無料相談・デモ作成を依頼する</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-right ms-2" viewBox="0 0 16 16">
                       <path fillRule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
                     </svg>
@@ -59,6 +59,13 @@ export default function WebServicePage() {
                   >
                     <span>料金プランを見る（初期5万円〜）</span>
                   </a>
+                </div>
+
+                <div className="hero-microcopy mt-3 text-secondary small d-flex align-items-center">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" fill="currentColor" className="bi bi-check-circle-fill text-primary me-2 flex-shrink-0" viewBox="0 0 16 16">
+                    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+                  </svg>
+                  <span>ご契約前に表示速度やスマホ表示を確認できる「無料デモサイト作成」も受付中</span>
                 </div>
 
                 <div className="hero-guarantees">
@@ -336,77 +343,10 @@ export default function WebServicePage() {
 
               <div className="col-12 col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
                 <div className="feature-card">
-                  <h3 className="feature-title">既存サイトの文章・画像そのまま移行OK</h3>
+                  <h3 className="feature-title">既存サイトそのまま移行 ＆ 無料デモ作成</h3>
                   <p className="feature-desc">
-                    「今のWordPressやWixの文章・写真をそのまま活かして静的化したい」「独自ドメインもそのまま引き継ぎたい」というご要望も丸投げOK。エンジニアが安全に移管します。
+                    「今の文章・写真を活かして移行できる？」「どれくらい速くなる？」とご不安な方へ。ご契約前に既存サイトの無料デモを作成し、実際の表示速度やデザインをご確認いただけます。
                   </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* ============================================================ */}
-        {/* WORKS / EVIDENCE SECTION                                     */}
-        {/* ============================================================ */}
-        <section className="section-padding works-section" id="works">
-          <div className="container">
-            <div className="section-header" data-aos="fade-up">
-              <h2 className="section-title">自社開発プロダクトの実績・エビデンス</h2>
-              <p className="section-subtitle">
-                理論だけでなく、自らサービスを開発し、日夜運用・改善している現役エンジニアだからこそ作れる品質があります。
-              </p>
-            </div>
-
-            <div className="row g-4">
-              <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
-                <div className="work-card">
-                  <div className="work-category">自社Webポータル / Next.js</div>
-                  <h3 className="work-title">
-                    <Link href="/school/malaysia">International School Finder</Link>
-                  </h3>
-                  <p className="work-desc">
-                    マレーシアのインター校検索・比較ポータル。膨大な学校原本データを管理しながら、ミリ秒単位の超高速絞り込みを実現。
-                  </p>
-                  <ul className="work-points">
-                    <li>• 0msの超高速クライアントサイド絞り込み</li>
-                    <li>• URL死活監視・原本PDF自動収集の自動化</li>
-                    <li>• スマホ完全最適化・高い操作性</li>
-                  </ul>
-                </div>
-              </div>
-
-              <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
-                <div className="work-card">
-                  <div className="work-category">情報メディア / SEO・コンテンツ設計</div>
-                  <h3 className="work-title">
-                    <a href="https://casinoasobi.com/" target="_blank" rel="noopener noreferrer">casinoasobi</a>
-                  </h3>
-                  <p className="work-desc">
-                    海外実店舗カジノ情報メディア。大量の記事コンテンツを整理し、スマホでの閲覧性と検索上位化を両立。
-                  </p>
-                  <ul className="work-points">
-                    <li>• 検索上位を獲得するSEO内部構造</li>
-                    <li>• 読みやすく離脱を防ぐタイポグラフィ</li>
-                    <li>• 軽快なページ遷移と低データ通信量</li>
-                  </ul>
-                </div>
-              </div>
-
-              <div className="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                <div className="work-card">
-                  <div className="work-category">UIライブラリ / モダンCSS・設計</div>
-                  <h3 className="work-title">
-                    <a href="https://template-library.h2works.xyz/" target="_blank" rel="noopener noreferrer">Template Library</a>
-                  </h3>
-                  <p className="work-desc">
-                    Web制作のスピードと再現性を高めるためのUIライブラリ。高品質なデザインパターンを体系的に蓄積。
-                  </p>
-                  <ul className="work-points">
-                    <li>• 短納期でも高い完成度を維持する制作基盤</li>
-                    <li>• アクセシビリティを考慮したモダン設計</li>
-                    <li>• デバイスを選ばない堅牢なレスポンシブ</li>
-                  </ul>
                 </div>
               </div>
             </div>
@@ -589,11 +529,11 @@ export default function WebServicePage() {
               <div className="col-12 col-md-6 col-lg" data-aos="fade-up" data-aos-delay="100">
                 <div className="flow-step-card">
                   <div className="step-header">
-                    <span className="step-time">初回相談</span>
+                    <span className="step-time">初回相談（完全無料）</span>
                   </div>
-                  <h3 className="step-title">1. 無料サイト診断</h3>
+                  <h3 className="step-title">1. 無料サイト診断 & デモ作成</h3>
                   <p className="step-desc">
-                    現在のWebサイトのURLを拝見し、WordPressの状況や移管の可否、削減できる固定費の目安を無料でお伝えします。
+                    現在のWebサイトのURLをお知らせいただくだけでOK。移管可否や削減固定費の試算に加え、ご希望の方にはご契約前に表示速度を体感できる「無料デモサイト」を作成します。
                   </p>
                 </div>
               </div>
@@ -665,6 +605,15 @@ export default function WebServicePage() {
               <div className="col-12 col-lg-10">
                 <div className="faq-card" data-aos="fade-up" data-aos-delay="100">
                   <div className="faq-question">
+                    契約前に、実際の表示スピードやデザインを確認することはできますか？
+                  </div>
+                  <p className="faq-answer">
+                    はい、可能です。現在のWebサイトのURLをお送りいただければ、静的化した無料デモサイトを作成してご案内いたします。実際の表示速度やスマートフォンでの見え方に十分ご納得いただいた上でご契約いただけますので、まずはお気軽にご相談ください。
+                  </p>
+                </div>
+
+                <div className="faq-card" data-aos="fade-up" data-aos-delay="150">
+                  <div className="faq-question">
                     基本プラン（5万円）の「メールアドレスを公開する形」とはどういう意味ですか？
                   </div>
                   <p className="faq-answer">
@@ -728,9 +677,9 @@ export default function WebServicePage() {
         <section className="section-padding contact-section" id="contact">
           <div className="container">
             <div className="section-header" data-aos="fade-up">
-              <h2 className="section-title">現状サイトの無料診断・お見積り</h2>
+              <h2 className="section-title">現状サイトの無料診断・無料デモ作成のご相談</h2>
               <p className="section-subtitle">
-                「うちのWordPressを5万円で静的化できる？」「Wixから乗り換えたらいくら安くなる？」など、URLを添えてお気軽にご相談ください。通常24時間以内にエンジニアが直接ご返信します。
+                「うちのWordPressを静的化できる？」「実際の表示スピードを見てみたい」など、URLを添えてお気軽にご相談ください。無料デモ作成のご要望も含め、通常24時間以内にエンジニアが直接ご返信します。
               </p>
             </div>
 

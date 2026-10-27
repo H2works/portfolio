@@ -8,7 +8,7 @@ export default function WebServiceContactForm() {
   const [email, setEmail] = useState('');
   const [company, setCompany] = useState('');
   const [currentSiteUrl, setCurrentSiteUrl] = useState('');
-  const [plan, setPlan] = useState('既存サイトの静的化（基本5万円）');
+  const [plan, setPlan] = useState('【無料】現状サイトの診断・無料デモ作成を希望');
   const [message, setMessage] = useState('');
   const [agreed, setAgreed] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
@@ -158,6 +158,7 @@ export default function WebServiceContactForm() {
             onChange={(e) => setPlan(e.target.value)}
             disabled={isLoading}
           >
+            <option value="【無料】現状サイトの診断・無料デモ作成を希望">【無料】現状サイトの診断・無料デモ作成を希望</option>
             <option value="既存サイトの静的化（基本5万円）">既存サイトの静的化（基本5万円 / 同じ構成・内容で移行）</option>
             <option value="既存サイト静的化 ＋ オリジナルデザイン（計15万円）">既存サイト静的化 ＋ オリジナルデザイン刷新（計15万円）</option>
             <option value="既存サイト静的化 ＋ 問い合わせフォーム設置（計10万円）">既存サイト静的化 ＋ 問い合わせフォーム設置（計10万円 / +500円/月）</option>
@@ -218,7 +219,7 @@ export default function WebServiceContactForm() {
               </>
             ) : (
               <>
-                <span>無料相談・サイト診断を依頼する</span>
+                <span>無料相談・デモ作成を依頼する</span>
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-right ms-2" viewBox="0 0 16 16">
                   <path fillRule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
                 </svg>
@@ -226,7 +227,7 @@ export default function WebServiceContactForm() {
             )}
           </button>
           <p className="text-center text-muted small mt-2 mb-0">
-            ※強引な営業や不要な契約の売り込みは一切いたしませんのでご安心ください。
+            ※ご契約前に表示スピードを確認できる「無料デモサイト作成」も承っております。強引な営業は一切いたしませんのでご安心ください。
           </p>
         </div>
       </div>
