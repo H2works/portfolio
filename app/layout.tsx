@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from 'next';
+import Script from 'next/script';
 import '@/styles/globals.scss';
 import AOSInit from '@/components/AOSInit';
 
@@ -42,6 +43,17 @@ export default function RootLayout({
   return (
     <html lang="ja" className="h-100">
       <body className="position-relative h-100 w-100" data-bs-spy="scroll" data-bs-target="#navScroll">
+        <Script
+          src="https://www.googletagmanager.com/gtm.js?id=GTM-WWC3KVXC"
+          strategy="afterInteractive"
+        />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+          `}
+        </Script>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}

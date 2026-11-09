@@ -30,4 +30,7 @@ yarn-error.log*
 next-env.d.ts
 
 # school pdf archives
-data/pdf_archives/
+data/pdf_archives/
+
+# note articles (local only)
+content/note/
